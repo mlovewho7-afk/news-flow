@@ -1,1 +1,702 @@
-[]
+[
+  {
+    "guid": "9680371",
+    "title": "FinancialJuice: Jordan intercepts eight Iranian missiles Thursday: state news agency",
+    "link": "https://www.financialjuice.com/News/9680371/Jordan-intercepts-eight-Iranian-missiles-Thursday-state-news-agency.aspx",
+    "pubDate": "Thu, 16 Jul 2026 03:35:31 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680352",
+    "title": "FinancialJuice: US Secretary of State Rubio: Lula prioritized his ego over deal-making, tariffs are the consequence",
+    "link": "https://www.financialjuice.com/News/9680352/US-Secretary-of-State-Rubio-Lula-prioritized-his-ego-over-deal-making-tariffs-are-the-consequence.aspx",
+    "pubDate": "Thu, 16 Jul 2026 03:26:57 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680351",
+    "title": "FinancialJuice: US Secretary of State Rubio: Brazil President Lula and his government have not bargained with US in good faith",
+    "link": "https://www.financialjuice.com/News/9680351/US-Secretary-of-State-Rubio-Brazil-President-Lula-and-his-government-have-not-bargained-with-US-in-good-faith.aspx",
+    "pubDate": "Thu, 16 Jul 2026 03:26:19 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680350",
+    "title": "FinancialJuice: OJ senior official: suitable monetary policy would ensure stable inflation, place economy on sustainable growth trajectory",
+    "link": "https://www.financialjuice.com/News/9680350/OJ-senior-official-suitable-monetary-policy-would-ensure-stable-inflation-place-economy-on-sustainable-growth-trajectory.aspx",
+    "pubDate": "Thu, 16 Jul 2026 03:17:56 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680349",
+    "title": "FinancialJuice: Senior BoJ official: delay in stimulus adjustment amid high inflation risk could trigger economic downturn",
+    "link": "https://www.financialjuice.com/News/9680349/Senior-BoJ-official-delay-in-stimulus-adjustment-amid-high-inflation-risk-could-trigger-economic-downturn.aspx",
+    "pubDate": "Thu, 16 Jul 2026 03:17:04 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680325",
+    "title": "FinancialJuice: Japan govt, ruling LDP plan to increase threshold for calling extraordinary shareholders meeting to more than 5% voting rights from current 3%: Nikkei reports",
+    "link": "https://www.financialjuice.com/News/9680325/Japan-govt-ruling-LDP-plan-to-increase-threshold-for-calling-extraordinary-shareholders-meeting-to-more-than-5-voting-rights-from-current-3-Nikkei-reports.aspx",
+    "pubDate": "Thu, 16 Jul 2026 03:07:57 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680324",
+    "title": "FinancialJuice: Narrowing interest rate gap with US needs monitoring for impact on FX market",
+    "link": "https://www.financialjuice.com/News/9680324/Narrowing-interest-rate-gap-with-US-needs-monitoring-for-impact-on-FX-market.aspx",
+    "pubDate": "Thu, 16 Jul 2026 03:07:03 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680323",
+    "title": "FinancialJuice: Bok Shin: Disagree with assessment that decision to keep rates steady in May was error",
+    "link": "https://www.financialjuice.com/News/9680323/Bok-Shin-Disagree-with-assessment-that-decision-to-keep-rates-steady-in-May-was-error.aspx",
+    "pubDate": "Thu, 16 Jul 2026 03:07:03 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680314",
+    "title": "FinancialJuice: Bok Shin: Bank of Korea likely to boost growth forecast in August update",
+    "link": "https://www.financialjuice.com/News/9680314/Bok-Shin-Bank-of-Korea-likely-to-boost-growth-forecast-in-August-update.aspx",
+    "pubDate": "Thu, 16 Jul 2026 03:06:26 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680313",
+    "title": "FinancialJuice: Extended trading hours of dollar-won market have had little effect on NDF market volume",
+    "link": "https://www.financialjuice.com/News/9680313/Extended-trading-hours-of-dollar-won-market-have-had-little-effect-on-NDF-market-volume.aspx",
+    "pubDate": "Thu, 16 Jul 2026 03:06:26 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680312",
+    "title": "FinancialJuice: Disagree with view: decision to keep rates steady in May was not an error",
+    "link": "https://www.financialjuice.com/News/9680312/Disagree-with-view-decision-to-keep-rates-steady-in-May-was-not-an-error.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:58:44 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680311",
+    "title": "FinancialJuice: Bok Shin: May rate increase possible but held off due to insufficient data",
+    "link": "https://www.financialjuice.com/News/9680311/Bok-Shin-May-rate-increase-possible-but-held-off-due-to-insufficient-data.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:58:29 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680310",
+    "title": "FinancialJuice: Bok likely to boost growth outlook in August revision",
+    "link": "https://www.financialjuice.com/News/9680310/Bok-likely-to-boost-growth-outlook-in-August-revision.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:58:29 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680309",
+    "title": "FinancialJuice: Economic data since Bank of Korea previous rate decision shows stronger-than-expected growth",
+    "link": "https://www.financialjuice.com/News/9680309/Economic-data-since-Bank-of-Korea-previous-rate-decision-shows-stronger-than-expected-growth.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:58:09 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680308",
+    "title": "FinancialJuice: Conditions of real economy require more comprehensive evaluation",
+    "link": "https://www.financialjuice.com/News/9680308/Conditions-of-real-economy-require-more-comprehensive-evaluation.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:57:12 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680307",
+    "title": "FinancialJuice: Could Have Raised Rates in May: Insufficient Data Prevented Move",
+    "link": "https://www.financialjuice.com/News/9680307/Could-Have-Raised-Rates-in-May-Insufficient-Data-Prevented-Move.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:57:12 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680306",
+    "title": "FinancialJuice: Bok Shin: real economy conditions require deeper evaluation",
+    "link": "https://www.financialjuice.com/News/9680306/Bok-Shin-real-economy-conditions-require-deeper-evaluation.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:55:54 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680305",
+    "title": "FinancialJuice: Bok Shin: Disagrees with View That Recent Rate Hike Boosts Stock Market Volatility",
+    "link": "https://www.financialjuice.com/News/9680305/Bok-Shin-Disagrees-with-View-That-Recent-Rate-Hike-Boosts-Stock-Market-Volatility.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:51:23 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680304",
+    "title": "FinancialJuice: Japan finance minister Katayama: we cannot intervene or compel pension funds on portfolio management",
+    "link": "https://www.financialjuice.com/News/9680304/Japan-finance-minister-Katayama-we-cannot-intervene-or-compel-pension-funds-on-portfolio-management.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:37:39 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680303",
+    "title": "FinancialJuice: Bok Shin: Extra capital flow from South Korea msci index upgrade likely limited",
+    "link": "https://www.financialjuice.com/News/9680303/Bok-Shin-Extra-capital-flow-from-South-Korea-msci-index-upgrade-likely-limited.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:36:04 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680302",
+    "title": "FinancialJuice: Japan finance minister Katayama: GPIF to review basic portfolio annually, assuming potential growth driven by Japan's growth strategy could mark major turning point",
+    "link": "https://www.financialjuice.com/News/9680302/Japan-finance-minister-Katayama-GPIF-to-review-basic-portfolio-annually-assuming-potential-growth-driven-by-Japans-growth-strategy-could-mark-major-turning-point.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:35:39 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680301",
+    "title": "FinancialJuice: Bok Shin: Import cost level relatively elevated",
+    "link": "https://www.financialjuice.com/News/9680301/Bok-Shin-Import-cost-level-relatively-elevated.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:32:33 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680300",
+    "title": "FinancialJuice: Japan Finmin Katayama: understands no alteration to GPIF's rules on annual basic portfolio review",
+    "link": "https://www.financialjuice.com/News/9680300/Japan-Finmin-Katayama-understands-no-alteration-to-GPIFs-rules-on-annual-basic-portfolio-review.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:32:33 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680299",
+    "title": "FinancialJuice: Bok Shin: Q2 GDP figures to be closely evaluated",
+    "link": "https://www.financialjuice.com/News/9680299/Bok-Shin-Q2-GDP-figures-to-be-closely-evaluated.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:32:33 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680298",
+    "title": "FinancialJuice: Bok Shin: How actively Bank of Korea will respond to inflation risks depends on data",
+    "link": "https://www.financialjuice.com/News/9680298/Bok-Shin-How-actively-Bank-of-Korea-will-respond-to-inflation-risks-depends-on-data.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:30:03 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680297",
+    "title": "FinancialJuice: Bok Shin: We'll act until inflation stabilizes at bank's target level",
+    "link": "https://www.financialjuice.com/News/9680297/Bok-Shin-Well-act-until-inflation-stabilizes-at-banks-target-level.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:28:55 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680296",
+    "title": "FinancialJuice: Q2 GDP figures will be closely examined",
+    "link": "https://www.financialjuice.com/News/9680296/Q2-GDP-figures-will-be-closely-examined.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:28:54 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680295",
+    "title": "FinancialJuice: How actively Bank of Korea will react to inflation risks depends on data",
+    "link": "https://www.financialjuice.com/News/9680295/How-actively-Bank-of-Korea-will-react-to-inflation-risks-depends-on-data.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:28:27 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680294",
+    "title": "FinancialJuice: We will respond until inflation aligns with BOK target level: governor",
+    "link": "https://www.financialjuice.com/News/9680294/We-will-respond-until-inflation-aligns-with-BOK-target-level-governor.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:28:16 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680293",
+    "title": "FinancialJuice: Assessing strength of demand in the economy will be crucial",
+    "link": "https://www.financialjuice.com/News/9680293/Assessing-strength-of-demand-in-the-economy-will-be-crucial.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:26:41 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680292",
+    "title": "FinancialJuice: Demand-side price pressure requires close monitoring: could escalate inflation if strong GDI growth persists",
+    "link": "https://www.financialjuice.com/News/9680292/Demand-side-price-pressure-requires-close-monitoring-could-escalate-inflation-if-strong-GDI-growth-persists.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:26:41 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680291",
+    "title": "FinancialJuice: BOK: Q2 GDP expansion projected above earlier estimate of 0.2%",
+    "link": "https://www.financialjuice.com/News/9680291/BOK-Q2-GDP-expansion-projected-above-earlier-estimate-of-02.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:26:41 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680290",
+    "title": "FinancialJuice: Bok Shin: evaluating robustness of economic demand will be crucial",
+    "link": "https://www.financialjuice.com/News/9680290/Bok-Shin-evaluating-robustness-of-economic-demand-will-be-crucial.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:24:55 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680289",
+    "title": "FinancialJuice: Bok Shin: Every component fueling South Korea GDP is strong",
+    "link": "https://www.financialjuice.com/News/9680289/Bok-Shin-Every-component-fueling-South-Korea-GDP-is-strong.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:24:21 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680288",
+    "title": "FinancialJuice: Bok Governor Shin: to increase interest rate on central bank’s special loan programs",
+    "link": "https://www.financialjuice.com/News/9680288/Bok-Governor-Shin-to-increase-interest-rate-on-central-banks-special-loan-programs.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:20:42 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680287",
+    "title": "FinancialJuice: Iran state media: Iranian army strikes U.S. military communication systems, fuel tanks at Azraq base in Jordan",
+    "link": "https://www.financialjuice.com/News/9680287/Iran-state-media-Iranian-army-strikes-US-military-communication-systems-fuel-tanks-at-Azraq-base-in-Jordan.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:19:21 GMT",
+    "category": "Breaking"
+  },
+  {
+    "guid": "9680286",
+    "title": "FinancialJuice: Japan Finmin Katayama: widening range of domestic and overseas investors including households key for JGB ownership",
+    "link": "https://www.financialjuice.com/News/9680286/Japan-Finmin-Katayama-widening-range-of-domestic-and-overseas-investors-including-households-key-for-JGB-ownership.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:14:21 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680270",
+    "title": "FinancialJuice: Bok: Expansion in 2024 Expected Strong Due to Chip Industry Spillover Effects",
+    "link": "https://www.financialjuice.com/News/9680270/Bok-Expansion-in-2024-Expected-Strong-Due-to-Chip-Industry-Spillover-Effects.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:01:57 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680217",
+    "title": "FinancialJuice: GDP growth projected above earlier estimate of 0.2%",
+    "link": "https://www.financialjuice.com/News/9680217/GDP-growth-projected-above-earlier-estimate-of-02.aspx",
+    "pubDate": "Thu, 16 Jul 2026 02:01:24 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680176",
+    "title": "FinancialJuice: Iran's Revolutionary Guards: missile and drone strike hit early-warning radar at Ali Al Salem air base in Kuwait - state media",
+    "link": "https://www.financialjuice.com/News/9680176/Irans-Revolutionary-Guards-missile-and-drone-strike-hit-early-warning-radar-at-Ali-Al-Salem-air-base-in-Kuwait---state-media.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:56:25 GMT",
+    "category": "Breaking"
+  },
+  {
+    "guid": "9680175",
+    "title": "FinancialJuice: Japan finmin Katayama: Monetary policy tools should be determined by BoJ",
+    "link": "https://www.financialjuice.com/News/9680175/Japan-finmin-Katayama-Monetary-policy-tools-should-be-determined-by-BoJ.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:53:45 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680174",
+    "title": "FinancialJuice: Japan finance minister Katayama: will track market trends, economic data to ensure fiscal sustainability",
+    "link": "https://www.financialjuice.com/News/9680174/Japan-finance-minister-Katayama-will-track-market-trends-economic-data-to-ensure-fiscal-sustainability.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:50:49 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680173",
+    "title": "FinancialJuice: Japan Finmin Katayama: declines to discuss specific forex levels",
+    "link": "https://www.financialjuice.com/News/9680173/Japan-Finmin-Katayama-declines-to-discuss-specific-forex-levels.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:49:25 GMT",
+    "category": "FX"
+  },
+  {
+    "guid": "9680172",
+    "title": "FinancialJuice: Japan FinMin Katayama: interest and forex rates driven by multiple factors",
+    "link": "https://www.financialjuice.com/News/9680172/Japan-FinMin-Katayama-interest-and-forex-rates-driven-by-multiple-factors.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:49:17 GMT",
+    "category": "FX"
+  },
+  {
+    "guid": "9680166",
+    "title": "FinancialJuice: Mitsubishi Heavy Industries joins Nvidia partner network as power and cooling collaborator to enhance integrated technologies for Nvidia DSX",
+    "link": "https://www.financialjuice.com/News/9680166/Mitsubishi-Heavy-Industries-joins-Nvidia-partner-network-as-power-and-cooling-collaborator-to-enhance-integrated-technologies-for-Nvidia-DSX.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:45:05 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680165",
+    "title": "FinancialJuice: BoK: Core inflation this year likely above earlier forecast of 2.4%",
+    "link": "https://www.financialjuice.com/News/9680165/BoK-Core-inflation-this-year-likely-above-earlier-forecast-of-24.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:32:57 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680164",
+    "title": "FinancialJuice: BOK: Housing price rises in Seoul and nearby regions quicken",
+    "link": "https://www.financialjuice.com/News/9680164/BOK-Housing-price-rises-in-Seoul-and-nearby-regions-quicken.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:32:35 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680163",
+    "title": "FinancialJuice: Bok: uncertainties persist over semiconductor industry, Middle East developments, trade environment shifts",
+    "link": "https://www.financialjuice.com/News/9680163/Bok-uncertainties-persist-over-semiconductor-industry-Middle-East-developments-trade-environment-shifts.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:32:29 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680162",
+    "title": "FinancialJuice: Bok: need to monitor housing market, household debt expansion",
+    "link": "https://www.financialjuice.com/News/9680162/Bok-need-to-monitor-housing-market-household-debt-expansion.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:32:29 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680159",
+    "title": "FinancialJuice: need to track housing market, household debt expansion",
+    "link": "https://www.financialjuice.com/News/9680159/need-to-track-housing-market-household-debt-expansion.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:31:51 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680156",
+    "title": "FinancialJuice: Bok: Inflationary pressure to rise, likely to stay above target level",
+    "link": "https://www.financialjuice.com/News/9680156/Bok-Inflationary-pressure-to-rise-likely-to-stay-above-target-level.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:31:38 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680155",
+    "title": "FinancialJuice: Bok: Monitoring essential amid elevated exchange rate fluctuations",
+    "link": "https://www.financialjuice.com/News/9680155/Bok-Monitoring-essential-amid-elevated-exchange-rate-fluctuations.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:31:15 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680154",
+    "title": "FinancialJuice: BOK: to evaluate timing of additional rise in inflationary pressure, domestic economy improvement trend, and financial stability",
+    "link": "https://www.financialjuice.com/News/9680154/BOK-to-evaluate-timing-of-additional-rise-in-inflationary-pressure-domestic-economy-improvement-trend-and-financial-stability.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:31:12 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680153",
+    "title": "FinancialJuice: BOK: Inflation seen staying elevated for a prolonged period",
+    "link": "https://www.financialjuice.com/News/9680153/BOK-Inflation-seen-staying-elevated-for-a-prolonged-period.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:31:11 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680152",
+    "title": "FinancialJuice: Bok: This year's growth pace to significantly surpass May projection of 2.6%",
+    "link": "https://www.financialjuice.com/News/9680152/Bok-This-years-growth-pace-to-significantly-surpass-May-projection-of-26.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:30:49 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680151",
+    "title": "FinancialJuice: Bok: Thursday's interest decision was unanimous",
+    "link": "https://www.financialjuice.com/News/9680151/Bok-Thursdays-interest-decision-was-unanimous.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:30:42 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680145",
+    "title": "FinancialJuice: Australia's Liberty Bell Bay manganese smelter administrators to begin business closure with immediate effect",
+    "link": "https://www.financialjuice.com/News/9680145/Australias-Liberty-Bell-Bay-manganese-smelter-administrators-to-begin-business-closure-with-immediate-effect.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:25:10 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680144",
+    "title": "FinancialJuice: Tokyo Electron: partners with Nvidia, using Nvidia Agent Toolkit and Nvidia Isaac for digital transformation solutions",
+    "link": "https://www.financialjuice.com/News/9680144/Tokyo-Electron-partners-with-Nvidia-using-Nvidia-Agent-Toolkit-and-Nvidia-Isaac-for-digital-transformation-solutions.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:24:25 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680143",
+    "title": "FinancialJuice: U.S. military: latest wave of strikes on Iran completed, says U.S. Centcom statement",
+    "link": "https://www.financialjuice.com/News/9680143/US-military-latest-wave-of-strikes-on-Iran-completed-says-US-Centcom-statement.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:24:11 GMT",
+    "category": "Breaking"
+  },
+  {
+    "guid": "9680142",
+    "title": "FinancialJuice: Tokyo Electron: Tokyo Electron and Nvidia deepen partnership for autonomous AI and robotics",
+    "link": "https://www.financialjuice.com/News/9680142/Tokyo-Electron-Tokyo-Electron-and-Nvidia-deepen-partnership-for-autonomous-AI-and-robotics.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:21:49 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680141",
+    "title": "FinancialJuice: China c.bank injects 626 bln yuan via 7-day reverse repos at 1.40%: statement",
+    "link": "https://www.financialjuice.com/News/9680141/China-cbank-injects-626-bln-yuan-via-7-day-reverse-repos-at-140-statement.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:20:40 GMT",
+    "category": "FX"
+  },
+  {
+    "guid": "9680118",
+    "title": "FinancialJuice: Japan Finmin Katayama: ready to take appropriate action on currency anytime as needed",
+    "link": "https://www.financialjuice.com/News/9680118/Japan-Finmin-Katayama-ready-to-take-appropriate-action-on-currency-anytime-as-needed.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:13:16 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680099",
+    "title": "FinancialJuice: Taiwan overnight interbank rate starts at 0.805% (vs 0.805% in previous session)",
+    "link": "https://www.financialjuice.com/News/9680099/Taiwan-overnight-interbank-rate-starts-at-0805-vs-0805-in-previous-session.aspx",
+    "pubDate": "Thu, 16 Jul 2026 01:00:22 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680098",
+    "title": "FinancialJuice: South Korea central bank lifts interest rate 25 bps to 2.75% (Poll: 2.75%)",
+    "link": "https://www.financialjuice.com/News/9680098/South-Korea-central-bank-lifts-interest-rate-25-bps-to-275-Poll-275.aspx",
+    "pubDate": "Thu, 16 Jul 2026 00:50:07 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680097",
+    "title": "FinancialJuice: Bank of Korea Base Rate Actual 2.75% (Forecast 2.75%, Previous 2.50%)",
+    "link": "https://www.financialjuice.com/News/9680097/Bank-of-Korea-Base-Rate-Actual-275-Forecast-275-Previous-250.aspx",
+    "pubDate": "Thu, 16 Jul 2026 00:50:03 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9680085",
+    "title": "FinancialJuice: Iran activates air defence in Tehran to counter 'hostile threats': Mehr",
+    "link": "https://www.financialjuice.com/News/9680085/Iran-activates-air-defence-in-Tehran-to-counter-hostile-threats-Mehr.aspx",
+    "pubDate": "Thu, 16 Jul 2026 00:28:19 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680084",
+    "title": "FinancialJuice: China PBOC forecast to fix yuan midpoint at 6.7577 per dollar: estimate",
+    "link": "https://www.financialjuice.com/News/9680084/China-PBOC-forecast-to-fix-yuan-midpoint-at-67577-per-dollar-estimate.aspx",
+    "pubDate": "Thu, 16 Jul 2026 00:24:24 GMT",
+    "category": "FX"
+  },
+  {
+    "guid": "9680060",
+    "title": "FinancialJuice: Foreign Investment Japanese Bonds Actual 499.8B (Forecast -, Previous -5.9B)",
+    "link": "https://www.financialjuice.com/News/9680060/Foreign-Investment-Japanese-Bonds-Actual-4998B-Forecast---Previous--59B.aspx",
+    "pubDate": "Wed, 15 Jul 2026 23:51:06 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680059",
+    "title": "FinancialJuice: Japanese Foreign Stock Investment Actual 196.2B (Forecast -, Previous 824.5B)",
+    "link": "https://www.financialjuice.com/News/9680059/Japanese-Foreign-Stock-Investment-Actual-1962B-Forecast---Previous-8245B.aspx",
+    "pubDate": "Wed, 15 Jul 2026 23:51:06 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680058",
+    "title": "FinancialJuice: Foreign Investment Japanese Stocks Actual 745.6B (Forecast -, Previous -22.2B)",
+    "link": "https://www.financialjuice.com/News/9680058/Foreign-Investment-Japanese-Stocks-Actual-7456B-Forecast---Previous--222B.aspx",
+    "pubDate": "Wed, 15 Jul 2026 23:50:15 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680057",
+    "title": "FinancialJuice: Japanese Foreign Bond Investment Actual 1,090.1B (Forecast -, Previous -218.1B)",
+    "link": "https://www.financialjuice.com/News/9680057/Japanese-Foreign-Bond-Investment-Actual-10901B-Forecast---Previous--2181B.aspx",
+    "pubDate": "Wed, 15 Jul 2026 23:50:15 GMT",
+    "category": "Bonds"
+  },
+  {
+    "guid": "9680031",
+    "title": "FinancialJuice: Sirens sound in Bahrain: Bahrain Interior Ministry",
+    "link": "https://www.financialjuice.com/News/9680031/Sirens-sound-in-Bahrain-Bahrain-Interior-Ministry.aspx",
+    "pubDate": "Wed, 15 Jul 2026 23:10:31 GMT",
+    "category": "Breaking"
+  },
+  {
+    "guid": "9680013",
+    "title": "FinancialJuice: Nvidia: Japanese firms developing AI models with Nemotron open-source tools",
+    "link": "https://www.financialjuice.com/News/9680013/Nvidia-Japanese-firms-developing-AI-models-with-Nemotron-open-source-tools.aspx",
+    "pubDate": "Wed, 15 Jul 2026 23:00:04 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680012",
+    "title": "FinancialJuice: Japan's enterprises and startups develop industry-focused AI using NVIDIA Nemotron open models",
+    "link": "https://www.financialjuice.com/News/9680012/Japans-enterprises-and-startups-develop-industry-focused-AI-using-NVIDIA-Nemotron-open-models.aspx",
+    "pubDate": "Wed, 15 Jul 2026 23:00:04 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680011",
+    "title": "FinancialJuice: Nvidia: EneOS, NTT Data, Hitachi among companies using Nvidia Nemotron",
+    "link": "https://www.financialjuice.com/News/9680011/Nvidia-EneOS-NTT-Data-Hitachi-among-companies-using-Nvidia-Nemotron.aspx",
+    "pubDate": "Wed, 15 Jul 2026 23:00:04 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680010",
+    "title": "FinancialJuice: Nvidia introduces new Jetson Thor computers to boost mainstream robotics and edge AI",
+    "link": "https://www.financialjuice.com/News/9680010/Nvidia-introduces-new-Jetson-Thor-computers-to-boost-mainstream-robotics-and-edge-AI.aspx",
+    "pubDate": "Wed, 15 Jul 2026 23:00:04 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680009",
+    "title": "FinancialJuice: Nvidia expands collaboration with Toyota to boost physical AI in automotive, robotics and urban development",
+    "link": "https://www.financialjuice.com/News/9680009/Nvidia-expands-collaboration-with-Toyota-to-boost-physical-AI-in-automotive-robotics-and-urban-development.aspx",
+    "pubDate": "Wed, 15 Jul 2026 23:00:03 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680008",
+    "title": "FinancialJuice: Trump: Iran has permitted American citizen wrongfully held in December 2024 under Biden to exit country",
+    "link": "https://www.financialjuice.com/News/9680008/Trump-Iran-has-permitted-American-citizen-wrongfully-held-in-December-2024-under-Biden-to-exit-country.aspx",
+    "pubDate": "Wed, 15 Jul 2026 22:54:35 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9680007",
+    "title": "FinancialJuice: Kuwait air defences responding to hostile drone threats: Kuwaiti army",
+    "link": "https://www.financialjuice.com/News/9680007/Kuwait-air-defences-responding-to-hostile-drone-threats-Kuwaiti-army.aspx",
+    "pubDate": "Wed, 15 Jul 2026 22:53:07 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9679985",
+    "title": "FinancialJuice: Sounds of two blasts heard east of Bandar Abbas in southern Iran: Iran state media",
+    "link": "https://www.financialjuice.com/News/9679985/Sounds-of-two-blasts-heard-east-of-Bandar-Abbas-in-southern-Iran-Iran-state-media.aspx",
+    "pubDate": "Wed, 15 Jul 2026 22:07:19 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9679981",
+    "title": "FinancialJuice: U.S. considers $100,000 bond for certain green-card applicants overseas: WSJ",
+    "link": "https://www.financialjuice.com/News/9679981/US-considers-100000-bond-for-certain-green-card-applicants-overseas-WSJ.aspx",
+    "pubDate": "Wed, 15 Jul 2026 22:01:18 GMT",
+    "category": "Bonds"
+  },
+  {
+    "guid": "9679979",
+    "title": "FinancialJuice: Iran military spokesperson: U.S. adherence to memorandum and enforcement of Iranian rules in Strait of Hormuz essential to reopen waterway - Mehr",
+    "link": "https://www.financialjuice.com/News/9679979/Iran-military-spokesperson-US-adherence-to-memorandum-and-enforcement-of-Iranian-rules-in-Strait-of-Hormuz-essential-to-reopen-waterway---Mehr.aspx",
+    "pubDate": "Wed, 15 Jul 2026 21:49:12 GMT",
+    "category": "Breaking"
+  },
+  {
+    "guid": "9679960",
+    "title": "FinancialJuice: U.S. projectiles strike near Sirik in southern Iran: Iran state media",
+    "link": "https://www.financialjuice.com/News/9679960/US-projectiles-strike-near-Sirik-in-southern-Iran-Iran-state-media.aspx",
+    "pubDate": "Wed, 15 Jul 2026 21:42:26 GMT",
+    "category": "Breaking"
+  },
+  {
+    "guid": "9679919",
+    "title": "FinancialJuice: US Military: US forces disabled a non-compliant vessel in the Arabian Gulf.",
+    "link": "https://www.financialjuice.com/News/9679919/US-Military-US-forces-disabled-a-non-compliant-vessel-in-the-Arabian-Gulf.aspx",
+    "pubDate": "Wed, 15 Jul 2026 20:54:04 GMT",
+    "category": "Breaking"
+  },
+  {
+    "guid": "9679901",
+    "title": "FinancialJuice: xAI: Grok Build is now open source.",
+    "link": "https://www.financialjuice.com/News/9679901/xAI-Grok-Build-is-now-open-source.aspx",
+    "pubDate": "Wed, 15 Jul 2026 20:32:22 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9679873",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett ends remarks on Fox Business",
+    "link": "https://www.financialjuice.com/News/9679873/WH-Sr-Adviser-Hassett-ends-remarks-on-Fox-Business.aspx",
+    "pubDate": "Wed, 15 Jul 2026 20:17:52 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9679858",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: Treasury Secretary Bessent and I met today and discussed the future tax agenda.",
+    "link": "https://www.financialjuice.com/News/9679858/WH-Sr-Adviser-Hassett-Treasury-Secretary-Bessent-and-I-met-today-and-discussed-the-future-tax-agenda.aspx",
+    "pubDate": "Wed, 15 Jul 2026 20:16:35 GMT",
+    "category": "Bonds"
+  },
+  {
+    "guid": "9679857",
+    "title": "FinancialJuice: Trump: General Dynamics is a little slower than we want $GE",
+    "link": "https://www.financialjuice.com/News/9679857/Trump-General-Dynamics-is-a-little-slower-than-we-want-GE.aspx",
+    "pubDate": "Wed, 15 Jul 2026 20:16:10 GMT",
+    "category": "Corporate"
+  },
+  {
+    "guid": "9679856",
+    "title": "FinancialJuice: Trump: We need to make submarines faster.",
+    "link": "https://www.financialjuice.com/News/9679856/Trump-We-need-to-make-submarines-faster.aspx",
+    "pubDate": "Wed, 15 Jul 2026 20:15:50 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9679854",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: There's a lot of error in the estimated GDP growth - Fox Business.",
+    "link": "https://www.financialjuice.com/News/9679854/WH-Sr-Adviser-Hassett-Theres-a-lot-of-error-in-the-estimated-GDP-growth---Fox-Business.aspx",
+    "pubDate": "Wed, 15 Jul 2026 20:13:31 GMT",
+    "category": "Macro"
+  },
+  {
+    "guid": "9679853",
+    "title": "FinancialJuice: Trump: Will buy some ships made outside of the area.",
+    "link": "https://www.financialjuice.com/News/9679853/Trump-Will-buy-some-ships-made-outside-of-the-area.aspx",
+    "pubDate": "Wed, 15 Jul 2026 20:11:12 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9679852",
+    "title": "FinancialJuice: Trump: When Iran settles down, we'll have $55/bbl oil.",
+    "link": "https://www.financialjuice.com/News/9679852/Trump-When-Iran-settles-down-well-have-55bbl-oil.aspx",
+    "pubDate": "Wed, 15 Jul 2026 20:10:40 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9679851",
+    "title": "FinancialJuice: Trump on Oil: It went up a bit because I had to take tough action.",
+    "link": "https://www.financialjuice.com/News/9679851/Trump-on-Oil-It-went-up-a-bit-because-I-had-to-take-tough-action.aspx",
+    "pubDate": "Wed, 15 Jul 2026 20:06:55 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9679850",
+    "title": "FinancialJuice: The new US attacks near Bandar Abbas resulted in no casualties or damage - Tasnim.",
+    "link": "https://www.financialjuice.com/News/9679850/The-new-US-attacks-near-Bandar-Abbas-resulted-in-no-casualties-or-damage---Tasnim.aspx",
+    "pubDate": "Wed, 15 Jul 2026 20:04:39 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9679829",
+    "title": "FinancialJuice: Reports of two explosions heard near Konarak- Tasnim.",
+    "link": "https://www.financialjuice.com/News/9679829/Reports-of-two-explosions-heard-near-Konarak--Tasnim.aspx",
+    "pubDate": "Wed, 15 Jul 2026 19:57:11 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9679828",
+    "title": "FinancialJuice: Arab Sources report that explosions were heard near the American base in Sheikh Isa, Bahrain - Fars News.",
+    "link": "https://www.financialjuice.com/News/9679828/Arab-Sources-report-that-explosions-were-heard-near-the-American-base-in-Sheikh-Isa-Bahrain---Fars-News.aspx",
+    "pubDate": "Wed, 15 Jul 2026 19:50:49 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9679827",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9679827/MOC-Imbalance.aspx",
+    "pubDate": "Wed, 15 Jul 2026 19:50:31 GMT",
+    "category": "Other"
+  },
+  {
+    "guid": "9679821",
+    "title": "FinancialJuice: An explosion was heard in Rasak. - Iran's Mehr News",
+    "link": "https://www.financialjuice.com/News/9679821/An-explosion-was-heard-in-Rasak---Irans-Mehr-News.aspx",
+    "pubDate": "Wed, 15 Jul 2026 19:46:15 GMT",
+    "category": "Breaking"
+  },
+  {
+    "guid": "9679818",
+    "title": "FinancialJuice: Sirens sounded in Bahrain - Interior Ministry",
+    "link": "https://www.financialjuice.com/News/9679818/Sirens-sounded-in-Bahrain---Interior-Ministry.aspx",
+    "pubDate": "Wed, 15 Jul 2026 19:42:09 GMT",
+    "category": "Breaking"
+  },
+  {
+    "guid": "9679817",
+    "title": "FinancialJuice: Trump on Defense: We need a little more speed on defense production.",
+    "link": "https://www.financialjuice.com/News/9679817/Trump-on-Defense-We-need-a-little-more-speed-on-defense-production.aspx",
+    "pubDate": "Wed, 15 Jul 2026 19:40:58 GMT",
+    "category": "Other"
+  }
+]
