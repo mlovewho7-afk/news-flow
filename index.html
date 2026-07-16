@@ -95,6 +95,7 @@ if (localStorage.getItem('news_gate_ok') !== '1') {
   var CATEGORIES = ["전체", "Breaking", "Macro", "Bonds", "FX", "Corporate", "Other"];
   var activeCategory = "전체";
   var allItems = [];
+  var lastDataText = null;
 
   function toKST(pubDate){
     var d = new Date(pubDate);
@@ -147,12 +148,14 @@ if (localStorage.getItem('news_gate_ok') !== '1') {
 
   function load(){
     fetch('./data/news.json?_=' + Date.now())
-      .then(function(res){ return res.json(); })
-      .then(function(data){
-        allItems = data;
-        render();
+      .then(function(res){ return res.text(); })
+      .then(function(text){
         document.getElementById('last-updated').textContent =
           '마지막 갱신 ' + new Date().toLocaleTimeString('ko-KR', {timeZone: 'Asia/Seoul', hour12: false});
+        if (text === lastDataText) return; // 내용 그대로면 다시 그리지 않음 — 60초마다 스크롤 위치가 리셋되는 문제 방지
+        lastDataText = text;
+        allItems = JSON.parse(text);
+        render();
       })
       .catch(function(err){
         console.error('news-flow: failed to load data/news.json', err);
