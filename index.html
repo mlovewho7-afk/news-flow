@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>News Flow — FinancialJuice</title>
+<style>
+  :root{--bg:#0b0e14;--surface:#12161f;--border:#1e2530;--text:#e8ebef;--muted:#5c6b7f;
+    --breaking-bg:rgba(192,57,43,0.12);--breaking-text:#ff6b5c;--tab-active:#3b82f6}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+  .header{padding:14px 16px;border-bottom:1px solid var(--border);font-size:15px;font-weight:600;
+    display:flex;justify-content:space-between;align-items:center}
+  .last-updated{font-size:11px;font-weight:400;color:var(--muted)}
+  .tabs{display:flex;gap:8px;padding:8px 10px;border-bottom:1px solid var(--border);
+    overflow-x:auto}
+  .tab{font-size:11px;padding:4px 10px;border-radius:3px;background:var(--surface);
+    color:var(--muted);white-space:nowrap;cursor:pointer;border:none}
+  .tab.active{background:var(--tab-active);color:#fff}
+  .list{font-family:'SF Mono',Menlo,monospace;font-size:12px;line-height:1.5}
+  .row{display:flex;gap:10px;padding:6px 12px;border-bottom:1px solid #161b24}
+  .row.breaking{background:var(--breaking-bg)}
+  .time{color:var(--muted);flex-shrink:0}
+  .row.breaking .time{color:var(--breaking-text);font-weight:600}
+  .title{color:var(--text)}
+  .row.breaking .title{color:#fff;font-weight:600}
+  .empty{padding:24px;text-align:center;color:var(--muted);font-size:13px}
+
+  .gate-overlay{display:none;position:fixed;inset:0;z-index:9999;background:var(--bg);
+    align-items:center;justify-content:center}
+  html.gate-locked .gate-overlay{display:flex}
+  html.gate-locked .app{display:none}
+  .gate-box{display:flex;flex-direction:column;gap:10px;align-items:center}
+  .gate-label{font-size:13px;color:var(--muted)}
+  .gate-input{padding:9px 14px;border-radius:6px;border:1px solid var(--border);
+    background:var(--surface);color:var(--text);font-size:14px;width:220px;text-align:center}
+  .gate-btn{padding:9px 20px;border-radius:6px;border:none;background:var(--tab-active);
+    color:#fff;font-size:13px;font-weight:600;cursor:pointer}
+  .gate-btn:hover{opacity:.9}
+  .gate-error{font-size:12px;color:var(--breaking-text);visibility:hidden}
+</style>
+</head>
+<body>
+
+<script>
+if (localStorage.getItem('news_gate_ok') !== '1') {
+  document.documentElement.classList.add('gate-locked');
+}
+</script>
+
+<div class="gate-overlay">
+  <div class="gate-box">
+    <div class="gate-label">비밀번호를 입력하세요</div>
+    <input type="password" class="gate-input" id="gate-pw" autocomplete="off">
+    <button class="gate-btn" id="gate-submit">확인</button>
+    <div class="gate-error" id="gate-error">비밀번호가 틀렸습니다</div>
+  </div>
+</div>
+<script>
+(function(){
+  var GATE_HASH = '8f441163451b35a7cf6d9b6c205776e18d7278b9e528b73e4267bb870ae31b5b';
+  async function sha256(text){
+    var buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
+    return Array.from(new Uint8Array(buf)).map(function(b){return b.toString(16).padStart(2,'0');}).join('');
+  }
+  async function submit(){
+    var pw = document.getElementById('gate-pw').value;
+    var h = await sha256(pw);
+    if (h === GATE_HASH) {
+      localStorage.setItem('news_gate_ok','1');
+      document.documentElement.classList.remove('gate-locked');
+    } else {
+      document.getElementById('gate-error').style.visibility = 'visible';
+    }
+  }
+  document.getElementById('gate-submit').addEventListener('click', submit);
+  document.getElementById('gate-pw').addEventListener('keydown', function(e){
+    if(e.key === 'Enter') submit();
+  });
+})();
+</script>
+
+<div class="app">
+  <div class="header">
+    <span>News Flow — FinancialJuice</span>
+    <span class="last-updated" id="last-updated"></span>
+  </div>
+  <div class="tabs" id="tabs"></div>
+  <div class="list" id="list"><div class="empty">불러오는 중...</div></div>
+</div>
+
+<script>
+(function(){
+  var CATEGORIES = ["전체", "Breaking", "Macro", "Bonds", "FX", "Corporate", "Other"];
+  var activeCategory = "전체";
+  var allItems = [];
+
+  function toKST(pubDate){
+    var d = new Date(pubDate);
+    if (isNaN(d.getTime())) return pubDate;
+    return d.toLocaleString('ko-KR', {timeZone: 'Asia/Seoul', hour12: false,
+      month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'});
+  }
+
+  function render(){
+    var tabsEl = document.getElementById('tabs');
+    tabsEl.innerHTML = '';
+    CATEGORIES.forEach(function(cat){
+      var btn = document.createElement('button');
+      btn.className = 'tab' + (cat === activeCategory ? ' active' : '');
+      btn.textContent = cat;
+      btn.addEventListener('click', function(){ activeCategory = cat; render(); });
+      tabsEl.appendChild(btn);
+    });
+
+    var listEl = document.getElementById('list');
+    var filtered = activeCategory === '전체'
+      ? allItems
+      : allItems.filter(function(item){ return item.category === activeCategory; });
+
+    if (filtered.length === 0) {
+      listEl.innerHTML = '<div class="empty">표시할 뉴스가 없습니다</div>';
+      return;
+    }
+
+    listEl.innerHTML = '';
+    filtered.forEach(function(item){
+      var row = document.createElement('div');
+      row.className = 'row' + (item.category === 'Breaking' ? ' breaking' : '');
+      var time = document.createElement('span');
+      time.className = 'time';
+      time.textContent = toKST(item.pubDate);
+      var title = document.createElement('a');
+      title.className = 'title';
+      title.href = item.link;
+      title.target = '_blank';
+      title.rel = 'noopener noreferrer';
+      title.style.color = 'inherit';
+      title.style.textDecoration = 'none';
+      title.textContent = item.title;
+      row.appendChild(time);
+      row.appendChild(title);
+      listEl.appendChild(row);
+    });
+  }
+
+  function load(){
+    fetch('./data/news.json?_=' + Date.now())
+      .then(function(res){ return res.json(); })
+      .then(function(data){
+        allItems = data;
+        render();
+        document.getElementById('last-updated').textContent =
+          '마지막 갱신 ' + new Date().toLocaleTimeString('ko-KR', {timeZone: 'Asia/Seoul', hour12: false});
+      })
+      .catch(function(err){
+        console.error('news-flow: failed to load data/news.json', err);
+      });
+  }
+
+  load();
+  setInterval(load, 60000);
+  // 백그라운드 탭은 브라우저가 setInterval을 강하게 스로틀링하거나 탭을 discard할 수
+  // 있어, 탭이 다시 보이는 순간 즉시 재요청해 오래된 화면을 계속 보여주는 걸 막는다.
+  document.addEventListener('visibilitychange', function(){
+    if (document.visibilityState === 'visible') load();
+  });
+})();
+</script>
+
+</body>
+</html>
