@@ -1,9 +1,9 @@
 name: Fetch News
 
 on:
+  schedule:
+    - cron: "*/10 * * * *"
   workflow_dispatch: {}
-  # 크론(schedule) 트리거는 아직 없음 — Task 7에서 workflow_dispatch 수동 검증을 통과한
-  # 뒤에 별도 커밋으로 추가한다(spec의 "확인 후 활성화" 순서를 그대로 지키기 위함).
 
 concurrency:
   group: fetch-news
