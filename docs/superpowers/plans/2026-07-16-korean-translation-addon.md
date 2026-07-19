@@ -2,6 +2,13 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
+**⚠️ 배포 완료 (2026-07-19).** Task 6 배포 도중 데이터가 계획 수립 시점 가정("100여 개")보다
+훨씬 많이(707개) 쌓여 있던 게 확인돼, 사용자가 Task 3의 백필 범위를 "최근 30분 내 게시된
+것만"으로 즉석 축소했다(`BACKFILL_WINDOW_MINUTES = 30`, 커밋 `ccf5584`→워크트리 브랜치에서
+origin/main으로 rebase되며 해시가 `64fd79b`로 바뀜 — origin/main에 실제로 존재하는 건
+`64fd79b`). 아래 Task 3 절은 원래 승인된 설계(전체 백필) 그대로 남겨두되, 실제 배포된 최종
+동작은 이 각주가 우선한다 — 상세 근거는 설계 문서의 "배포 후 변경" 절 참고.
+
 **Goal:** 이미 배포된 news-flow에 DeepL API 기반 서버측 한글 번역을 얹는다 — 신규 항목은
 수집 시 번역, 기존 항목은 1회 백필, 화면엔 한글(실패 시 영어 폴백)만 표시한다.
 
@@ -859,3 +866,4 @@ Task 1 → (Task 2, Task 3 병행 가능, 둘 다 Task 1에만 의존) → Task 
 다음에 배치) → Task 6(반드시 마지막, 1~5가 모두 로컬에 커밋된 뒤).
 
 <!-- spec-review: passed lenses=3 date=2026-07-16 -->
+<!-- spec-review: passed lenses=2 date=2026-07-19 note="post-deployment amendment footnote (30min backfill window) reviewed with grounding+consistency lenses" -->
