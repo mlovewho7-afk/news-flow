@@ -3,6 +3,7 @@ import sys
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
+from scripts import translate
 from scripts.sources import financialjuice
 
 DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "news.json"
@@ -51,14 +52,25 @@ def main() -> int:
         return 1
 
     existing = load_existing(DATA_PATH)
-    merged, changed = merge_new(existing, new_items)
+    existing_guids = {item["guid"] for item in existing}
+    truly_new = [item for item in new_items if item["guid"] not in existing_guids]
 
-    if not changed:
+    if not truly_new:
         print("fetch_news: no new items, nothing to do")
         return 0
 
+    translated_count = 0
+    for item in truly_new:
+        item["title_ko"] = translate.translate_to_ko(item["title"])
+        if item["title_ko"] is not None:
+            translated_count += 1
+
+    merged, changed = merge_new(existing, truly_new)
     save(DATA_PATH, merged)
-    print(f"fetch_news: wrote {len(merged)} items ({len(merged) - len(existing)} new)")
+    print(
+        f"fetch_news: wrote {len(merged)} items ({len(truly_new)} new, "
+        f"{translated_count}/{len(truly_new)} translated)"
+    )
     return 0
 
 
