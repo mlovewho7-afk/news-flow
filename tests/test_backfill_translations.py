@@ -1,20 +1,31 @@
+from datetime import datetime, timedelta, timezone
+from email.utils import format_datetime
 from unittest.mock import patch
 
 import pytest
 
 from scripts import backfill_translations, fetch_news
 
+
+def _pubdate(minutes_ago):
+    return format_datetime(datetime.now(timezone.utc) - timedelta(minutes=minutes_ago), usegmt=True)
+
+
 ITEM_TRANSLATED = {
     "guid": "1", "title": "A", "link": "http://x/1",
-    "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT", "category": "Macro", "title_ko": "가",
+    "pubDate": _pubdate(5), "category": "Macro", "title_ko": "가",
 }
 ITEM_MISSING_FIELD = {
     "guid": "2", "title": "B", "link": "http://x/2",
-    "pubDate": "Wed, 15 Jul 2026 11:00:00 GMT", "category": "Bonds",
+    "pubDate": _pubdate(5), "category": "Bonds",
 }
 ITEM_FAILED = {
     "guid": "3", "title": "C", "link": "http://x/3",
-    "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT", "category": "FX", "title_ko": None,
+    "pubDate": _pubdate(5), "category": "FX", "title_ko": None,
+}
+ITEM_OLD_UNTRANSLATED = {
+    "guid": "4", "title": "D", "link": "http://x/4",
+    "pubDate": _pubdate(45), "category": "Macro",  # BACKFILL_WINDOW_MINUTES(30분) 밖
 }
 
 
@@ -76,7 +87,7 @@ def test_main_saves_progress_incrementally_on_interruption(mock_translate, mock_
     items = [
         {
             "guid": str(i), "title": f"T{i}", "link": f"http://x/{i}",
-            "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT", "category": "Macro",
+            "pubDate": _pubdate(5), "category": "Macro",
         }
         for i in range(1, 13)  # 12개 — SAVE_EVERY(10)보다 많게 만들어 중간 저장을 유도
     ]
@@ -92,3 +103,21 @@ def test_main_saves_progress_incrementally_on_interruption(mock_translate, mock_
     saved = fetch_news.load_existing(data_path)
     translated_so_far = [item for item in saved if item.get("title_ko")]
     assert len(translated_so_far) >= 10  # 중단 전 10개(SAVE_EVERY 주기)는 이미 저장돼 있어야 함
+
+
+@patch("scripts.backfill_translations.time.sleep")
+@patch("scripts.backfill_translations.translate.translate_to_ko")
+def test_main_excludes_items_outside_backfill_window(mock_translate, mock_sleep, tmp_path, monkeypatch):
+    data_path = tmp_path / "news.json"
+    fetch_news.save(data_path, [ITEM_MISSING_FIELD, ITEM_OLD_UNTRANSLATED])
+    monkeypatch.setattr(backfill_translations, "DATA_PATH", data_path)
+    mock_translate.return_value = "번역됨"
+
+    exit_code = backfill_translations.main()
+
+    assert exit_code == 0
+    mock_translate.assert_called_once_with(ITEM_MISSING_FIELD["title"])  # 오래된 항목은 대상 아님
+    saved = fetch_news.load_existing(data_path)
+    saved_by_guid = {item["guid"]: item for item in saved}
+    assert saved_by_guid["2"]["title_ko"] == "번역됨"
+    assert saved_by_guid["4"].get("title_ko") is None  # 30분 밖이라 그대로 남음
