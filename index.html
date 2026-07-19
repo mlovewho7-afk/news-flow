@@ -139,7 +139,12 @@ if (localStorage.getItem('news_gate_ok') !== '1') {
       title.rel = 'noopener noreferrer';
       title.style.color = 'inherit';
       title.style.textDecoration = 'none';
-      title.textContent = item.title;
+      if (item.title_ko) {
+        title.textContent = item.title_ko;
+      } else {
+        title.textContent = item.title;
+        title.lang = 'en';
+      }
       row.appendChild(time);
       row.appendChild(title);
       listEl.appendChild(row);
