@@ -1,8 +1,6 @@
-name: Fetch News
+name: Backfill Translations
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"
   workflow_dispatch: {}
 
 concurrency:
@@ -13,7 +11,7 @@ permissions:
   contents: write
 
 jobs:
-  fetch:
+  backfill:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -25,10 +23,10 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch news
+      - name: Backfill translations
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-        run: python -m scripts.fetch_news
+        run: python -m scripts.backfill_translations
 
       - name: Commit and push if changed
         run: |
@@ -36,8 +34,8 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add data/news.json
-            git commit -m "news: update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git commit -m "chore: backfill Korean translations"
             git push
           else
-            echo "No new items, skipping commit"
+            echo "Nothing to backfill"
           fi
