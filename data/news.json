@@ -1,5 +1,797 @@
 [
   {
+    "guid": "9687175",
+    "title": "FinancialJuice: ECB: Forex reserves rose €900 mln to €348.5 bln",
+    "link": "https://www.financialjuice.com/News/9687175/ECB-Forex-reserves-rose-900-mln-to-3485-bln.aspx",
+    "pubDate": "Tue, 21 Jul 2026 13:01:11 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB): 외환보유고가 9억 유로 증가해 3,485억 유로로 늘어났다"
+  },
+  {
+    "guid": "9687171",
+    "title": "FinancialJuice: \t\nUSTR Greer concludes remarks to CNBC. ",
+    "link": "https://www.financialjuice.com/News/9687171/%09USTR-Greer-concludes-remarks-to-CNBC-.aspx",
+    "pubDate": "Tue, 21 Jul 2026 13:01:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice:   \n그리어 미국 무역대표부(USTR) 대표가 CNBC와의 인터뷰를 마쳤다. "
+  },
+  {
+    "guid": "9687165",
+    "title": "FinancialJuice: ECB settled €1,693.0 bln public-sector bond purchases",
+    "link": "https://www.financialjuice.com/News/9687165/ECB-settled-16930-bln-public-sector-bond-purchases.aspx",
+    "pubDate": "Tue, 21 Jul 2026 13:00:38 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB), 1조 6,930억 유로 규모의 공공 부문 채권 매입을 완료했다"
+  },
+  {
+    "guid": "9687161",
+    "title": "FinancialJuice: ECB settled €218.4 bln corporate bond purchases.",
+    "link": "https://www.financialjuice.com/News/9687161/ECB-settled-2184-bln-corporate-bond-purchases.aspx",
+    "pubDate": "Tue, 21 Jul 2026 13:00:24 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)이 2,184억 유로 규모의 기업채 매입을 완료했다."
+  },
+  {
+    "guid": "9687159",
+    "title": "FinancialJuice: ECB bond holdings under PEPP €1.30 tln as of last week",
+    "link": "https://www.financialjuice.com/News/9687159/ECB-bond-holdings-under-PEPP-130-tln-as-of-last-week.aspx",
+    "pubDate": "Tue, 21 Jul 2026 13:00:22 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 지난주 기준 PEPP를 통해 ECB가 보유한 채권 규모는 1조 3,000억 유로"
+  },
+  {
+    "guid": "9687158",
+    "title": "FinancialJuice: USTR Greer: Forced labor action tariffs covers 60 countries.",
+    "link": "https://www.financialjuice.com/News/9687158/USTR-Greer-Forced-labor-action-tariffs-covers-60-countries.aspx",
+    "pubDate": "Tue, 21 Jul 2026 13:00:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: 강제 노동 관련 관세 조치는 60개국을 대상으로 한다."
+  },
+  {
+    "guid": "9687157",
+    "title": "FinancialJuice: USTR Greer: I expect some action on forced labor tariffs soon.",
+    "link": "https://www.financialjuice.com/News/9687157/USTR-Greer-I-expect-some-action-on-forced-labor-tariffs-soon.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:59:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: 강제 노동 관련 관세 조치에 대해 조만간 어떤 조치가 있을 것으로 예상한다."
+  },
+  {
+    "guid": "9687156",
+    "title": "FinancialJuice: USTR Greer on Canada: We're always going to trade -CNBC interview",
+    "link": "https://www.financialjuice.com/News/9687156/USTR-Greer-on-Canada-Were-always-going-to-trade--CNBC-interview.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:59:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표, 캐나다 관련 발언: “우리는 앞으로도 계속 무역을 할 것” - CNBC 인터뷰"
+  },
+  {
+    "guid": "9687155",
+    "title": "FinancialJuice: USTR Greer: Going to keep talking to Canadian counterparts, have not cut off talks.",
+    "link": "https://www.financialjuice.com/News/9687155/USTR-Greer-Going-to-keep-talking-to-Canadian-counterparts-have-not-cut-off-talks.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:57:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: 캐나다 측 관계자들과 계속 대화를 이어갈 것이며, 협상을 중단한 것은 아니다."
+  },
+  {
+    "guid": "9687154",
+    "title": "FinancialJuice: USTR Greer: We need to have outcomes that are good for US businesses",
+    "link": "https://www.financialjuice.com/News/9687154/USTR-Greer-We-need-to-have-outcomes-that-are-good-for-US-businesses.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:57:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: 미국 기업에 유리한 결과를 도출해야 한다"
+  },
+  {
+    "guid": "9687153",
+    "title": "FinancialJuice: USTR Greer: We see China distilling AI models as a form of IP theft",
+    "link": "https://www.financialjuice.com/News/9687153/USTR-Greer-We-see-China-distilling-AI-models-as-a-form-of-IP-theft.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:56:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: “우리는 중국의 AI 모델 추출 행위를 지적재산권 침해의 한 형태로 보고 있다”"
+  },
+  {
+    "guid": "9687152",
+    "title": "FinancialJuice: Ustr Greer on AI, China: Not against one kind of standard versus another.",
+    "link": "https://www.financialjuice.com/News/9687152/Ustr-Greer-on-AI-China-Not-against-one-kind-of-standard-versus-another.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:56:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 우스트르 그리어, AI와 중국에 관하여: 특정 표준을 다른 표준에 대립시키는 것은 아니다."
+  },
+  {
+    "guid": "9687151",
+    "title": "FinancialJuice: USTR's Greer on AI, China: We are concerned that China is distilling our models - CNBC",
+    "link": "https://www.financialjuice.com/News/9687151/USTRs-Greer-on-AI-China-We-are-concerned-that-China-is-distilling-our-models---CNBC.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:55:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 무역대표부(USTR) 그리어, AI와 중국에 대해 “중국이 우리의 모델을 복제하고 있다는 점에 우려하고 있다” - CNBC"
+  },
+  {
+    "guid": "9687150",
+    "title": "FinancialJuice: USTR Greer on AI, China: Number of US agencies are looking at this.",
+    "link": "https://www.financialjuice.com/News/9687150/USTR-Greer-on-AI-China-Number-of-US-agencies-are-looking-at-this.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:55:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표, AI 및 중국 관련 발언: 여러 미국 정부 기관이 이 문제를 검토하고 있다."
+  },
+  {
+    "guid": "9687149",
+    "title": "FinancialJuice: US Redbook YoY Actual 7.8% (Forecast -, Previous 8.2%)",
+    "link": "https://www.financialjuice.com/News/9687149/US-Redbook-YoY-Actual-78-Forecast---Previous-82.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:55:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 레드북 지수 전년 동기 대비 실제 7.8% (예상 -, 전월 8.2%)"
+  },
+  {
+    "guid": "9687148",
+    "title": "FinancialJuice: UniCredit: Has the Iran War Become Background Noise for FX? - FJElite",
+    "link": "https://www.financialjuice.com/News/9687148/UniCredit-Has-the-Iran-War-Become-Background-Noise-for-FX---FJElite.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:53:58 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 유니크레딧: 이란 전쟁이 외환 시장의 배경 소음이 되었는가? - FJElite"
+  },
+  {
+    "guid": "9687147",
+    "title": "FinancialJuice: USTR Greer on USMCA: Want to emphasize US, Candian, Mexican content in North American goods.",
+    "link": "https://www.financialjuice.com/News/9687147/USTR-Greer-on-USMCA-Want-to-emphasize-US-Candian-Mexican-content-in-North-American-goods.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:53:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: USTR 그리어, USMCA에 관해 “북미산 제품에 포함된 미국, 캐나다, 멕시코산 원자재의 비중을 강조하고자 한다.”"
+  },
+  {
+    "guid": "9687146",
+    "title": "FinancialJuice: USTR Greer on USMCA: Want more auto manufacturing here - CNBC",
+    "link": "https://www.financialjuice.com/News/9687146/USTR-Greer-on-USMCA-Want-more-auto-manufacturing-here---CNBC.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:52:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: USMCA에 대한 그리어 미국 무역대표부(USTR) 대표의 발언: “미국 내 자동차 생산 확대 희망” - CNBC"
+  },
+  {
+    "guid": "9687145",
+    "title": "FinancialJuice: USTR Greer on USMCA: Trump wants deficit to go down",
+    "link": "https://www.financialjuice.com/News/9687145/USTR-Greer-on-USMCA-Trump-wants-deficit-to-go-down.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:52:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: USMCA에 대한 그리어 미국 무역대표부(USTR) 대표의 발언: 트럼프 대통령은 무역 적자가 줄어들기를 원한다"
+  },
+  {
+    "guid": "9687144",
+    "title": "FinancialJuice: USTR Greer on USMCA: Trump in some ways has already taken related actions.",
+    "link": "https://www.financialjuice.com/News/9687144/USTR-Greer-on-USMCA-Trump-in-some-ways-has-already-taken-related-actions.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:52:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: USMCA에 대한 그리어 미국 무역대표부(USTR) 대표의 발언: 트럼프 대통령은 어떤 면에서는 이미 관련 조치를 취했다."
+  },
+  {
+    "guid": "9687143",
+    "title": "FinancialJuice: Goldman Sachs: Oil Risks Still Skew Higher Despite China Demand Weakness - FJElite",
+    "link": "https://www.financialjuice.com/News/9687143/Goldman-Sachs-Oil-Risks-Still-Skew-Higher-Despite-China-Demand-Weakness---FJElite.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:51:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 골드만삭스, “중국 수요 부진에도 불구하고 유가 상승 위험 요인은 여전히 우세” - FJElite"
+  },
+  {
+    "guid": "9687142",
+    "title": "FinancialJuice: USTR Greer: We want issues fixed",
+    "link": "https://www.financialjuice.com/News/9687142/USTR-Greer-We-want-issues-fixed.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:51:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: “문제점들이 해결되기를 바란다”"
+  },
+  {
+    "guid": "9687141",
+    "title": "FinancialJuice: USTR Greer: We have good relationships with Canadian counterparts.",
+    "link": "https://www.financialjuice.com/News/9687141/USTR-Greer-We-have-good-relationships-with-Canadian-counterparts.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:50:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: “우리는 캐나다 측 관계자들과 좋은 관계를 유지하고 있습니다.”"
+  },
+  {
+    "guid": "9687140",
+    "title": "FinancialJuice: USTR Greer on Canada: We've been asking Canadians for a year to remove retaliation to Trump's tariffs.",
+    "link": "https://www.financialjuice.com/News/9687140/USTR-Greer-on-Canada-Weve-been-asking-Canadians-for-a-year-to-remove-retaliation-to-Trumps-tariffs.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:50:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표의 캐나다 관련 발언: “우리는 지난 1년 동안 캐나다 측에 트럼프 행정부의 관세에 대한 보복 조치를 철회해 줄 것을 요청해 왔다.”"
+  },
+  {
+    "guid": "9687139",
+    "title": "FinancialJuice: USTR's Greer on Canada trade: Canada gives other countries better deals - CNBC",
+    "link": "https://www.financialjuice.com/News/9687139/USTRs-Greer-on-Canada-trade-Canada-gives-other-countries-better-deals---CNBC.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:48:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 무역대표부(USTR) 그리어 대표, 캐나다 무역 관련 발언: “캐나다는 다른 국가들에 더 유리한 조건을 제시한다” - CNBC"
+  },
+  {
+    "guid": "9687138",
+    "title": "FinancialJuice: USTR Greer on Canada Trade: Action is tailored.",
+    "link": "https://www.financialjuice.com/News/9687138/USTR-Greer-on-Canada-Trade-Action-is-tailored.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:48:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표, 캐나다 무역 문제에 대해 “조치는 상황에 맞춰 조정된다”고 밝혔다."
+  },
+  {
+    "guid": "9687137",
+    "title": "FinancialJuice: Bank of America: Treasury Positioning Still Leans Toward Higher Rates - FJElite",
+    "link": "https://www.financialjuice.com/News/9687137/Bank-of-America-Treasury-Positioning-Still-Leans-Toward-Higher-Rates---FJElite.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:47:48 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 뱅크 오브 아메리카: 국채 포지션은 여전히 금리 상승을 시사 - FJElite"
+  },
+  {
+    "guid": "9687133",
+    "title": "FinancialJuice: Putin to visit China for APEC summit November 18-19th - TASS",
+    "link": "https://www.financialjuice.com/News/9687133/Putin-to-visit-China-for-APEC-summit-November-18-19th---TASS.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:46:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 푸틴, 11월 18~19일 APEC 정상회의를 위해 중국 방문 예정 - 타스"
+  },
+  {
+    "guid": "9687132",
+    "title": "FinancialJuice: US Sentiment: The AI Yo-Yo Trade Ahead of Earnings + Geopolitics Back in Focus - FJElite",
+    "link": "https://www.financialjuice.com/News/9687132/US-Sentiment-The-AI-Yo-Yo-Trade-Ahead-of-Earnings--Geopolitics-Back-in-Focus---FJElite.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:45:43 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 실적 발표를 앞둔 AI 요요 현상 + 다시 주목받는 지정학적 요인 - FJElite"
+  },
+  {
+    "guid": "9687128",
+    "title": "FinancialJuice: Two oil tankers laden with Saudi crude make u-turns in Red Sea, head for Suez - Data",
+    "link": "https://www.financialjuice.com/News/9687128/Two-oil-tankers-laden-with-Saudi-crude-make-u-turns-in-Red-Sea-head-for-Suez---Data.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:44:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 원유를 실은 유조선 2척, 홍해에서 방향을 돌려 수에즈로 향하고 있다 - 자료"
+  },
+  {
+    "guid": "9687122",
+    "title": "FinancialJuice: Microsoft and Mistral to expand AI infrastructure in Europe.",
+    "link": "https://www.financialjuice.com/News/9687122/Microsoft-and-Mistral-to-expand-AI-infrastructure-in-Europe.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:32:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마이크로소프트와 미스트랄, 유럽 내 AI 인프라 확충에 나선다."
+  },
+  {
+    "guid": "9687100",
+    "title": "FinancialJuice: Lebanese Army: Israeli troops fired in the vicinity of its units",
+    "link": "https://www.financialjuice.com/News/9687100/Lebanese-Army-Israeli-troops-fired-in-the-vicinity-of-its-units.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:24:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 레바논군: 이스라엘군이 자국 부대 인근에서 발포했다"
+  },
+  {
+    "guid": "9687099",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: I think we're at 1-yard line on Clarity Act in Senate..",
+    "link": "https://www.financialjuice.com/News/9687099/US-Treasury-Secretary-Bessent-I-think-were-at-1-yard-line-on-Clarity-Act-in-Senate.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:22:09 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 상원에서 ‘클라리티 법안(Clarity Act)’이 이제 1야드 라인에 도달한 것 같습니다..."
+  },
+  {
+    "guid": "9687098",
+    "title": "FinancialJuice: US Treasury Secretary Bessent, on US government funding: We don't need another shutdown - FBN\n",
+    "link": "https://www.financialjuice.com/News/9687098/US-Treasury-Secretary-Bessent-on-US-government-funding-We-dont-need-another-shutdown---FBN.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:21:07 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관, 미국 정부 예산 문제와 관련해 “또 다른 정부 셧다운은 필요 없다” - FBN\n"
+  },
+  {
+    "guid": "9687097",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Canada is highly discriminatory on dairy, alcohol, and drinks",
+    "link": "https://www.financialjuice.com/News/9687097/US-Treasury-Secretary-Bessent-Canada-is-highly-discriminatory-on-dairy-alcohol-and-drinks.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:19:34 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 캐나다는 유제품, 주류 및 음료 분야에서 극심한 차별을 하고 있다"
+  },
+  {
+    "guid": "9687096",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on Canada Trade: This is just reciprocity..",
+    "link": "https://www.financialjuice.com/News/9687096/US-Treasury-Secretary-Bessent-on-Canada-Trade-This-is-just-reciprocity.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:19:18 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관, 캐나다와의 무역에 대해 “이는 단지 상호주의일 뿐입니다…”"
+  },
+  {
+    "guid": "9687095",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: COVID was a supply-chain test for a great power conflict",
+    "link": "https://www.financialjuice.com/News/9687095/US-Treasury-Secretary-Bessent-COVID-was-a-supply-chain-test-for-a-great-power-conflict.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:18:56 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관 “코로나19는 강대국 간 갈등에 대한 공급망 시험대였다”"
+  },
+  {
+    "guid": "9687094",
+    "title": "FinancialJuice: Fed to hold Fed Funds Rate at 3.50%-3.75% on July 29, said all 104 economists. Fed to hold fed funds rate steady at 3.50%-3.75% in 2026, said 78 of 104 economists - Poll.",
+    "link": "https://www.financialjuice.com/News/9687094/Fed-to-hold-Fed-Funds-Rate-at-350-375-on-July-29-said-all-104-economists-Fed-to-hold-fed-funds-rate-steady-at-350-375-in-2026-said-78-of-104-economists---Poll.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:18:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 104명의 경제학자 전원이 7월 29일 연준이 연방기금 금리를 3.50%~3.75%로 동결할 것이라고 전망했다. 104명의 경제학자 중 78명은 2026년에도 연준이 연방기금 금리를 3.50%~3.75%로 동결할 것이라고 전망했다 - 설문조사 결과."
+  },
+  {
+    "guid": "9687093",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: With government stakes in companies, we are trying to create market signals",
+    "link": "https://www.financialjuice.com/News/9687093/US-Treasury-Secretary-Bessent-With-government-stakes-in-companies-we-are-trying-to-create-market-signals.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:17:53 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 정부가 기업에 지분을 보유함으로써 시장 신호를 창출하고자 노력하고 있다"
+  },
+  {
+    "guid": "9687077",
+    "title": "FinancialJuice: US Treasury Secretary Besseent on the economy: 3% growth is not unreasonable for the second half of 2026 - Fox Business Network interview",
+    "link": "https://www.financialjuice.com/News/9687077/US-Treasury-Secretary-Besseent-on-the-economy-3-growth-is-not-unreasonable-for-the-second-half-of-2026---Fox-Business-Network-interview.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:16:09 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관의 경제 전망: 2026년 하반기 3% 성장률은 무리가 아니다 - 폭스 비즈니스 네트워크 인터뷰"
+  },
+  {
+    "guid": "9687076",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Underlying US economy very strong, core prices stable",
+    "link": "https://www.financialjuice.com/News/9687076/US-Treasury-Secretary-Bessent-Underlying-US-economy-very-strong-core-prices-stable.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:15:33 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 미국 경제의 기초 체력은 매우 탄탄하며, 핵심 물가는 안정적"
+  },
+  {
+    "guid": "9687072",
+    "title": "FinancialJuice: US ADP Wkly Employment Change Actual 16.5k (Forecast -, Previous 19.75k)",
+    "link": "https://www.financialjuice.com/News/9687072/US-ADP-Wkly-Employment-Change-Actual-165k-Forecast---Previous-1975k.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:15:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ADP 주간 고용 변화 실적이 16.5k를 기록했습니다 (예상치 -, 전주 19.75k)."
+  },
+  {
+    "guid": "9687071",
+    "title": "FinancialJuice: US Treasury Secretary Bessent, on AI models: You can't use counterfeit goods",
+    "link": "https://www.financialjuice.com/News/9687071/US-Treasury-Secretary-Bessent-on-AI-models-You-cant-use-counterfeit-goods.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:13:36 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관, AI 모델에 관해: 위조품은 사용할 수 없다"
+  },
+  {
+    "guid": "9687070",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: We are creating competitors",
+    "link": "https://www.financialjuice.com/News/9687070/US-Treasury-Secretary-Bessent-We-are-creating-competitors.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:12:20 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: “우리는 경쟁사를 만들어내고 있다”"
+  },
+  {
+    "guid": "9687069",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on AI: Starting to see emergence of US open source models.",
+    "link": "https://www.financialjuice.com/News/9687069/US-Treasury-Secretary-Bessent-on-AI-Starting-to-see-emergence-of-US-open-source-models.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:12:19 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관의 AI 관련 발언: 미국산 오픈소스 모델들이 등장하기 시작하고 있다."
+  },
+  {
+    "guid": "9687068",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: The question is, are China models using stolen materials?",
+    "link": "https://www.financialjuice.com/News/9687068/US-Treasury-Secretary-Bessent-The-question-is-are-China-models-using-stolen-materials.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:11:46 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: “문제는 중국의 모델들이 도난당한 자료를 사용하고 있는지 여부다.”"
+  },
+  {
+    "guid": "9687067",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on AI: China models need to be held to same standards.",
+    "link": "https://www.financialjuice.com/News/9687067/US-Treasury-Secretary-Bessent-on-AI-China-models-need-to-be-held-to-same-standards.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:11:18 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관, AI 관련 발언: 중국산 모델도 동일한 기준을 적용받아야 한다."
+  },
+  {
+    "guid": "9687066",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Going to be looking at China models in the coming days and weeks",
+    "link": "https://www.financialjuice.com/News/9687066/US-Treasury-Secretary-Bessent-Going-to-be-looking-at-China-models-in-the-coming-days-and-weeks.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:10:19 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 앞으로 며칠에서 몇 주 동안 중국의 사례를 검토할 예정"
+  },
+  {
+    "guid": "9687065",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on AI: We are finding US 'watermarks' on Chinese models",
+    "link": "https://www.financialjuice.com/News/9687065/US-Treasury-Secretary-Bessent-on-AI-We-are-finding-US-watermarks-on-Chinese-models.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:10:09 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관, AI 관련 발언: 중국 모델에서 미국의 ‘워터마크’를 발견하고 있다"
+  },
+  {
+    "guid": "9687064",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: We can sanction any open AI models if they do IP theft",
+    "link": "https://www.financialjuice.com/News/9687064/US-Treasury-Secretary-Bessent-We-can-sanction-any-open-AI-models-if-they-do-IP-theft.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:09:38 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: “공개 AI 모델이 지적재산권을 침해할 경우 제재를 가할 수 있다”"
+  },
+  {
+    "guid": "9687063",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Have seen talk of open-source AI models threatening the US. The US supports open-source models but not IP theft",
+    "link": "https://www.financialjuice.com/News/9687063/US-Treasury-Secretary-Bessent-Have-seen-talk-of-open-source-AI-models-threatening-the-US-The-US-supports-open-source-models-but-not-IP-theft.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:09:31 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 오픈소스 AI 모델이 미국에 위협이 된다는 주장이 제기된 것을 확인했다. 미국은 오픈소스 모델을 지지하지만 지적재산권 침해는 용납하지 않는다"
+  },
+  {
+    "guid": "9687062",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on Iran, China: Have seen a substantial decrease in purchases of Iranian oil",
+    "link": "https://www.financialjuice.com/News/9687062/US-Treasury-Secretary-Bessent-on-Iran-China-Have-seen-a-substantial-decrease-in-purchases-of-Iranian-oil.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:07:31 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관, 이란·중국 관련 발언: 이란산 원유 구매량이 상당히 감소한 것으로 확인됐다"
+  },
+  {
+    "guid": "9687061",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: China has dropped purchases of Iranian crude by around 40%",
+    "link": "https://www.financialjuice.com/News/9687061/US-Treasury-Secretary-Bessent-China-has-dropped-purchases-of-Iranian-crude-by-around-40.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:07:22 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 중국, 이란산 원유 구매량을 약 40% 줄였다"
+  },
+  {
+    "guid": "9687060",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Tracking ayatollah properties, hopes to show addresses",
+    "link": "https://www.financialjuice.com/News/9687060/US-Treasury-Secretary-Bessent-Tracking-ayatollah-properties-hopes-to-show-addresses.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:06:42 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 아야톨라의 자산 추적 중, 주소 공개를 희망"
+  },
+  {
+    "guid": "9687058",
+    "title": "FinancialJuice: Japan considers adding several hundred billion yen from reserve funds for gasoline subsidies through October as financing runs short - Kyodo News",
+    "link": "https://www.financialjuice.com/News/9687058/Japan-considers-adding-several-hundred-billion-yen-from-reserve-funds-for-gasoline-subsidies-through-October-as-financing-runs-short---Kyodo-News.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:06:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 자금 부족으로 인해 일본, 10월까지 휘발유 보조금 지원에 예비 기금에서 수천억 엔 추가 투입 검토 - 교도통신"
+  },
+  {
+    "guid": "9687057",
+    "title": "FinancialJuice: Japan government considers raising gasoline subsidy threshold to 175 yen per liter in September from current 170 Yen, Kyodo News",
+    "link": "https://www.financialjuice.com/News/9687057/Japan-government-considers-raising-gasoline-subsidy-threshold-to-175-yen-per-liter-in-September-from-current-170-Yen-Kyodo-News.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:06:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 교도통신에 따르면, 일본 정부가 9월부터 휘발유 보조금 지급 기준을 현재 리터당 170엔에서 175엔으로 인상하는 방안을 검토하고 있다."
+  },
+  {
+    "guid": "9687056",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: We froze $130m crypto wallet tied to Iran's IRGC",
+    "link": "https://www.financialjuice.com/News/9687056/US-Treasury-Secretary-Bessent-We-froze-130m-crypto-wallet-tied-to-Irans-IRGC.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:05:26 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: “이란 혁명수비대(IRGC)와 연계된 1억 3천만 달러 상당의 암호화폐 지갑을 동결했다”"
+  },
+  {
+    "guid": "9687054",
+    "title": "FinancialJuice: Redfin reports US home prices rose 0.3% from a month earlier in June",
+    "link": "https://www.financialjuice.com/News/9687054/Redfin-reports-US-home-prices-rose-03-from-a-month-earlier-in-June.aspx",
+    "pubDate": "Tue, 21 Jul 2026 12:02:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 레드핀(Redfin)에 따르면 6월 미국 주택 가격은 전월 대비 0.3% 상승했다"
+  },
+  {
+    "guid": "9687035",
+    "title": "FinancialJuice: Secured Overnight Financing Rate 3.57% July 20 vs 3.59% July 17",
+    "link": "https://www.financialjuice.com/News/9687035/Secured-Overnight-Financing-Rate-357-July-20-vs-359-July-17.aspx",
+    "pubDate": "Tue, 21 Jul 2026 11:59:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 담보부 일일 자금조달 금리, 7월 20일 3.57% (7월 17일 3.59% 대비)"
+  },
+  {
+    "guid": "9687034",
+    "title": "FinancialJuice: German Chancellor Merz: Wants to intensify cooperation with Azerbaijan in the coming years, particularly on energy",
+    "link": "https://www.financialjuice.com/News/9687034/German-Chancellor-Merz-Wants-to-intensify-cooperation-with-Azerbaijan-in-the-coming-years-particularly-on-energy.aspx",
+    "pubDate": "Tue, 21 Jul 2026 11:59:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 메르츠 독일 총리, 향후 몇 년간 아제르바이잔과의 협력, 특히 에너지 분야 협력을 강화하고자 함"
+  },
+  {
+    "guid": "9687033",
+    "title": "FinancialJuice: German Chancellor Merz: Spoke with the Azerbaijani president about gas and oil supplies",
+    "link": "https://www.financialjuice.com/News/9687033/German-Chancellor-Merz-Spoke-with-the-Azerbaijani-president-about-gas-and-oil-supplies.aspx",
+    "pubDate": "Tue, 21 Jul 2026 11:47:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 메르츠 독일 총리, 아제르바이잔 대통령과 가스 및 석유 공급 문제에 대해 논의"
+  },
+  {
+    "guid": "9686998",
+    "title": "FinancialJuice: $SCHW Charles Schwab Q2 Earnings",
+    "link": "https://www.financialjuice.com/News/9686998/SCHW-Charles-Schwab-Q2-Earnings.aspx",
+    "pubDate": "Tue, 21 Jul 2026 11:30:52 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: $SCHW 찰스 슈왑 2분기 실적"
+  },
+  {
+    "guid": "9686986",
+    "title": "FinancialJuice: EU and Oman sign establishment agreement for Muscat EU delegation",
+    "link": "https://www.financialjuice.com/News/9686986/EU-and-Oman-sign-establishment-agreement-for-Muscat-EU-delegation.aspx",
+    "pubDate": "Tue, 21 Jul 2026 11:07:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU와 오만, 무스카트 주재 EU 대표부 설립 협정 체결"
+  },
+  {
+    "guid": "9686959",
+    "title": "FinancialJuice: Kazakhstan to stop piping oil to black sea after tanker attacks",
+    "link": "https://www.financialjuice.com/News/9686959/Kazakhstan-to-stop-piping-oil-to-black-sea-after-tanker-attacks.aspx",
+    "pubDate": "Tue, 21 Jul 2026 10:54:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카자흐스탄, 유조선 공격 사태로 흑해로의 원유 수송 중단"
+  },
+  {
+    "guid": "9686958",
+    "title": "FinancialJuice: Yemen's Houthis warn shipping companies to avoid loading or discharging at Saudi ports — Email sent to companies",
+    "link": "https://www.financialjuice.com/News/9686958/Yemens-Houthis-warn-shipping-companies-to-avoid-loading-or-discharging-at-Saudi-ports--Email-sent-to-companies.aspx",
+    "pubDate": "Tue, 21 Jul 2026 10:47:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 후티 반군, 해운사들에 사우디 항구에서의 하역 작업을 피할 것을 경고 — 관련 이메일 해운사들에 발송"
+  },
+  {
+    "guid": "9686938",
+    "title": "FinancialJuice: Mideast escalation increases oil supply concerns - IEA.",
+    "link": "https://www.financialjuice.com/News/9686938/Mideast-escalation-increases-oil-supply-concerns---IEA.aspx",
+    "pubDate": "Tue, 21 Jul 2026 10:43:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중동 사태 악화로 원유 공급 우려 고조 - IEA."
+  },
+  {
+    "guid": "9686937",
+    "title": "FinancialJuice: Oil markets still benefit from several cushioning factors - IEA",
+    "link": "https://www.financialjuice.com/News/9686937/Oil-markets-still-benefit-from-several-cushioning-factors---IEA.aspx",
+    "pubDate": "Tue, 21 Jul 2026 10:43:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 석유 시장은 여전히 여러 가지 완충 요인의 혜택을 받고 있다 - IEA"
+  },
+  {
+    "guid": "9686936",
+    "title": "FinancialJuice: $MMM 3M Q2 Earnings",
+    "link": "https://www.financialjuice.com/News/9686936/MMM-3M-Q2-Earnings.aspx",
+    "pubDate": "Tue, 21 Jul 2026 10:32:02 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: $MMM 2분기 실적(3개월)"
+  },
+  {
+    "guid": "9686921",
+    "title": "FinancialJuice: General Motors Q2 2026 Earnings",
+    "link": "https://www.financialjuice.com/News/9686921/General-Motors-Q2-2026-Earnings.aspx",
+    "pubDate": "Tue, 21 Jul 2026 10:30:48 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 제너럴 모터스 2026년 2분기 실적"
+  },
+  {
+    "guid": "9686910",
+    "title": "FinancialJuice: Iran official began meeting with mediators in Pakistan Tuesday - AP",
+    "link": "https://www.financialjuice.com/News/9686910/Iran-official-began-meeting-with-mediators-in-Pakistan-Tuesday---AP.aspx",
+    "pubDate": "Tue, 21 Jul 2026 10:10:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 관리, 화요일 파키스탄에서 중재자들과 회담 시작 - AP"
+  },
+  {
+    "guid": "9686909",
+    "title": "FinancialJuice: Russia's Novak: Fuel market partly stabilised",
+    "link": "https://www.financialjuice.com/News/9686909/Russias-Novak-Fuel-market-partly-stabilised.aspx",
+    "pubDate": "Tue, 21 Jul 2026 10:10:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 노박 장관 “연료 시장 부분적으로 안정화됐다”"
+  },
+  {
+    "guid": "9686907",
+    "title": "FinancialJuice: The US and China to hold  AI talks in September. US Treasury Secretary Bessent to lead US delegation - Sources",
+    "link": "https://www.financialjuice.com/News/9686907/The-US-and-China-to-hold--AI-talks-in-September-US-Treasury-Secretary-Bessent-to-lead-US-delegation---Sources.aspx",
+    "pubDate": "Tue, 21 Jul 2026 10:02:15 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국과 중국, 9월 AI 회담 개최 예정. 베센트 미국 재무장관이 미국 대표단을 이끌 예정 - 소식통"
+  },
+  {
+    "guid": "9686895",
+    "title": "FinancialJuice: Russia bans anchoring of vessels in places not protected by air defences in the ports of Azov in the Azov Sea and the port of Kavkaz in the Kerch Strait - Government decree",
+    "link": "https://www.financialjuice.com/News/9686895/Russia-bans-anchoring-of-vessels-in-places-not-protected-by-air-defences-in-the-ports-of-Azov-in-the-Azov-Sea-and-the-port-of-Kavkaz-in-the-Kerch-Strait---Government-decree.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:57:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아, 아조프해의 아조프 항구와 케르치 해협의 카프카스 항구에서 방공 체계의 보호를 받지 않는 구역에 선박 정박 금지 - 정부령"
+  },
+  {
+    "guid": "9686875",
+    "title": "FinancialJuice: Russian Defence Ministry: Russian troops capture Volokhivske in Ukraine's Kharkiv region - RIA",
+    "link": "https://www.financialjuice.com/News/9686875/Russian-Defence-Ministry-Russian-troops-capture-Volokhivske-in-Ukraines-Kharkiv-region---RIA.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:45:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 국방부, “러시아군이 우크라이나 하르키우 주의 볼로히브스케를 점령했다” - RIA"
+  },
+  {
+    "guid": "9686874",
+    "title": "FinancialJuice: Russian defence ministry: Russian troops target infrastructure used by Ukrainian military in Ukraine's Odesa port - IFX",
+    "link": "https://www.financialjuice.com/News/9686874/Russian-defence-ministry-Russian-troops-target-infrastructure-used-by-Ukrainian-military-in-Ukraines-Odesa-port---IFX.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:44:36 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아 국방부: 러시아군이 우크라이나 오데사 항구에서 우크라이나 군이 사용하는 인프라를 공격 - IFX"
+  },
+  {
+    "guid": "9686873",
+    "title": "FinancialJuice: Russian army launched fresh strike on Ukraine's Odesa port: IFX",
+    "link": "https://www.financialjuice.com/News/9686873/Russian-army-launched-fresh-strike-on-Ukraines-Odesa-port-IFX.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:44:11 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아군이 우크라이나 오데사 항구에 새로운 공격을 감행했다: IFX"
+  },
+  {
+    "guid": "9686872",
+    "title": "FinancialJuice: BoE: £7.36 billion allocated in six-month ILTR operation",
+    "link": "https://www.financialjuice.com/News/9686872/BoE-736-billion-allocated-in-six-month-ILTR-operation.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:40:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE), 6개월간 ILTR 운영을 통해 73억 6천만 파운드 배정"
+  },
+  {
+    "guid": "9686870",
+    "title": "FinancialJuice: Kremlin: Russia will keep targeting ships supplying Ukrainian forces",
+    "link": "https://www.financialjuice.com/News/9686870/Kremlin-Russia-will-keep-targeting-ships-supplying-Ukrainian-forces.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:36:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 크렘린: 러시아, 우크라이나군에 물자를 공급하는 선박을 계속 표적으로 삼을 것"
+  },
+  {
+    "guid": "9686868",
+    "title": "FinancialJuice: German 5 Yr Bobl Yield Actual 2.89% (Forecast -, Previous 2.64%)",
+    "link": "https://www.financialjuice.com/News/9686868/German-5-Yr-Bobl-Yield-Actual-289-Forecast---Previous-264.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:34:51 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 독일 5년물 Bobl 수익률, 실제 2.89% (예상 -, 이전 2.64%)"
+  },
+  {
+    "guid": "9686867",
+    "title": "FinancialJuice: German 5 Yr Bobl Bid-to-Cover Actual 1.5 (Forecast -, Previous 1.6)",
+    "link": "https://www.financialjuice.com/News/9686867/German-5-Yr-Bobl-Bid-to-Cover-Actual-15-Forecast---Previous-16.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:34:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 5년물 Bobl 입찰 경쟁률 실제 1.5 (예상 -, 이전 1.6)"
+  },
+  {
+    "guid": "9686866",
+    "title": "FinancialJuice: Germany auctions 5-year Bobl with average yield 2.89% below 2.64% pre-sale guidance: Buba",
+    "link": "https://www.financialjuice.com/News/9686866/Germany-auctions-5-year-Bobl-with-average-yield-289-below-264-pre-sale-guidance-Buba.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:33:53 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 독일, 5년 만기 Bobl 경매 실시…평균 수익률 2.89%로, 사전 예상치 2.64% 하회: 독일연방은행(Buba)"
+  },
+  {
+    "guid": "9686865",
+    "title": "FinancialJuice: Germany sells €4.553 billion in auction of new 2.90% 5-year Bobl: Buba",
+    "link": "https://www.financialjuice.com/News/9686865/Germany-sells-4553-billion-in-auction-of-new-290-5-year-Bobl-Buba.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:33:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일, 2.90% 금리 5년 만기 신규 Bobl 경매에서 45억 5,300만 유로 규모 매각: 독일 연방은행(Buba)"
+  },
+  {
+    "guid": "9686864",
+    "title": "FinancialJuice: Germany issues 5-year Bobl with bid-to-cover ratio 1.5, pvs 1.6 - Buba",
+    "link": "https://www.financialjuice.com/News/9686864/Germany-issues-5-year-Bobl-with-bid-to-cover-ratio-15-pvs-16---Buba.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:33:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일, 입찰 경쟁률 1.5배(이전 1.6배)로 5년 만기 Bobl 발행 - 독일연방은행(Buba)"
+  },
+  {
+    "guid": "9686863",
+    "title": "FinancialJuice: Melia to evaluate financial effects of Cuba exit in first half 2026",
+    "link": "https://www.financialjuice.com/News/9686863/Melia-to-evaluate-financial-effects-of-Cuba-exit-in-first-half-2026.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:33:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 멜리아, 2026년 상반기 중 쿠바 사업 철수 시 재정적 영향 평가 예정"
+  },
+  {
+    "guid": "9686862",
+    "title": "FinancialJuice: Uganda Airlines to buy 4 737-8 and 4 787-9 planes from Boeing",
+    "link": "https://www.financialjuice.com/News/9686862/Uganda-Airlines-to-buy-4-737-8-and-4-787-9-planes-from-Boeing.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:32:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 우간다 항공, 보잉으로부터 737-8 4대와 787-9 4대 구매 예정"
+  },
+  {
+    "guid": "9686861",
+    "title": "FinancialJuice: Melia unit Ilha Bela to leave Cuba hotel management",
+    "link": "https://www.financialjuice.com/News/9686861/Melia-unit-Ilha-Bela-to-leave-Cuba-hotel-management.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:32:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 멜리아 계열사 일하 벨라, 쿠바 호텔 운영 사업에서 철수"
+  },
+  {
+    "guid": "9686840",
+    "title": "FinancialJuice: UK 3 Yr Gilt Bid-to-Cover Actual 3.42 (Forecast -, Previous 3.61)",
+    "link": "https://www.financialjuice.com/News/9686840/UK-3-Yr-Gilt-Bid-to-Cover-Actual-342-Forecast---Previous-361.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:03:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 3년물 국채 입찰 경쟁률(실제) 3.42 (예상 -, 이전 3.61)"
+  },
+  {
+    "guid": "9686839",
+    "title": "FinancialJuice: UK 3 Yr Gilt Yield Actual 4.463% (Forecast -, Previous 4.062%)",
+    "link": "https://www.financialjuice.com/News/9686839/UK-3-Yr-Gilt-Yield-Actual-4463-Forecast---Previous-4062.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:03:47 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 영국 3년물 국채 수익률, 실제 4.463% (예상 -, 이전 4.062%)"
+  },
+  {
+    "guid": "9686804",
+    "title": "FinancialJuice: German ZEW Economic Sentiment Actual 26.3 (Forecast 15.3, Previous 10.5)",
+    "link": "https://www.financialjuice.com/News/9686804/German-ZEW-Economic-Sentiment-Actual-263-Forecast-153-Previous-105.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:00:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 ZEW 경제 심리지수 실제치 26.3 (예상치 15.3, 전월치 10.5)"
+  },
+  {
+    "guid": "9686805",
+    "title": "FinancialJuice: German ZEW Current Conditions Actual -77.6 (Forecast -77.7, Previous -81.0)",
+    "link": "https://www.financialjuice.com/News/9686805/German-ZEW-Current-Conditions-Actual--776-Forecast--777-Previous--810.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 ZEW 현 상황 지수 실제치 -77.6 (예상치 -77.7, 전월치 -81.0)"
+  },
+  {
+    "guid": "9686803",
+    "title": "FinancialJuice: Eurozone ZEW Survey Expectations Actual 23.4 (Forecast -, Previous 9.5)",
+    "link": "https://www.financialjuice.com/News/9686803/Eurozone-ZEW-Survey-Expectations-Actual-234-Forecast---Previous-95.aspx",
+    "pubDate": "Tue, 21 Jul 2026 09:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 ZEW 조사, 기대치 대비 실제치 23.4 (예상치 -, 이전치 9.5)"
+  },
+  {
+    "guid": "9686783",
+    "title": "FinancialJuice: ING: The GBP - FJElite",
+    "link": "https://www.financialjuice.com/News/9686783/ING-The-GBP---FJElite.aspx",
+    "pubDate": "Tue, 21 Jul 2026 08:44:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ING: GBP - FJElite"
+  },
+  {
+    "guid": "9686782",
+    "title": "FinancialJuice: Credit Ágricole: Weekly FX Positions - FJElite",
+    "link": "https://www.financialjuice.com/News/9686782/Credit-%c3%81gricole-Weekly-FX-Positions---FJElite.aspx",
+    "pubDate": "Tue, 21 Jul 2026 08:34:50 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 크레디 아그리콜: 주간 외환 포지션 - FJElite"
+  },
+  {
+    "guid": "9686761",
+    "title": "FinancialJuice: TSMC to raise chipmaking prices by up to 10% from 2027 - Nikkei",
+    "link": "https://www.financialjuice.com/News/9686761/TSMC-to-raise-chipmaking-prices-by-up-to-10-from-2027---Nikkei.aspx",
+    "pubDate": "Tue, 21 Jul 2026 08:29:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: TSMC, 2027년부터 반도체 제조 가격 최대 10% 인상 예정 - 닛케이"
+  },
+  {
+    "guid": "9686751",
+    "title": "FinancialJuice: Europe Sentiment: Rout in Chipmakers Pauses - FJElite",
+    "link": "https://www.financialjuice.com/News/9686751/Europe-Sentiment-Rout-in-Chipmakers-Pauses---FJElite.aspx",
+    "pubDate": "Tue, 21 Jul 2026 08:15:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽 시장 심리: 반도체 업체들의 급락세 일시 주춤 - FJElite"
+  },
+  {
+    "guid": "9686727",
+    "title": "FinancialJuice: ECB Survey: Banks see further tightening in credit standards across all loan categories.",
+    "link": "https://www.financialjuice.com/News/9686727/ECB-Survey-Banks-see-further-tightening-in-credit-standards-across-all-loan-categories.aspx",
+    "pubDate": "Tue, 21 Jul 2026 08:01:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 설문조사: 은행들은 모든 대출 부문에서 신용 기준이 더욱 강화될 것으로 전망하고 있다."
+  },
+  {
+    "guid": "9686726",
+    "title": "FinancialJuice: ECB Survey: Housing loan demand fell sharply in Q2 and further drop seen in Q3.",
+    "link": "https://www.financialjuice.com/News/9686726/ECB-Survey-Housing-loan-demand-fell-sharply-in-Q2-and-further-drop-seen-in-Q3.aspx",
+    "pubDate": "Tue, 21 Jul 2026 08:01:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 설문조사: 2분기 주택대출 수요가 급감했으며, 3분기에는 추가 감소가 예상된다."
+  },
+  {
+    "guid": "9686725",
+    "title": "FinancialJuice: ECB Survey: Corporate loan demand rose in Q2 but share of rejected loan applications increased.",
+    "link": "https://www.financialjuice.com/News/9686725/ECB-Survey-Corporate-loan-demand-rose-in-Q2-but-share-of-rejected-loan-applications-increased.aspx",
+    "pubDate": "Tue, 21 Jul 2026 08:01:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 설문조사: 2분기 기업 대출 수요는 증가했으나 대출 신청 거절 비율은 높아졌다."
+  },
+  {
+    "guid": "9686724",
+    "title": "FinancialJuice: ECB's Lending Survey: Euro zone banks tightened credit standards in Q2 on geopolitical, energy price concerns.",
+    "link": "https://www.financialjuice.com/News/9686724/ECBs-Lending-Survey-Euro-zone-banks-tightened-credit-standards-in-Q2-on-geopolitical-energy-price-concerns.aspx",
+    "pubDate": "Tue, 21 Jul 2026 08:00:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 대출 조사: 유로존 은행들이 지정학적 우려와 에너지 가격 상승에 대한 우려로 2분기에 대출 기준을 강화했다."
+  },
+  {
     "guid": "9686711",
     "title": "FinancialJuice: JPMorgan, others to help finance Japan $550b US investment.",
     "link": "https://www.financialjuice.com/News/9686711/JPMorgan-others-to-help-finance-Japan-550b-US-investment.aspx",
