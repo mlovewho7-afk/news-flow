@@ -1,5 +1,549 @@
 [
   {
+    "guid": "9686711",
+    "title": "FinancialJuice: JPMorgan, others to help finance Japan $550b US investment.",
+    "link": "https://www.financialjuice.com/News/9686711/JPMorgan-others-to-help-finance-Japan-550b-US-investment.aspx",
+    "pubDate": "Tue, 21 Jul 2026 07:42:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: JP모건 등, 일본의 5,500억 달러 규모 미국 투자 자금 조달 지원."
+  },
+  {
+    "guid": "9686688",
+    "title": "FinancialJuice: Japan's Dep. Chief Cabinet Sec. Kihara: The specifics of monetary policy should be left to the BoJ",
+    "link": "https://www.financialjuice.com/News/9686688/Japans-Dep-Chief-Cabinet-Sec-Kihara-The-specifics-of-monetary-policy-should-be-left-to-the-BoJ.aspx",
+    "pubDate": "Tue, 21 Jul 2026 07:22:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 기하라 일본 내각부 차관: 통화정책의 구체적인 내용은 일본은행에 맡겨야 한다"
+  },
+  {
+    "guid": "9686664",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: NZD, AUD, GBP, EUR, CAD, CHF, USD, JPY - Weakest",
+    "link": "https://www.financialjuice.com/News/9686664/Currency-Strength-Chart-Strongest-NZD-AUD-GBP-EUR-CAD-CHF-USD-JPY---Weakest.aspx",
+    "pubDate": "Tue, 21 Jul 2026 07:01:30 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: NZD, AUD, GBP, EUR, CAD, CHF, USD, JPY - 가장 약한 통화"
+  },
+  {
+    "guid": "9686645",
+    "title": "FinancialJuice: Naftogaz: Russia hit gas production in Kharkiv region on Monday",
+    "link": "https://www.financialjuice.com/News/9686645/Naftogaz-Russia-hit-gas-production-in-Kharkiv-region-on-Monday.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:40:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 나프토가즈: 러시아, 월요일 하르키우 주에서 천연가스 생산 시설을 공격했다"
+  },
+  {
+    "guid": "9686628",
+    "title": "FinancialJuice: Lebanese troops began deployment after Israeli troops left - Lebanese security official",
+    "link": "https://www.financialjuice.com/News/9686628/Lebanese-troops-began-deployment-after-Israeli-troops-left---Lebanese-security-official.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:23:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘군이 철수한 후 레바논군이 배치에 착수했다 - 레바논 보안 당국자"
+  },
+  {
+    "guid": "9686627",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9686627/SNB-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:21:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9686626",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9686626/RBNZ-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:20:48 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9686625",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9686625/RBA-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:20:33 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9686624",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9686624/BoJ-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:20:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9686623",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9686623/BoC-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:19:59 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9686622",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9686622/BoE-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:19:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9686621",
+    "title": "FinancialJuice: ECB interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9686621/ECB-interest-Rate-Probabilities.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:19:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9686620",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9686620/Fed-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:19:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9686619",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9686619/Commodities-Implied-Volatility.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:18:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9686618",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9686618/FX-Implied-Volatility.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:18:16 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시장 내재 변동성"
+  },
+  {
+    "guid": "9686617",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9686617/US-Index-Futures-Implied-Volatility.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:17:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9686616",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9686616/Top-SP-500-Stock-Names-Implied-Volatility.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:17:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9686603",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9686603/120-Day-Correlation-Matrix.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:16:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9686601",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9686601/90-Day-Correlation-Matrix.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:16:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9686600",
+    "title": "FinancialJuice: Iran's Fars news agency, citing a military Source: Any decision to reopen the Strait of Hormuz depends on security considerations.",
+    "link": "https://www.financialjuice.com/News/9686600/Irans-Fars-news-agency-citing-a-military-Source-Any-decision-to-reopen-the-Strait-of-Hormuz-depends-on-security-considerations.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:16:12 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이란의 파르스 통신은 군 소식통을 인용해, 호르무즈 해협 재개방에 대한 모든 결정은 안보적 고려 사항에 달려 있다고 보도했다."
+  },
+  {
+    "guid": "9686599",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9686599/60-Day-Correlation-Matrix.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:16:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9686598",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9686598/30-Day-Correlation-Matrix.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:15:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9686563",
+    "title": "FinancialJuice: UK PSNB ex Banks Actual 15.989B (Forecast -, Previous 23.294B)",
+    "link": "https://www.financialjuice.com/News/9686563/UK-PSNB-ex-Banks-Actual-15989B-Forecast---Previous-23294B.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:00:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 PSNB(은행 제외) 실제 15.989B (예상 -, 이전 23.294B)"
+  },
+  {
+    "guid": "9686558",
+    "title": "FinancialJuice: Swiss Trade Balance Actual 5,224M (Forecast -, Previous 6,110M ,Revision 5,989M)",
+    "link": "https://www.financialjuice.com/News/9686558/Swiss-Trade-Balance-Actual-5224M-Forecast---Previous-6110M-Revision-5989M.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:00:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스위스 무역수지 실제치 5,224M (예상치 -, 전월치 6,110M, 수정치 5,989M)"
+  },
+  {
+    "guid": "9686562",
+    "title": "FinancialJuice: UK Average Earnings (Ex-Bonus) Actual 3.4% (Forecast 3.4%, Previous 3.4%)",
+    "link": "https://www.financialjuice.com/News/9686562/UK-Average-Earnings-Ex-Bonus-Actual-34-Forecast-34-Previous-34.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:00:04 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 영국 평균 소득(보너스 제외) 실제 3.4%(예상 3.4%, 이전 3.4%)"
+  },
+  {
+    "guid": "9686561",
+    "title": "FinancialJuice: UK Average Weekly Earnings YoY Actual 4.3% (Forecast 4.5%, Previous 4.4%)",
+    "link": "https://www.financialjuice.com/News/9686561/UK-Average-Weekly-Earnings-YoY-Actual-43-Forecast-45-Previous-44.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:00:04 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 영국 주간 평균 소득 전년 동기 대비 실제 4.3% (예상 4.5%, 이전 4.4%)"
+  },
+  {
+    "guid": "9686560",
+    "title": "FinancialJuice: UK Employment Change 3M/3M Actual 1419k (Forecast 80k, Previous 100k)",
+    "link": "https://www.financialjuice.com/News/9686560/UK-Employment-Change-3M3M-Actual-1419k-Forecast-80k-Previous-100k.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 고용 변화 (3개월 대비 3개월) 실제 141만 9천 명 (예상 8만 명, 이전 10만 명)"
+  },
+  {
+    "guid": "9686559",
+    "title": "FinancialJuice: UK Unemployment Rate Actual 4.9% (Forecast 4.9%, Previous 4.9%)",
+    "link": "https://www.financialjuice.com/News/9686559/UK-Unemployment-Rate-Actual-49-Forecast-49-Previous-49.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:00:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 실업률 실제 4.9% (예상 4.9%, 전월 4.9%)"
+  },
+  {
+    "guid": "9686557",
+    "title": "FinancialJuice: UK Employment Change SA Actual -4k (Forecast -8k, Previous 2k)",
+    "link": "https://www.financialjuice.com/News/9686557/UK-Employment-Change-SA-Actual--4k-Forecast--8k-Previous-2k.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 고용 변화 (계절 조정 후) 실제 -4k (예상 -8k, 전월 2k)"
+  },
+  {
+    "guid": "9686556",
+    "title": "FinancialJuice: UK Unemployment Change Actual 6.7k (Forecast 29.4k, Previous 31.2k)",
+    "link": "https://www.financialjuice.com/News/9686556/UK-Unemployment-Change-Actual-67k-Forecast-294k-Previous-312k.aspx",
+    "pubDate": "Tue, 21 Jul 2026 06:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 실업자 수 변동치, 실제 6.7k (예상 29.4k, 전월 31.2k)"
+  },
+  {
+    "guid": "9686544",
+    "title": "FinancialJuice: Iran's IRGC targeted US radar and aircraft in Jordan - Tasnim",
+    "link": "https://www.financialjuice.com/News/9686544/Irans-IRGC-targeted-US-radar-and-aircraft-in-Jordan---Tasnim.aspx",
+    "pubDate": "Tue, 21 Jul 2026 05:36:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대(IRGC), 요르단 내 미국 레이더 및 항공기를 공격 - 타스님"
+  },
+  {
+    "guid": "9686517",
+    "title": "FinancialJuice: Downing Street: immediate measure applies and is financed for current fiscal year",
+    "link": "https://www.financialjuice.com/News/9686517/Downing-Street-immediate-measure-applies-and-is-financed-for-current-fiscal-year.aspx",
+    "pubDate": "Tue, 21 Jul 2026 05:04:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 다우닝 스트리트: 해당 조치는 즉시 시행되며, 이번 회계연도 예산으로 재원이 충당된다"
+  },
+  {
+    "guid": "9686516",
+    "title": "FinancialJuice: Downing Street: Tax cut this year funded by scrapped digital ID programme will eliminate VAT on electricity bills from October 1",
+    "link": "https://www.financialjuice.com/News/9686516/Downing-Street-Tax-cut-this-year-funded-by-scrapped-digital-ID-programme-will-eliminate-VAT-on-electricity-bills-from-October-1.aspx",
+    "pubDate": "Tue, 21 Jul 2026 05:04:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 다우닝 스트리트: 폐지된 디지털 신분증 프로그램으로 재원을 조달한 올해 감세 조치로 인해 10월 1일부터 전기 요금에 부과되던 부가가치세가 면제될 예정이다"
+  },
+  {
+    "guid": "9686515",
+    "title": "FinancialJuice: Downing Street: new prime minister moves quickly to slash electricity bill taxes",
+    "link": "https://www.financialjuice.com/News/9686515/Downing-Street-new-prime-minister-moves-quickly-to-slash-electricity-bill-taxes.aspx",
+    "pubDate": "Tue, 21 Jul 2026 05:03:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 다우닝 스트리트: 신임 총리, 전기 요금에 부과되는 세금을 대폭 감면하기 위해 신속히 움직이고 있다"
+  },
+  {
+    "guid": "9686504",
+    "title": "FinancialJuice: India summons senior Russian diplomat over killing of four Indian ship crew near Ukraine port: India govt official",
+    "link": "https://www.financialjuice.com/News/9686504/India-summons-senior-Russian-diplomat-over-killing-of-four-Indian-ship-crew-near-Ukraine-port-India-govt-official.aspx",
+    "pubDate": "Tue, 21 Jul 2026 04:51:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 우크라이나 항구 인근에서 인도 선원 4명 살해 사건과 관련해 인도, 러시아 고위 외교관 소환…인도 정부 관계자"
+  },
+  {
+    "guid": "9686439",
+    "title": "FinancialJuice: China considers stricter export limits on AI models and chips: FT",
+    "link": "https://www.financialjuice.com/News/9686439/China-considers-stricter-export-limits-on-AI-models-and-chips-FT.aspx",
+    "pubDate": "Tue, 21 Jul 2026 04:01:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국, AI 모델 및 칩에 대한 수출 제한 강화 검토 중: FT"
+  },
+  {
+    "guid": "9686427",
+    "title": "FinancialJuice: RBNZ sectoral factor inflation model rises 2.7% year on year in Q2",
+    "link": "https://www.financialjuice.com/News/9686427/RBNZ-sectoral-factor-inflation-model-rises-27-year-on-year-in-Q2.aspx",
+    "pubDate": "Tue, 21 Jul 2026 03:02:07 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: RBNZ의 부문별 인자 인플레이션 모델에 따르면 2분기 인플레이션이 전년 동기 대비 2.7% 상승했다"
+  },
+  {
+    "guid": "9686421",
+    "title": "FinancialJuice: Ant International: Ant Group, Alibaba and other global investors back the company",
+    "link": "https://www.financialjuice.com/News/9686421/Ant-International-Ant-Group-Alibaba-and-other-global-investors-back-the-company.aspx",
+    "pubDate": "Tue, 21 Jul 2026 03:00:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트 인터내셔널: 앤트 그룹, 알리바바 및 기타 글로벌 투자자들이 이 회사를 지원"
+  },
+  {
+    "guid": "9686420",
+    "title": "FinancialJuice: Ant International: company secures $1.2 billion in fresh funding round",
+    "link": "https://www.financialjuice.com/News/9686420/Ant-International-company-secures-12-billion-in-fresh-funding-round.aspx",
+    "pubDate": "Tue, 21 Jul 2026 03:00:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트 인터내셔널, 신규 자금 조달 라운드에서 12억 달러 확보"
+  },
+  {
+    "guid": "9686408",
+    "title": "FinancialJuice: Irna cites Abdanan governor: US shells strike civilian area outside city, no casualties reported",
+    "link": "https://www.financialjuice.com/News/9686408/Irna-cites-Abdanan-governor-US-shells-strike-civilian-area-outside-city-no-casualties-reported.aspx",
+    "pubDate": "Tue, 21 Jul 2026 02:43:23 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이르나 통신, 압다난 주지사 발언 인용: 미군의 포격이 도시 외곽 민간인 거주 지역을 강타했으나, 사상자는 보고되지 않았다"
+  },
+  {
+    "guid": "9686407",
+    "title": "FinancialJuice: Japan PM Takaichi: aims to achieve real growth above 1% and nominal growth above 3% as soon as possible, targets higher growth ahead",
+    "link": "https://www.financialjuice.com/News/9686407/Japan-PM-Takaichi-aims-to-achieve-real-growth-above-1-and-nominal-growth-above-3-as-soon-as-possible-targets-higher-growth-ahead.aspx",
+    "pubDate": "Tue, 21 Jul 2026 02:35:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 타카이치 일본 총리, “가능한 한 조속히 실질 성장률 1% 이상, 명목 성장률 3% 이상을 달성하는 것을 목표로 하며, 향후 더 높은 성장을 지향하겠다”고 밝혔다"
+  },
+  {
+    "guid": "9686404",
+    "title": "FinancialJuice: Japan PM Takaichi: to steer economic, fiscal policy with attention to fiscal sustainability, need to uphold market trust",
+    "link": "https://www.financialjuice.com/News/9686404/Japan-PM-Takaichi-to-steer-economic-fiscal-policy-with-attention-to-fiscal-sustainability-need-to-uphold-market-trust.aspx",
+    "pubDate": "Tue, 21 Jul 2026 02:31:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 타카이치 일본 총리, “재정 지속 가능성을 염두에 두고 경제·재정 정책을 이끌어 나가야 하며, 시장의 신뢰를 유지해야 한다”"
+  },
+  {
+    "guid": "9686294",
+    "title": "FinancialJuice: South Korea President Lee: odd to see dollar-won rate near 1,500 to 1,600 won per dollar",
+    "link": "https://www.financialjuice.com/News/9686294/South-Korea-President-Lee-odd-to-see-dollar-won-rate-near-1500-to-1600-won-per-dollar.aspx",
+    "pubDate": "Tue, 21 Jul 2026 01:29:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 이 한국 대통령, “달러당 1,500~1,600원 수준의 환율이 이상하다”고 언급"
+  },
+  {
+    "guid": "9686293",
+    "title": "FinancialJuice: Iran's revolutionary guards: targeted MQ-9 drone hangar at Ali Al Salem air base in Kuwait",
+    "link": "https://www.financialjuice.com/News/9686293/Irans-revolutionary-guards-targeted-MQ-9-drone-hangar-at-Ali-Al-Salem-air-base-in-Kuwait.aspx",
+    "pubDate": "Tue, 21 Jul 2026 01:29:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대, 쿠웨이트 알리 알 살렘 공군기지의 MQ-9 드론 격납고를 공격"
+  },
+  {
+    "guid": "9686292",
+    "title": "FinancialJuice: S.Korea July 1-20 imports rise 20% y/y: customs agency",
+    "link": "https://www.financialjuice.com/News/9686292/SKorea-July-1-20-imports-rise-20-yy-customs-agency.aspx",
+    "pubDate": "Tue, 21 Jul 2026 01:29:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 7월 1~20일 수입액, 전년 동기 대비 20% 증가… 관세청"
+  },
+  {
+    "guid": "9686291",
+    "title": "FinancialJuice: Iran's Revolutionary Guards: missile and drone strikes hit U.S. radar, communications, satellite sites in Kuwait",
+    "link": "https://www.financialjuice.com/News/9686291/Irans-Revolutionary-Guards-missile-and-drone-strikes-hit-US-radar-communications-satellite-sites-in-Kuwait.aspx",
+    "pubDate": "Tue, 21 Jul 2026 01:28:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대, 쿠웨이트 내 미국 레이더·통신·위성 기지에 미사일 및 드론 공격 가해"
+  },
+  {
+    "guid": "9686290",
+    "title": "FinancialJuice: China central bank injects 253 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+    "link": "https://www.financialjuice.com/News/9686290/China-central-bank-injects-253-billion-yuan-via-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx",
+    "pubDate": "Tue, 21 Jul 2026 01:20:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 1.40% 금리로 7일물 역레포를 통해 2,530억 위안을 공급… 이전 금리 역시 1.40%였음: 성명서"
+  },
+  {
+    "guid": "9686289",
+    "title": "FinancialJuice: U.S. Military: Latest strikes on Iran complete",
+    "link": "https://www.financialjuice.com/News/9686289/US-Military-Latest-strikes-on-Iran-complete.aspx",
+    "pubDate": "Tue, 21 Jul 2026 01:19:39 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 미군, 이란에 대한 최근 공습 완료"
+  },
+  {
+    "guid": "9686274",
+    "title": "FinancialJuice: U.S. State Department issues worldwide caution for Americans amid heightened Middle East tensions",
+    "link": "https://www.financialjuice.com/News/9686274/US-State-Department-issues-worldwide-caution-for-Americans-amid-heightened-Middle-East-tensions.aspx",
+    "pubDate": "Tue, 21 Jul 2026 01:11:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중동 긴장 고조 속에 미국 국무부, 미국인 대상 전 세계 여행 주의보 발령"
+  },
+  {
+    "guid": "9686273",
+    "title": "FinancialJuice: Taiwan equities gain over 2%",
+    "link": "https://www.financialjuice.com/News/9686273/Taiwan-equities-gain-over-2.aspx",
+    "pubDate": "Tue, 21 Jul 2026 01:05:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 대만 주식, 2% 이상 상승"
+  },
+  {
+    "guid": "9686254",
+    "title": "FinancialJuice: KPMG Australia names John Sams chief executive officer",
+    "link": "https://www.financialjuice.com/News/9686254/KPMG-Australia-names-John-Sams-chief-executive-officer.aspx",
+    "pubDate": "Tue, 21 Jul 2026 00:40:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: KPMG 호주, 존 샘스를 최고경영자(CEO)로 선임"
+  },
+  {
+    "guid": "9686236",
+    "title": "FinancialJuice: China PBOC likely to fix yuan midpoint at 6.7706 per dollar: estimate",
+    "link": "https://www.financialjuice.com/News/9686236/China-PBOC-likely-to-fix-yuan-midpoint-at-67706-per-dollar-estimate.aspx",
+    "pubDate": "Tue, 21 Jul 2026 00:16:58 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 인민은행, 위안화 중간 환율을 1달러당 6.7706으로 책정할 전망: 추정"
+  },
+  {
+    "guid": "9686235",
+    "title": "FinancialJuice: IMF: review allows instant release of SDR 503 million about $690 million for Ukraine",
+    "link": "https://www.financialjuice.com/News/9686235/IMF-review-allows-instant-release-of-SDR-503-million-about-690-million-for-Ukraine.aspx",
+    "pubDate": "Tue, 21 Jul 2026 00:12:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IMF, 우크라이나에 5억 300만 SDR(약 6억 9천만 달러) 즉시 지원 승인"
+  },
+  {
+    "guid": "9686234",
+    "title": "FinancialJuice: IMF: board finishes initial review of Ukraine's extended fund facility arrangement and wraps up 2026 Article IV consultation",
+    "link": "https://www.financialjuice.com/News/9686234/IMF-board-finishes-initial-review-of-Ukraines-extended-fund-facility-arrangement-and-wraps-up-2026-Article-IV-consultation.aspx",
+    "pubDate": "Tue, 21 Jul 2026 00:12:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IMF, 이사회가 우크라이나의 확장 자금 지원 협정에 대한 1차 검토를 완료하고 2026년 제4조 협의도 마무리했다"
+  },
+  {
+    "guid": "9686222",
+    "title": "FinancialJuice: Microsoft platforms accelerate AI modernization in Asia Pacific",
+    "link": "https://www.financialjuice.com/News/9686222/Microsoft-platforms-accelerate-AI-modernization-in-Asia-Pacific.aspx",
+    "pubDate": "Tue, 21 Jul 2026 00:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마이크로소프트 플랫폼, 아시아 태평양 지역의 AI 현대화 가속화"
+  },
+  {
+    "guid": "9686221",
+    "title": "FinancialJuice: S. Korea exports surge 52.3% year on year in July 1-20: customs agency",
+    "link": "https://www.financialjuice.com/News/9686221/S-Korea-exports-surge-523-year-on-year-in-July-1-20-customs-agency.aspx",
+    "pubDate": "Tue, 21 Jul 2026 00:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 1~20일 기간 한국 수출, 전년 동기 대비 52.3% 급증… 관세청"
+  },
+  {
+    "guid": "9686220",
+    "title": "FinancialJuice: S. Korea provisional trade surplus $12.2 billion from July 1-20: customs agency",
+    "link": "https://www.financialjuice.com/News/9686220/S-Korea-provisional-trade-surplus-122-billion-from-July-1-20-customs-agency.aspx",
+    "pubDate": "Tue, 21 Jul 2026 00:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국, 7월 1~20일 기간 잠정 무역수지 122억 달러 흑자 기록: 관세청"
+  },
+  {
+    "guid": "9686201",
+    "title": "FinancialJuice: Diplomatic efforts underway to dissuade Trump administration from severing ties with UN refugee agency: sources",
+    "link": "https://www.financialjuice.com/News/9686201/Diplomatic-efforts-underway-to-dissuade-Trump-administration-from-severing-ties-with-UN-refugee-agency-sources.aspx",
+    "pubDate": "Mon, 20 Jul 2026 23:30:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 행정부가 유엔 난민기구와의 관계를 단절하지 않도록 설득하기 위한 외교적 노력이 진행 중이라고 소식통들이 전했다"
+  },
+  {
+    "guid": "9686190",
+    "title": "FinancialJuice: State Department: US urges China to halt destabilizing actions immediately",
+    "link": "https://www.financialjuice.com/News/9686190/State-Department-US-urges-China-to-halt-destabilizing-actions-immediately.aspx",
+    "pubDate": "Mon, 20 Jul 2026 23:09:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 국무부: 미국, 중국에 불안정화 행위의 즉각 중단을 촉구"
+  },
+  {
+    "guid": "9686189",
+    "title": "FinancialJuice: State Department: US condemns China’s risky and aggressive moves against Philippine navy at Second Thomas Shoal in South China Sea on July 20",
+    "link": "https://www.financialjuice.com/News/9686189/State-Department-US-condemns-Chinas-risky-and-aggressive-moves-against-Philippine-navy-at-Second-Thomas-Shoal-in-South-China-Sea-on-July-20.aspx",
+    "pubDate": "Mon, 20 Jul 2026 23:09:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미 국무부, “미국은 7월 20일 남중국해 세컨드 토마스 암초에서 필리핀 해군을 상대로 중국이 취한 위험하고 공격적인 행동을 규탄한다”"
+  },
+  {
+    "guid": "9686170",
+    "title": "FinancialJuice: NZ dollar rises slightly to $0.5843 after CPI data",
+    "link": "https://www.financialjuice.com/News/9686170/NZ-dollar-rises-slightly-to-05843-after-CPI-data.aspx",
+    "pubDate": "Mon, 20 Jul 2026 22:45:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 소비자물가지수(CPI) 발표 후 뉴질랜드 달러, $0.5843로 소폭 상승"
+  },
+  {
+    "guid": "9686166",
+    "title": "FinancialJuice: NZ Q2 consumer price index rises 4.1% year on year, polls projected 4.0%",
+    "link": "https://www.financialjuice.com/News/9686166/NZ-Q2-consumer-price-index-rises-41-year-on-year-polls-projected-40.aspx",
+    "pubDate": "Mon, 20 Jul 2026 22:45:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 2분기 소비자물가지수, 전년 동기 대비 4.1% 상승…여론조사 예상치는 4.0%"
+  },
+  {
+    "guid": "9686165",
+    "title": "FinancialJuice: New Zealand Q2 consumer price index rises 1.5% vs previous quarter (Poll: 1.4%)",
+    "link": "https://www.financialjuice.com/News/9686165/New-Zealand-Q2-consumer-price-index-rises-15-vs-previous-quarter-Poll-14.aspx",
+    "pubDate": "Mon, 20 Jul 2026 22:45:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 2분기 소비자물가지수, 전분기 대비 1.5% 상승 (설문조사: 1.4%)"
+  },
+  {
+    "guid": "9686164",
+    "title": "FinancialJuice: NZ Q2 consumer price index non-tradables rises 0.6% versus previous quarter",
+    "link": "https://www.financialjuice.com/News/9686164/NZ-Q2-consumer-price-index-non-tradables-rises-06-versus-previous-quarter.aspx",
+    "pubDate": "Mon, 20 Jul 2026 22:45:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 2분기 소비자물가지수 중 비무역품 부문이 전분기 대비 0.6% 상승"
+  },
+  {
+    "guid": "9686163",
+    "title": "FinancialJuice: NZ Q2 consumer price index non-tradables rise 3.4% year-over-year",
+    "link": "https://www.financialjuice.com/News/9686163/NZ-Q2-consumer-price-index-non-tradables-rise-34-year-over-year.aspx",
+    "pubDate": "Mon, 20 Jul 2026 22:45:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 2분기 소비자물가지수 중 비무역품 부문, 전년 동기 대비 3.4% 상승"
+  },
+  {
+    "guid": "9686162",
+    "title": "FinancialJuice: New Zealand CPI YoY Actual 4.1% (Forecast 4%, Previous 3.1%)",
+    "link": "https://www.financialjuice.com/News/9686162/New-Zealand-CPI-YoY-Actual-41-Forecast-4-Previous-31.aspx",
+    "pubDate": "Mon, 20 Jul 2026 22:45:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 소비자물가지수(CPI) 전년 동기 대비 실제치 4.1% (예상치 4%, 전월치 3.1%)"
+  },
+  {
+    "guid": "9686161",
+    "title": "FinancialJuice: New Zealand CPI QoQ Actual 1.5% (Forecast 1.4%, Previous 0.9%)",
+    "link": "https://www.financialjuice.com/News/9686161/New-Zealand-CPI-QoQ-Actual-15-Forecast-14-Previous-09.aspx",
+    "pubDate": "Mon, 20 Jul 2026 22:45:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 소비자물가지수(CPI) 전분기 대비 실제치 1.5% (예상치 1.4%, 전월치 0.9%)"
+  },
+  {
+    "guid": "9686160",
+    "title": "FinancialJuice: Panama and China renew maritime transport pact: Panama foreign ministry",
+    "link": "https://www.financialjuice.com/News/9686160/Panama-and-China-renew-maritime-transport-pact-Panama-foreign-ministry.aspx",
+    "pubDate": "Mon, 20 Jul 2026 22:41:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 파나마와 중국, 해상 운송 협정 갱신: 파나마 외무부"
+  },
+  {
     "guid": "9686155",
     "title": "FinancialJuice: Iranian army says it struck U.S. missile systems at Kuwait’s Arifjan base with surface-to-surface missiles - state TV",
     "link": "https://www.financialjuice.com/News/9686155/Iranian-army-says-it-struck-US-missile-systems-at-Kuwaits-Arifjan-base-with-surface-to-surface-missiles---state-TV.aspx?xy=rss",
