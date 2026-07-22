@@ -1,5 +1,613 @@
 [
   {
+    "guid": "9688955",
+    "title": "FinancialJuice: LSEG: JPY Summary - FJElite",
+    "link": "https://www.financialjuice.com/News/9688955/LSEG-JPY-Summary---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 13:05:02 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: LSEG: 엔화 요약 - FJElite"
+  },
+  {
+    "guid": "9688954",
+    "title": "FinancialJuice: Qualcomm and Samsung expand collaboration with Snapdragon for Galaxy Ecosystem AI.",
+    "link": "https://www.financialjuice.com/News/9688954/Qualcomm-and-Samsung-expand-collaboration-with-Snapdragon-for-Galaxy-Ecosystem-AI.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 13:03:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 퀄컴과 삼성, 갤럭시 생태계 AI를 위한 스냅드래곤 협력 확대."
+  },
+  {
+    "guid": "9688953",
+    "title": "FinancialJuice: UBS: AI Research - FJElite",
+    "link": "https://www.financialjuice.com/News/9688953/UBS-AI-Research---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 13:03:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: UBS: AI 리서치 - FJElite"
+  },
+  {
+    "guid": "9688937",
+    "title": "FinancialJuice: SpaceXAI explores data center expansion in Texas - Information.",
+    "link": "https://www.financialjuice.com/News/9688937/SpaceXAI-explores-data-center-expansion-in-Texas---Information.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 13:02:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페이스XAI, 텍사스 내 데이터 센터 확장 검토 - 정보."
+  },
+  {
+    "guid": "9688933",
+    "title": "FinancialJuice: Anthropic to deploy up to 2 gw MI450 series GPUs in Amd Helios.",
+    "link": "https://www.financialjuice.com/News/9688933/Anthropic-to-deploy-up-to-2-gw-MI450-series-GPUs-in-Amd-Helios.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 13:01:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트로픽, AMD 헬리오스에 최대 2GW 규모의 MI450 시리즈 GPU를 도입할 예정이다."
+  },
+  {
+    "guid": "9688932",
+    "title": "FinancialJuice: AMD & Anthropic pact to deploy up to 2 gigawatts of AMD GPUs.",
+    "link": "https://www.financialjuice.com/News/9688932/AMD--Anthropic-pact-to-deploy-up-to-2-gigawatts-of-AMD-GPUs.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 13:01:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: AMD와 Anthropic, 최대 2기가와트 규모의 AMD GPU 도입에 합의."
+  },
+  {
+    "guid": "9688931",
+    "title": "FinancialJuice: AMD to make equity investment of up to $5b in Anthropic.",
+    "link": "https://www.financialjuice.com/News/9688931/AMD-to-make-equity-investment-of-up-to-5b-in-Anthropic.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 13:00:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: AMD, 앤트로픽에 최대 50억 달러 규모 지분 투자 예정."
+  },
+  {
+    "guid": "9688930",
+    "title": "FinancialJuice: AMD & Anthropic announce partnership.",
+    "link": "https://www.financialjuice.com/News/9688930/AMD--Anthropic-announce-partnership.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 13:00:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: AMD와 Anthropic, 파트너십 체결을 발표."
+  },
+  {
+    "guid": "9688929",
+    "title": "FinancialJuice: OpenAI's new 3.2 gigawatt project set near Savannah, Georgia.",
+    "link": "https://www.financialjuice.com/News/9688929/OpenAIs-new-32-gigawatt-project-set-near-Savannah-Georgia.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 13:00:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI의 새로운 3.2 기가와트 규모의 프로젝트가 조지아주 사바나 인근에 조성된다."
+  },
+  {
+    "guid": "9688924",
+    "title": "FinancialJuice: Bank of America: Strong Start to Earnings Season - FJElite",
+    "link": "https://www.financialjuice.com/News/9688924/Bank-of-America-Strong-Start-to-Earnings-Season---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 13:00:23 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 뱅크 오브 아메리카: 실적 발표 시즌의 강력한 출발 - FJElite"
+  },
+  {
+    "guid": "9688923",
+    "title": "FinancialJuice: OpenAI plans to spend more than $30b on new data center.",
+    "link": "https://www.financialjuice.com/News/9688923/OpenAI-plans-to-spend-more-than-30b-on-new-data-center.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 13:00:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI가 새로운 데이터 센터에 300억 달러 이상을 투자할 계획이다."
+  },
+  {
+    "guid": "9688922",
+    "title": "FinancialJuice: Effective Fed Funds Rate 3.63% July 21 vs 3.63% July 20.",
+    "link": "https://www.financialjuice.com/News/9688922/Effective-Fed-Funds-Rate-363-July-21-vs-363-July-20.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:59:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 7월 21일 실효 연방기금 금리 3.63% (7월 20일 3.63% 대비)."
+  },
+  {
+    "guid": "9688921",
+    "title": "FinancialJuice: Trump: If ships are attacked, we will bomb, including in Tehran",
+    "link": "https://www.financialjuice.com/News/9688921/Trump-If-ships-are-attacked-we-will-bomb-including-in-Tehran.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:58:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “선박이 공격당하면 테헤란을 포함해 폭격할 것”"
+  },
+  {
+    "guid": "9688920",
+    "title": "FinancialJuice: Trump on Truth Social threatens to bomb Iran's bridges, power plants.",
+    "link": "https://www.financialjuice.com/News/9688920/Trump-on-Truth-Social-threatens-to-bomb-Irans-bridges-power-plants.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:58:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, ‘트루스 소셜’에서 이란의 교량과 발전소를 폭격하겠다고 위협했다."
+  },
+  {
+    "guid": "9688919",
+    "title": "FinancialJuice: Trump on Truth Social: From this point forward, any time the Islamic Republic of Iran shoots at a ship in the Strait of Hormuz, the US will bomb one bridge or power plant.",
+    "link": "https://www.financialjuice.com/News/9688919/Trump-on-Truth-Social-From-this-point-forward-any-time-the-Islamic-Republic-of-Iran-shoots-at-a-ship-in-the-Strait-of-Hormuz-the-US-will-bomb-one-bridge-or-power-plant.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:56:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 트루스 소셜 게시물: “이제부터 이란 이슬람 공화국이 호르무즈 해협에서 선박을 공격할 때마다, 미국은 다리 한 곳이나 발전소 한 곳을 폭격할 것이다.”"
+  },
+  {
+    "guid": "9688900",
+    "title": "FinancialJuice: US Sentiment: Caution on Geopolitics & Earnings - FJElite",
+    "link": "https://www.financialjuice.com/News/9688900/US-Sentiment-Caution-on-Geopolitics--Earnings---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:41:56 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 지정학적 리스크와 기업 실적에 대한 경계감 - FJElite"
+  },
+  {
+    "guid": "9688881",
+    "title": "FinancialJuice: Anthropic to buy up to 2 gigawatts of AMD's latest-gen chips - WSJ",
+    "link": "https://www.financialjuice.com/News/9688881/Anthropic-to-buy-up-to-2-gigawatts-of-AMDs-latest-gen-chips---WSJ.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:30:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트로픽, AMD의 최신 세대 칩 최대 2기가와트 규모로 구매 예정 - WSJ"
+  },
+  {
+    "guid": "9688880",
+    "title": "FinancialJuice: AMD to invest $5b in Anthropic as part of chip deal - WSJ.",
+    "link": "https://www.financialjuice.com/News/9688880/AMD-to-invest-5b-in-Anthropic-as-part-of-chip-deal---WSJ.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:30:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: AMD, 반도체 거래의 일환으로 앤트로픽에 50억 달러 투자 예정 - WSJ."
+  },
+  {
+    "guid": "9688879",
+    "title": "FinancialJuice: AMD and Anthropic sign major chips-and-investment deal - WSJ",
+    "link": "https://www.financialjuice.com/News/9688879/AMD-and-Anthropic-sign-major-chips-and-investment-deal---WSJ.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:30:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: AMD와 앤트로픽, 대규모 칩 및 투자 계약 체결 - WSJ"
+  },
+  {
+    "guid": "9688875",
+    "title": "FinancialJuice: Iran's General Shekarchi: Massive Enemy Data Center in the UAE Destroyed in the Third Imposed War.",
+    "link": "https://www.financialjuice.com/News/9688875/Irans-General-Shekarchi-Massive-Enemy-Data-Center-in-the-UAE-Destroyed-in-the-Third-Imposed-War.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:17:02 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이란의 셰카르치 장군: 제3차 강제 전쟁에서 UAE에 위치한 적의 대규모 데이터 센터가 파괴되었다."
+  },
+  {
+    "guid": "9688861",
+    "title": "FinancialJuice: Iran's General Shekarchi: The production of strategic missiles has never stopped.",
+    "link": "https://www.financialjuice.com/News/9688861/Irans-General-Shekarchi-The-production-of-strategic-missiles-has-never-stopped.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:15:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 셰카르치 장군: 전략 미사일 생산은 한 번도 중단된 적이 없다."
+  },
+  {
+    "guid": "9688851",
+    "title": "FinancialJuice: OpenAI is launching new corporate software called OpenAI presence - Business Insider",
+    "link": "https://www.financialjuice.com/News/9688851/OpenAI-is-launching-new-corporate-software-called-OpenAI-presence---Business-Insider.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:07:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI, ‘OpenAI Presence’라는 새로운 기업용 소프트웨어 출시 - Business Insider"
+  },
+  {
+    "guid": "9688850",
+    "title": "FinancialJuice: Trump administration allocates $5b for Genesis mission.",
+    "link": "https://www.financialjuice.com/News/9688850/Trump-administration-allocates-5b-for-Genesis-mission.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:03:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 행정부, 제네시스 임무에 50억 달러 배정."
+  },
+  {
+    "guid": "9688848",
+    "title": "FinancialJuice: Microsoft: $60m commitment to DoE's Genesis mission.",
+    "link": "https://www.financialjuice.com/News/9688848/Microsoft-60m-commitment-to-DoEs-Genesis-mission.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:02:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마이크로소프트, 미국 에너지부(DoE)의 ‘제네시스’ 임무에 6,000만 달러 지원."
+  },
+  {
+    "guid": "9688827",
+    "title": "FinancialJuice: Secured overnight financing rate: 3.61% on July 21st vs 3.57% on July 20th",
+    "link": "https://www.financialjuice.com/News/9688827/Secured-overnight-financing-rate-361-on-July-21st-vs-357-on-July-20th.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 12:00:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 담보부 일일 자금 조달 금리: 7월 21일 3.61%, 7월 20일 3.57%"
+  },
+  {
+    "guid": "9688824",
+    "title": "FinancialJuice: Saudi Civil Defense: The danger has passed from Dammam",
+    "link": "https://www.financialjuice.com/News/9688824/Saudi-Civil-Defense-The-danger-has-passed-from-Dammam.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 11:49:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 민방위청: 담맘의 위험은 지나갔다"
+  },
+  {
+    "guid": "9688803",
+    "title": "FinancialJuice: Saudi: Alert issued in Dammam to warn of danger",
+    "link": "https://www.financialjuice.com/News/9688803/Saudi-Alert-issued-in-Dammam-to-warn-of-danger.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 11:43:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디: 담맘에서 위험 경보 발령"
+  },
+  {
+    "guid": "9688801",
+    "title": "FinancialJuice: EU's Foreign Minister Kallas: Oil tanker MV South Star boarded on 20 July for flag verification.",
+    "link": "https://www.financialjuice.com/News/9688801/EUs-Foreign-Minister-Kallas-Oil-tanker-MV-South-Star-boarded-on-20-July-for-flag-verification.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 11:43:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU의 칼라스 외무장관: 유조선 ‘MV 사우스 스타’호는 7월 20일 선적국 확인을 위해 승선 조사가 이루어졌다."
+  },
+  {
+    "guid": "9688800",
+    "title": "FinancialJuice: Saudi: Alert issued in Dammam to warn of danger",
+    "link": "https://www.financialjuice.com/News/9688800/Saudi-Alert-issued-in-Dammam-to-warn-of-danger.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 11:43:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디: 담맘에서 위험 경보 발령"
+  },
+  {
+    "guid": "9688738",
+    "title": "FinancialJuice: US MBA 30-Yr Mortgage Rate Actual 6.69% (Forecast -, Previous 6.65%)",
+    "link": "https://www.financialjuice.com/News/9688738/US-MBA-30-Yr-Mortgage-Rate-Actual-669-Forecast---Previous-665.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 11:00:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 MBA 30년 만기 모기지 금리, 실제 6.69% (예상 -, 이전 6.65%)"
+  },
+  {
+    "guid": "9688737",
+    "title": "FinancialJuice: US MBA Mortgage Applications Actual 1.9% (Forecast -, Previous -2.7%)",
+    "link": "https://www.financialjuice.com/News/9688737/US-MBA-Mortgage-Applications-Actual-19-Forecast---Previous--27.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 11:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 MBA 모기지 신청 건수, 실제 1.9% (예상 -, 전월 -2.7%)"
+  },
+  {
+    "guid": "9688736",
+    "title": "FinancialJuice: Iran's foreign ministry spokesperson: There is no nuclear activity at Iran's Kolang Kouh (Pickaxe Mountain) - X post",
+    "link": "https://www.financialjuice.com/News/9688736/Irans-foreign-ministry-spokesperson-There-is-no-nuclear-activity-at-Irans-Kolang-Kouh-Pickaxe-Mountain---X-post.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 10:51:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 외무부 대변인: 이란의 콜랑 쿠흐(곡괭이 산)에서는 핵 활동이 이루어지고 있지 않다 - X 게시물"
+  },
+  {
+    "guid": "9688731",
+    "title": "FinancialJuice: Germany’s Chancellor Merz's chief of staff to be named parliamentary group leader",
+    "link": "https://www.financialjuice.com/News/9688731/Germanys-Chancellor-Merzs-chief-of-staff-to-be-named-parliamentary-group-leader.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 10:39:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 메르츠 총리의 비서실장이 원내대표로 지명될 예정"
+  },
+  {
+    "guid": "9688714",
+    "title": "FinancialJuice: $T AT&T Q2 Earnings\n",
+    "link": "https://www.financialjuice.com/News/9688714/T-ATT-Q2-Earnings.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 10:30:55 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: $T AT&T 2분기 실적\n"
+  },
+  {
+    "guid": "9688710",
+    "title": "FinancialJuice: Iraq prime minister to visit Iran Thursday - Government spokesperson",
+    "link": "https://www.financialjuice.com/News/9688710/Iraq-prime-minister-to-visit-Iran-Thursday---Government-spokesperson.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 10:26:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이라크 총리, 목요일 이란 방문 예정 - 정부 대변인"
+  },
+  {
+    "guid": "9688709",
+    "title": "FinancialJuice: $GEV GE Vernova Q2 Earnings",
+    "link": "https://www.financialjuice.com/News/9688709/GEV-GE-Vernova-Q2-Earnings.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 10:24:14 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: $GEV GE Vernova 2분기 실적"
+  },
+  {
+    "guid": "9688708",
+    "title": "FinancialJuice: Putin: Russia's 5-month GDP growth was 0.2%",
+    "link": "https://www.financialjuice.com/News/9688708/Putin-Russias-5-month-GDP-growth-was-02.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 10:23:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 푸틴 “러시아의 5개월간 GDP 성장률은 0.2%였다”"
+  },
+  {
+    "guid": "9688707",
+    "title": "FinancialJuice: Putin: Difficulties on the fuel market are temporary",
+    "link": "https://www.financialjuice.com/News/9688707/Putin-Difficulties-on-the-fuel-market-are-temporary.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 10:22:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 푸틴 “연료 시장의 어려움은 일시적인 것”"
+  },
+  {
+    "guid": "9688706",
+    "title": "FinancialJuice: UK PM Burnham on tax-free personal Allowance: Making no unfunded promise to change this, we will have to look at it at the budget",
+    "link": "https://www.financialjuice.com/News/9688706/UK-PM-Burnham-on-tax-free-personal-Allowance-Making-no-unfunded-promise-to-change-this-we-will-have-to-look-at-it-at-the-budget.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 10:14:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 버넘 영국 총리, 비과세 개인 공제액에 관해 “이에 대한 재원 마련 방안 없는 공약은 하지 않겠다. 예산안 수립 과정에서 이를 검토해야 할 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9688705",
+    "title": "FinancialJuice: UK PM Burnham, asked about tax increases: We will take decisions on tax at the budget",
+    "link": "https://www.financialjuice.com/News/9688705/UK-PM-Burnham-asked-about-tax-increases-We-will-take-decisions-on-tax-at-the-budget.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 10:14:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 버넘 영국 총리, 증세 관련 질문에 “세금 관련 결정은 예산안 발표 시점에 내릴 것”이라고 답했다"
+  },
+  {
+    "guid": "9688660",
+    "title": "FinancialJuice: US Secretary of State Rubio: Nuclear arms control requires the US, Russia, and China",
+    "link": "https://www.financialjuice.com/News/9688660/US-Secretary-of-State-Rubio-Nuclear-arms-control-requires-the-US-Russia-and-China.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:54:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관: 핵무기 통제를 위해서는 미국, 러시아, 중국의 협력이 필요하다"
+  },
+  {
+    "guid": "9688659",
+    "title": "FinancialJuice: US Secretary of State Rubio: Have talked to countries interested in protecting ships",
+    "link": "https://www.financialjuice.com/News/9688659/US-Secretary-of-State-Rubio-Have-talked-to-countries-interested-in-protecting-ships.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:54:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관: 선박 보호에 관심을 보이는 국가들과 논의했다"
+  },
+  {
+    "guid": "9688658",
+    "title": "FinancialJuice: US Secretary of State Rubio: Won't specify ways China has been cooperative on Iran",
+    "link": "https://www.financialjuice.com/News/9688658/US-Secretary-of-State-Rubio-Wont-specify-ways-China-has-been-cooperative-on-Iran.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:53:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관, “중국이 이란 문제와 관련해 어떤 방식으로 협력해 왔는지는 구체적으로 밝히지 않겠다”"
+  },
+  {
+    "guid": "9688657",
+    "title": "FinancialJuice: US Secretary of State Rubio: China has been clear it doesn't support Hormuz tolls",
+    "link": "https://www.financialjuice.com/News/9688657/US-Secretary-of-State-Rubio-China-has-been-clear-it-doesnt-support-Hormuz-tolls.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:53:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관: 중국은 호르무즈 해협 통행료 부과를 지지하지 않는다는 입장을 분명히 해왔다"
+  },
+  {
+    "guid": "9688639",
+    "title": "FinancialJuice: US Secretary of State Rubio: Nuclear-armed Iran is intolerable",
+    "link": "https://www.financialjuice.com/News/9688639/US-Secretary-of-State-Rubio-Nuclear-armed-Iran-is-intolerable.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:39:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관 “핵무기를 보유한 이란은 용납할 수 없다”"
+  },
+  {
+    "guid": "9688637",
+    "title": "FinancialJuice: German 15 Yr Bund Yield Actual 3.46% (Forecast -, Previous 3.3%)",
+    "link": "https://www.financialjuice.com/News/9688637/German-15-Yr-Bund-Yield-Actual-346-Forecast---Previous-33.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:38:27 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 독일 15년물 국채 수익률, 실제 3.46% (예상 -, 이전 3.3%)"
+  },
+  {
+    "guid": "9688636",
+    "title": "FinancialJuice: German 15 Yr Bid-to-Cover Actual 1.8 (Forecast -, Previous 1.5)",
+    "link": "https://www.financialjuice.com/News/9688636/German-15-Yr-Bid-to-Cover-Actual-18-Forecast---Previous-15.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:38:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 15년물 입찰 경쟁률 실제 1.8 (예상 -, 이전 1.5)"
+  },
+  {
+    "guid": "9688633",
+    "title": "FinancialJuice: US Secretary of State Rubio: US is the only country that can end Ukraine war",
+    "link": "https://www.financialjuice.com/News/9688633/US-Secretary-of-State-Rubio-US-is-the-only-country-that-can-end-Ukraine-war.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:36:01 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관 “우크라이나 전쟁을 종식시킬 수 있는 나라는 미국뿐”"
+  },
+  {
+    "guid": "9688632",
+    "title": "FinancialJuice: US Secretary of State Rubio: Will keep safeguarding shipping",
+    "link": "https://www.financialjuice.com/News/9688632/US-Secretary-of-State-Rubio-Will-keep-safeguarding-shipping.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:36:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관, “해상 운송 안전 수호 지속할 것”"
+  },
+  {
+    "guid": "9688631",
+    "title": "FinancialJuice: US Secretary of State Rubio: Will discuss Ukraine with Lavrov",
+    "link": "https://www.financialjuice.com/News/9688631/US-Secretary-of-State-Rubio-Will-discuss-Ukraine-with-Lavrov.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:36:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관, 라브로프 외무장관과 우크라이나 문제 논의할 예정"
+  },
+  {
+    "guid": "9688630",
+    "title": "FinancialJuice: US Secretary of State Rubio: Will reduce Iran's capability to target shipping when possible",
+    "link": "https://www.financialjuice.com/News/9688630/US-Secretary-of-State-Rubio-Will-reduce-Irans-capability-to-target-shipping-when-possible.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:36:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관: 기회가 닿는 대로 이란의 선박 공격 능력을 약화시킬 것"
+  },
+  {
+    "guid": "9688628",
+    "title": "FinancialJuice: Explosions Heard in Sirik, Southern Iran - Fars",
+    "link": "https://www.financialjuice.com/News/9688628/Explosions-Heard-in-Sirik-Southern-Iran---Fars.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:35:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 남부 시릭에서 폭발음 들렸다 - 파르스 통신"
+  },
+  {
+    "guid": "9688626",
+    "title": "FinancialJuice: US Secretary of State Rubio: Moving toward implementation of working group with China",
+    "link": "https://www.financialjuice.com/News/9688626/US-Secretary-of-State-Rubio-Moving-toward-implementation-of-working-group-with-China.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:34:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관: 중국과의 실무그룹 출범을 향해 나아가고 있다"
+  },
+  {
+    "guid": "9688625",
+    "title": "FinancialJuice: Germany issues 20-year bund with bid/cover at 2.3, prev 2.4: Buba",
+    "link": "https://www.financialjuice.com/News/9688625/Germany-issues-20-year-bund-with-bidcover-at-23-prev-24-Buba.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:33:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일, 20년 만기 국채 발행…입찰 경쟁률 2.3배(이전 2.4배): 독일연방은행(Buba)"
+  },
+  {
+    "guid": "9688624",
+    "title": "FinancialJuice: Germany Issues 20-Year Bund With Average Yield 3.6% Versus 3.38% Previous Bundesbank",
+    "link": "https://www.financialjuice.com/News/9688624/Germany-Issues-20-Year-Bund-With-Average-Yield-36-Versus-338-Previous-Bundesbank.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:33:10 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 독일, 평균 수익률 3.6%의 20년 만기 국채 발행… 이전 독일연방은행(Bundesbank) 발표치 3.38% 대비"
+  },
+  {
+    "guid": "9688623",
+    "title": "FinancialJuice: Germany auctions €0.902 billion top-up 3.40% 20-year bund: buba",
+    "link": "https://www.financialjuice.com/News/9688623/Germany-auctions-0902-billion-top-up-340-20-year-bund-buba.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:33:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일, 0.902억 유로 규모의 3.40% 20년 만기 분드 추가 발행 물량 경매 실시: 독일연방은행(Buba)"
+  },
+  {
+    "guid": "9688622",
+    "title": "FinancialJuice: US Secretary of State Rubio: Will undermine Iran's capacity to target shipping when possible",
+    "link": "https://www.financialjuice.com/News/9688622/US-Secretary-of-State-Rubio-Will-undermine-Irans-capacity-to-target-shipping-when-possible.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:32:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관: 기회가 닿는 대로 이란의 선박 공격 능력을 약화시킬 것"
+  },
+  {
+    "guid": "9688600",
+    "title": "FinancialJuice: US Secretary of State Rubio: US targets locations behind attacks on vessels",
+    "link": "https://www.financialjuice.com/News/9688600/US-Secretary-of-State-Rubio-US-targets-locations-behind-attacks-on-vessels.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:31:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관: 미국, 선박 공격 배후 세력 타격에 나서"
+  },
+  {
+    "guid": "9688597",
+    "title": "FinancialJuice: US Secretary of State Rubio: Iran faces significant challenges",
+    "link": "https://www.financialjuice.com/News/9688597/US-Secretary-of-State-Rubio-Iran-faces-significant-challenges.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:30:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관, “이란은 중대한 도전에 직면해 있다”"
+  },
+  {
+    "guid": "9688596",
+    "title": "FinancialJuice: US Secretary of State Rubio: China has been cooperative on Iran in some cases",
+    "link": "https://www.financialjuice.com/News/9688596/US-Secretary-of-State-Rubio-China-has-been-cooperative-on-Iran-in-some-cases.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:29:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관: 중국은 이란 문제와 관련해 일부 사안에서 협조적인 태도를 보여왔다"
+  },
+  {
+    "guid": "9688595",
+    "title": "FinancialJuice: US Secretary of State Rubio: Did not talk about election interference with Wang",
+    "link": "https://www.financialjuice.com/News/9688595/US-Secretary-of-State-Rubio-Did-not-talk-about-election-interference-with-Wang.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:29:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관: 왕 씨와 선거 개입 문제에 대해 논의하지 않았다"
+  },
+  {
+    "guid": "9688594",
+    "title": "FinancialJuice: US Secretary of State Rubio: Potential cooperation areas with China identified",
+    "link": "https://www.financialjuice.com/News/9688594/US-Secretary-of-State-Rubio-Potential-cooperation-areas-with-China-identified.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:28:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관, 중국과의 잠재적 협력 분야 파악"
+  },
+  {
+    "guid": "9688593",
+    "title": "FinancialJuice: US Secretary of State Rubio: Differences remain, but relationship essential",
+    "link": "https://www.financialjuice.com/News/9688593/US-Secretary-of-State-Rubio-Differences-remain-but-relationship-essential.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:28:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관 “이견은 여전히 존재하지만 양국 관계는 필수적”"
+  },
+  {
+    "guid": "9688591",
+    "title": "FinancialJuice: US Secretary of State Rubio: Discussed Xi's September visit with Wang",
+    "link": "https://www.financialjuice.com/News/9688591/US-Secretary-of-State-Rubio-Discussed-Xis-September-visit-with-Wang.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:28:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관, 왕이 부총리와 시진핑 주석의 9월 방문에 대해 논의"
+  },
+  {
+    "guid": "9688588",
+    "title": "FinancialJuice: ECB: 74 million Euros borrowed via overnight loan facility, 2.004 trillion Euros deposited",
+    "link": "https://www.financialjuice.com/News/9688588/ECB-74-million-Euros-borrowed-via-overnight-loan-facility-2004-trillion-Euros-deposited.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 09:25:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB): 일일 대출 제도를 통해 7,400만 유로를 차입하고, 2조 400만 유로를 예치"
+  },
+  {
+    "guid": "9688546",
+    "title": "FinancialJuice: ING: The GBP - FJElite",
+    "link": "https://www.financialjuice.com/News/9688546/ING-The-GBP---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 08:59:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ING: GBP - FJElite"
+  },
+  {
+    "guid": "9688545",
+    "title": "FinancialJuice: ING: The EUR - FJElite",
+    "link": "https://www.financialjuice.com/News/9688545/ING-The-EUR---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 08:58:38 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: ING: 유로 - FJElite"
+  },
+  {
+    "guid": "9688536",
+    "title": "FinancialJuice: Berenberg: UK Outlook - FJElite",
+    "link": "https://www.financialjuice.com/News/9688536/Berenberg-UK-Outlook---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 08:36:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 베렌베르크: 영국 경제 전망 - FJElite"
+  },
+  {
+    "guid": "9688535",
+    "title": "FinancialJuice: Credit Ágricole: Eurozone Inflation - FJElite",
+    "link": "https://www.financialjuice.com/News/9688535/Credit-%c3%81gricole-Eurozone-Inflation---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 08:34:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 크레디 아그리콜: 유로존 인플레이션 - FJElite"
+  },
+  {
+    "guid": "9688520",
+    "title": "FinancialJuice: UK ONS: Average UK house prices +2.7% in the 12 months to May vs +3.9% in April.",
+    "link": "https://www.financialjuice.com/News/9688520/UK-ONS-Average-UK-house-prices-27-in-the-12-months-to-May-vs-39-in-April.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 08:31:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 국가통계청(ONS): 5월까지 12개월간 영국 평균 주택 가격은 2.7% 상승했으며, 이는 4월의 3.9% 상승률에 비해 낮은 수치다."
+  },
+  {
+    "guid": "9688513",
+    "title": "FinancialJuice: Europe Sentiment: All Eyes on Alphabet - FJElite\n",
+    "link": "https://www.financialjuice.com/News/9688513/Europe-Sentiment-All-Eyes-on-Alphabet---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 08:19:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽 시장 심리: 모든 시선이 알파벳에 쏠려 - FJElite\n"
+  },
+  {
+    "guid": "9688512",
+    "title": "FinancialJuice: SK Hynix adds 7.1t won for Cheongju P&T7 fabricator construction.",
+    "link": "https://www.financialjuice.com/News/9688512/SK-Hynix-adds-71t-won-for-Cheongju-PT7-fabricator-construction.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 08:18:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: SK하이닉스, 청주 P&T7 팹 건설에 7.1조 원 추가 투자."
+  },
+  {
+    "guid": "9688475",
+    "title": "FinancialJuice: Iran to fight with everything it has if US sets foot on land - State TV",
+    "link": "https://www.financialjuice.com/News/9688475/Iran-to-fight-with-everything-it-has-if-US-sets-foot-on-land---State-TV.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 07:59:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: “미국이 이란 영토에 발을 들이면 이란은 모든 수단을 동원해 맞서 싸울 것” - 국영 TV"
+  },
+  {
+    "guid": "9688474",
+    "title": "FinancialJuice: Iran: Currently no negotiations with the US - Mehr",
+    "link": "https://www.financialjuice.com/News/9688474/Iran-Currently-no-negotiations-with-the-US---Mehr.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 07:49:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란, 현재 미국과의 협상 진행 중이지 않음 - 메흐르"
+  },
+  {
+    "guid": "9688473",
+    "title": "FinancialJuice: Iran: \"Exchange of messages\" possible with the US - Mehr.",
+    "link": "https://www.financialjuice.com/News/9688473/Iran-Exchange-of-messages-possible-with-the-US---Mehr.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 07:49:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란, 미국과의 “메시지 교환” 가능성 - 메흐르."
+  },
+  {
+    "guid": "9688445",
+    "title": "FinancialJuice: China tells all market participants not to re-discount bills at rates below 0.5% - Sources.",
+    "link": "https://www.financialjuice.com/News/9688445/China-tells-all-market-participants-not-to-re-discount-bills-at-rates-below-05---Sources.aspx?xy=rss",
+    "pubDate": "Wed, 22 Jul 2026 07:41:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면, 중국이 모든 시장 참여자들에게 어음 재할인 금리를 0.5% 미만으로 책정하지 말라고 지시했다."
+  },
+  {
     "guid": "9688444",
     "title": "FinancialJuice: South Korea Presidential Office believes additional US tariffs possible under section 301.",
     "link": "https://www.financialjuice.com/News/9688444/South-Korea-Presidential-Office-believes-additional-US-tariffs-possible-under-section-301.aspx?xy=rss",
