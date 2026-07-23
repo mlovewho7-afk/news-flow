@@ -1,5 +1,805 @@
 [
   {
+    "guid": "9691076",
+    "title": "FinancialJuice: US 10-Year TIPS Auction",
+    "link": "https://www.financialjuice.com/News/9691076/US-10-Year-TIPS-Auction.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 17:03:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 10년물 TIPS 입찰"
+  },
+  {
+    "guid": "9691069",
+    "title": "FinancialJuice: US 10-Year TIPS High Yield Actual 2.438% (Forecast -, Previous 2.169%)",
+    "link": "https://www.financialjuice.com/News/9691069/US-10-Year-TIPS-High-Yield-Actual-2438-Forecast---Previous-2169.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 17:02:31 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 10년물 TIPS 고수익률 실제 수치 2.438% (예상 -, 이전 2.169%)"
+  },
+  {
+    "guid": "9691068",
+    "title": "FinancialJuice: US 10-Year TIPS Bid-to-Cover Actual 2.300 (Forecast -, Previous 2.520)",
+    "link": "https://www.financialjuice.com/News/9691068/US-10-Year-TIPS-Bid-to-Cover-Actual-2300-Forecast---Previous-2520.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 17:02:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 10년물 TIPS 입찰 경쟁률 실제 2.300 (예상 -, 이전 2.520)"
+  },
+  {
+    "guid": "9691061",
+    "title": "FinancialJuice: WI 10y tips yield about 2.41% before the $21 billion auction",
+    "link": "https://www.financialjuice.com/News/9691061/WI-10y-tips-yield-about-241-before-the-21-billion-auction.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 17:00:19 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 210억 달러 규모의 입찰을 앞두고 위스콘신주 10년물 국채 수익률이 약 2.41%를 기록하고 있다"
+  },
+  {
+    "guid": "9691060",
+    "title": "FinancialJuice: Fire reported at Kuwait's largest power plant - Tasnim News.",
+    "link": "https://www.financialjuice.com/News/9691060/Fire-reported-at-Kuwaits-largest-power-plant---Tasnim-News.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:53:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 쿠웨이트 최대 발전소에서 화재 발생 - 타스님 뉴스."
+  },
+  {
+    "guid": "9691059",
+    "title": "FinancialJuice: AMD CEO: Helios in full production; shipments will start soon. $AMD",
+    "link": "https://www.financialjuice.com/News/9691059/AMD-CEO-Helios-in-full-production-shipments-will-start-soon-AMD.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:52:53 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: AMD CEO: 헬리오스 양산 중, 조만간 출하 시작될 예정. $AMD"
+  },
+  {
+    "guid": "9691058",
+    "title": "FinancialJuice: Iran's Major General Rezaei: Iran's response to infrastructure attacks will be escalating and severe - Post on X",
+    "link": "https://www.financialjuice.com/News/9691058/Irans-Major-General-Rezaei-Irans-response-to-infrastructure-attacks-will-be-escalating-and-severe---Post-on-X.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:52:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 레자에이 소장: 이란은 인프라 공격에 대해 점차 강도를 높여가며 엄중하게 대응할 것 - X 게시물"
+  },
+  {
+    "guid": "9691057",
+    "title": "FinancialJuice: USTR Greer: We're trying to resolve our concerns with the EU’s Digital Markets Act and other actions through responsible, constructive dialogue. But a real dialogue can only take place during a ceasefire.",
+    "link": "https://www.financialjuice.com/News/9691057/USTR-Greer-Were-trying-to-resolve-our-concerns-with-the-EUs-Digital-Markets-Act-and-other-actions-through-responsible-constructive-dialogue-But-a-real-dialogue-can-only-take-place-during-a-ceasefire.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:49:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: “우리는 책임감 있고 건설적인 대화를 통해 EU의 ‘디지털 시장법’ 및 기타 조치에 대한 우려를 해소하고자 노력하고 있습니다. 하지만 진정한 대화는 휴전 상태에서만 이루어질 수 있습니다.”"
+  },
+  {
+    "guid": "9691056",
+    "title": "FinancialJuice: USTR Greer: The EU actions are driving massive uncertainty for US exports.",
+    "link": "https://www.financialjuice.com/News/9691056/USTR-Greer-The-EU-actions-are-driving-massive-uncertainty-for-US-exports.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:49:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: EU의 조치가 미국 수출에 막대한 불확실성을 초래하고 있다."
+  },
+  {
+    "guid": "9691054",
+    "title": "FinancialJuice: USTR Greer: The EU continues to target the most competitive US companies.",
+    "link": "https://www.financialjuice.com/News/9691054/USTR-Greer-The-EU-continues-to-target-the-most-competitive-US-companies.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:48:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: EU는 여전히 가장 경쟁력이 높은 미국 기업들을 표적으로 삼고 있다."
+  },
+  {
+    "guid": "9691051",
+    "title": "FinancialJuice: AMD CEO calls the MI450 AI Accelerator the fastest in the industry. $AMD",
+    "link": "https://www.financialjuice.com/News/9691051/AMD-CEO-calls-the-MI450-AI-Accelerator-the-fastest-in-the-industry-AMD.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:48:00 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: AMD CEO, MI450 AI 가속기를 업계 최고 속도로 평가. $AMD"
+  },
+  {
+    "guid": "9691040",
+    "title": "FinancialJuice: AMD announces Helios AI server computer rack. $AMD",
+    "link": "https://www.financialjuice.com/News/9691040/AMD-announces-Helios-AI-server-computer-rack-AMD.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:47:02 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: AMD, 헬리오스(Helios) AI 서버 랙 출시. $AMD"
+  },
+  {
+    "guid": "9691039",
+    "title": "FinancialJuice: The Trump Administration: The EU DMA $1 billion fine for Google threatens trade stability - Fox Business. $GOOGL\n",
+    "link": "https://www.financialjuice.com/News/9691039/The-Trump-Administration-The-EU-DMA-1-billion-fine-for-Google-threatens-trade-stability---Fox-Business-GOOGL.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:46:50 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 트럼프 행정부: EU의 구글에 대한 DMA 관련 10억 달러 과징금이 무역 안정성을 위협하고 있다 - 폭스 비즈니스. $GOOGL\n"
+  },
+  {
+    "guid": "9691030",
+    "title": "FinancialJuice: Fed bids for 10-year tips total $2.3 bln.",
+    "link": "https://www.financialjuice.com/News/9691030/Fed-bids-for-10-year-tips-total-23-bln.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:45:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 10년물 TIPs 입찰 총액은 23억 달러에 달했다."
+  },
+  {
+    "guid": "9691029",
+    "title": "FinancialJuice: AMD sees the overall compute market reaching $2 trillion by 2030. $AMD",
+    "link": "https://www.financialjuice.com/News/9691029/AMD-sees-the-overall-compute-market-reaching-2-trillion-by-2030-AMD.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:42:29 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: AMD는 2030년까지 전체 컴퓨팅 시장 규모가 2조 달러에 달할 것으로 전망하고 있다. $AMD"
+  },
+  {
+    "guid": "9691028",
+    "title": "FinancialJuice: Saudi Source to journalist Rozen on Trump's demand for normalization in exchange for the nuclear deal: The agreement has already been signed, so there is no room for further negotiations. Tweets do not cancel agreements.",
+    "link": "https://www.financialjuice.com/News/9691028/Saudi-Source-to-journalist-Rozen-on-Trumps-demand-for-normalization-in-exchange-for-the-nuclear-deal-The-agreement-has-already-been-signed-so-there-is-no-room-for-further-negotiations-Tweets-do-not-cancel-agreements.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:41:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 소식통이 기자 로젠에게 트럼프 대통령이 핵 협정을 대가로 관계 정상화를 요구한 것에 대해 다음과 같이 전했다. “협정은 이미 체결되었으므로 추가 협상의 여지가 없다. 트윗으로 협정을 무효화할 수는 없다.”"
+  },
+  {
+    "guid": "9691027",
+    "title": "FinancialJuice: OPEC+ is likely to raise oil output quotas for September by about 188,000 barrels per day at the August 2nd meeting - Three Sources.",
+    "link": "https://www.financialjuice.com/News/9691027/OPEC-is-likely-to-raise-oil-output-quotas-for-September-by-about-188000-barrels-per-day-at-the-August-2nd-meeting---Three-Sources.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:40:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OPEC+가 8월 2일 회의에서 9월 원유 생산 할당량을 하루 약 18만 8천 배럴 늘릴 것으로 보인다 - 세 소식통."
+  },
+  {
+    "guid": "9691026",
+    "title": "FinancialJuice: AMD sees the data center CPU market hit $220 billion by 2030. $AMD",
+    "link": "https://www.financialjuice.com/News/9691026/AMD-sees-the-data-center-CPU-market-hit-220-billion-by-2030-AMD.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:40:39 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: AMD는 2030년까지 데이터센터용 CPU 시장 규모가 2,200억 달러에 달할 것으로 전망한다. $AMD"
+  },
+  {
+    "guid": "9691025",
+    "title": "FinancialJuice: AMD: Advancing AI 2026 - WATCH LIVE $AMD",
+    "link": "https://www.financialjuice.com/News/9691025/AMD-Advancing-AI-2026---WATCH-LIVE-AMD.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:39:51 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: AMD: AI 2026의 진화 - 생중계 시청하기 $AMD"
+  },
+  {
+    "guid": "9691024",
+    "title": "FinancialJuice: Israel's expanded Security Cabinet will convene on Sunday at 8:00 PM local time (13:00 ET) - Israel's Hayom News.",
+    "link": "https://www.financialjuice.com/News/9691024/Israels-expanded-Security-Cabinet-will-convene-on-Sunday-at-800-PM-local-time-1300-ET---Israels-Hayom-News.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:39:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘 확대 안보 내각이 현지 시간 일요일 오후 8시(미국 동부 표준시 오후 1시)에 소집될 예정이다 - 이스라엘 ‘하욤 뉴스’."
+  },
+  {
+    "guid": "9691023",
+    "title": "FinancialJuice: AMD: The AI accelerator market is expected to reach $1.4 trillion by 2030. $AMD",
+    "link": "https://www.financialjuice.com/News/9691023/AMD-The-AI-accelerator-market-is-expected-to-reach-14-trillion-by-2030-AMD.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:38:23 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: AMD: AI 가속기 시장은 2030년까지 1조 4천억 달러 규모에 달할 것으로 예상된다. $AMD"
+  },
+  {
+    "guid": "9691022",
+    "title": "FinancialJuice: The US Senate blocks a resolution curbing Trump's Iran war powers.",
+    "link": "https://www.financialjuice.com/News/9691022/The-US-Senate-blocks-a-resolution-curbing-Trumps-Iran-war-powers.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:32:34 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 미국 상원이 트럼프 대통령의 이란에 대한 전쟁 권한을 제한하는 결의안을 저지했다."
+  },
+  {
+    "guid": "9691009",
+    "title": "FinancialJuice: Microsoft is replacing OpenAI image models with it's own models in PowerPoint and Bing. $MSFT",
+    "link": "https://www.financialjuice.com/News/9691009/Microsoft-is-replacing-OpenAI-image-models-with-its-own-models-in-PowerPoint-and-Bing-MSFT.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:30:41 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 마이크로소프트가 파워포인트와 빙에서 OpenAI의 이미지 모델을 자사 모델로 대체하고 있다. $MSFT"
+  },
+  {
+    "guid": "9690980",
+    "title": "FinancialJuice: US 30-year fixed rate mortgage averages 6.58 pct in the week of July 23rd, highest since the week of August 21st, 2025, vs 6.55% prior week - Freddie Mac.",
+    "link": "https://www.financialjuice.com/News/9690980/US-30-year-fixed-rate-mortgage-averages-658-pct-in-the-week-of-July-23rd-highest-since-the-week-of-August-21st-2025-vs-655-prior-week---Freddie-Mac.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:00:51 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 프레디 맥(Freddie Mac)에 따르면, 7월 23일 주간 미국 30년 만기 고정금리 모기지 평균 금리는 6.58%를 기록해 2025년 8월 21일 주간 이후 최고치를 나타냈으며, 이는 전주 6.55%보다 상승한 수치다."
+  },
+  {
+    "guid": "9690977",
+    "title": "FinancialJuice: Bipartisan group of six US lawmakers proposes requiring AI security audits for most powerful models - Lawmaker Statement",
+    "link": "https://www.financialjuice.com/News/9690977/Bipartisan-group-of-six-US-lawmakers-proposes-requiring-AI-security-audits-for-most-powerful-models---Lawmaker-Statement.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 16:00:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 의원 6명으로 구성된 초당파 그룹, 가장 강력한 AI 모델에 대한 보안 감사 의무화 제안 - 의원 성명"
+  },
+  {
+    "guid": "9690976",
+    "title": "FinancialJuice: Amid rising tensions, a limited security discussion will be held tomorrow afternoon at the Prime Minister's Office. - Israel's Channel 12 News",
+    "link": "https://www.financialjuice.com/News/9690976/Amid-rising-tensions-a-limited-security-discussion-will-be-held-tomorrow-afternoon-at-the-Prime-Ministers-Office---Israels-Channel-12-News.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:56:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 긴장이 고조되는 가운데, 내일 오후 총리실에서 소규모 안보 회의가 열릴 예정이다. - 이스라엘 채널 12 뉴스"
+  },
+  {
+    "guid": "9690975",
+    "title": "FinancialJuice: Xai is bringing Grok 4.5 to iOS, Android, Web, & X.",
+    "link": "https://www.financialjuice.com/News/9690975/Xai-is-bringing-Grok-45-to-iOS-Android-Web--X.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:53:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Xai가 Grok 4.5를 iOS, Android, 웹 및 X에 출시합니다."
+  },
+  {
+    "guid": "9690961",
+    "title": "FinancialJuice: White House Press Secretary Leavitt ends remarks at briefing.",
+    "link": "https://www.financialjuice.com/News/9690961/White-House-Press-Secretary-Leavitt-ends-remarks-at-briefing.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:45:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 레빗 백악관 대변인이 브리핑에서 발언을 마쳤다."
+  },
+  {
+    "guid": "9690958",
+    "title": "FinancialJuice: IBM CEO: Technology spending to grow to 10% of budgets by 2035. $IBM",
+    "link": "https://www.financialjuice.com/News/9690958/IBM-CEO-Technology-spending-to-grow-to-10-of-budgets-by-2035-IBM.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:45:11 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: IBM CEO, “2035년까지 기술 투자 비중이 예산의 10%로 증가할 것”. $IBM"
+  },
+  {
+    "guid": "9690957",
+    "title": "FinancialJuice: House China Panel Moolenaar on Ford-Geely deal: Ford should work with US allies, not adversaries. $F\n",
+    "link": "https://www.financialjuice.com/News/9690957/House-China-Panel-Moolenaar-on-Ford-Geely-deal-Ford-should-work-with-US-allies-not-adversaries-F.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:40:34 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 하원 중국 문제 소위원회 무엘나르 위원, 포드-지리 거래에 대해 “포드는 적대국이 아닌 미국 동맹국들과 협력해야 한다”고 밝혔다. $F\n"
+  },
+  {
+    "guid": "9690956",
+    "title": "FinancialJuice: WH Press Sec. Leavitt on global tariffs: USTR Greer will have an announcement soon later today.",
+    "link": "https://www.financialjuice.com/News/9690956/WH-Press-Sec-Leavitt-on-global-tariffs-USTR-Greer-will-have-an-announcement-soon-later-today.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:38:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 레빗 백악관 대변인이 세계 각국의 관세 문제에 대해 “그리어 미국 무역대표부(USTR) 대표가 오늘 늦게 발표할 예정”이라고 밝혔다."
+  },
+  {
+    "guid": "9690955",
+    "title": "FinancialJuice: WH Press Sec. Leavitt: Trump has not yet spoken to the Saudi leader on the nuclear deal condition",
+    "link": "https://www.financialjuice.com/News/9690955/WH-Press-Sec-Leavitt-Trump-has-not-yet-spoken-to-the-Saudi-leader-on-the-nuclear-deal-condition.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:36:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 대변인 리빗, “트럼프 대통령은 핵 합의 조건과 관련해 사우디 지도자와 아직 대화를 나누지 않았다”"
+  },
+  {
+    "guid": "9690954",
+    "title": "FinancialJuice: WH Press Sec. Leavitt: Hopefully, Saudi Arabia will join the accords soon. We will work to get us-saudi arabia deal finalized.",
+    "link": "https://www.financialjuice.com/News/9690954/WH-Press-Sec-Leavitt-Hopefully-Saudi-Arabia-will-join-the-accords-soon-We-will-work-to-get-us-saudi-arabia-deal-finalized.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:33:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 레빗 백악관 대변인: 사우디아라비아가 조만간 협정에 동참하기를 희망합니다. 우리는 미국과 사우디아라비아 간의 협정을 최종 타결하기 위해 노력할 것입니다."
+  },
+  {
+    "guid": "9690953",
+    "title": "FinancialJuice: WH Press Sec. Leavitt: The Saudi energy deal is conditioned on the Abraham Accords",
+    "link": "https://www.financialjuice.com/News/9690953/WH-Press-Sec-Leavitt-The-Saudi-energy-deal-is-conditioned-on-the-Abraham-Accords.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:33:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 레빗 백악관 대변인, “사우디 에너지 협정은 아브라함 협정에 따라 체결된다”"
+  },
+  {
+    "guid": "9690947",
+    "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.730% (Forecast -, Previous 3.660%)",
+    "link": "https://www.financialjuice.com/News/9690947/US-4-Week-Bill-High-Yield-Actual-3730-Forecast---Previous-3660.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:32:34 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 4주 만기 국채 고수익률 실제 3.730% (예상 -, 이전 3.660%)"
+  },
+  {
+    "guid": "9690946",
+    "title": "FinancialJuice: US 4-Week Bill Bid-to-Cover Actual 2.790 (Forecast -, Previous 2.570)",
+    "link": "https://www.financialjuice.com/News/9690946/US-4-Week-Bill-Bid-to-Cover-Actual-2790-Forecast---Previous-2570.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:32:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 4주물 국채 입찰 경쟁률 실제 2.790 (예상 -, 이전 2.570)"
+  },
+  {
+    "guid": "9690952",
+    "title": "FinancialJuice: US 4-Week Bill Auction",
+    "link": "https://www.financialjuice.com/News/9690952/US-4-Week-Bill-Auction.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:32:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 4주물 국채 입찰"
+  },
+  {
+    "guid": "9690920",
+    "title": "FinancialJuice: Trump to Israel's Channel 12 News: I am considering a massive attack. Larger than anything that has been done before. I am close to making a decision.",
+    "link": "https://www.financialjuice.com/News/9690920/Trump-to-Israels-Channel-12-News-I-am-considering-a-massive-attack-Larger-than-anything-that-has-been-done-before-I-am-close-to-making-a-decision.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:27:49 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프, 이스라엘 채널 12 뉴스와의 인터뷰에서 “대규모 공격을 고려하고 있다. 지금까지 있었던 그 어떤 공격보다 더 큰 규모일 것이다. 결정을 내리기 직전이다.”라고 말했다."
+  },
+  {
+    "guid": "9690919",
+    "title": "FinancialJuice: WH Press Sec. Leavitt: Trump will host a Cabinet Meeting at Camp David next Friday.",
+    "link": "https://www.financialjuice.com/News/9690919/WH-Press-Sec-Leavitt-Trump-will-host-a-Cabinet-Meeting-at-Camp-David-next-Friday.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:26:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 대변인 리빗: 트럼프 대통령은 다음 주 금요일 캠프 데이비드에서 내각 회의를 주재할 예정이다."
+  },
+  {
+    "guid": "9690918",
+    "title": "FinancialJuice: WH Press Sec. Leavitt: Trump is going to travel to Michigan on Monday.",
+    "link": "https://www.financialjuice.com/News/9690918/WH-Press-Sec-Leavitt-Trump-is-going-to-travel-to-Michigan-on-Monday.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:25:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 대변인 리빗: 트럼프 대통령은 월요일에 미시간주를 방문할 예정이다."
+  },
+  {
+    "guid": "9690911",
+    "title": "FinancialJuice: Fed bids for 4-week bills total $6.6 bln.",
+    "link": "https://www.financialjuice.com/News/9690911/Fed-bids-for-4-week-bills-total-66-bln.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:15:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 4주 만기 국채 입찰 총액은 66억 달러다."
+  },
+  {
+    "guid": "9690909",
+    "title": "FinancialJuice: Fitch Ratings: Chinese money market funds continue to expand despite low yields.",
+    "link": "https://www.financialjuice.com/News/9690909/Fitch-Ratings-Chinese-money-market-funds-continue-to-expand-despite-low-yields.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:10:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 피치 레이팅스: 낮은 수익률에도 불구하고 중국 머니마켓 펀드는 계속 성장하고 있다."
+  },
+  {
+    "guid": "9690907",
+    "title": "FinancialJuice: The SEC is to host a roundtable to discuss 24-hour trading on September 17th.",
+    "link": "https://www.financialjuice.com/News/9690907/The-SEC-is-to-host-a-roundtable-to-discuss-24-hour-trading-on-September-17th.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:06:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 증권거래위원회(SEC)는 9월 17일 24시간 거래에 대해 논의하기 위한 원탁회의를 개최할 예정이다."
+  },
+  {
+    "guid": "9690906",
+    "title": "FinancialJuice: IRGC Navy confirmed that the Strait of Hormuz remains closed, and numerous ships are awaiting authorization to pass through - IRIB News.",
+    "link": "https://www.financialjuice.com/News/9690906/IRGC-Navy-confirmed-that-the-Strait-of-Hormuz-remains-closed-and-numerous-ships-are-awaiting-authorization-to-pass-through---IRIB-News.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:03:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대(IRGC) 해군은 호르무즈 해협이 여전히 폐쇄된 상태이며, 다수의 선박이 통행 허가를 기다리고 있다고 확인했다 - IRIB 뉴스."
+  },
+  {
+    "guid": "9690905",
+    "title": "FinancialJuice: Databricks and Microsoft expand partnership to help enterprises bring business context to enterprise AI $MSFT\n",
+    "link": "https://www.financialjuice.com/News/9690905/Databricks-and-Microsoft-expand-partnership-to-help-enterprises-bring-business-context-to-enterprise-AI-MSFT.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:02:13 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: Databricks와 마이크로소프트, 기업들이 기업용 AI에 비즈니스 맥락을 반영할 수 있도록 지원하기 위해 파트너십 확대 $MSFT\n"
+  },
+  {
+    "guid": "9690890",
+    "title": "FinancialJuice: US Treasury Auction Schedule",
+    "link": "https://www.financialjuice.com/News/9690890/US-Treasury-Auction-Schedule.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:01:48 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 재무부 채권 입찰 일정"
+  },
+  {
+    "guid": "9690884",
+    "title": "FinancialJuice: Kansas City Fed Manufacturing Actual 17 (Forecast -, Previous 19)",
+    "link": "https://www.financialjuice.com/News/9690884/Kansas-City-Fed-Manufacturing-Actual-17-Forecast---Previous-19.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:00:45 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캔자스시티 연방준비은행 제조업 지수 실제치 17 (예상치 -, 전월치 19)"
+  },
+  {
+    "guid": "9690883",
+    "title": "FinancialJuice: Kansas City Fed Composite Index Actual 9 (Forecast 12, Previous 11)",
+    "link": "https://www.financialjuice.com/News/9690883/Kansas-City-Fed-Composite-Index-Actual-9-Forecast-12-Previous-11.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 15:00:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캔자스시티 연방준비은행 종합지수, 실제치 9 (예상치 12, 전월치 11)"
+  },
+  {
+    "guid": "9690882",
+    "title": "FinancialJuice:  White House press briefing with WH Press Sec. Leavitt - WATCH LIVE",
+    "link": "https://www.financialjuice.com/News/9690882/-White-House-press-briefing-with-WH-Press-Sec-Leavitt---WATCH-LIVE.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:50:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice:  리빗 백악관 대변인 주재 백악관 정례 브리핑 - 생중계 시청하기"
+  },
+  {
+    "guid": "9690866",
+    "title": "FinancialJuice: Yemen's Advisor to the Chairman of the Supreme Political Council Anam: We will not hesitate to target any country that cooperates with Saudi Arabia.",
+    "link": "https://www.financialjuice.com/News/9690866/Yemens-Advisor-to-the-Chairman-of-the-Supreme-Political-Council-Anam-We-will-not-hesitate-to-target-any-country-that-cooperates-with-Saudi-Arabia.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:43:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 최고정치평의회 의장 보좌관 아남, “사우디아라비아와 협력하는 어떤 국가라도 주저 없이 타격할 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9690864",
+    "title": "FinancialJuice: Alphabet’s future spending commitments soar to $811 billion. $GOOGL",
+    "link": "https://www.financialjuice.com/News/9690864/Alphabets-future-spending-commitments-soar-to-811-billion-GOOGL.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:42:25 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 알파벳의 향후 지출 계획이 8,110억 달러로 급증했다. $GOOGL"
+  },
+  {
+    "guid": "9690863",
+    "title": "FinancialJuice: Yemen's Anam: Yemen will continue targeting Saudi interests while the blockade continues.",
+    "link": "https://www.financialjuice.com/News/9690863/Yemens-Anam-Yemen-will-continue-targeting-Saudi-interests-while-the-blockade-continues.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:41:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘의 아남: 봉쇄가 지속되는 한 예멘은 사우디의 이익을 계속 표적으로 삼을 것이다."
+  },
+  {
+    "guid": "9690862",
+    "title": "FinancialJuice: Yemen's Anam: US aggression will be met with a response against ships and interests.",
+    "link": "https://www.financialjuice.com/News/9690862/Yemens-Anam-US-aggression-will-be-met-with-a-response-against-ships-and-interests.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:41:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘의 아남: 미국의 침략 행위에 대해 선박과 이해관계를 겨냥한 대응 조치를 취할 것이다."
+  },
+  {
+    "guid": "9690861",
+    "title": "FinancialJuice: An Iranian plan to infiltrate an operative into Israel and target senior officials has been thwarted - Israel Channel 12 News citing Mossad",
+    "link": "https://www.financialjuice.com/News/9690861/An-Iranian-plan-to-infiltrate-an-operative-into-Israel-and-target-senior-officials-has-been-thwarted---Israel-Channel-12-News-citing-Mossad.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:38:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란이 요원을 이스라엘에 잠입시켜 고위 관리들을 표적으로 삼으려던 계획이 좌절되었다 - 이스라엘 채널 12 뉴스, 모사드 인용"
+  },
+  {
+    "guid": "9690860",
+    "title": "FinancialJuice: Senate Republican Leader Thune: Iran sanctions added to Russia bill - Punchbowl",
+    "link": "https://www.financialjuice.com/News/9690860/Senate-Republican-Leader-Thune-Iran-sanctions-added-to-Russia-bill---Punchbowl.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:37:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 상원 공화당 원내대표 툰: 러시아 관련 법안에 이란 제재 조항 추가 - Punchbowl"
+  },
+  {
+    "guid": "9690859",
+    "title": "FinancialJuice: Traders fully price 50bps of BoE rate hikes by year-end.",
+    "link": "https://www.financialjuice.com/News/9690859/Traders-fully-price-50bps-of-BoE-rate-hikes-by-year-end.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:36:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 트레이더들은 연말까지 영국 중앙은행(BoE)의 50bps 금리 인상을 완전히 반영하고 있다."
+  },
+  {
+    "guid": "9690847",
+    "title": "FinancialJuice: IRGC: We will not allow the United States to use deceptive ceasefires to replenish its oil and ammunition reserves and then resume attacks - Fars News.",
+    "link": "https://www.financialjuice.com/News/9690847/IRGC-We-will-not-allow-the-United-States-to-use-deceptive-ceasefires-to-replenish-its-oil-and-ammunition-reserves-and-then-resume-attacks---Fars-News.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:30:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대(IRGC): 미국이 기만적인 휴전을 이용해 석유와 탄약 비축량을 보충한 뒤 다시 공격을 재개하는 것을 용납하지 않겠다 - 파르스 뉴스."
+  },
+  {
+    "guid": "9690843",
+    "title": "FinancialJuice: EIA Natural Gas Change BCF Actual 32B (Forecast 34B, Previous 41B)",
+    "link": "https://www.financialjuice.com/News/9690843/EIA-Natural-Gas-Change-BCF-Actual-32B-Forecast-34B-Previous-41B.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EIA 천연가스 재고 변동량(BCF) 실제 32B (예상 34B, 이전 41B)"
+  },
+  {
+    "guid": "9690842",
+    "title": "FinancialJuice: The House passes the Iran war powers resolution.",
+    "link": "https://www.financialjuice.com/News/9690842/The-House-passes-the-Iran-war-powers-resolution.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:25:28 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 하원이 이란 전쟁 권한 결의안을 가결했다."
+  },
+  {
+    "guid": "9690841",
+    "title": "FinancialJuice: Crypto Fear and Greed Index: 31/100 = Fear",
+    "link": "https://www.financialjuice.com/News/9690841/Crypto-Fear-and-Greed-Index-31100--Fear.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:18:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 암호화폐 공포·탐욕 지수: 31/100 = 공포"
+  },
+  {
+    "guid": "9690840",
+    "title": "FinancialJuice: ECB Officials are ready to raise interest rates in September.\n",
+    "link": "https://www.financialjuice.com/News/9690840/ECB-Officials-are-ready-to-raise-interest-rates-in-September.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:18:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB) 관계자들은 9월에 금리를 인상할 준비가 되어 있다.\n"
+  },
+  {
+    "guid": "9690839",
+    "title": "FinancialJuice: Fear and Greed Index: 42/100 = Fear",
+    "link": "https://www.financialjuice.com/News/9690839/Fear-and-Greed-Index-42100--Fear.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:17:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 공포와 탐욕 지수: 42/100 = 공포"
+  },
+  {
+    "guid": "9690838",
+    "title": "FinancialJuice: Iran’s Foreign Minister Araghchi traveled to Kyrgyzstan to participate in the meeting of the Council of Ministers of Foreign Affairs of the Shanghai Cooperation Organization.",
+    "link": "https://www.financialjuice.com/News/9690838/Irans-Foreign-Minister-Araghchi-traveled-to-Kyrgyzstan-to-participate-in-the-meeting-of-the-Council-of-Ministers-of-Foreign-Affairs-of-the-Shanghai-Cooperation-Organization.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:17:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 아라그치 외무장관이 상하이 협력 기구(SCO) 외무장관 회의에 참석하기 위해 키르기스스탄을 방문했다."
+  },
+  {
+    "guid": "9690836",
+    "title": "FinancialJuice: Canada's PM Carney: Canada is in a stronger position than it was when the trade war started and will do whatever is needed to defend itself.",
+    "link": "https://www.financialjuice.com/News/9690836/Canadas-PM-Carney-Canada-is-in-a-stronger-position-than-it-was-when-the-trade-war-started-and-will-do-whatever-is-needed-to-defend-itself.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:16:55 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 캐나다의 카니 총리: 캐나다는 무역 전쟁이 시작되었을 때보다 더 유리한 입장에 있으며, 자국을 지키기 위해 필요한 모든 조치를 취할 것이다."
+  },
+  {
+    "guid": "9690825",
+    "title": "FinancialJuice: Canada's PM Carney: Canada will not hesitate to defend its interests in a trade war with the US.",
+    "link": "https://www.financialjuice.com/News/9690825/Canadas-PM-Carney-Canada-will-not-hesitate-to-defend-its-interests-in-a-trade-war-with-the-US.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:16:28 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 캐나다의 카니 총리: 캐나다는 미국과의 무역 전쟁에서 자국의 이익을 지키기 위해 주저하지 않을 것이다."
+  },
+  {
+    "guid": "9690822",
+    "title": "FinancialJuice: Iran sent Revolutionary Guard commanders and missile-related equipment to Yemen's Houthis this month - Four Sources ",
+    "link": "https://www.financialjuice.com/News/9690822/Iran-sent-Revolutionary-Guard-commanders-and-missile-related-equipment-to-Yemens-Houthis-this-month---Four-Sources-.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:15:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란, 이번 달 예멘 후티 반군에 혁명수비대 지휘관 및 미사일 관련 장비를 보냈다 - 4개 소식통 "
+  },
+  {
+    "guid": "9690821",
+    "title": "FinancialJuice: Russia discusses extending Gasoline export ban for 6 months - IFX",
+    "link": "https://www.financialjuice.com/News/9690821/Russia-discusses-extending-Gasoline-export-ban-for-6-months---IFX.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:09:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아, 휘발유 수출 금지 조치 6개월 연장 검토 - IFX"
+  },
+  {
+    "guid": "9690820",
+    "title": "FinancialJuice: Russia discusses extending the Diesel export ban for a month - IFX.",
+    "link": "https://www.financialjuice.com/News/9690820/Russia-discusses-extending-the-Diesel-export-ban-for-a-month---IFX.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:08:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아, 디젤 수출 금지 조치 1개월 연장 검토 - IFX."
+  },
+  {
+    "guid": "9690819",
+    "title": "FinancialJuice: The Pentagon updates the list of entities with problematic activities, the list includes academic centers in China, Russia, and Iran.",
+    "link": "https://www.financialjuice.com/News/9690819/The-Pentagon-updates-the-list-of-entities-with-problematic-activities-the-list-includes-academic-centers-in-China-Russia-and-Iran.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:07:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미 국방부가 문제가 있는 활동을 벌이는 기관 목록을 업데이트했으며, 이 목록에는 중국, 러시아, 이란의 학술 기관들이 포함되어 있다."
+  },
+  {
+    "guid": "9690803",
+    "title": "FinancialJuice: Eurozone Consumer Confidence Flash Actual -15.9 (Forecast -17, Previous -17.7)",
+    "link": "https://www.financialjuice.com/News/9690803/Eurozone-Consumer-Confidence-Flash-Actual--159-Forecast--17-Previous--177.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 14:00:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 소비자 신뢰지수 속보치 -15.9 (예상 -17, 전월 -17.7)"
+  },
+  {
+    "guid": "9690796",
+    "title": "FinancialJuice: Venezuela's oil ministry readies migration of oil joint ventures, contracts by early next week, maintaining July 28th deadline - Sources",
+    "link": "https://www.financialjuice.com/News/9690796/Venezuelas-oil-ministry-readies-migration-of-oil-joint-ventures-contracts-by-early-next-week-maintaining-July-28th-deadline---Sources.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:50:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 베네수엘라 석유부, 다음 주 초까지 석유 합작 투자사 및 계약 이전을 준비 중… 7월 28일 마감 기한 유지 - 소식통"
+  },
+  {
+    "guid": "9690788",
+    "title": "FinancialJuice: Drones attacked two tankers overnight, approaching Russia's CPC oil terminal in Black Sea - Sources \n",
+    "link": "https://www.financialjuice.com/News/9690788/Drones-attacked-two-tankers-overnight-approaching-Russias-CPC-oil-terminal-in-Black-Sea---Sources-.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:46:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밤사이 드론이 흑해에 위치한 러시아 CPC 석유 터미널로 접근하던 유조선 2척을 공격했다 - 소식통 \n"
+  },
+  {
+    "guid": "9690778",
+    "title": "FinancialJuice: Iran's Revolutionary Guards warn Britain over allowing US bombers to fly from its bases - State Media.",
+    "link": "https://www.financialjuice.com/News/9690778/Irans-Revolutionary-Guards-warn-Britain-over-allowing-US-bombers-to-fly-from-its-bases---State-Media.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:38:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대, 영국이 미군 폭격기의 자국 기지 이착륙을 허용한 데 대해 경고 - 국영 매체."
+  },
+  {
+    "guid": "9690777",
+    "title": "FinancialJuice: Iran's IRGC: Have targeted Al-Adiri base in Kuwait - State Media",
+    "link": "https://www.financialjuice.com/News/9690777/Irans-IRGC-Have-targeted-Al-Adiri-base-in-Kuwait---State-Media.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:37:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대(IRGC), “쿠웨이트의 알-아디리 기지를 공격했다” - 국영 매체"
+  },
+  {
+    "guid": "9690776",
+    "title": "FinancialJuice: Iran's IRGC: Any base used to attack Iran is a legitimate target.",
+    "link": "https://www.financialjuice.com/News/9690776/Irans-IRGC-Any-base-used-to-attack-Iran-is-a-legitimate-target.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:35:17 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이란 혁명수비대(IRGC): 이란을 공격하는 데 이용되는 모든 기지는 정당한 공격 대상이다."
+  },
+  {
+    "guid": "9690774",
+    "title": "FinancialJuice: ECB's President Lagarde ends press conference",
+    "link": "https://www.financialjuice.com/News/9690774/ECBs-President-Lagarde-ends-press-conference.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:32:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재, 기자회견을 마쳤다"
+  },
+  {
+    "guid": "9690760",
+    "title": "FinancialJuice: ECB's President Lagarde: Medium-term inflation expectations firmly anchored.",
+    "link": "https://www.financialjuice.com/News/9690760/ECBs-President-Lagarde-Medium-term-inflation-expectations-firmly-anchored.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:30:44 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: 중기 인플레이션 기대치가 확고히 자리 잡고 있다."
+  },
+  {
+    "guid": "9690759",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9690759/MOO-Imbalance.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:30:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOO 불균형"
+  },
+  {
+    "guid": "9690754",
+    "title": "FinancialJuice: ECB President Lagarde: worried about risk of second-round impacts",
+    "link": "https://www.financialjuice.com/News/9690754/ECB-President-Lagarde-worried-about-risk-of-second-round-impacts.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:29:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재, 2차 파급 효과 위험에 우려 표명"
+  },
+  {
+    "guid": "9690753",
+    "title": "FinancialJuice: ECB's President Lagarde: Euro enlargement is not for ECB to decide",
+    "link": "https://www.financialjuice.com/News/9690753/ECBs-President-Lagarde-Euro-enlargement-is-not-for-ECB-to-decide.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:28:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재, “유로화 확대 여부는 ECB가 결정할 문제가 아니다”"
+  },
+  {
+    "guid": "9690752",
+    "title": "FinancialJuice: ECB's President Lagarde: Mild scenario currently looks quite unlikely.",
+    "link": "https://www.financialjuice.com/News/9690752/ECBs-President-Lagarde-Mild-scenario-currently-looks-quite-unlikely.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:23:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: 현재로서는 온건한 시나리오가 실현될 가능성은 매우 낮아 보인다."
+  },
+  {
+    "guid": "9690751",
+    "title": "FinancialJuice: ECB's President Lagarde: The situation in the Middle East can reverse very quickly",
+    "link": "https://www.financialjuice.com/News/9690751/ECBs-President-Lagarde-The-situation-in-the-Middle-East-can-reverse-very-quickly.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:23:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: 중동 정세는 순식간에 역전될 수 있다"
+  },
+  {
+    "guid": "9690750",
+    "title": "FinancialJuice: ECB's President Lagarde: We did not discuss minimum reserve requirement. Doesn't mean it won't be discussed.",
+    "link": "https://www.financialjuice.com/News/9690750/ECBs-President-Lagarde-We-did-not-discuss-minimum-reserve-requirement-Doesnt-mean-it-wont-be-discussed.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:20:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: “최소 준비금 요건에 대해서는 논의하지 않았다. 그렇다고 해서 향후 논의되지 않을 것이라는 뜻은 아니다.”"
+  },
+  {
+    "guid": "9690749",
+    "title": "FinancialJuice: ECB's President Lagarde: No push for ECB rate hike today",
+    "link": "https://www.financialjuice.com/News/9690749/ECBs-President-Lagarde-No-push-for-ECB-rate-hike-today.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:20:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 라가르드 ECB 총재, “오늘 ECB 금리 인상 추진하지 않을 것”"
+  },
+  {
+    "guid": "9690748",
+    "title": "FinancialJuice: ECB's President Lagarde: We asked staff to study various oil and gas prices scenarios for September meeting.",
+    "link": "https://www.financialjuice.com/News/9690748/ECBs-President-Lagarde-We-asked-staff-to-study-various-oil-and-gas-prices-scenarios-for-September-meeting.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:19:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: “9월 회의를 앞두고 직원들에게 다양한 유가 및 가스 가격 시나리오를 분석해 달라고 요청했다.”"
+  },
+  {
+    "guid": "9690747",
+    "title": "FinancialJuice: ECB's President Lagarde: Recent developments in the Gulf are alarming.",
+    "link": "https://www.financialjuice.com/News/9690747/ECBs-President-Lagarde-Recent-developments-in-the-Gulf-are-alarming.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:18:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: 최근 걸프 지역의 정세 전개는 우려스럽다."
+  },
+  {
+    "guid": "9690746",
+    "title": "FinancialJuice: Israeli PM Office: Saudi Arabia's joining of the Abraham Accords would be an historic leap forward for peace in the Middle East",
+    "link": "https://www.financialjuice.com/News/9690746/Israeli-PM-Office-Saudi-Arabias-joining-of-the-Abraham-Accords-would-be-an-historic-leap-forward-for-peace-in-the-Middle-East.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:17:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘 총리실: 사우디아라비아가 아브라함 협정에 가입한다면 이는 중동 평화를 위한 역사적인 도약이 될 것"
+  },
+  {
+    "guid": "9690730",
+    "title": "FinancialJuice: ECB's President Lagarde: We're back to the baseline.",
+    "link": "https://www.financialjuice.com/News/9690730/ECBs-President-Lagarde-Were-back-to-the-baseline.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:16:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: “우리는 다시 기본 시나리오로 돌아왔다.”"
+  },
+  {
+    "guid": "9690717",
+    "title": "FinancialJuice: ECB's President Lagarde: We're providing framework guidance",
+    "link": "https://www.financialjuice.com/News/9690717/ECBs-President-Lagarde-Were-providing-framework-guidance.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:15:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: “우리는 정책 방향에 대한 지침을 제공하고 있다”"
+  },
+  {
+    "guid": "9690716",
+    "title": "FinancialJuice: ECB's President Lagarde: Not giving any forward guidance",
+    "link": "https://www.financialjuice.com/News/9690716/ECBs-President-Lagarde-Not-giving-any-forward-guidance.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:14:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재, “향후 정책 방향에 대한 어떠한 시사도 하지 않을 것”"
+  },
+  {
+    "guid": "9690715",
+    "title": "FinancialJuice: ECB's President Lagarde: Seeing gradual decline in wage growth",
+    "link": "https://www.financialjuice.com/News/9690715/ECBs-President-Lagarde-Seeing-gradual-decline-in-wage-growth.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:12:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재, “임금 상승세가 점진적으로 둔화되고 있다”"
+  },
+  {
+    "guid": "9690714",
+    "title": "FinancialJuice: ECB's President Lagarde: We are not seeing any second-round effects.",
+    "link": "https://www.financialjuice.com/News/9690714/ECBs-President-Lagarde-We-are-not-seeing-any-second-round-effects.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:11:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: “현재 2차 파급 효과는 나타나지 않고 있다.”"
+  },
+  {
+    "guid": "9690713",
+    "title": "FinancialJuice: ECB's President Lagarde: We will have a lot more data available in September.",
+    "link": "https://www.financialjuice.com/News/9690713/ECBs-President-Lagarde-We-will-have-a-lot-more-data-available-in-September.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:10:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: 9월이 되면 훨씬 더 많은 데이터를 확보하게 될 것입니다."
+  },
+  {
+    "guid": "9690712",
+    "title": "FinancialJuice: ECB's President Lagarde: There were some who asked whether we should consider a hike",
+    "link": "https://www.financialjuice.com/News/9690712/ECBs-President-Lagarde-There-were-some-who-asked-whether-we-should-consider-a-hike.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:09:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: 금리 인상을 고려해야 하는지 묻는 이들도 있었다"
+  },
+  {
+    "guid": "9690711",
+    "title": "FinancialJuice: ECB's President Lagarde: We are positioned adequately to wait.",
+    "link": "https://www.financialjuice.com/News/9690711/ECBs-President-Lagarde-We-are-positioned-adequately-to-wait.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:09:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: “우리는 기다릴 수 있는 충분한 여력을 갖추고 있다.”"
+  },
+  {
+    "guid": "9690710",
+    "title": "FinancialJuice: ECB's President Lagarde, on risk assessment: We're back to June settings",
+    "link": "https://www.financialjuice.com/News/9690710/ECBs-President-Lagarde-on-risk-assessment-Were-back-to-June-settings.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:07:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재, 위험 평가에 관해: “6월 당시의 기준점으로 되돌아갔다”"
+  },
+  {
+    "guid": "9690709",
+    "title": "FinancialJuice: China issues security reminder to citizens in Saudi Arabia.",
+    "link": "https://www.financialjuice.com/News/9690709/China-issues-security-reminder-to-citizens-in-Saudi-Arabia.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:07:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국, 사우디아라비아에 체류 중인 자국민에게 안전 주의보를 발령했다."
+  },
+  {
+    "guid": "9690708",
+    "title": "FinancialJuice: ECB's President Lagarde: Post-MoU drop in Brent crude was quicker than anticipated",
+    "link": "https://www.financialjuice.com/News/9690708/ECBs-President-Lagarde-Post-MoU-drop-in-Brent-crude-was-quicker-than-anticipated.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:05:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재, “양해각서(MoU) 체결 후 브렌트유 가격 하락세가 예상보다 빨랐다”"
+  },
+  {
+    "guid": "9690707",
+    "title": "FinancialJuice: ECB's President Lagarde: We have had some relatively benign developments since the June decision",
+    "link": "https://www.financialjuice.com/News/9690707/ECBs-President-Lagarde-We-have-had-some-relatively-benign-developments-since-the-June-decision.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:05:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재: “6월 결정 이후 비교적 순조로운 흐름이 이어지고 있다”"
+  },
+  {
+    "guid": "9690705",
+    "title": "FinancialJuice: $100 oil is a result of disruptions in its transportation, not production. The fire US is igniting in the region's oil and gas fields will engulf the entire world - Iran's Mokhber on X.",
+    "link": "https://www.financialjuice.com/News/9690705/100-oil-is-a-result-of-disruptions-in-its-transportation-not-production-The-fire-US-is-igniting-in-the-regions-oil-and-gas-fields-will-engulf-the-entire-world---Irans-Mokhber-on-X.aspx?xy=rss",
+    "pubDate": "Thu, 23 Jul 2026 13:03:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유가 100달러는 생산 차질이 아닌 수송 차질로 인한 결과다. 미국이 이 지역의 석유·가스전에서 지핀 불길이 전 세계를 휩쓸게 될 것이라고 이란의 모크베르가 X를 통해 밝혔다."
+  },
+  {
     "guid": "9690548",
     "title": "FinancialJuice: Secured overnight financing rate 3.62% July 22nd vs 3.61% July 21st",
     "link": "https://www.financialjuice.com/News/9690548/Secured-overnight-financing-rate-362-July-22nd-vs-361-July-21st.aspx",
