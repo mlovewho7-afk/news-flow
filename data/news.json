@@ -1,5 +1,469 @@
 [
   {
+    "guid": "9692959",
+    "title": "FinancialJuice: SpaceXAI: today we are introducing Grok into Google Workspace. $SPCX $GOOGL",
+    "link": "https://www.financialjuice.com/News/9692959/SpaceXAI-today-we-are-introducing-Grok-into-Google-Workspace-SPCX-GOOGL.aspx",
+    "pubDate": "Fri, 24 Jul 2026 18:05:14 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: SpaceXAI: 오늘 Google Workspace에 Grok을 도입합니다. $SPCX $GOOGL"
+  },
+  {
+    "guid": "9692958",
+    "title": "FinancialJuice: AWS announces availability of Claude Opus 5 on Amazon Bedrock and Claude platform on AWS - blog. $AMZN",
+    "link": "https://www.financialjuice.com/News/9692958/AWS-announces-availability-of-Claude-Opus-5-on-Amazon-Bedrock-and-Claude-platform-on-AWS---blog-AMZN.aspx",
+    "pubDate": "Fri, 24 Jul 2026 18:03:52 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: AWS, Amazon Bedrock 및 AWS의 Claude 플랫폼에서 Claude Opus 5 제공 개시 발표 - 블로그. $AMZN"
+  },
+  {
+    "guid": "9692897",
+    "title": "FinancialJuice: China's Foreign Minister Wang Yi told Russian Foreign Minister Lavrov: Japan must never be allowed to rearm.",
+    "link": "https://www.financialjuice.com/News/9692897/Chinas-Foreign-Minister-Wang-Yi-told-Russian-Foreign-Minister-Lavrov-Japan-must-never-be-allowed-to-rearm.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:09:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국의 왕이 외교부장은 러시아의 라브로프 외교부 장관에게 “일본의 재군비화를 결코 용납해서는 안 된다”고 말했다."
+  },
+  {
+    "guid": "9692896",
+    "title": "FinancialJuice: Trump: The EU will \"pay a very big price\" for what he described as illegal and unethical conduct - Truth Social.",
+    "link": "https://www.financialjuice.com/News/9692896/Trump-The-EU-will-pay-a-very-big-price-for-what-he-described-as-illegal-and-unethical-conduct---Truth-Social.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:08:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 자신이 불법적이고 비윤리적이라고 규정한 행위에 대해 EU가 “매우 큰 대가를 치르게 될 것”이라고 밝혔다 - Truth Social."
+  },
+  {
+    "guid": "9692895",
+    "title": "FinancialJuice: Trump: The Administration expects to impose a substantial tariff on the European Union as soon as possible - Truth Social.",
+    "link": "https://www.financialjuice.com/News/9692895/Trump-The-Administration-expects-to-impose-a-substantial-tariff-on-the-European-Union-as-soon-as-possible---Truth-Social.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:08:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 행정부는 조만간 유럽연합에 상당한 규모의 관세를 부과할 것으로 예상하고 있다 - Truth Social."
+  },
+  {
+    "guid": "9692894",
+    "title": "FinancialJuice: Trump: The penalties imposed on US companies will be reversed - Truth Social.",
+    "link": "https://www.financialjuice.com/News/9692894/Trump-The-penalties-imposed-on-US-companies-will-be-reversed---Truth-Social.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:07:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “미국 기업에 부과된 제재는 철회될 것” - Truth Social."
+  },
+  {
+    "guid": "9692893",
+    "title": "FinancialJuice: Trump accuses the EU of unfairly targeting American firms through large fines and calls the practice discriminatory - Truth Social.",
+    "link": "https://www.financialjuice.com/News/9692893/Trump-accuses-the-EU-of-unfairly-targeting-American-firms-through-large-fines-and-calls-the-practice-discriminatory---Truth-Social.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:07:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, EU가 거액의 과징금을 통해 미국 기업들을 부당하게 표적으로 삼고 있다고 비난하며, 이러한 관행을 차별적이라고 규정 - Truth Social."
+  },
+  {
+    "guid": "9692892",
+    "title": "FinancialJuice: Trump: The US will immediately initiate a Section 301 investigation into the European Union's treatment of US companies - Truth Social.",
+    "link": "https://www.financialjuice.com/News/9692892/Trump-The-US-will-immediately-initiate-a-Section-301-investigation-into-the-European-Unions-treatment-of-US-companies---Truth-Social.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:07:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “미국은 유럽연합(EU)의 미국 기업에 대한 처우에 대해 제301조 조사를 즉시 개시할 것” - Truth Social."
+  },
+  {
+    "guid": "9692891",
+    "title": "FinancialJuice: China's Foreign Minister Wang Yi and Russian Foreign Minister Lavrov meet on the sidelines of the SCO FM talks.",
+    "link": "https://www.financialjuice.com/News/9692891/Chinas-Foreign-Minister-Wang-Yi-and-Russian-Foreign-Minister-Lavrov-meet-on-the-sidelines-of-the-SCO-FM-talks.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:06:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국의 왕이 외교부 장관과 러시아의 라브로프 외교부 장관이 상하이협력기구(SCO) 외무장관 회의 기간 중 별도로 회동했다."
+  },
+  {
+    "guid": "9692890",
+    "title": "FinancialJuice: China's Foreign Minister Wang Yi: China backs Pakistan's mediation role in the US-Iran talks.",
+    "link": "https://www.financialjuice.com/News/9692890/Chinas-Foreign-Minister-Wang-Yi-China-backs-Pakistans-mediation-role-in-the-US-Iran-talks.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:05:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 왕이 중국 외교부 장관: 중국은 미-이란 협상에서 파키스탄의 중재 역할을 지지한다."
+  },
+  {
+    "guid": "9692887",
+    "title": "FinancialJuice: Meta Expands AI Assistant With New Productivity Features $META",
+    "link": "https://www.financialjuice.com/News/9692887/Meta-Expands-AI-Assistant-With-New-Productivity-Features-META.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:02:02 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 메타, 새로운 생산성 기능을 통해 AI 어시스턴트 확장 $META"
+  },
+  {
+    "guid": "9692881",
+    "title": "FinancialJuice: US Baker Hughes Oil Rig Count Actual 450 (Forecast -, Previous 452)",
+    "link": "https://www.financialjuice.com/News/9692881/US-Baker-Hughes-Oil-Rig-Count-Actual-450-Forecast---Previous-452.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:01:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 베이커 휴즈 석유 시추 장비 수, 실제 450대 (예상 -, 전월 452대)"
+  },
+  {
+    "guid": "9692880",
+    "title": "FinancialJuice: Anthropic Unveils More Cost-Efficient Claude Opus 5 AI Model",
+    "link": "https://www.financialjuice.com/News/9692880/Anthropic-Unveils-More-Cost-Efficient-Claude-Opus-5-AI-Model.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:01:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트로픽, 비용 효율성이 더욱 향상된 ‘클로드 오푸스 5’ AI 모델 공개"
+  },
+  {
+    "guid": "9692877",
+    "title": "FinancialJuice: Anthropic unveils Opus 5 AI model with Fable 5-style features at half the cost: company",
+    "link": "https://www.financialjuice.com/News/9692877/Anthropic-unveils-Opus-5-AI-model-with-Fable-5-style-features-at-half-the-cost-company.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:01:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트로픽, ‘Fable 5’ 스타일의 기능을 갖춘 ‘Opus 5’ AI 모델을 기존 비용의 절반 가격에 공개: 회사 측"
+  },
+  {
+    "guid": "9692875",
+    "title": "FinancialJuice: US Baker Hughes Total Rig Count Actual 587 (Forecast -, Previous 588)",
+    "link": "https://www.financialjuice.com/News/9692875/US-Baker-Hughes-Total-Rig-Count-Actual-587-Forecast---Previous-588.aspx",
+    "pubDate": "Fri, 24 Jul 2026 17:00:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 베이커 휴즈의 총 시추 장비 수, 실제 587대 (예상 -, 전월 588대)"
+  },
+  {
+    "guid": "9692872",
+    "title": "FinancialJuice: Intel and Lens Tech are going to explore a glass substrate packaging pact. $INTC",
+    "link": "https://www.financialjuice.com/News/9692872/Intel-and-Lens-Tech-are-going-to-explore-a-glass-substrate-packaging-pact-INTC.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:48:57 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 인텔과 렌스 테크가 유리 기판 패키징 협력 방안을 모색할 예정이다. $INTC"
+  },
+  {
+    "guid": "9692854",
+    "title": "FinancialJuice: Trump: Canada disinvited the US to the opening of the Gordie Howe Bridge, which is fine; they are paying substantial tariffs to the US, but the original Deal on the Bridge, no longer stands. We changed the terms of the deal; the US now gets 50% of the Profit - Truth Social.",
+    "link": "https://www.financialjuice.com/News/9692854/Trump-Canada-disinvited-the-US-to-the-opening-of-the-Gordie-Howe-Bridge-which-is-fine-they-are-paying-substantial-tariffs-to-the-US-but-the-original-Deal-on-the-Bridge-no-longer-stands-We-changed-the-terms-of-the-deal-the-US-now-gets-50-of-.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:42:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 캐나다가 고디 하우 다리 개통식에 미국을 초청하지 않았는데, 괜찮다. 캐나다는 미국에 막대한 관세를 내고 있지만, 다리에 관한 원래 합의는 더 이상 유효하지 않다. 우리는 합의 조건을 변경했다. 이제 미국은 이익의 50%를 가져간다 - Truth Social."
+  },
+  {
+    "guid": "9692852",
+    "title": "FinancialJuice: India: Vessel \"Omorfi\" was attacked in the Black Sea on July 18th.\n",
+    "link": "https://www.financialjuice.com/News/9692852/India-Vessel-Omorfi-was-attacked-in-the-Black-Sea-on-July-18th.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:33:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인도: 7월 18일, 흑해에서 “오모르피(Omorfi)” 호가 공격을 받았습니다.\n"
+  },
+  {
+    "guid": "9692837",
+    "title": "FinancialJuice: Bahrain and Kuwait warplanes struck Iran in a rare Gulf retaliation - WSJ.",
+    "link": "https://www.financialjuice.com/News/9692837/Bahrain-and-Kuwait-warplanes-struck-Iran-in-a-rare-Gulf-retaliation---WSJ.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:31:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 바레인과 쿠웨이트 전투기들이 이란을 공습하며 걸프 지역에서 이례적인 보복 조치를 취했다 - WSJ."
+  },
+  {
+    "guid": "9692832",
+    "title": "FinancialJuice: Iran's Foreign Minister Araghchi tells Omani counterpart maritime security, regional cooperation are key to preventing escalation and ensuring peace, stability, security",
+    "link": "https://www.financialjuice.com/News/9692832/Irans-Foreign-Minister-Araghchi-tells-Omani-counterpart-maritime-security-regional-cooperation-are-key-to-preventing-escalation-and-ensuring-peace-stability-security.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:22:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아라그치 이란 외무장관은 오만 외무장관에게 해양 안보와 지역 협력이 상황 악화를 막고 평화, 안정, 안보를 보장하는 데 핵심이라고 밝혔다."
+  },
+  {
+    "guid": "9692815",
+    "title": "FinancialJuice: The US and the UK are planning an international conference on the Strait of Hormuz - Axios",
+    "link": "https://www.financialjuice.com/News/9692815/The-US-and-the-UK-are-planning-an-international-conference-on-the-Strait-of-Hormuz---Axios.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:13:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국과 영국, 호르무즈 해협 관련 국제 회의 개최 계획 - Axios"
+  },
+  {
+    "guid": "9692813",
+    "title": "FinancialJuice: ECB's Lane: This is a medium shock, not a red-alert type shock.",
+    "link": "https://www.financialjuice.com/News/9692813/ECBs-Lane-This-is-a-medium-shock-not-a-red-alert-type-shock.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:09:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 레인: “이는 중대한 충격일 뿐, 비상 경보 수준의 충격은 아닙니다.”"
+  },
+  {
+    "guid": "9692812",
+    "title": "FinancialJuice: Iran's Major General of Khatam al-Anbiya Base: For every Iranian citizen martyred, one American will meet its end - Fars News.",
+    "link": "https://www.financialjuice.com/News/9692812/Irans-Major-General-of-Khatam-al-Anbiya-Base-For-every-Iranian-citizen-martyred-one-American-will-meet-its-end---Fars-News.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:08:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 카탐 알-안비야 기지 소장: 이란 시민 한 명이 순교할 때마다 미국인 한 명이 목숨을 잃을 것 - 파르스 뉴스."
+  },
+  {
+    "guid": "9692811",
+    "title": "FinancialJuice: Qualcomm: We can no longer absorb increasing costs. $QCOM",
+    "link": "https://www.financialjuice.com/News/9692811/Qualcomm-We-can-no-longer-absorb-increasing-costs-QCOM.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:07:12 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 퀄컴: 더 이상 증가하는 비용을 감당할 수 없다. $QCOM"
+  },
+  {
+    "guid": "9692810",
+    "title": "FinancialJuice: Yemen's Ansar Allah al-Bukhaiti: We prefer confronting the US, UK, and Israel to confronting Saudi Arabia.",
+    "link": "https://www.financialjuice.com/News/9692810/Yemens-Ansar-Allah-al-Bukhaiti-We-prefer-confronting-the-US-UK-and-Israel-to-confronting-Saudi-Arabia.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:06:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘의 안사르 알라 소속 알-부카이티: “우리는 사우디아라비아와 맞서는 것보다 미국, 영국, 이스라엘과 맞서는 것을 선호한다.”"
+  },
+  {
+    "guid": "9692809",
+    "title": "FinancialJuice: Qualcomm tells customers prices are going up by a double-digit percentage. $QCOM",
+    "link": "https://www.financialjuice.com/News/9692809/Qualcomm-tells-customers-prices-are-going-up-by-a-double-digit-percentage-QCOM.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:05:07 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 퀄컴, 고객사에 가격이 두 자릿수 비율로 인상될 것이라고 통보. $QCOM"
+  },
+  {
+    "guid": "9692808",
+    "title": "FinancialJuice: Sources affiliated with Yemeni navigation authorities: Almost all commercial ships passing through the Bab-el-Mandeb Strait comply with the decisions of the Yemeni naval forces - Fars News.",
+    "link": "https://www.financialjuice.com/News/9692808/Sources-affiliated-with-Yemeni-navigation-authorities-Almost-all-commercial-ships-passing-through-the-Bab-el-Mandeb-Strait-comply-with-the-decisions-of-the-Yemeni-naval-forces---Fars-News.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:04:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 항해 당국 관계자들에 따르면, 바브엘만데브 해협을 통과하는 거의 모든 상선들이 예멘 해군의 결정을 준수하고 있다고 한다 - 파르스 뉴스."
+  },
+  {
+    "guid": "9692807",
+    "title": "FinancialJuice: Al-Akhbar Newspaper: After two Saudi oil tankers were targeted in the Red Sea, Saudi Arabia is once again seeking Omani mediation and has sent a delegation to Muscat to de-escalate tensions with Sana'a - Fars News.",
+    "link": "https://www.financialjuice.com/News/9692807/Al-Akhbar-Newspaper-After-two-Saudi-oil-tankers-were-targeted-in-the-Red-Sea-Saudi-Arabia-is-once-again-seeking-Omani-mediation-and-has-sent-a-delegation-to-Muscat-to-de-escalate-tensions-with-Sanaa---Fars-News.aspx",
+    "pubDate": "Fri, 24 Jul 2026 16:03:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 알-아크바르 신문: 홍해에서 사우디 유조선 2척이 공격을 받은 후, 사우디아라비아는 다시 한번 오만의 중재를 요청하고 있으며, 사나와의 긴장을 완화하기 위해 마스카트로 대표단을 파견했다 - 파르스 뉴스."
+  },
+  {
+    "guid": "9692782",
+    "title": "FinancialJuice: ECB's Lane: The European economy continues to grow.",
+    "link": "https://www.financialjuice.com/News/9692782/ECBs-Lane-The-European-economy-continues-to-grow.aspx",
+    "pubDate": "Fri, 24 Jul 2026 15:47:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 레인: 유럽 경제는 계속 성장하고 있다."
+  },
+  {
+    "guid": "9692768",
+    "title": "FinancialJuice: ECB's Lane: The US is not a dominant factor in global trade.",
+    "link": "https://www.financialjuice.com/News/9692768/ECBs-Lane-The-US-is-not-a-dominant-factor-in-global-trade.aspx",
+    "pubDate": "Fri, 24 Jul 2026 15:45:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 레인: 미국은 세계 무역에서 지배적인 요인이 아니다."
+  },
+  {
+    "guid": "9692757",
+    "title": "FinancialJuice: Iran's Deputy Foreign Minister Gharibabadi: European governments must understand that providing bases or territory to aggressors will place them in the category of aggressors themselves.",
+    "link": "https://www.financialjuice.com/News/9692757/Irans-Deputy-Foreign-Minister-Gharibabadi-European-governments-must-understand-that-providing-bases-or-territory-to-aggressors-will-place-them-in-the-category-of-aggressors-themselves.aspx",
+    "pubDate": "Fri, 24 Jul 2026 15:39:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 가리바바디 외무부 차관: 유럽 각국 정부는 침략자에게 기지나 영토를 제공하는 것이 결국 그들 스스로를 침략자의 반열에 올려놓게 된다는 점을 이해해야 한다."
+  },
+  {
+    "guid": "9692756",
+    "title": "FinancialJuice: ECB’s Lane: The ECB will decide meeting by meeting and be data-dependent. The ECB's job is more reactive at the moment.",
+    "link": "https://www.financialjuice.com/News/9692756/ECBs-Lane-The-ECB-will-decide-meeting-by-meeting-and-be-data-dependent-The-ECBs-job-is-more-reactive-at-the-moment.aspx",
+    "pubDate": "Fri, 24 Jul 2026 15:39:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 레인: ECB는 회의마다 상황을 고려해 결정할 것이며, 경제 지표에 따라 정책을 조정할 것이다. 현재 ECB의 역할은 주로 상황에 대응하는 데 중점을 두고 있다."
+  },
+  {
+    "guid": "9692755",
+    "title": "FinancialJuice: ECB's Lane: We'll guide inflation back to target in the next year or so.",
+    "link": "https://www.financialjuice.com/News/9692755/ECBs-Lane-Well-guide-inflation-back-to-target-in-the-next-year-or-so.aspx",
+    "pubDate": "Fri, 24 Jul 2026 15:38:33 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)의 레인: “내년쯤이면 인플레이션을 목표치로 되돌릴 수 있을 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9692744",
+    "title": "FinancialJuice: Trump: If China and Russia are supplying weapons to Iran, it would be very bad for them.",
+    "link": "https://www.financialjuice.com/News/9692744/Trump-If-China-and-Russia-are-supplying-weapons-to-Iran-it-would-be-very-bad-for-them.aspx",
+    "pubDate": "Fri, 24 Jul 2026 15:17:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 중국과 러시아가 이란에 무기를 공급하고 있다면, 그들에게는 매우 불리한 일이 될 것이다."
+  },
+  {
+    "guid": "9692728",
+    "title": "FinancialJuice: Trump: China's Xi & Putin said that they wouldn't sell arms to Iran - Truth Social.",
+    "link": "https://www.financialjuice.com/News/9692728/Trump-Chinas-Xi--Putin-said-that-they-wouldnt-sell-arms-to-Iran---Truth-Social.aspx",
+    "pubDate": "Fri, 24 Jul 2026 15:15:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “중국의 시진핑과 푸틴, 이란에 무기를 판매하지 않겠다고 밝혔다” - Truth Social."
+  },
+  {
+    "guid": "9692724",
+    "title": "FinancialJuice: Pakistan and Iran explore a path towards new talks with the US in a China- initiated push - Sources.\n",
+    "link": "https://www.financialjuice.com/News/9692724/Pakistan-and-Iran-explore-a-path-towards-new-talks-with-the-US-in-a-China--initiated-push---Sources.aspx",
+    "pubDate": "Fri, 24 Jul 2026 15:12:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면, 파키스탄과 이란이 중국의 주도로 미국과의 새로운 대화 재개 방안을 모색하고 있다.\n"
+  },
+  {
+    "guid": "9692723",
+    "title": "FinancialJuice: Pakistan and Iran explore a path towards new talks with the US in a China-initiated push - Sources.\n",
+    "link": "https://www.financialjuice.com/News/9692723/Pakistan-and-Iran-explore-a-path-towards-new-talks-with-the-US-in-a-China-initiated-push---Sources.aspx",
+    "pubDate": "Fri, 24 Jul 2026 15:10:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면, 파키스탄과 이란이 중국의 주도로 미국과의 새로운 대화 재개 방안을 모색하고 있다.\n"
+  },
+  {
+    "guid": "9692702",
+    "title": "FinancialJuice: Google: EU code regarding AI-generated content transparency. $GOOGL",
+    "link": "https://www.financialjuice.com/News/9692702/Google-EU-code-regarding-AI-generated-content-transparency-GOOGL.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:52:42 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글: AI 생성 콘텐츠 투명성에 관한 EU 규정. $GOOGL"
+  },
+  {
+    "guid": "9692701",
+    "title": "FinancialJuice: Google signs EU AI act code of practice on transparency. $GOOGL",
+    "link": "https://www.financialjuice.com/News/9692701/Google-signs-EU-AI-act-code-of-practice-on-transparency-GOOGL.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:52:03 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글, EU AI 법안 투명성 실천 강령에 서명. $GOOGL"
+  },
+  {
+    "guid": "9692684",
+    "title": "FinancialJuice: UK's PM Burnham held talks with business groups - PM Office.",
+    "link": "https://www.financialjuice.com/News/9692684/UKs-PM-Burnham-held-talks-with-business-groups---PM-Office.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:46:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 버넘 영국 총리, 기업 단체들과 회담 - 총리실."
+  },
+  {
+    "guid": "9692680",
+    "title": "FinancialJuice: Omani diplomatic delegation traveled to Tehran to discuss mechanisms related to the Strait of Hormuz - IRNA.",
+    "link": "https://www.financialjuice.com/News/9692680/Omani-diplomatic-delegation-traveled-to-Tehran-to-discuss-mechanisms-related-to-the-Strait-of-Hormuz---IRNA.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:44:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 오만 외교 사절단이 호르무즈 해협 관련 협의 방안을 논의하기 위해 테헤란을 방문했다 - IRNA."
+  },
+  {
+    "guid": "9692669",
+    "title": "FinancialJuice: Iran’s Foreign Minister Araghchi: Protecting Iranian people, interests in Strait of Hormuz are core principles - Tasnim.",
+    "link": "https://www.financialjuice.com/News/9692669/Irans-Foreign-Minister-Araghchi-Protecting-Iranian-people-interests-in-Strait-of-Hormuz-are-core-principles---Tasnim.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:22:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아라그치 이란 외무장관, “호르무즈 해협에서 이란 국민과 국익을 보호하는 것이 핵심 원칙” - 타스님."
+  },
+  {
+    "guid": "9692668",
+    "title": "FinancialJuice: Iran’s Foreign Minister Araghchi: Iran has shown that it will not submit to American bullying, and we will not respond to threats, pressure, or intimidation - Tasnim.",
+    "link": "https://www.financialjuice.com/News/9692668/Irans-Foreign-Minister-Araghchi-Iran-has-shown-that-it-will-not-submit-to-American-bullying-and-we-will-not-respond-to-threats-pressure-or-intimidation---Tasnim.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:22:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아라그치 이란 외무장관: “이란은 미국의 횡포에 굴복하지 않을 것임을 보여주었으며, 우리는 위협이나 압박, 협박에 응하지 않을 것” - 타스님."
+  },
+  {
+    "guid": "9692667",
+    "title": "FinancialJuice: Iran’s Foreign Minister Araghchi: Iran discussing Pakistan’s initiatives, proposals as mediator. Problem is not lack of mediator, but US approach - Tasnim News.",
+    "link": "https://www.financialjuice.com/News/9692667/Irans-Foreign-Minister-Araghchi-Iran-discussing-Pakistans-initiatives-proposals-as-mediator-Problem-is-not-lack-of-mediator-but-US-approach---Tasnim-News.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:21:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아라그치 이란 외무장관: 이란, 중재자로서의 파키스탄의 구상과 제안을 논의 중. 문제는 중재자의 부재가 아니라 미국의 접근 방식이다 - 타스님 뉴스."
+  },
+  {
+    "guid": "9692665",
+    "title": "FinancialJuice: Iran’s Foreign Minister Araghchi: Consultations held with Russia, China, Pakistan on initiative to stop war against Iran. Efforts will continue until Iran’s goals are achieved - Tasnim.",
+    "link": "https://www.financialjuice.com/News/9692665/Irans-Foreign-Minister-Araghchi-Consultations-held-with-Russia-China-Pakistan-on-initiative-to-stop-war-against-Iran-Efforts-will-continue-until-Irans-goals-are-achieved---Tasnim.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:20:50 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 아라그치 이란 외무장관: 이란에 대한 전쟁을 중단하기 위한 구상과 관련해 러시아, 중국, 파키스탄과 협의를 가졌다. 이란의 목표가 달성될 때까지 이러한 노력은 계속될 것이다 - 타스님."
+  },
+  {
+    "guid": "9692664",
+    "title": "FinancialJuice: NATO: Allied fighters shot down a drone in Romanian airspace.",
+    "link": "https://www.financialjuice.com/News/9692664/NATO-Allied-fighters-shot-down-a-drone-in-Romanian-airspace.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:19:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 나토(NATO): 동맹국 전투기들이 루마니아 영공에서 드론을 격추했다."
+  },
+  {
+    "guid": "9692662",
+    "title": "FinancialJuice: Crypto Fear and Greed Index: 28/100 = Fear",
+    "link": "https://www.financialjuice.com/News/9692662/Crypto-Fear-and-Greed-Index-28100--Fear.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:18:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 암호화폐 공포·탐욕 지수: 28/100 = 공포"
+  },
+  {
+    "guid": "9692650",
+    "title": "FinancialJuice: Fear and Greed Index: 40/100 = Fear",
+    "link": "https://www.financialjuice.com/News/9692650/Fear-and-Greed-Index-40100--Fear.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:17:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 공포와 탐욕 지수: 40/100 = 공포"
+  },
+  {
+    "guid": "9692644",
+    "title": "FinancialJuice: Israeli PM Office: Trump will meet Israeli Prime Minister Benjamin Netanyahu at the White House on Tuesday - Axios Reporter on X.",
+    "link": "https://www.financialjuice.com/News/9692644/Israeli-PM-Office-Trump-will-meet-Israeli-Prime-Minister-Benjamin-Netanyahu-at-the-White-House-on-Tuesday---Axios-Reporter-on-X.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:13:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘 총리실: 트럼프 대통령이 화요일 백악관에서 베냐민 네타냐후 이스라엘 총리와 회담할 예정 - Axios 기자의 X 게시물."
+  },
+  {
+    "guid": "9692605",
+    "title": "FinancialJuice: US New Home Sales - Units Actual 0.628M (Forecast 0.607M, Previous 0.580M, Revised 0.618M)",
+    "link": "https://www.financialjuice.com/News/9692605/US-New-Home-Sales---Units-Actual-0628M-Forecast-0607M-Previous-0580M-Revised-0618M.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 신규 주택 판매량 - 실제 0.628M (예상 0.607M, 이전 0.580M, 수정치 0.618M)"
+  },
+  {
+    "guid": "9692604",
+    "title": "FinancialJuice: US New Home Sales Change MoM Actual 1.6% (Forecast 4.8%, Previous -7.3%, Revised -4.3%)",
+    "link": "https://www.financialjuice.com/News/9692604/US-New-Home-Sales-Change-MoM-Actual-16-Forecast-48-Previous--73-Revised--43.aspx",
+    "pubDate": "Fri, 24 Jul 2026 14:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 신규 주택 판매 전월 대비 변동률, 실제 1.6% (예상 4.8%, 전월 -7.3%, 수정치 -4.3%)"
+  },
+  {
+    "guid": "9692575",
+    "title": "FinancialJuice: US S&P Services PMI Flash Actual 53.6 (Forecast 51.5, Previous 51.2)",
+    "link": "https://www.financialjuice.com/News/9692575/US-SP-Services-PMI-Flash-Actual-536-Forecast-515-Previous-512.aspx",
+    "pubDate": "Fri, 24 Jul 2026 13:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 S&P 서비스업 PMI 속보치 53.6 (예상치 51.5, 전월치 51.2)"
+  },
+  {
+    "guid": "9692574",
+    "title": "FinancialJuice: US S&P Manufacturing PMI Flash Actual 53.8 (Forecast 54.4, Previous 53.9)",
+    "link": "https://www.financialjuice.com/News/9692574/US-SP-Manufacturing-PMI-Flash-Actual-538-Forecast-544-Previous-539.aspx",
+    "pubDate": "Fri, 24 Jul 2026 13:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 S&P 제조업 PMI 속보치 53.8 (예상치 54.4, 전월치 53.9)"
+  },
+  {
+    "guid": "9692573",
+    "title": "FinancialJuice: US S&P Composite PMI Flash  Actual 53.6 (Forecast 52.2, Previous 51.9)",
+    "link": "https://www.financialjuice.com/News/9692573/US-SP-Composite-PMI-Flash--Actual-536-Forecast-522-Previous-519.aspx",
+    "pubDate": "Fri, 24 Jul 2026 13:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 S&P 종합 PMI 속보치  실적 53.6 (예상 52.2, 전월 51.9)"
+  },
+  {
+    "guid": "9692570",
+    "title": "FinancialJuice: US tech Companies: US faces choice on open weights with AI",
+    "link": "https://www.financialjuice.com/News/9692570/US-tech-Companies-US-faces-choice-on-open-weights-with-AI.aspx",
+    "pubDate": "Fri, 24 Jul 2026 13:31:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 기술 기업들: 미국, AI와 관련된 개방성 문제에 대한 선택의 기로에 서 있다"
+  },
+  {
+    "guid": "9692567",
+    "title": "FinancialJuice: Tech companies: Relying only on closed AI models not inherently safe",
+    "link": "https://www.financialjuice.com/News/9692567/Tech-companies-Relying-only-on-closed-AI-models-not-inherently-safe.aspx",
+    "pubDate": "Fri, 24 Jul 2026 13:31:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 기술 기업들: 폐쇄형 AI 모델에만 의존하는 것은 본질적으로 안전하지 않다"
+  },
+  {
+    "guid": "9692566",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9692566/MOO-Imbalance.aspx",
+    "pubDate": "Fri, 24 Jul 2026 13:30:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOO 불균형"
+  },
+  {
+    "guid": "9692553",
+    "title": "FinancialJuice: German government spokesperson on new Us tariffs: Like the European commission, the federal government assumes that the provisions of the EU-US customs agreement will be adhered to",
+    "link": "https://www.financialjuice.com/News/9692553/German-government-spokesperson-on-new-Us-tariffs-Like-the-European-commission-the-federal-government-assumes-that-the-provisions-of-the-EU-US-customs-agreement-will-be-adhered-to.aspx",
+    "pubDate": "Fri, 24 Jul 2026 13:13:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 정부 대변인, 미국의 새로운 관세 조치에 대해: 유럽연합 집행위원회와 마찬가지로 독일 연방정부도 EU-미국 관세 협정의 조항이 준수될 것으로 보고 있다"
+  },
+  {
     "guid": "9692524",
     "title": "FinancialJuice: Effective Fed Funds Rate 3.63% July 23 vs 3.63% July 22.",
     "link": "https://www.financialjuice.com/News/9692524/Effective-Fed-Funds-Rate-363-July-23-vs-363-July-22.aspx?xy=rss",
