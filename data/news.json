@@ -1,5 +1,93 @@
 [
   {
+    "guid": "9693620",
+    "title": "FinancialJuice: Ukraine hits Russia's Filanovsky oil platform and two cargo ships in Caspian Sea: security service",
+    "link": "https://www.financialjuice.com/News/9693620/Ukraine-hits-Russias-Filanovsky-oil-platform-and-two-cargo-ships-in-Caspian-Sea-security-service.aspx?xy=1",
+    "pubDate": "Sat, 25 Jul 2026 10:18:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 우크라이나, 카스피해에서 러시아의 필라노프스키 석유 시추 플랫폼과 화물선 2척을 공격: 보안 당국"
+  },
+  {
+    "guid": "9693618",
+    "title": "FinancialJuice: Ukraine hits vessels in Caspian Sea carrying military cargo tied to Iran, Zelenskiy says",
+    "link": "https://www.financialjuice.com/News/9693618/Ukraine-hits-vessels-in-Caspian-Sea-carrying-military-cargo-tied-to-Iran-Zelenskiy-says.aspx?xy=1",
+    "pubDate": "Sat, 25 Jul 2026 10:05:38 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 젤렌스키 대통령, 우크라이나가 이란과 관련된 군사 물자를 실은 카스피해 선박들을 공격했다고 밝혔다"
+  },
+  {
+    "guid": "9693611",
+    "title": "FinancialJuice: Ukraine's military targets logistics hub in Russia's Yekaterinburg: Zelenskiy",
+    "link": "https://www.financialjuice.com/News/9693611/Ukraines-military-targets-logistics-hub-in-Russias-Yekaterinburg-Zelenskiy.aspx?xy=1",
+    "pubDate": "Sat, 25 Jul 2026 09:59:41 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 우크라이나군, 러시아 예카테린부르크의 물류 거점을 공격: 젤렌스키"
+  },
+  {
+    "guid": "9693610",
+    "title": "FinancialJuice: Ukraine's military targets Russian oil refinery in Tyumen: Zelenskiy",
+    "link": "https://www.financialjuice.com/News/9693610/Ukraines-military-targets-Russian-oil-refinery-in-Tyumen-Zelenskiy.aspx?xy=1",
+    "pubDate": "Sat, 25 Jul 2026 09:59:39 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 우크라이나 군, 튜멘 소재 러시아 정유소를 공격… 젤렌스키 대통령"
+  },
+  {
+    "guid": "9693609",
+    "title": "FinancialJuice: Zelenskiy: Ukraine’s forces struck facility making military parts in Russia’s Kirov",
+    "link": "https://www.financialjuice.com/News/9693609/Zelenskiy-Ukraines-forces-struck-facility-making-military-parts-in-Russias-Kirov.aspx?xy=1",
+    "pubDate": "Sat, 25 Jul 2026 09:59:39 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 젤렌스키: 우크라이나군이 러시아 키로프에 있는 군용 부품 제조 시설을 공습했다"
+  },
+  {
+    "guid": "9693596",
+    "title": "FinancialJuice: India education minister Pradhan: I have submitted my resignation to Prime Minister Narendra Modi",
+    "link": "https://www.financialjuice.com/News/9693596/India-education-minister-Pradhan-I-have-submitted-my-resignation-to-Prime-Minister-Narendra-Modi.aspx?xy=1",
+    "pubDate": "Sat, 25 Jul 2026 08:51:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인도 교육부 장관 프라단 “나렌드라 모디 총리에게 사직서를 제출했다”"
+  },
+  {
+    "guid": "9693595",
+    "title": "FinancialJuice: Ukmto reports incident involving tanker and military forces in Gulf of Oman on Friday",
+    "link": "https://www.financialjuice.com/News/9693595/Ukmto-reports-incident-involving-tanker-and-military-forces-in-Gulf-of-Oman-on-Friday.aspx?xy=1",
+    "pubDate": "Sat, 25 Jul 2026 08:47:04 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: Ukmto, 금요일 오만만에서 유조선과 군 부대가 연루된 사고 발생 보고"
+  },
+  {
+    "guid": "9693593",
+    "title": "FinancialJuice: Eight killed in assault on tourist camps in Russian-occupied Ukraine's Zaporizhzhia region: Russia-installed governor",
+    "link": "https://www.financialjuice.com/News/9693593/Eight-killed-in-assault-on-tourist-camps-in-Russian-occupied-Ukraines-Zaporizhzhia-region-Russia-installed-governor.aspx?xy=1",
+    "pubDate": "Sat, 25 Jul 2026 08:35:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아가 점령한 우크라이나 자포리자 지역의 관광 캠프에 대한 공격으로 8명 사망: 러시아가 임명한 주지사"
+  },
+  {
+    "guid": "9693589",
+    "title": "FinancialJuice: Drone triggers blaze at oil refinery in Russia's Tyumen region: governor",
+    "link": "https://www.financialjuice.com/News/9693589/Drone-triggers-blaze-at-oil-refinery-in-Russias-Tyumen-region-governor.aspx?xy=1",
+    "pubDate": "Sat, 25 Jul 2026 08:15:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 튜멘주 정유소에서 드론으로 인한 화재 발생: 주지사"
+  },
+  {
+    "guid": "9693564",
+    "title": "FinancialJuice: Greek air defense system in Saudi Arabia intercepts two ballistic missiles from Yemen, sources say",
+    "link": "https://www.financialjuice.com/News/9693564/Greek-air-defense-system-in-Saudi-Arabia-intercepts-two-ballistic-missiles-from-Yemen-sources-say.aspx?xy=1",
+    "pubDate": "Sat, 25 Jul 2026 06:56:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면 사우디아라비아에 배치된 그리스산 방공 시스템이 예멘에서 발사된 탄도 미사일 2발을 요격했다"
+  },
+  {
+    "guid": "9693561",
+    "title": "FinancialJuice: Russian strike on Ukraine's Sumy kills three: emergency services",
+    "link": "https://www.financialjuice.com/News/9693561/Russian-strike-on-Ukraines-Sumy-kills-three-emergency-services.aspx?xy=1",
+    "pubDate": "Sat, 25 Jul 2026 06:45:31 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 우크라이나 수미에 대한 러시아의 공습으로 3명 사망: 응급구조당국"
+  },
+  {
     "guid": "9693560",
     "title": "FinancialJuice: Naver teams up with Brookfield and Nvidia to boost South Korea’s national AI factory infrastructure development",
     "link": "https://www.financialjuice.com/News/9693560/Naver-teams-up-with-Brookfield-and-Nvidia-to-boost-South-Koreas-national-AI-factory-infrastructure-development.aspx?xy=rss",
