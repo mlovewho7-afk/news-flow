@@ -1,5 +1,637 @@
 [
   {
+    "guid": "9698969",
+    "title": "FinancialJuice: Fed's Warsh: It was an active, robust discussion.",
+    "link": "https://www.financialjuice.com/News/9698969/Feds-Warsh-It-was-an-active-robust-discussion.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:43:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 활발하고 심도 있는 논의가 이루어졌다."
+  },
+  {
+    "guid": "9698968",
+    "title": "FinancialJuice: Fed's Warsh: There was a lot of agreement that I heard that we have the power to deliver stable prices.",
+    "link": "https://www.financialjuice.com/News/9698968/Feds-Warsh-There-was-a-lot-of-agreement-that-I-heard-that-we-have-the-power-to-deliver-stable-prices.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:42:51 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 우리가 물가 안정을 실현할 역량이 있다는 점에 대해 많은 공감대가 형성된 것으로 들었습니다."
+  },
+  {
+    "guid": "9698967",
+    "title": "FinancialJuice: Fed's Warsh on dissenting votes within the FOMC: I asked for a good family fight and got one.",
+    "link": "https://www.financialjuice.com/News/9698967/Feds-Warsh-on-dissenting-votes-within-the-FOMC-I-asked-for-a-good-family-fight-and-got-one.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:42:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시, FOMC 내 반대 표결에 대해: “가족끼리 한바탕 시끌벅적한 다툼을 기대했는데, 정말 그런 일이 벌어졌다.”"
+  },
+  {
+    "guid": "9698966",
+    "title": "FinancialJuice: Fed's Warsh: Even if we haven't done much, markets have quite a bit.",
+    "link": "https://www.financialjuice.com/News/9698966/Feds-Warsh-Even-if-we-havent-done-much-markets-have-quite-a-bit.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:41:33 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 우리가 별다른 조치를 취하지 않았더라도, 시장은 꽤 많은 움직임을 보였습니다."
+  },
+  {
+    "guid": "9698965",
+    "title": "FinancialJuice: Fed's Warsh: The Bond market seems to be saying the economy is strong and steady.",
+    "link": "https://www.financialjuice.com/News/9698965/Feds-Warsh-The-Bond-market-seems-to-be-saying-the-economy-is-strong-and-steady.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:41:10 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 채권 시장은 경제가 견고하고 안정적이라는 신호를 보내고 있는 듯하다."
+  },
+  {
+    "guid": "9698964",
+    "title": "FinancialJuice: Fed's Warsh: Interpreting markets is an imperfect business.",
+    "link": "https://www.financialjuice.com/News/9698964/Feds-Warsh-Interpreting-markets-is-an-imperfect-business.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:40:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 시장을 해석하는 일은 결코 완벽할 수 없는 일이다."
+  },
+  {
+    "guid": "9698963",
+    "title": "FinancialJuice: Fed's Warsh: We're observing a rise in yields, trying to stay out of it.",
+    "link": "https://www.financialjuice.com/News/9698963/Feds-Warsh-Were-observing-a-rise-in-yields-trying-to-stay-out-of-it.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:40:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: “수익률이 상승하는 추세를 지켜보고 있으며, 이에 휘말리지 않으려 노력하고 있다.”"
+  },
+  {
+    "guid": "9698962",
+    "title": "FinancialJuice: Fed's Warsh: Markets are reacting to events much more directly.",
+    "link": "https://www.financialjuice.com/News/9698962/Feds-Warsh-Markets-are-reacting-to-events-much-more-directly.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:39:44 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 시장이 사건들에 훨씬 더 직접적으로 반응하고 있다."
+  },
+  {
+    "guid": "9698961",
+    "title": "FinancialJuice: Fed's Warsh: We're trying not to interfere with that market signal.",
+    "link": "https://www.financialjuice.com/News/9698961/Feds-Warsh-Were-trying-not-to-interfere-with-that-market-signal.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:39:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 우리는 그 시장 신호에 간섭하지 않으려 노력하고 있다."
+  },
+  {
+    "guid": "9698960",
+    "title": "FinancialJuice: Fed's Warsh: I've been trying to get an unfiltered message from the markets.",
+    "link": "https://www.financialjuice.com/News/9698960/Feds-Warsh-Ive-been-trying-to-get-an-unfiltered-message-from-the-markets.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:39:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 저는 시장에서 거침없는 메시지를 포착하려고 노력해 왔습니다."
+  },
+  {
+    "guid": "9698959",
+    "title": "FinancialJuice: Fed's Warsh: Discussed monetary policy tools and strategies.",
+    "link": "https://www.financialjuice.com/News/9698959/Feds-Warsh-Discussed-monetary-policy-tools-and-strategies.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:38:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 통화 정책 수단과 전략에 대해 논의했다."
+  },
+  {
+    "guid": "9698958",
+    "title": "FinancialJuice: Fed's Chair Warsh: The CAPEX boom is driving up prices of AI infrastructure.",
+    "link": "https://www.financialjuice.com/News/9698958/Feds-Chair-Warsh-The-CAPEX-boom-is-driving-up-prices-of-AI-infrastructure.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:38:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 워시 연준 의장: 설비투자(CAPEX) 붐이 AI 인프라 가격을 끌어올리고 있다."
+  },
+  {
+    "guid": "9698957",
+    "title": "FinancialJuice: Fed's Warsh: Talked about price increases arising from shocks.",
+    "link": "https://www.financialjuice.com/News/9698957/Feds-Warsh-Talked-about-price-increases-arising-from-shocks.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:37:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 충격으로 인한 물가 상승에 대해 언급했다."
+  },
+  {
+    "guid": "9698956",
+    "title": "FinancialJuice: Fed's Warsh: Considered recent economic shocks.",
+    "link": "https://www.financialjuice.com/News/9698956/Feds-Warsh-Considered-recent-economic-shocks.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:37:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 최근의 경제적 충격을 고려했다."
+  },
+  {
+    "guid": "9698955",
+    "title": "FinancialJuice: Fed's Warsh: We talked a lot about the past five years of high inflation.",
+    "link": "https://www.financialjuice.com/News/9698955/Feds-Warsh-We-talked-a-lot-about-the-past-five-years-of-high-inflation.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:36:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 우리는 지난 5년간의 높은 인플레이션에 대해 많은 이야기를 나눴습니다."
+  },
+  {
+    "guid": "9698954",
+    "title": "FinancialJuice: Fed's Warsh: AI investment is laying the groundwork for future growth.",
+    "link": "https://www.financialjuice.com/News/9698954/Feds-Warsh-AI-investment-is-laying-the-groundwork-for-future-growth.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:36:25 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시, “AI 투자가 미래 성장의 토대를 마련하고 있다.”"
+  },
+  {
+    "guid": "9698953",
+    "title": "FinancialJuice: Fed's Chair Warsh: CAPEX is preparing the ground for future growth.",
+    "link": "https://www.financialjuice.com/News/9698953/Feds-Chair-Warsh-CAPEX-is-preparing-the-ground-for-future-growth.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:36:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시 의장: 설비투자(CAPEX)는 미래 성장을 위한 토대를 마련하고 있다."
+  },
+  {
+    "guid": "9698952",
+    "title": "FinancialJuice: Fed's Warsh: Investment is strong.",
+    "link": "https://www.financialjuice.com/News/9698952/Feds-Warsh-Investment-is-strong.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:35:58 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 투자 흐름이 탄탄하다."
+  },
+  {
+    "guid": "9698951",
+    "title": "FinancialJuice: Fed's Chair Warsh: Markets will continue to respond in direction and magnitude as they see fit.",
+    "link": "https://www.financialjuice.com/News/9698951/Feds-Chair-Warsh-Markets-will-continue-to-respond-in-direction-and-magnitude-as-they-see-fit.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:35:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 워시 연준 의장: 시장은 여전히 자신들이 적절하다고 판단하는 방향과 규모대로 반응할 것이다."
+  },
+  {
+    "guid": "9698950",
+    "title": "FinancialJuice: Fed's Warsh: Surge in high-tech capex has been remarkable.",
+    "link": "https://www.financialjuice.com/News/9698950/Feds-Warsh-Surge-in-high-tech-capex-has-been-remarkable.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:35:45 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 첨단 기술 분야의 설비투자 급증이 눈에 띌 정도였다."
+  },
+  {
+    "guid": "9698949",
+    "title": "FinancialJuice: Fed's Warsh: This, in my view, is a change for the better.",
+    "link": "https://www.financialjuice.com/News/9698949/Feds-Warsh-This-in-my-view-is-a-change-for-the-better.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:35:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 제 생각에 이는 긍정적인 변화입니다."
+  },
+  {
+    "guid": "9698948",
+    "title": "FinancialJuice: Fed's Warsh: Less forward guidance may have influenced market moves.",
+    "link": "https://www.financialjuice.com/News/9698948/Feds-Warsh-Less-forward-guidance-may-have-influenced-market-moves.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:35:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 전방지침의 축소가 시장 움직임에 영향을 미쳤을 수 있다."
+  },
+  {
+    "guid": "9698947",
+    "title": "FinancialJuice: Fed's Warsh: Prices reacted in real time to incoming information; a reduction in guidance may have been a factor.",
+    "link": "https://www.financialjuice.com/News/9698947/Feds-Warsh-Prices-reacted-in-real-time-to-incoming-information-a-reduction-in-guidance-may-have-been-a-factor.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:34:56 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 물가는 유입되는 정보에 실시간으로 반응했으며, 가이드라인의 축소가 한 요인이었을 수 있다."
+  },
+  {
+    "guid": "9698946",
+    "title": "FinancialJuice: Fed's Warsh: Some of the increases between FOMC meetings are among the most significant in decades.",
+    "link": "https://www.financialjuice.com/News/9698946/Feds-Warsh-Some-of-the-increases-between-FOMC-meetings-are-among-the-most-significant-in-decades.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:34:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: FOMC 회의 사이 이루어진 금리 인상 중 일부는 지난 수십 년간 가장 큰 폭에 속한다."
+  },
+  {
+    "guid": "9698945",
+    "title": "FinancialJuice: Fed's Warsh: Nominal, real Treasury yields materially higher.",
+    "link": "https://www.financialjuice.com/News/9698945/Feds-Warsh-Nominal-real-Treasury-yields-materially-higher.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:34:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 명목 및 실질 국채 수익률이 상당히 상승했다."
+  },
+  {
+    "guid": "9698944",
+    "title": "FinancialJuice: Fed's Warsh: There was nothing inertial about our discussions or strategy.",
+    "link": "https://www.financialjuice.com/News/9698944/Feds-Warsh-There-was-nothing-inertial-about-our-discussions-or-strategy.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:33:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 우리의 논의나 전략에는 관성적인 요소가 전혀 없었다."
+  },
+  {
+    "guid": "9698943",
+    "title": "FinancialJuice: Fed's Warsh: Inflation cannot be cured in 9 weeks.",
+    "link": "https://www.financialjuice.com/News/9698943/Feds-Warsh-Inflation-cannot-be-cured-in-9-weeks.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:33:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시, “인플레이션은 9주 만에 해결될 수 없다.”"
+  },
+  {
+    "guid": "9698942",
+    "title": "FinancialJuice: Fed's Warsh: This Fed will not waver,",
+    "link": "https://www.financialjuice.com/News/9698942/Feds-Warsh-This-Fed-will-not-waver.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:33:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 이번 연준은 흔들리지 않을 것이다,"
+  },
+  {
+    "guid": "9698941",
+    "title": "FinancialJuice: Fed's Warsh: 5 years of high inflation have left an impression that is hard to shake that the Fed's implicit target was above 2%.",
+    "link": "https://www.financialjuice.com/News/9698941/Feds-Warsh-5-years-of-high-inflation-have-left-an-impression-that-is-hard-to-shake-that-the-Feds-implicit-target-was-above-2.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:32:59 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 5년간 지속된 높은 인플레이션으로 인해 연준의 암묵적 목표치가 2% 이상이었다는 인상이 깊이 각인되어, 이를 떨쳐내기 어렵게 되었다."
+  },
+  {
+    "guid": "9698940",
+    "title": "FinancialJuice: Fed's Warsh: There is no soft inflation target.",
+    "link": "https://www.financialjuice.com/News/9698940/Feds-Warsh-There-is-no-soft-inflation-target.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:32:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: ‘유연한 인플레이션 목표’는 없다."
+  },
+  {
+    "guid": "9698939",
+    "title": "FinancialJuice: Fed's Warsh: Committee is steering clear of forecasting.",
+    "link": "https://www.financialjuice.com/News/9698939/Feds-Warsh-Committee-is-steering-clear-of-forecasting.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:32:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시 위원: 위원회는 전망을 피하고 있다."
+  },
+  {
+    "guid": "9698936",
+    "title": "FinancialJuice: Fed's warsh: Committee remains resolute in delivering price stability.",
+    "link": "https://www.financialjuice.com/News/9698936/Feds-warsh-Committee-remains-resolute-in-delivering-price-stability.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:32:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 경고: 위원회는 물가 안정을 실현하겠다는 의지를 확고히 하고 있다."
+  },
+  {
+    "guid": "9698935",
+    "title": "FinancialJuice: Fed's Warsh: Economy showing impressive resilience.",
+    "link": "https://www.financialjuice.com/News/9698935/Feds-Warsh-Economy-showing-impressive-resilience.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:31:59 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시, “경제가 놀라운 회복력을 보이고 있다.”"
+  },
+  {
+    "guid": "9698933",
+    "title": "FinancialJuice: NYMEX Gasoline August futures settle at $3.3978 a gallon.",
+    "link": "https://www.financialjuice.com/News/9698933/NYMEX-Gasoline-August-futures-settle-at-33978-a-gallon.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:31:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 8월물 휘발유 선물 가격이 갤런당 3.3978달러에 마감했다."
+  },
+  {
+    "guid": "9698930",
+    "title": "FinancialJuice: Fed's warsh: Discussion was collegial.",
+    "link": "https://www.financialjuice.com/News/9698930/Feds-warsh-Discussion-was-collegial.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:31:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 워시: 논의는 화기애애한 분위기에서 진행되었다."
+  },
+  {
+    "guid": "9698929",
+    "title": "FinancialJuice: NYMEX Diesel August futures settle at $4.3701 a gallon.",
+    "link": "https://www.financialjuice.com/News/9698929/NYMEX-Diesel-August-futures-settle-at-43701-a-gallon.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:31:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 8월물 디젤 선물 가격이 갤런당 4.3701달러로 마감했다."
+  },
+  {
+    "guid": "9698928",
+    "title": "FinancialJuice: NYMEX WTI crude September futures settle at $84.46 a barrel up $5.20, 6.56%.",
+    "link": "https://www.financialjuice.com/News/9698928/NYMEX-WTI-crude-September-futures-settle-at-8446-a-barrel-up-520-656.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:31:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX WTI 원유 9월물 선물은 배럴당 84.46달러로 마감하며, 5.20달러(6.56%) 상승했다."
+  },
+  {
+    "guid": "9698922",
+    "title": "FinancialJuice: OpenAI's Altman is meeting with a range of senior Trump Administration officials, lawmakers, and economists to discuss OpenAI's upcoming models - CNBC.",
+    "link": "https://www.financialjuice.com/News/9698922/OpenAIs-Altman-is-meeting-with-a-range-of-senior-Trump-Administration-officials-lawmakers-and-economists-to-discuss-OpenAIs-upcoming-models---CNBC.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:26:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI의 알트먼 대표가 트럼프 행정부의 고위 관리, 의원, 경제학자 등 다양한 인사들과 만나 OpenAI의 차기 모델에 대해 논의하고 있다 - CNBC."
+  },
+  {
+    "guid": "9698921",
+    "title": "FinancialJuice: OpenAI's Altman to meet with White House's Wiles this week ahead of the AI framework deadline - CNBC",
+    "link": "https://www.financialjuice.com/News/9698921/OpenAIs-Altman-to-meet-with-White-Houses-Wiles-this-week-ahead-of-the-AI-framework-deadline---CNBC.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:25:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: AI 프레임워크 마감일을 앞두고 OpenAI의 알트먼, 이번 주 백악관의 와일스와 회동 예정 - CNBC"
+  },
+  {
+    "guid": "9698920",
+    "title": "FinancialJuice: LIVE: Fed Chair Kevin Warsh speaks after interest rate decision meeting\n",
+    "link": "https://www.financialjuice.com/News/9698920/LIVE-Fed-Chair-Kevin-Warsh-speaks-after-interest-rate-decision-meeting.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:23:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 생중계: 케빈 워시 연준 의장, 금리 결정 회의 후 발언\n"
+  },
+  {
+    "guid": "9698896",
+    "title": "FinancialJuice: Fed swaps no longer fully price in a September rate hike",
+    "link": "https://www.financialjuice.com/News/9698896/Fed-swaps-no-longer-fully-price-in-a-September-rate-hike.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:05:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 스왑 시장에서는 9월 금리 인상이 더 이상 완전히 반영되지 않고 있다"
+  },
+  {
+    "guid": "9698878",
+    "title": "FinancialJuice: Israeli forces are advancing towards the Al-Raqad valley in Syrian territory; at the same time, the regime's artillery is shelling the western outskirts of Deraa - Fars News citing Arab sources",
+    "link": "https://www.financialjuice.com/News/9698878/Israeli-forces-are-advancing-towards-the-Al-Raqad-valley-in-Syrian-territory-at-the-same-time-the-regimes-artillery-is-shelling-the-western-outskirts-of-Deraa---Fars-News-citing-Arab-sources.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:02:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘군이 시리아 영토 내 알라카드 계곡을 향해 진격하고 있는 가운데, 동시에 정권 측 포병대가 데라아 서부 외곽을 포격하고 있다고 아랍 소식통을 인용한 파르스 뉴스가 보도했다."
+  },
+  {
+    "guid": "9698872",
+    "title": "FinancialJuice: Fed Rate Statement: Job gains have kept pace with the workforce, and the unemployment rate has changed little.",
+    "link": "https://www.financialjuice.com/News/9698872/Fed-Rate-Statement-Job-gains-have-kept-pace-with-the-workforce-and-the-unemployment-rate-has-changed-little.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:01:07 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 성명서: 고용 증가세가 노동력 증가세와 비슷한 수준을 유지했으며, 실업률은 큰 변동이 없었다."
+  },
+  {
+    "guid": "9698871",
+    "title": "FinancialJuice: Fed Rate Statement: FOMC is continuing the policy of maintaining ample reserves in the banking system.",
+    "link": "https://www.financialjuice.com/News/9698871/Fed-Rate-Statement-FOMC-is-continuing-the-policy-of-maintaining-ample-reserves-in-the-banking-system.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:01:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 성명서: FOMC는 은행 시스템에 충분한 유동성을 유지하는 정책을 지속하고 있다."
+  },
+  {
+    "guid": "9698870",
+    "title": "FinancialJuice: Fed Rate Statement: Productivity growth and capital investment are strong.",
+    "link": "https://www.financialjuice.com/News/9698870/Fed-Rate-Statement-Productivity-growth-and-capital-investment-are-strong.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:00:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 성명서: 생산성 증가세와 자본 투자가 견조하다."
+  },
+  {
+    "guid": "9698869",
+    "title": "FinancialJuice: Fed Rate Statement: Federal Reserve leaves key overnight interest rate unchanged in the 3.50-3.75% range, will deliver price stability.",
+    "link": "https://www.financialjuice.com/News/9698869/Fed-Rate-Statement-Federal-Reserve-leaves-key-overnight-interest-rate-unchanged-in-the-350-375-range-will-deliver-price-stability.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:00:47 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 성명: 연방준비제도(Fed)는 주요 하루물 금리를 3.50~3.75% 범위에서 동결하고, 물가 안정을 도모할 방침이다."
+  },
+  {
+    "guid": "9698868",
+    "title": "FinancialJuice: Fed Rate Statement: Economic activity is expanding at a solid pace despite elevated uncertainty.",
+    "link": "https://www.financialjuice.com/News/9698868/Fed-Rate-Statement-Economic-activity-is-expanding-at-a-solid-pace-despite-elevated-uncertainty.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:00:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 성명: 불확실성이 높은 상황에도 불구하고 경제 활동은 견조한 속도로 확대되고 있다."
+  },
+  {
+    "guid": "9698867",
+    "title": "FinancialJuice: Fed Rate Statement: Inflation remains elevated relative to the 2% goal, in part reflecting supply shocks in certain sectors, including energy.",
+    "link": "https://www.financialjuice.com/News/9698867/Fed-Rate-Statement-Inflation-remains-elevated-relative-to-the-2-goal-in-part-reflecting-supply-shocks-in-certain-sectors-including-energy.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:00:33 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 성명: 인플레이션은 2% 목표치에 비해 여전히 높은 수준을 유지하고 있으며, 이는 부분적으로 에너지 등 특정 부문의 공급 충격에 기인한 것이다."
+  },
+  {
+    "guid": "9698875",
+    "title": "FinancialJuice: Fed Rate Statement: Fed vote in favor of policy was 9-3, with Fed's Hammack, Kashkari and Logan dissenting in favor of a 25 BPS increase",
+    "link": "https://www.financialjuice.com/News/9698875/Fed-Rate-Statement-Fed-vote-in-favor-of-policy-was-9-3-with-Feds-Hammack-Kashkari-and-Logan-dissenting-in-favor-of-a-25-BPS-increase.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:00:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 성명: 정책 유지에 찬성하는 표는 9대 3이었으며, 해맥, 카슈카리, 로건 연준 위원은 25 베이시스포인트 인상을 주장하며 반대 의견을 냈다."
+  },
+  {
+    "guid": "9698862",
+    "title": "FinancialJuice: US Interest Rate Decision Actual 3.75% (Forecast 3.75%, Previous 3.75%)",
+    "link": "https://www.financialjuice.com/News/9698862/US-Interest-Rate-Decision-Actual-375-Forecast-375-Previous-375.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 18:00:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 금리 결정, 실제 3.75% (예상 3.75%, 이전 3.75%)"
+  },
+  {
+    "guid": "9698849",
+    "title": "FinancialJuice: SpaceXAI: Grok Voice Think Fast 2.0 is priced at $0.08 / min of audio.\n",
+    "link": "https://www.financialjuice.com/News/9698849/SpaceXAI-Grok-Voice-Think-Fast-20-is-priced-at-008--min-of-audio.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:45:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: SpaceXAI: Grok Voice Think Fast 2.0의 요금은 오디오 1분당 0.08달러입니다.\n"
+  },
+  {
+    "guid": "9698846",
+    "title": "FinancialJuice: XAI: Introducing Grok 4.5",
+    "link": "https://www.financialjuice.com/News/9698846/XAI-Introducing-Grok-45.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:44:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: XAI: Grok 4.5 소개"
+  },
+  {
+    "guid": "9698845",
+    "title": "FinancialJuice: Ambrey Security Company: Strike reportedly caused a fire on board.",
+    "link": "https://www.financialjuice.com/News/9698845/Ambrey-Security-Company-Strike-reportedly-caused-a-fire-on-board.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:34:33 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 앰브리 보안 회사: 파업으로 인해 선내에서 화재가 발생한 것으로 알려졌다."
+  },
+  {
+    "guid": "9698844",
+    "title": "FinancialJuice: Ambrey Security Company: Greek-owned and operated Bermuda-flagged lng tanker was struck by at least one drone whilst alongside at Egyptian natural gas holding company at Egypt's Damietta port",
+    "link": "https://www.financialjuice.com/News/9698844/Ambrey-Security-Company-Greek-owned-and-operated-Bermuda-flagged-lng-tanker-was-struck-by-at-least-one-drone-whilst-alongside-at-Egyptian-natural-gas-holding-company-at-Egypts-Damietta-port.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:33:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앰브리 보안 회사: 그리스 소유·운영의 버뮤다 선적 LNG 탱커가 이집트 다미에타 항구에 정박 중 이집트 천연가스 지주회사 부두에 접안해 있던 중 최소 한 대의 드론에 충돌당했다."
+  },
+  {
+    "guid": "9698827",
+    "title": "FinancialJuice: Boc Meeting Minutes: Some members are concerned about signs of a rise in medium-term inflation expectations, but all agree longer-term expectations remain anchored.",
+    "link": "https://www.financialjuice.com/News/9698827/Boc-Meeting-Minutes-Some-members-are-concerned-about-signs-of-a-rise-in-medium-term-inflation-expectations-but-all-agree-longer-term-expectations-remain-anchored.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:31:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 보크 회의록: 일부 위원들은 중기 인플레이션 기대치가 상승하는 조짐을 우려하고 있으나, 모든 위원은 장기 인플레이션 기대치가 여전히 안정적으로 유지되고 있다는 점에 동의했다."
+  },
+  {
+    "guid": "9698826",
+    "title": "FinancialJuice: BOC Meeting Minutes: Given the resumption of growth and easing inflation. Members agreed that the trade-off facing monetary policy had diminished.",
+    "link": "https://www.financialjuice.com/News/9698826/BOC-Meeting-Minutes-Given-the-resumption-of-growth-and-easing-inflation-Members-agreed-that-the-trade-off-facing-monetary-policy-had-diminished.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:31:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 중국인민은행(BOC) 회의록: 성장세가 회복되고 인플레이션이 완화됨에 따라, 위원들은 통화정책이 직면한 상충 관계가 완화되었다는 데 의견을 모았다."
+  },
+  {
+    "guid": "9698825",
+    "title": "FinancialJuice: BoC Meeting Minutes: Members say the longer oil prices stay high, the greater the risk that inflationary impacts spread.",
+    "link": "https://www.financialjuice.com/News/9698825/BoC-Meeting-Minutes-Members-say-the-longer-oil-prices-stay-high-the-greater-the-risk-that-inflationary-impacts-spread.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:31:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 회의록: 위원들은 유가가 고공행진을 오래 지속할수록 인플레이션 영향이 확산될 위험이 커진다고 밝혔다."
+  },
+  {
+    "guid": "9698824",
+    "title": "FinancialJuice: BoC Meeting Minutes: Members agreed to reiterate in communications that higher oil prices won't trigger lasting inflation.",
+    "link": "https://www.financialjuice.com/News/9698824/BoC-Meeting-Minutes-Members-agreed-to-reiterate-in-communications-that-higher-oil-prices-wont-trigger-lasting-inflation.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:31:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 회의록: 위원들은 유가 상승이 지속적인 인플레이션을 유발하지 않을 것임을 커뮤니케이션을 통해 재차 강조하기로 합의했다."
+  },
+  {
+    "guid": "9698823",
+    "title": "FinancialJuice: BoC Meeting Minutes: Members saw little proof that rising oil prices were affecting the cost of other goods and services.",
+    "link": "https://www.financialjuice.com/News/9698823/BoC-Meeting-Minutes-Members-saw-little-proof-that-rising-oil-prices-were-affecting-the-cost-of-other-goods-and-services.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:31:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 회의록: 위원들은 유가 상승이 다른 상품 및 서비스의 비용에 영향을 미치고 있다는 증거를 거의 찾지 못했다."
+  },
+  {
+    "guid": "9698822",
+    "title": "FinancialJuice: BoC Meeting Minutes: Despite this, members agreed that uncertainty remains elevated partly due to the unpredictability of the Middle East conflict.",
+    "link": "https://www.financialjuice.com/News/9698822/BoC-Meeting-Minutes-Despite-this-members-agreed-that-uncertainty-remains-elevated-partly-due-to-the-unpredictability-of-the-Middle-East-conflict.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:31:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 회의록: 그럼에도 불구하고, 위원들은 중동 분쟁의 예측 불가능성 등으로 인해 불확실성이 여전히 높은 수준에 머물러 있다는 데 의견을 모았다."
+  },
+  {
+    "guid": "9698821",
+    "title": "FinancialJuice: BoC Meeting Minutes: Potential risks to growth include failure of businesses to continue to adapt to tariffs, reduced resilience in consumer spending, and stalled housing markets in major cities.",
+    "link": "https://www.financialjuice.com/News/9698821/BoC-Meeting-Minutes-Potential-risks-to-growth-include-failure-of-businesses-to-continue-to-adapt-to-tariffs-reduced-resilience-in-consumer-spending-and-stalled-housing-markets-in-major-cities.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:30:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 회의록: 성장에 대한 잠재적 위험 요인으로는 기업들이 관세에 지속적으로 적응하지 못하는 점, 소비자 지출의 회복력 약화, 주요 도시의 주택 시장 정체 등이 꼽힌다."
+  },
+  {
+    "guid": "9698820",
+    "title": "FinancialJuice: BoC Meeting Minutes: Ahead of the Bank of Canada's July 15 rate announcement, some governing council members were split over the sustainability of the rebound.",
+    "link": "https://www.financialjuice.com/News/9698820/BoC-Meeting-Minutes-Ahead-of-the-Bank-of-Canadas-July-15-rate-announcement-some-governing-council-members-were-split-over-the-sustainability-of-the-rebound.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:30:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 회의록: 7월 15일 캐나다 중앙은행의 금리 발표를 앞두고, 일부 정책위원회 위원들은 경기 회복세의 지속 가능성에 대해 의견이 엇갈렸다."
+  },
+  {
+    "guid": "9698815",
+    "title": "FinancialJuice: US Energy Secretary Wright concludes comments",
+    "link": "https://www.financialjuice.com/News/9698815/US-Energy-Secretary-Wright-concludes-comments.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:27:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관, 발언을 마쳤다"
+  },
+  {
+    "guid": "9698814",
+    "title": "FinancialJuice: US Energy Secretary Wright: US military escorting oil and gas through the strait. ",
+    "link": "https://www.financialjuice.com/News/9698814/US-Energy-Secretary-Wright-US-military-escorting-oil-and-gas-through-the-strait-.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:23:26 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관: 미군이 해협을 통과하는 석유 및 가스 수송을 호위하고 있다. "
+  },
+  {
+    "guid": "9698813",
+    "title": "FinancialJuice: US Energy Secretary Wright: Half that of the oil flowing through pipelines, the SPR is a long way from operational minimum.",
+    "link": "https://www.financialjuice.com/News/9698813/US-Energy-Secretary-Wright-Half-that-of-the-oil-flowing-through-pipelines-the-SPR-is-a-long-way-from-operational-minimum.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:21:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관: 파이프라인을 통해 흐르는 원유량의 절반 수준인 전략비축유(SPR)는 운영 최소량에 훨씬 못 미친다."
+  },
+  {
+    "guid": "9698812",
+    "title": "FinancialJuice: The Israeli army launched an artillery attack on the area around the town of Abdeen in the Yarmouk basin region, near the province of Daraa - Tasnim News citing Syrian Sources ",
+    "link": "https://www.financialjuice.com/News/9698812/The-Israeli-army-launched-an-artillery-attack-on-the-area-around-the-town-of-Abdeen-in-the-Yarmouk-basin-region-near-the-province-of-Daraa---Tasnim-News-citing-Syrian-Sources-.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:20:38 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 타스님 뉴스가 시리아 소식통을 인용해, 이스라엘군이 다라 주 인근 야르무크 분지 지역의 압딘 마을 일대에 포격을 가했다고 보도했다. "
+  },
+  {
+    "guid": "9698811",
+    "title": "FinancialJuice: US Energy Secretary Wright: 13 million b/d of oil leaving the Gulf region over the past week: ",
+    "link": "https://www.financialjuice.com/News/9698811/US-Energy-Secretary-Wright-13-million-bd-of-oil-leaving-the-Gulf-region-over-the-past-week-.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:18:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관: 지난 주 동안 걸프 지역에서 하루 1,300만 배럴의 원유가 유출되었다: "
+  },
+  {
+    "guid": "9698807",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett ends remarks on CNBC",
+    "link": "https://www.financialjuice.com/News/9698807/WH-Sr-Adviser-Hassett-ends-remarks-on-CNBC.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:14:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석보좌관 해셋, CNBC 인터뷰 마무리"
+  },
+  {
+    "guid": "9698806",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: We expect downward pressure on prices",
+    "link": "https://www.financialjuice.com/News/9698806/WH-Sr-Adviser-Hassett-We-expect-downward-pressure-on-prices.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:13:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋 “물가에 하방 압력이 가해질 것으로 예상된다”"
+  },
+  {
+    "guid": "9698805",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: There is no reason for US debt to be downgraded. The longrun budget is moving in right direction.",
+    "link": "https://www.financialjuice.com/News/9698805/WH-Sr-Adviser-Hassett-There-is-no-reason-for-US-debt-to-be-downgraded-The-longrun-budget-is-moving-in-right-direction.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:08:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋: 미국 신용등급이 하향 조정될 이유는 없다. 장기 예산은 올바른 방향으로 나아가고 있다."
+  },
+  {
+    "guid": "9698802",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: We expect Warsh to do the right thing - CNBC Interview",
+    "link": "https://www.financialjuice.com/News/9698802/WH-Sr-Adviser-Hassett-We-expect-Warsh-to-do-the-right-thing---CNBC-Interview.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:07:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋 “워시 씨가 올바른 결정을 내릴 것으로 기대한다” - CNBC 인터뷰"
+  },
+  {
+    "guid": "9698773",
+    "title": "FinancialJuice: Senior official from one of the mediating countries: The one making the decisions is the commander of the Revolutionary Guards - Israel's Channel 12 News Ravid",
+    "link": "https://www.financialjuice.com/News/9698773/Senior-official-from-one-of-the-mediating-countries-The-one-making-the-decisions-is-the-commander-of-the-Revolutionary-Guards---Israels-Channel-12-News-Ravid.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 17:00:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중재국 중 한 곳의 고위 관계자: 실제 결정을 내리는 사람은 혁명수비대 사령관이다 - 이스라엘 채널 12 뉴스, 라비드"
+  },
+  {
+    "guid": "9698744",
+    "title": "FinancialJuice: Egyptian security officials have denied to Al-Hadath news that there was an attack in the port of Damietta, claiming that it was a fire that broke out in the engine room of a decommissioned ship - Israel's Kan News.",
+    "link": "https://www.financialjuice.com/News/9698744/Egyptian-security-officials-have-denied-to-Al-Hadath-news-that-there-was-an-attack-in-the-port-of-Damietta-claiming-that-it-was-a-fire-that-broke-out-in-the-engine-room-of-a-decommissioned-ship---Israels-Kan-News.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 16:41:47 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이집트 보안 당국은 알-하다스(Al-Hadath)의 보도에 대해 다미에타 항구에서 공격이 발생했다는 사실을 부인하며, 이는 퇴역 선박의 기관실에서 발생한 화재였다고 주장했다 - 이스라엘 칸 뉴스(Kan News)."
+  },
+  {
+    "guid": "9698743",
+    "title": "FinancialJuice: OpenAI CEO Altman discusses new AI model with US lawmakers. Expressed support for AI safety bills, but gave gives no details",
+    "link": "https://www.financialjuice.com/News/9698743/OpenAI-CEO-Altman-discusses-new-AI-model-with-US-lawmakers-Expressed-support-for-AI-safety-bills-but-gave-gives-no-details.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 16:37:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI의 알트만 CEO가 미국 의원들과 새로운 AI 모델에 대해 논의했다. AI 안전 관련 법안에 대한 지지를 표명했으나, 구체적인 내용은 밝히지 않았다."
+  },
+  {
+    "guid": "9698694",
+    "title": "FinancialJuice: No party had claimed responsibility. No casualties, damage to port infrastructure had been reported - Ambrey Security Company",
+    "link": "https://www.financialjuice.com/News/9698694/No-party-had-claimed-responsibility-No-casualties-damage-to-port-infrastructure-had-been-reported---Ambrey-Security-Company.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 15:54:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 어느 측도 범행을 자처하지 않았다. 인명 피해나 항만 시설 피해는 보고되지 않았다 - 앰브리 보안 회사"
+  },
+  {
+    "guid": "9698693",
+    "title": "FinancialJuice: A US-owned and operated, Marshall Islands-flagged LNG floating storage facility was struck by at least one UAV whilst at Damietta, Egypt - Ambrey.",
+    "link": "https://www.financialjuice.com/News/9698693/A-US-owned-and-operated-Marshall-Islands-flagged-LNG-floating-storage-facility-was-struck-by-at-least-one-UAV-whilst-at-Damietta-Egypt---Ambrey.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 15:52:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 소유·운영이며 마셜 제도 국기를 게양한 LNG 부유식 저장 시설이 이집트 다미에타에 정박 중 최소 한 대의 무인항공기(UAV)에 충돌당했다 - Ambrey."
+  },
+  {
+    "guid": "9698692",
+    "title": "FinancialJuice: Egyptian gas storage tankers at Damietta port might have been hit by drones - 2 security sources",
+    "link": "https://www.financialjuice.com/News/9698692/Egyptian-gas-storage-tankers-at-Damietta-port-might-have-been-hit-by-drones---2-security-sources.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 15:49:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 다미에타 항구에 정박 중이던 이집트산 가스 저장 탱커가 드론의 공격을 받았을 가능성이 있다 - 보안 관계자 2명"
+  },
+  {
+    "guid": "9698673",
+    "title": "FinancialJuice: The vessels involved in explosion have been relocated outside the port, operations are expected to resume at nighttime at other berths and terminals - Inchcape",
+    "link": "https://www.financialjuice.com/News/9698673/The-vessels-involved-in-explosion-have-been-relocated-outside-the-port-operations-are-expected-to-resume-at-nighttime-at-other-berths-and-terminals---Inchcape.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 15:43:55 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 폭발 사고에 연루된 선박들은 항구 밖으로 이동되었으며, 다른 부두와 터미널에서는 밤에 운영이 재개될 것으로 예상된다 - 인치케이프"
+  },
+  {
+    "guid": "9698672",
+    "title": "FinancialJuice: An explosion hits LNG terminal at Egypt's Damietta port during cargo discharge - Inchcape Shipping Services",
+    "link": "https://www.financialjuice.com/News/9698672/An-explosion-hits-LNG-terminal-at-Egypts-Damietta-port-during-cargo-discharge---Inchcape-Shipping-Services.aspx?xy=rss",
+    "pubDate": "Wed, 29 Jul 2026 15:42:37 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이집트 다미에타 항구 LNG 터미널에서 화물 하역 중 폭발 사고 발생 - 인치케이프 쉬핑 서비스"
+  },
+  {
     "guid": "9698634",
     "title": "FinancialJuice: Senior Israeli official: There are centrifuges at Mount Pickaxe, but uranium enrichment has not yet begun there - i24 News",
     "link": "https://www.financialjuice.com/News/9698634/Senior-Israeli-official-There-are-centrifuges-at-Mount-Pickaxe-but-uranium-enrichment-has-not-yet-begun-there---i24-News.aspx?xy=rss",
