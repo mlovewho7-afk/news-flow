@@ -1,5 +1,653 @@
 [
   {
+    "guid": "9701043",
+    "title": "FinancialJuice: Fitch Ratings: US private credit default rate reaches new high in 2Q 2026",
+    "link": "https://www.financialjuice.com/News/9701043/Fitch-Ratings-US-private-credit-default-rate-reaches-new-high-in-2Q-2026.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:59:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 피치 레이팅스: 2026년 2분기 미국 민간 신용 부도율 사상 최고치 기록"
+  },
+  {
+    "guid": "9701041",
+    "title": "FinancialJuice: Democrats demand Apple reject Chinese military-linked chips $AAPL",
+    "link": "https://www.financialjuice.com/News/9701041/Democrats-demand-Apple-reject-Chinese-military-linked-chips-AAPL.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:52:04 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 민주당, 애플에 중국 군부와 연계된 칩 사용 거부 요구 $AAPL"
+  },
+  {
+    "guid": "9701040",
+    "title": "FinancialJuice: Situational Awareness assets are to fall to $10 billion\n",
+    "link": "https://www.financialjuice.com/News/9701040/Situational-Awareness-assets-are-to-fall-to-10-billion.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:48:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 상황 인식 관련 자산 규모가 100억 달러로 감소할 전망이다\n"
+  },
+  {
+    "guid": "9701031",
+    "title": "FinancialJuice: Bank group for Anthropic data center led by Morgan Stanley - WSJ",
+    "link": "https://www.financialjuice.com/News/9701031/Bank-group-for-Anthropic-data-center-led-by-Morgan-Stanley---WSJ.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:44:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 모건 스탠리가 주도하는 앤트로픽 데이터센터 은행 컨소시엄 - WSJ"
+  },
+  {
+    "guid": "9701029",
+    "title": "FinancialJuice: Anthropic data center backed by Google: WSJ $GOOGL",
+    "link": "https://www.financialjuice.com/News/9701029/Anthropic-data-center-backed-by-Google-WSJ-GOOGL.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:43:55 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글이 지원하는 앤트로픽 데이터 센터: WSJ $GOOGL"
+  },
+  {
+    "guid": "9701028",
+    "title": "FinancialJuice: Nexus Data Centers in talks to borrow $15 billion for new data center campus in Texas, sources say\n- WSJ\n",
+    "link": "https://www.financialjuice.com/News/9701028/Nexus-Data-Centers-in-talks-to-borrow-15-billion-for-new-data-center-campus-in-Texas-sources-say--WSJ.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:43:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면 넥서스 데이터 센터, 텍사스 내 신규 데이터 센터 단지 건설을 위해 150억 달러 차입 협의 중\n- WSJ\n"
+  },
+  {
+    "guid": "9701027",
+    "title": "FinancialJuice: Situational Awareness has not sold its stake in Anthropic in a portfolio sale deal with Citadel - Sources ",
+    "link": "https://www.financialjuice.com/News/9701027/Situational-Awareness-has-not-sold-its-stake-in-Anthropic-in-a-portfolio-sale-deal-with-Citadel---Sources-.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:43:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면, 시추에이션얼웨어니스는 시타델과의 포트폴리오 매각 거래에서 앤트로픽 지분을 매각하지 않았다 "
+  },
+  {
+    "guid": "9701026",
+    "title": "FinancialJuice: Iran's Army: Repeated attacks by the armed forces have caused significant damage to the combat and logistical capabilities of US forces at that base - IRNA",
+    "link": "https://www.financialjuice.com/News/9701026/Irans-Army-Repeated-attacks-by-the-armed-forces-have-caused-significant-damage-to-the-combat-and-logistical-capabilities-of-US-forces-at-that-base---IRNA.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:39:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 군: 군의 반복된 공격으로 인해 해당 기지에 주둔 중인 미군의 전투 및 병참 능력에 상당한 피해가 발생했다 - IRNA"
+  },
+  {
+    "guid": "9701025",
+    "title": "FinancialJuice: Iran's Army: Launched an attack on US assets in Bahrain's Sheikh Issa Base - State Media",
+    "link": "https://www.financialjuice.com/News/9701025/Irans-Army-Launched-an-attack-on-US-assets-in-Bahrains-Sheikh-Issa-Base---State-Media.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:38:27 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이란 군, 바레인 셰이크 이사 기지의 미국 자산에 대한 공격을 감행했다 - 국영 매체"
+  },
+  {
+    "guid": "9700990",
+    "title": "FinancialJuice: Egypt Prime Minister: Egypt has secured alternatives to cover energy demands after an attack on a gas vessel ",
+    "link": "https://www.financialjuice.com/News/9700990/Egypt-Prime-Minister-Egypt-has-secured-alternatives-to-cover-energy-demands-after-an-attack-on-a-gas-vessel-.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:12:26 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이집트 총리 “가스 운반선 공격 이후 이집트는 에너지 수요를 충당할 대안을 확보했다” "
+  },
+  {
+    "guid": "9700989",
+    "title": "FinancialJuice: The US issues new Iran-related sanctions targeting support networks for Mahan Air - Treasury Department",
+    "link": "https://www.financialjuice.com/News/9700989/The-US-issues-new-Iran-related-sanctions-targeting-support-networks-for-Mahan-Air---Treasury-Department.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:10:20 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국, 마한 항공의 지원 네트워크를 겨냥한 새로운 이란 관련 제재 발동 - 재무부"
+  },
+  {
+    "guid": "9700988",
+    "title": "FinancialJuice: Musk super PAC to help elect republicans in midterms - NYT",
+    "link": "https://www.financialjuice.com/News/9700988/Musk-super-PAC-to-help-elect-republicans-in-midterms---NYT.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:05:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 머스크의 슈퍼 PAC, 중간선거에서 공화당 후보 당선 지원 - NYT"
+  },
+  {
+    "guid": "9700987",
+    "title": "FinancialJuice: Musk plans at least $100m in midterm spending - NYT",
+    "link": "https://www.financialjuice.com/News/9700987/Musk-plans-at-least-100m-in-midterm-spending---NYT.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:04:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 머스크, 중기 지출로 최소 1억 달러 계획 - NYT"
+  },
+  {
+    "guid": "9700983",
+    "title": "FinancialJuice: OpenAI: API pricing is $0.20 per million input tokens & $1.20 per million output tokens for Luna; API pricing is $2 per million input tokens & $12 per million output tokens for Terra.\n\n",
+    "link": "https://www.financialjuice.com/News/9700983/OpenAI-API-pricing-is-020-per-million-input-tokens--120-per-million-output-tokens-for-Luna-API-pricing-is-2-per-million-input-tokens--12-per-million-output-tokens-for-Terra.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 17:02:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI: Luna의 경우 API 요금은 입력 토큰 100만 개당 0.20달러, 출력 토큰 100만 개당 1.20달러이며, Terra의 경우 API 요금은 입력 토큰 100만 개당 2달러, 출력 토큰 100만 개당 12달러입니다.\n\n"
+  },
+  {
+    "guid": "9700952",
+    "title": "FinancialJuice: Yemen Houthi Spokesperon: The indicators reveal that the Saudi is heading towards comprehensive escalation.",
+    "link": "https://www.financialjuice.com/News/9700952/Yemen-Houthi-Spokesperon-The-indicators-reveal-that-the-Saudi-is-heading-towards-comprehensive-escalation.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 16:39:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 후티 대변인: 여러 징후를 볼 때 사우디가 전면적인 갈등 확대로 치닫고 있는 것으로 보인다."
+  },
+  {
+    "guid": "9700951",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Senate needs to vote now on Clarity Act - Post on X",
+    "link": "https://www.financialjuice.com/News/9700951/US-Treasury-Secretary-Bessent-Senate-needs-to-vote-now-on-Clarity-Act---Post-on-X.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 16:33:44 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 상원은 ‘클래리티 법안’에 대해 지금 표결해야 한다 - X 게시물"
+  },
+  {
+    "guid": "9700932",
+    "title": "FinancialJuice: Saudi Defence Ministry: 14 states including Turkey, Pakistan, Egypt, Sudan and Djibouti issued joint statement supporting proposed multinational maritime defence coalition.",
+    "link": "https://www.financialjuice.com/News/9700932/Saudi-Defence-Ministry-14-states-including-Turkey-Pakistan-Egypt-Sudan-and-Djibouti-issued-joint-statement-supporting-proposed-multinational-maritime-defence-coalition.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 16:25:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 국방부: 터키, 파키스탄, 이집트, 수단, 지부티 등 14개국이 제안된 다국적 해상 방위 연합을 지지하는 공동 성명을 발표했다."
+  },
+  {
+    "guid": "9700931",
+    "title": "FinancialJuice: Saudi Defence Ministry: Coalition to boost defence cooperation in Bab el-Mandeb Strait, Red Sea and Gulf of Aden.",
+    "link": "https://www.financialjuice.com/News/9700931/Saudi-Defence-Ministry-Coalition-to-boost-defence-cooperation-in-Bab-el-Mandeb-Strait-Red-Sea-and-Gulf-of-Aden.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 16:22:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 국방부: 연합군이 바브 엘 만데브 해협, 홍해, 아덴만에서 국방 협력을 강화할 예정이다."
+  },
+  {
+    "guid": "9700930",
+    "title": "FinancialJuice: Saudi Defence Ministry: Participants discussed Saudi Arabia being founding and leading state of proposed maritime defence coalition and hosting its headquarters.",
+    "link": "https://www.financialjuice.com/News/9700930/Saudi-Defence-Ministry-Participants-discussed-Saudi-Arabia-being-founding-and-leading-state-of-proposed-maritime-defence-coalition-and-hosting-its-headquarters.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 16:20:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 국방부: 참석자들은 사우디 아라비아가 제안된 해양 방위 연합의 창립 및 주도국으로서, 또한 해당 연합 본부를 유치하는 방안에 대해 논의했다."
+  },
+  {
+    "guid": "9700929",
+    "title": "FinancialJuice: Saudi Defence Ministry: 43 nations and EU delegation took part in meeting on proposed maritime defence alliance.",
+    "link": "https://www.financialjuice.com/News/9700929/Saudi-Defence-Ministry-43-nations-and-EU-delegation-took-part-in-meeting-on-proposed-maritime-defence-alliance.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 16:18:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 국방부: 43개국과 EU 대표단이 제안된 해양 방위 동맹에 관한 회의에 참석했다."
+  },
+  {
+    "guid": "9700927",
+    "title": "FinancialJuice: Saudi Arabia hosts international meeting to discuss establishing maritime defence coalition - Statement.",
+    "link": "https://www.financialjuice.com/News/9700927/Saudi-Arabia-hosts-international-meeting-to-discuss-establishing-maritime-defence-coalition---Statement.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 16:16:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디아라비아, 해양 방어 연합 결성 논의 위한 국제 회의 개최 - 성명."
+  },
+  {
+    "guid": "9700916",
+    "title": "FinancialJuice: Russia's Ryazan Oil refinery halted operations on Wednesday after drone attack - sources.",
+    "link": "https://www.financialjuice.com/News/9700916/Russias-Ryazan-Oil-refinery-halted-operations-on-Wednesday-after-drone-attack---sources.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 16:13:37 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 소식통에 따르면, 러시아의 랴잔 정유소가 수요일 드론 공격으로 인해 가동을 중단했다."
+  },
+  {
+    "guid": "9700899",
+    "title": "FinancialJuice: Freddie Mac: US 30-Yr fixed rate mortgage averages 6.66% July 30th week, highest in a year, vs 6.58% prior week.",
+    "link": "https://www.financialjuice.com/News/9700899/Freddie-Mac-US-30-Yr-fixed-rate-mortgage-averages-666-July-30th-week-highest-in-a-year-vs-658-prior-week.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 16:01:08 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 프레디 맥(Freddie Mac)에 따르면, 7월 30일 주 미국 30년 만기 고정금리 모기지 평균 금리는 6.66%를 기록해 1년 만에 최고치를 나타냈으며, 이는 전주 6.58%보다 상승한 수치다."
+  },
+  {
+    "guid": "9700897",
+    "title": "FinancialJuice: US mortgage rates rise to 6.66%, highest level in a year",
+    "link": "https://www.financialjuice.com/News/9700897/US-mortgage-rates-rise-to-666-highest-level-in-a-year.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 16:00:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 모기지 금리, 6.66%로 상승… 1년 만에 최고치 기록"
+  },
+  {
+    "guid": "9700890",
+    "title": "FinancialJuice: Qualcomm's exposure to the China data center market is similar to that of rivals. $QCOM ",
+    "link": "https://www.financialjuice.com/News/9700890/Qualcomms-exposure-to-the-China-data-center-market-is-similar-to-that-of-rivals-QCOM-.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:52:51 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 퀄컴의 중국 데이터센터 시장 진출 규모는 경쟁사들과 비슷한 수준이다. $QCOM "
+  },
+  {
+    "guid": "9700889",
+    "title": "FinancialJuice: Qualcomm CEO: Auto demand will drive future growth. $QCOM",
+    "link": "https://www.financialjuice.com/News/9700889/Qualcomm-CEO-Auto-demand-will-drive-future-growth-QCOM.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:48:15 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 퀄컴 CEO “자동차 수요가 향후 성장을 견인할 것”. $QCOM"
+  },
+  {
+    "guid": "9700876",
+    "title": "FinancialJuice: Qualcomm CEO: Higher prices are changing consumer behavior. $QCOM",
+    "link": "https://www.financialjuice.com/News/9700876/Qualcomm-CEO-Higher-prices-are-changing-consumer-behavior-QCOM.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:45:56 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 퀄컴 CEO “가격 인상이 소비자 행동에 변화를 가져오고 있다.” $QCOM"
+  },
+  {
+    "guid": "9700873",
+    "title": "FinancialJuice: Qualcomm CEO: Memory chip price increases is very dramatic. $QCOM",
+    "link": "https://www.financialjuice.com/News/9700873/Qualcomm-CEO-Memory-chip-price-increases-is-very-dramatic-QCOM.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:44:33 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 퀄컴 CEO: 메모리 칩 가격 상승세가 매우 가파르다. $QCOM"
+  },
+  {
+    "guid": "9700871",
+    "title": "FinancialJuice: Goldman involved in Situational Awareness book sale talks - FT.",
+    "link": "https://www.financialjuice.com/News/9700871/Goldman-involved-in-Situational-Awareness-book-sale-talks---FT.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:41:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 골드만삭스, ‘Situational Awareness’ 서적 판매 협상 참여 - FT."
+  },
+  {
+    "guid": "9700870",
+    "title": "FinancialJuice: Situational Awareness to continue as private investment firm - FT.",
+    "link": "https://www.financialjuice.com/News/9700870/Situational-Awareness-to-continue-as-private-investment-firm---FT.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:40:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 시추에이션 어웨어니스, 사모 투자 회사로 계속 운영될 예정 - FT."
+  },
+  {
+    "guid": "9700868",
+    "title": "FinancialJuice: Citadel buys Situational Awareness’s stock portfolio after big losses in AI - WSJ.",
+    "link": "https://www.financialjuice.com/News/9700868/Citadel-buys-Situational-Awarenesss-stock-portfolio-after-big-losses-in-AI---WSJ.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:32:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 시타델, AI 부문에서 큰 손실을 입은 시튜에셔널 어웨어니스의 주식 포트폴리오를 인수 - WSJ."
+  },
+  {
+    "guid": "9700866",
+    "title": "FinancialJuice: US 4-Week Bill Auction",
+    "link": "https://www.financialjuice.com/News/9700866/US-4-Week-Bill-Auction.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:32:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 4주물 국채 입찰"
+  },
+  {
+    "guid": "9700865",
+    "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.63% (Forecast -, Previous 3.730%)",
+    "link": "https://www.financialjuice.com/News/9700865/US-4-Week-Bill-High-Yield-Actual-363-Forecast---Previous-3730.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:32:06 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 4주 만기 국채 고수익률 실제 3.63% (예상 -, 이전 3.730%)"
+  },
+  {
+    "guid": "9700864",
+    "title": "FinancialJuice: US 4-Week Bill Bid-to-Cover Actual 2.8 (Forecast -, Previous 2.790)",
+    "link": "https://www.financialjuice.com/News/9700864/US-4-Week-Bill-Bid-to-Cover-Actual-28-Forecast---Previous-2790.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:32:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 4주물 국채 입찰 경쟁률 실제 2.8 (예상 -, 이전 2.790)"
+  },
+  {
+    "guid": "9700860",
+    "title": "FinancialJuice: BoE Gov. Bailey: Market pricing is sort of sensible.",
+    "link": "https://www.financialjuice.com/News/9700860/BoE-Gov-Bailey-Market-pricing-is-sort-of-sensible.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:30:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 베일리 영란은행 총재: 시장 가격 책정은 어느 정도 타당하다."
+  },
+  {
+    "guid": "9700859",
+    "title": "FinancialJuice: BoE Gov. Bailey: Upside rate risks are built into market pricing.",
+    "link": "https://www.financialjuice.com/News/9700859/BoE-Gov-Bailey-Upside-rate-risks-are-built-into-market-pricing.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:30:37 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 베일리 영란은행 총재: 금리 상승 위험은 시장 가격에 이미 반영되어 있다."
+  },
+  {
+    "guid": "9700858",
+    "title": "FinancialJuice: BoE Gov. Bailey: Seeing slow labor market softening and slow disinflation.",
+    "link": "https://www.financialjuice.com/News/9700858/BoE-Gov-Bailey-Seeing-slow-labor-market-softening-and-slow-disinflation.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:30:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 베일리 영란은행 총재: 노동시장이 서서히 완화되고 디플레이션도 완만하게 진행되고 있다."
+  },
+  {
+    "guid": "9700857",
+    "title": "FinancialJuice: BoE Gov. Bailey: A low-hire, low-fire economy is causing unemployment.",
+    "link": "https://www.financialjuice.com/News/9700857/BoE-Gov-Bailey-A-low-hire-low-fire-economy-is-causing-unemployment.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:30:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 베일리 영란은행 총재: 채용과 해고가 모두 적은 경제 상황이 실업 문제를 야기하고 있다."
+  },
+  {
+    "guid": "9700856",
+    "title": "FinancialJuice: Ford CEO tells employees that Chinese automakers could enter US market in next five to ten years - sources. $F",
+    "link": "https://www.financialjuice.com/News/9700856/Ford-CEO-tells-employees-that-Chinese-automakers-could-enter-US-market-in-next-five-to-ten-years---sources-F.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:30:01 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 소식통에 따르면, 포드 CEO가 직원들에게 중국 자동차 제조사들이 향후 5~10년 내에 미국 시장에 진출할 수 있다고 밝혔다. $F"
+  },
+  {
+    "guid": "9700855",
+    "title": "FinancialJuice: US CENTCOM: Commercial vessel M/T Nora has not broken through America's blockade.",
+    "link": "https://www.financialjuice.com/News/9700855/US-CENTCOM-Commercial-vessel-MT-Nora-has-not-broken-through-Americas-blockade.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:28:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미 중앙사령부(CENTCOM): 상선 M/T 노라는 미국의 봉쇄선을 뚫지 못했다."
+  },
+  {
+    "guid": "9700854",
+    "title": "FinancialJuice: US Military: No US aircraft were destroyed or damaged in recent attempted Iranian attacks.",
+    "link": "https://www.financialjuice.com/News/9700854/US-Military-No-US-aircraft-were-destroyed-or-damaged-in-recent-attempted-Iranian-attacks.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:27:58 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 미군: 최근 이란의 공격 시도에서 미군 항공기는 파괴되거나 손상된 사례가 없었다."
+  },
+  {
+    "guid": "9700853",
+    "title": "FinancialJuice: A channel identified with the Houthis denies that an attack took place in Sana'a - Israel's Channel 12 News.",
+    "link": "https://www.financialjuice.com/News/9700853/A-channel-identified-with-the-Houthis-denies-that-an-attack-took-place-in-Sanaa---Israels-Channel-12-News.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:20:48 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 후티 반군과 연계된 한 매체가 사나에서 공격이 발생했다는 사실을 부인했다 - 이스라엘 채널 12 뉴스."
+  },
+  {
+    "guid": "9700852",
+    "title": "FinancialJuice: HSBC weighs offloading billions in UK pension assets to insurer",
+    "link": "https://www.financialjuice.com/News/9700852/HSBC-weighs-offloading-billions-in-UK-pension-assets-to-insurer.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:18:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: HSBC, 영국 연금 자산 수십억 규모를 보험사에 매각하는 방안 검토 중"
+  },
+  {
+    "guid": "9700823",
+    "title": "FinancialJuice: Fed bids for 4-week bills total $6 bln.",
+    "link": "https://www.financialjuice.com/News/9700823/Fed-bids-for-4-week-bills-total-6-bln.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:15:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준, 4주 만기 국채 입찰 총액 60억 달러."
+  },
+  {
+    "guid": "9700814",
+    "title": "FinancialJuice: Google is introducing Gemini Robotics ER 2. $GOOGL",
+    "link": "https://www.financialjuice.com/News/9700814/Google-is-introducing-Gemini-Robotics-ER-2-GOOGL.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:02:09 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글이 제미니 로보틱스(Gemini Robotics)의 ER 2를 선보입니다. $GOOGL"
+  },
+  {
+    "guid": "9700796",
+    "title": "FinancialJuice: US Treasury Bill Auction Schedule",
+    "link": "https://www.financialjuice.com/News/9700796/US-Treasury-Bill-Auction-Schedule.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 15:01:06 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 국채 단기물 입찰 일정"
+  },
+  {
+    "guid": "9700787",
+    "title": "FinancialJuice: Russia's July oil exports via Western ports to fall about 4% from June, as Ukraine attacks reduce Black Sea loadings - Sources.",
+    "link": "https://www.financialjuice.com/News/9700787/Russias-July-oil-exports-via-Western-ports-to-fall-about-4-from-June-as-Ukraine-attacks-reduce-Black-Sea-loadings---Sources.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:58:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 우크라이나의 공격으로 흑해 지역 선적이 감소함에 따라, 러시아의 7월 서방 항구를 통한 원유 수출량이 6월 대비 약 4% 감소할 전망이라고 소식통들이 전했다."
+  },
+  {
+    "guid": "9700786",
+    "title": "FinancialJuice: China's Vice Premier held a video call with US Treasury Secretary Bessent and USTR Greer. They had candid, in-depth, and constructive exchanges - Xinhua.",
+    "link": "https://www.financialjuice.com/News/9700786/Chinas-Vice-Premier-held-a-video-call-with-US-Treasury-Secretary-Bessent-and-USTR-Greer-They-had-candid-in-depth-and-constructive-exchanges---Xinhua.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:53:42 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 중국 부총리가 베센트 미국 재무장관과 그리어 미국 무역대표부(USTR) 대표와 화상 회담을 가졌다. 양측은 솔직하고 심도 있으며 건설적인 의견을 교환했다 - 신화통신."
+  },
+  {
+    "guid": "9700778",
+    "title": "FinancialJuice: Houthis attacked Saudi Arabia from Iraqi territory in cooperation with Iraqi militias - Two Officials In The Region.",
+    "link": "https://www.financialjuice.com/News/9700778/Houthis-attacked-Saudi-Arabia-from-Iraqi-territory-in-cooperation-with-Iraqi-militias---Two-Officials-In-The-Region.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 후티 반군이 이라크 민병대와 협력해 이라크 영토 내에서 사우디아라비아를 공격했다 - 현지 관계자 2명."
+  },
+  {
+    "guid": "9700777",
+    "title": "FinancialJuice: Kuwait's Chief of Staff meets in Saudi Arabia with the Defence Coalition for preserving freedom of navigation in Bab el-Mandeb Strait - State News Agency.",
+    "link": "https://www.financialjuice.com/News/9700777/Kuwaits-Chief-of-Staff-meets-in-Saudi-Arabia-with-the-Defence-Coalition-for-preserving-freedom-of-navigation-in-Bab-el-Mandeb-Strait---State-News-Agency.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:43:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 쿠웨이트 참모총장, 사우디아라비아에서 바브 엘 만데브 해협의 항행의 자유 유지를 위한 국방 연합과 회동 - 국영 통신사."
+  },
+  {
+    "guid": "9700776",
+    "title": "FinancialJuice: Valero Energy: Pivoted to process more Venezuelan crude after spike in Canadian crude prices.",
+    "link": "https://www.financialjuice.com/News/9700776/Valero-Energy-Pivoted-to-process-more-Venezuelan-crude-after-spike-in-Canadian-crude-prices.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:38:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 발레로 에너지: 캐나다산 원유 가격 급등에 따라 베네수엘라산 원유 처리 비중을 늘리는 방향으로 사업 전략을 전환했다."
+  },
+  {
+    "guid": "9700775",
+    "title": "FinancialJuice: Valero Energy expects to see processing rates of Venezuelan Heavy Crude in the coming months that exceed the historical maximum - Conference Call.",
+    "link": "https://www.financialjuice.com/News/9700775/Valero-Energy-expects-to-see-processing-rates-of-Venezuelan-Heavy-Crude-in-the-coming-months-that-exceed-the-historical-maximum---Conference-Call.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:34:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 발레로 에너지, 향후 몇 달 동안 베네수엘라 중질 원유의 처리량이 사상 최고치를 넘어설 것으로 전망 - 컨퍼런스 콜."
+  },
+  {
+    "guid": "9700752",
+    "title": "FinancialJuice: EIA Natural Gas Change BCF Actual 28B (Forecast 35B, Previous 32B)",
+    "link": "https://www.financialjuice.com/News/9700752/EIA-Natural-Gas-Change-BCF-Actual-28B-Forecast-35B-Previous-32B.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EIA 천연가스 재고 변동량(BCF) 실제 28B (예상 35B, 이전 32B)"
+  },
+  {
+    "guid": "9700751",
+    "title": "FinancialJuice: Fear and Greed Index: 38/100 = Fear",
+    "link": "https://www.financialjuice.com/News/9700751/Fear-and-Greed-Index-38100--Fear.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:17:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 공포와 탐욕 지수: 38/100 = 공포"
+  },
+  {
+    "guid": "9700750",
+    "title": "FinancialJuice: Crypto Fear & Greed Index: 28/100 - Fear",
+    "link": "https://www.financialjuice.com/News/9700750/Crypto-Fear--Greed-Index-28100---Fear.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:17:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 암호화폐 공포·탐욕 지수: 28/100 - 공포"
+  },
+  {
+    "guid": "9700726",
+    "title": "FinancialJuice: China's Robot Maker Unitree: Our current G1, H2, R1, GO2, B2 and A2 robot models already have FCC certification and can continue US sales - Filing.",
+    "link": "https://www.financialjuice.com/News/9700726/Chinas-Robot-Maker-Unitree-Our-current-G1-H2-R1-GO2-B2-and-A2-robot-models-already-have-FCC-certification-and-can-continue-US-sales---Filing.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:13:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 로봇 제조사 유닛리(Unitree): 당사의 현재 로봇 모델인 G1, H2, R1, GO2, B2 및 A2는 이미 FCC 인증을 획득했으며, 미국 내 판매를 계속할 수 있다 - 제출 서류."
+  },
+  {
+    "guid": "9700725",
+    "title": "FinancialJuice: China's Robot Maker UniTree: New FCC curbs could block US sales of future foreign-made robot models unless they win exemptions or conditional approvals — filing.",
+    "link": "https://www.financialjuice.com/News/9700725/Chinas-Robot-Maker-UniTree-New-FCC-curbs-could-block-US-sales-of-future-foreign-made-robot-models-unless-they-win-exemptions-or-conditional-approvals--filing.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:12:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국의 로봇 제조사 유니트리(UniTree): 제출된 서류에 따르면, 새로운 FCC 규제 조치로 인해 향후 해외에서 제조된 로봇 모델들은 면제나 조건부 승인을 받지 못할 경우 미국 내 판매가 차단될 수 있다."
+  },
+  {
+    "guid": "9700724",
+    "title": "FinancialJuice: Yemeni Ministry of Foreign Affairs: The rumors circulating about an attack by Yemen on a ship in the port of Damietta, Egypt, are unfounded - ISNA",
+    "link": "https://www.financialjuice.com/News/9700724/Yemeni-Ministry-of-Foreign-Affairs-The-rumors-circulating-about-an-attack-by-Yemen-on-a-ship-in-the-port-of-Damietta-Egypt-are-unfounded---ISNA.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:11:56 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 예멘 외무부: 예멘이 이집트 다미에타 항구에 정박 중인 선박을 공격했다는 소문은 근거가 없다 - ISNA"
+  },
+  {
+    "guid": "9700723",
+    "title": "FinancialJuice: Shell CFO: Shell sees overall 5% to 6% inflation in its costs.",
+    "link": "https://www.financialjuice.com/News/9700723/Shell-CFO-Shell-sees-overall-5-to-6-inflation-in-its-costs.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:11:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 쉘 최고재무책임자(CFO): 쉘은 자사 비용에서 전반적으로 5%에서 6% 수준의 인플레이션을 예상하고 있다."
+  },
+  {
+    "guid": "9700715",
+    "title": "FinancialJuice: Russia bans other fuel exports until Jan. 31st, 2027 - TASS.",
+    "link": "https://www.financialjuice.com/News/9700715/Russia-bans-other-fuel-exports-until-Jan-31st-2027---TASS.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:01:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아, 2027년 1월 31일까지 기타 연료 수출 금지 - 타스."
+  },
+  {
+    "guid": "9700714",
+    "title": "FinancialJuice: Russian government bans diesel exports until January 31st, 2027 - Tass",
+    "link": "https://www.financialjuice.com/News/9700714/Russian-government-bans-diesel-exports-until-January-31st-2027---Tass.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:01:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 정부, 2027년 1월 31일까지 디젤유 수출 금지 - 타스"
+  },
+  {
+    "guid": "9700713",
+    "title": "FinancialJuice: Russia extends diesel export ban by 1 month - IFX.",
+    "link": "https://www.financialjuice.com/News/9700713/Russia-extends-diesel-export-ban-by-1-month---IFX.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 14:00:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아, 디젤 수출 금지 조치 1개월 연장 - IFX."
+  },
+  {
+    "guid": "9700705",
+    "title": "FinancialJuice: NATO Sec. Gen. Rutte: We will strengthen our readiness to defend against any threat.",
+    "link": "https://www.financialjuice.com/News/9700705/NATO-Sec-Gen-Rutte-We-will-strengthen-our-readiness-to-defend-against-any-threat.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:59:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루테 나토 사무총장: “우리는 어떠한 위협에도 대비해 방어 태세를 강화할 것입니다.”"
+  },
+  {
+    "guid": "9700704",
+    "title": "FinancialJuice: NATO Sec. Gen. Rutte: Poland and NATO activated defenses after violation",
+    "link": "https://www.financialjuice.com/News/9700704/NATO-Sec-Gen-Rutte-Poland-and-NATO-activated-defenses-after-violation.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:59:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루테 나토 사무총장 “폴란드와 나토, 영공 침범 후 방어 체계 가동”"
+  },
+  {
+    "guid": "9700703",
+    "title": "FinancialJuice: NATO Sec. Gen. Rutte: Poland's airspace was violated by a Russian missile.",
+    "link": "https://www.financialjuice.com/News/9700703/NATO-Sec-Gen-Rutte-Polands-airspace-was-violated-by-a-Russian-missile.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:58:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루테 나토 사무총장, “러시아 미사일이 폴란드 영공을 침범했다.”"
+  },
+  {
+    "guid": "9700702",
+    "title": "FinancialJuice: Shell CEO: The main impact on the LNG market from the Middle East war is in the spot market. Expects tightness in the LNG market in the coming quarter.",
+    "link": "https://www.financialjuice.com/News/9700702/Shell-CEO-The-main-impact-on-the-LNG-market-from-the-Middle-East-war-is-in-the-spot-market-Expects-tightness-in-the-LNG-market-in-the-coming-quarter.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:49:03 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 쉘 CEO: 중동 전쟁이 LNG 시장에 미치는 주요 영향은 현물 시장에서 나타나고 있다. 향후 분기에는 LNG 시장이 공급 부족 국면에 접어들 것으로 전망한다."
+  },
+  {
+    "guid": "9700701",
+    "title": "FinancialJuice: Shell CFO: More LNG volumes redirected from Asia to Europe",
+    "link": "https://www.financialjuice.com/News/9700701/Shell-CFO-More-LNG-volumes-redirected-from-Asia-to-Europe.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:48:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 쉘 최고재무책임자(CFO), 아시아에서 유럽으로 전환되는 LNG 물량 증가"
+  },
+  {
+    "guid": "9700697",
+    "title": "FinancialJuice: Shell CFO: Shell sees tight LNG market in 3Q.",
+    "link": "https://www.financialjuice.com/News/9700697/Shell-CFO-Shell-sees-tight-LNG-market-in-3Q.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:46:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 쉘 최고재무책임자(CFO): 쉘, 3분기 LNG 시장 공급이 타이트할 것으로 전망."
+  },
+  {
+    "guid": "9700675",
+    "title": "FinancialJuice: UK's PM Burnham: The UK won't ignore oil in the North Sea.",
+    "link": "https://www.financialjuice.com/News/9700675/UKs-PM-Burnham-The-UK-wont-ignore-oil-in-the-North-Sea.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:44:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 버넘 영국 총리, “영국은 북해의 석유를 외면하지 않을 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9700674",
+    "title": "FinancialJuice: Potential yen intervention",
+    "link": "https://www.financialjuice.com/News/9700674/Potential-yen-intervention.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:35:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 엔화 개입 가능성"
+  },
+  {
+    "guid": "9700660",
+    "title": "FinancialJuice: UK PM Burnham: I indicated to Trump that I would take a pragmatic approach to the North Sea.",
+    "link": "https://www.financialjuice.com/News/9700660/UK-PM-Burnham-I-indicated-to-Trump-that-I-would-take-a-pragmatic-approach-to-the-North-Sea.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:31:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 버넘 영국 총리: “트럼프 대통령에게 북해 문제에 대해 실용적인 접근 방식을 취할 것이라고 밝혔다.”"
+  },
+  {
+    "guid": "9700654",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9700654/MOO-Imbalance.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:30:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOO 불균형"
+  },
+  {
+    "guid": "9700647",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett interview on Bloomberg TV ends",
+    "link": "https://www.financialjuice.com/News/9700647/WH-Sr-Adviser-Hassett-interview-on-Bloomberg-TV-ends.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:27:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 블룸버그 TV에서 진행된 하셋 백악관 수석고문 인터뷰가 끝났다"
+  },
+  {
+    "guid": "9700646",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: I don't see markets in bubble territory due to AI.",
+    "link": "https://www.financialjuice.com/News/9700646/WH-Sr-Adviser-Hassett-I-dont-see-markets-in-bubble-territory-due-to-AI.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:27:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋: AI로 인해 시장이 거품 국면에 접어들었다고 보지는 않는다."
+  },
+  {
+    "guid": "9700645",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: I am very bullish on Fed policy going in the proper direction.",
+    "link": "https://www.financialjuice.com/News/9700645/WH-Sr-Adviser-Hassett-I-am-very-bullish-on-Fed-policy-going-in-the-proper-direction.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:24:33 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋: 저는 연준의 정책이 올바른 방향으로 나아가고 있다고 매우 낙관적으로 보고 있습니다."
+  },
+  {
+    "guid": "9700644",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett asked if Warsh is hawk or dove: He's a realist.",
+    "link": "https://www.financialjuice.com/News/9700644/WH-Sr-Adviser-Hassett-asked-if-Warsh-is-hawk-or-dove-Hes-a-realist.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:21:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋이 워시가 매파인지 비둘기파인지 묻자, “그는 현실주의자다”라고 답했다."
+  },
+  {
+    "guid": "9700643",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: The markets may need a couple more prints like today's.",
+    "link": "https://www.financialjuice.com/News/9700643/WH-Sr-Adviser-Hassett-The-markets-may-need-a-couple-more-prints-like-todays.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:20:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋: 시장에는 오늘과 같은 주가 상승세가 몇 차례 더 필요할 수도 있다."
+  },
+  {
+    "guid": "9700642",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: Warsh will do what the data say he should do.",
+    "link": "https://www.financialjuice.com/News/9700642/WH-Sr-Adviser-Hassett-Warsh-will-do-what-the-data-say-he-should-do.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:20:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석보좌관 해셋, “워시는 데이터가 가리키는 대로 행동할 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9700641",
+    "title": "FinancialJuice: WATCH LIVE: WH Sr. Adviser Hassett Speaks",
+    "link": "https://www.financialjuice.com/News/9700641/WATCH-LIVE-WH-Sr-Adviser-Hassett-Speaks.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:19:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 생중계 시청: 백악관 수석고문 해셋의 연설"
+  },
+  {
+    "guid": "9700640",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: Warsh's job is now easier with today's inflation data.",
+    "link": "https://www.financialjuice.com/News/9700640/WH-Sr-Adviser-Hassett-Warshs-job-is-now-easier-with-todays-inflation-data.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:18:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋 “오늘 발표된 물가 지표로 워시 의장의 업무가 이제 더 수월해졌다.”"
+  },
+  {
+    "guid": "9700639",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett post-PCE, asked if he still has confidence in Warsh: Of course.",
+    "link": "https://www.financialjuice.com/News/9700639/WH-Sr-Adviser-Hassett-post-PCE-asked-if-he-still-has-confidence-in-Warsh-Of-course.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 13:17:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: PCE 발표 후, 백악관 수석고문 해셋에게 워시에게 여전히 신뢰를 가지고 있는지 묻자, “물론입니다.”라고 답했다."
+  },
+  {
     "guid": "9700630",
     "title": "FinancialJuice: Iran warns Cyprus not to allow attacks from its territory.",
     "link": "https://www.financialjuice.com/News/9700630/Iran-warns-Cyprus-not-to-allow-attacks-from-its-territory.aspx?xy=rss",
