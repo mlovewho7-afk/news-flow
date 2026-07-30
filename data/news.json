@@ -1,5 +1,349 @@
 [
   {
+    "guid": "9701321",
+    "title": "FinancialJuice: Apple sees ‘softness’ in mobile gaming revenue on App Store: CFO",
+    "link": "https://www.financialjuice.com/News/9701321/Apple-sees-softness-in-mobile-gaming-revenue-on-App-Store-CFO.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:51:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 애플, 앱 스토어 모바일 게임 매출에서 ‘부진’ 감지…CFO"
+  },
+  {
+    "guid": "9701320",
+    "title": "FinancialJuice: Yen appears significantly undervalued: Bessent tells Fox Business reporter",
+    "link": "https://www.financialjuice.com/News/9701320/Yen-appears-significantly-undervalued-Bessent-tells-Fox-Business-reporter.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:51:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: “엔화 가치가 상당히 저평가된 것으로 보인다”: 베센트, 폭스 비즈니스 기자에게 밝혀"
+  },
+  {
+    "guid": "9701319",
+    "title": "FinancialJuice: U.S. Treasury’s Bessent: Japan may have stepped into currency markets earlier Thursday - Fox Business Network reporter",
+    "link": "https://www.financialjuice.com/News/9701319/US-Treasurys-Bessent-Japan-may-have-stepped-into-currency-markets-earlier-Thursday---Fox-Business-Network-reporter.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:48:27 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 재무부의 베센트: 일본이 목요일 이른 시간에 외환 시장에 개입했을 가능성이 있다 - 폭스 비즈니스 네트워크 기자"
+  },
+  {
+    "guid": "9701301",
+    "title": "FinancialJuice: Apple says users will have upgrade options for heavy use of new AI products, CEO Tim Cook",
+    "link": "https://www.financialjuice.com/News/9701301/Apple-says-users-will-have-upgrade-options-for-heavy-use-of-new-AI-products-CEO-Tim-Cook.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:41:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 애플, 새로운 AI 제품을 집중적으로 사용하는 사용자를 위한 업그레이드 옵션을 제공할 것이라고 밝혔으며, 팀 쿡 CEO"
+  },
+  {
+    "guid": "9701300",
+    "title": "FinancialJuice: Apple is evaluating all options for alternative component suppliers: CEO on conference call",
+    "link": "https://www.financialjuice.com/News/9701300/Apple-is-evaluating-all-options-for-alternative-component-suppliers-CEO-on-conference-call.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:36:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 애플, 대체 부품 공급업체 확보를 위한 모든 방안을 검토 중: CEO, 컨퍼런스 콜에서 밝혀"
+  },
+  {
+    "guid": "9701299",
+    "title": "FinancialJuice: Apple expects supply constraints to rise sharply from June to September quarter: CFO, impacting iPhone, Mac and iPad",
+    "link": "https://www.financialjuice.com/News/9701299/Apple-expects-supply-constraints-to-rise-sharply-from-June-to-September-quarter-CFO-impacting-iPhone-Mac-and-iPad.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:34:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 애플, 6월부터 9월 분기까지 공급 차질이 급격히 증가할 것으로 전망… CFO, 아이폰·맥·아이패드에 영향 미칠 전망"
+  },
+  {
+    "guid": "9701298",
+    "title": "FinancialJuice: Chile reactivates Venezuela consular relations: government",
+    "link": "https://www.financialjuice.com/News/9701298/Chile-reactivates-Venezuela-consular-relations-government.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:33:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 칠레, 베네수엘라와 영사 관계 재개… 정부 발표"
+  },
+  {
+    "guid": "9701292",
+    "title": "FinancialJuice: Apple expects operating costs between $19.1 billion and $19.4 billion in fourth quarter: CFO on conf call",
+    "link": "https://www.financialjuice.com/News/9701292/Apple-expects-operating-costs-between-191-billion-and-194-billion-in-fourth-quarter-CFO-on-conf-call.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:30:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 애플, 4분기 영업 비용이 191억~194억 달러에 달할 것으로 전망…CFO, 컨퍼런스 콜에서 밝혀"
+  },
+  {
+    "guid": "9701286",
+    "title": "FinancialJuice: Apple projects gross margins between 47% and 48% with 1 percentage point boost from tariff refunds: CFO on conference call",
+    "link": "https://www.financialjuice.com/News/9701286/Apple-projects-gross-margins-between-47-and-48-with-1-percentage-point-boost-from-tariff-refunds-CFO-on-conference-call.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:28:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 애플, 관세 환급으로 1%포인트 상승한 47%~48%의 매출총이익률 전망…CFO, 컨퍼런스 콜에서 밝혀"
+  },
+  {
+    "guid": "9701285",
+    "title": "FinancialJuice: Apple expects iPhone revenue growth rate to be mid-teens year over year: CFO on conference call",
+    "link": "https://www.financialjuice.com/News/9701285/Apple-expects-iPhone-revenue-growth-rate-to-be-mid-teens-year-over-year-CFO-on-conference-call.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:28:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 애플, 아이폰 매출 성장률이 전년 대비 10%대 중반을 기록할 것으로 전망… CFO, 컨퍼런스 콜에서 밝혀"
+  },
+  {
+    "guid": "9701284",
+    "title": "FinancialJuice: Apple CFO: anticipates September quarter company revenue growth of 9% to 11% year over year - conf call",
+    "link": "https://www.financialjuice.com/News/9701284/Apple-CFO-anticipates-September-quarter-company-revenue-growth-of-9-to-11-year-over-year---conf-call.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:27:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 애플 최고재무책임자(CFO), 9월 분기 매출이 전년 동기 대비 9%에서 11% 성장할 것으로 전망 - 컨퍼런스 콜"
+  },
+  {
+    "guid": "9701283",
+    "title": "FinancialJuice: Amazon CFO: received about $600 million in tariff refunds",
+    "link": "https://www.financialjuice.com/News/9701283/Amazon-CFO-received-about-600-million-in-tariff-refunds.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:27:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아마존 최고재무책임자(CFO), 약 6억 달러의 관세 환급금 수령"
+  },
+  {
+    "guid": "9701267",
+    "title": "FinancialJuice: Amazon CEO: Even with higher capex, capacity won't meet all demand in 2026",
+    "link": "https://www.financialjuice.com/News/9701267/Amazon-CEO-Even-with-higher-capex-capacity-wont-meet-all-demand-in-2026.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:16:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아마존 CEO “설비 투자 규모를 늘린다 해도 2026년에는 생산 능력이 모든 수요를 충족시키지 못할 것”"
+  },
+  {
+    "guid": "9701263",
+    "title": "FinancialJuice: Amazon CEO: Capex to reach about $220 billion in 2026 on higher memory costs",
+    "link": "https://www.financialjuice.com/News/9701263/Amazon-CEO-Capex-to-reach-about-220-billion-in-2026-on-higher-memory-costs.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:15:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아마존 CEO, “메모리 비용 상승으로 2026년 설비투자(Capex)가 약 2,200억 달러에 달할 전망”"
+  },
+  {
+    "guid": "9701262",
+    "title": "FinancialJuice: Amazon CEO: 2026 capex plans remain about $200 billion - conference call",
+    "link": "https://www.financialjuice.com/News/9701262/Amazon-CEO-2026-capex-plans-remain-about-200-billion---conference-call.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:13:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아마존 CEO, “2026년 설비투자 계획은 여전히 약 2,000억 달러 수준” - 컨퍼런스 콜"
+  },
+  {
+    "guid": "9701240",
+    "title": "FinancialJuice: Egyptian Official in response to the Wall Street Journal: Cairo Does Not Believe Iran Was Behind the Damietta Incident - Al Arabiya",
+    "link": "https://www.financialjuice.com/News/9701240/Egyptian-Official-in-response-to-the-Wall-Street-Journal-Cairo-Does-Not-Believe-Iran-Was-Behind-the-Damietta-Incident---Al-Arabiya.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 21:00:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 월스트리트저널 보도에 대한 이집트 당국자 반응: 카이로, 다미에타 사건 배후에 이란이 있었다는 주장을 믿지 않는다 - 알 아라비야"
+  },
+  {
+    "guid": "9701237",
+    "title": "FinancialJuice: The Egyptian Minister of Information denied a claim made by the Wall Street Journal that the Egyptian government believes Iran was behind the drone attack on two ships in the port of Damietta - Al Arabiya.",
+    "link": "https://www.financialjuice.com/News/9701237/The-Egyptian-Minister-of-Information-denied-a-claim-made-by-the-Wall-Street-Journal-that-the-Egyptian-government-believes-Iran-was-behind-the-drone-attack-on-two-ships-in-the-port-of-Damietta---Al-Arabiya.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 20:59:15 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이집트 정보부 장관은 이집트 정부가 다미에타 항구에서 발생한 두 척의 선박에 대한 드론 공격의 배후에 이란이 있다고 보고 있다는 월스트리트저널의 주장을 부인했다 - 알 아라비야."
+  },
+  {
+    "guid": "9701225",
+    "title": "FinancialJuice: US authorities also conducted a rate check - Nikkei.",
+    "link": "https://www.financialjuice.com/News/9701225/US-authorities-also-conducted-a-rate-check---Nikkei.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 20:34:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 당국도 금리 점검을 실시했다 - 닛케이."
+  },
+  {
+    "guid": "9701224",
+    "title": "FinancialJuice: The Japanese Government and the BoJ intervened in the forex market - Nikkei.",
+    "link": "https://www.financialjuice.com/News/9701224/The-Japanese-Government-and-the-BoJ-intervened-in-the-forex-market---Nikkei.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 20:33:38 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 일본 정부와 일본은행이 외환 시장에 개입했다 - 닛케이."
+  },
+  {
+    "guid": "9701208",
+    "title": "FinancialJuice: $AAPL Apple Q3 Earnings",
+    "link": "https://www.financialjuice.com/News/9701208/AAPL-Apple-Q3-Earnings.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 20:30:46 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: $AAPL 애플 3분기 실적"
+  },
+  {
+    "guid": "9701202",
+    "title": "FinancialJuice: Google: Gemini Spark now integrates with Chrome $GOOGL",
+    "link": "https://www.financialjuice.com/News/9701202/Google-Gemini-Spark-now-integrates-with-Chrome-GOOGL.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 20:25:51 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글: ‘Gemini Spark’가 이제 크롬과 연동됩니다 $GOOGL"
+  },
+  {
+    "guid": "9701201",
+    "title": "FinancialJuice: Supermicro to deliver up to 3,000 AI racks per month.",
+    "link": "https://www.financialjuice.com/News/9701201/Supermicro-to-deliver-up-to-3000-AI-racks-per-month.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 20:24:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 슈퍼마이크로, 월 최대 3,000대의 AI 랙 공급 예정."
+  },
+  {
+    "guid": "9701200",
+    "title": "FinancialJuice: Supermicro launches an AI rack series under the DCBBS Portfolio. $SMCI",
+    "link": "https://www.financialjuice.com/News/9701200/Supermicro-launches-an-AI-rack-series-under-the-DCBBS-Portfolio-SMCI.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 20:23:10 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 슈퍼마이크로, DCBBS 포트폴리오의 일환으로 AI 랙 시리즈 출시. $SMCI"
+  },
+  {
+    "guid": "9701187",
+    "title": "FinancialJuice: $COIN Coinbase Q2 Earnings\n",
+    "link": "https://www.financialjuice.com/News/9701187/COIN-Coinbase-Q2-Earnings.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 20:06:37 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: $COIN 코인베이스 2분기 실적\n"
+  },
+  {
+    "guid": "9701186",
+    "title": "FinancialJuice: $AMZN Amazon Q2 Earnings & Q3 Guidance",
+    "link": "https://www.financialjuice.com/News/9701186/AMZN-Amazon-Q2-Earnings--Q3-Guidance.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 20:02:02 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: $AMZN 아마존 2분기 실적 및 3분기 실적 전망"
+  },
+  {
+    "guid": "9701185",
+    "title": "FinancialJuice: $RIVN Rivian Q2 Earnings\n",
+    "link": "https://www.financialjuice.com/News/9701185/RIVN-Rivian-Q2-Earnings.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 20:01:51 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: $RIVN 리비안 2분기 실적\n"
+  },
+  {
+    "guid": "9701171",
+    "title": "FinancialJuice: Iran's Foreign Minister: Egypt is an important friend and partner in the region, and its security is of utmost importance to us.",
+    "link": "https://www.financialjuice.com/News/9701171/Irans-Foreign-Minister-Egypt-is-an-important-friend-and-partner-in-the-region-and-its-security-is-of-utmost-importance-to-us.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 19:56:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 외무장관: 이집트는 이 지역에서 중요한 친구이자 파트너이며, 이집트의 안보는 우리에게 지극히 중요하다."
+  },
+  {
+    "guid": "9701170",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9701170/MOC-Imbalance.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 19:50:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOC 불균형"
+  },
+  {
+    "guid": "9701169",
+    "title": "FinancialJuice: Any agreement regarding the Strait could serve as an entry point for lifting the naval blockade and oil sanctions - Al Jazeera reporter on X.",
+    "link": "https://www.financialjuice.com/News/9701169/Any-agreement-regarding-the-Strait-could-serve-as-an-entry-point-for-lifting-the-naval-blockade-and-oil-sanctions---Al-Jazeera-reporter-on-X.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 19:50:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 해협과 관련된 어떠한 합의도 해군 봉쇄와 석유 제재를 해제하는 발판이 될 수 있다 - 알자지라 기자가 X에 게시한 글."
+  },
+  {
+    "guid": "9701168",
+    "title": "FinancialJuice: Negotiations regarding the Strait of Hormuz with Muscat have not stopped - Al Jazeera reporter on X.",
+    "link": "https://www.financialjuice.com/News/9701168/Negotiations-regarding-the-Strait-of-Hormuz-with-Muscat-have-not-stopped---Al-Jazeera-reporter-on-X.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 19:49:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 무스카트와의 호르무즈 해협 관련 협상이 계속되고 있다 - 알자지라 기자가 X에 게시한 내용."
+  },
+  {
+    "guid": "9701145",
+    "title": "FinancialJuice: Iraqi Government had no prior knowledge of US-Saudi strikes - Spokesperson",
+    "link": "https://www.financialjuice.com/News/9701145/Iraqi-Government-had-no-prior-knowledge-of-US-Saudi-strikes---Spokesperson.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 19:31:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이라크 정부, 미·사우디 공습에 대해 사전에 알지 못했다 - 대변인"
+  },
+  {
+    "guid": "9701141",
+    "title": "FinancialJuice: Friday FX Options Expiries",
+    "link": "https://www.financialjuice.com/News/9701141/Friday-FX-Options-Expiries.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 19:24:26 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 금요일 외환 옵션 만기일"
+  },
+  {
+    "guid": "9701103",
+    "title": "FinancialJuice: Brent crude futures settle at $89.03/bbl, down $1.71, 1.88%.",
+    "link": "https://www.financialjuice.com/News/9701103/Brent-crude-futures-settle-at-8903bbl-down-171-188.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 18:49:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브렌트 원유 선물은 배럴당 89.03달러에 마감했으며, 이는 1.71달러(1.88%) 하락한 수준이다."
+  },
+  {
+    "guid": "9701102",
+    "title": "FinancialJuice: Meta reports almost $700 billion in future spending commitments $META",
+    "link": "https://www.financialjuice.com/News/9701102/Meta-reports-almost-700-billion-in-future-spending-commitments-META.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 18:47:32 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 메타, 향후 지출 계획 규모 약 7,000억 달러 발표 $META"
+  },
+  {
+    "guid": "9701088",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Discussed implementation of the trade and investment boards with China",
+    "link": "https://www.financialjuice.com/News/9701088/US-Treasury-Secretary-Bessent-Discussed-implementation-of-the-trade-and-investment-boards-with-China.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 18:37:52 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관, 중국과 무역·투자 위원회 출범에 대해 논의"
+  },
+  {
+    "guid": "9701087",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: We expect China to meet rare earths and agricultural commitments",
+    "link": "https://www.financialjuice.com/News/9701087/US-Treasury-Secretary-Bessent-We-expect-China-to-meet-rare-earths-and-agricultural-commitments.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 18:37:27 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: “중국이 희토류 및 농산물 관련 약속을 이행할 것으로 기대한다”"
+  },
+  {
+    "guid": "9701086",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: USTR Greer and I spoke with Chinese Vice Premier He Lifeng",
+    "link": "https://www.financialjuice.com/News/9701086/US-Treasury-Secretary-Bessent-USTR-Greer-and-I-spoke-with-Chinese-Vice-Premier-He-Lifeng.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 18:36:55 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 그리어 미국 무역대표부(USTR) 대표와 저는 헤 리펑 중국 부총리와 대화를 나눴습니다"
+  },
+  {
+    "guid": "9701085",
+    "title": "FinancialJuice: NYMEX Diesel August futures settle at $4.2094 a gallon.",
+    "link": "https://www.financialjuice.com/News/9701085/NYMEX-Diesel-August-futures-settle-at-42094-a-gallon.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 18:32:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 8월물 디젤 선물 가격이 갤런당 4.2094달러로 마감했다."
+  },
+  {
+    "guid": "9701073",
+    "title": "FinancialJuice: NYMEX Gasoline August futures settle at $3.2847 a gallon.",
+    "link": "https://www.financialjuice.com/News/9701073/NYMEX-Gasoline-August-futures-settle-at-32847-a-gallon.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 18:31:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 8월물 휘발유 선물 가격이 갤런당 3.2847달러로 마감했다."
+  },
+  {
+    "guid": "9701072",
+    "title": "FinancialJuice: NYMEX Natural Gas September futures settle at $2.7580/MMBtu.\n",
+    "link": "https://www.financialjuice.com/News/9701072/NYMEX-Natural-Gas-September-futures-settle-at-27580MMBtu.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 18:31:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 천연가스 9월물 선물이 MMBtu당 2.7580달러에 결산되었다.\n"
+  },
+  {
+    "guid": "9701071",
+    "title": "FinancialJuice: NYMEX WTI crude September futures settle at $83.59 a barrel, down 87 cents, 1.03%.",
+    "link": "https://www.financialjuice.com/News/9701071/NYMEX-WTI-crude-September-futures-settle-at-8359-a-barrel-down-87-cents-103.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 18:31:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX WTI 원유 9월물 선물은 배럴당 83.59달러에 마감했으며, 이는 87센트(1.03%) 하락한 수치다."
+  },
+  {
+    "guid": "9701070",
+    "title": "FinancialJuice: Deepseek data center would help add one gigawatt of capacity.",
+    "link": "https://www.financialjuice.com/News/9701070/Deepseek-data-center-would-help-add-one-gigawatt-of-capacity.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 18:31:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Deepseek 데이터 센터가 1기가와트의 용량 증설에 기여할 것으로 보인다."
+  },
+  {
+    "guid": "9701069",
+    "title": "FinancialJuice: DeepSeek is developing a massive AI data center in Inner Mongolia.\n",
+    "link": "https://www.financialjuice.com/News/9701069/DeepSeek-is-developing-a-massive-AI-data-center-in-Inner-Mongolia.aspx?xy=rss",
+    "pubDate": "Thu, 30 Jul 2026 18:30:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: DeepSeek이 내몽골에 대규모 AI 데이터 센터를 건설 중이다.\n"
+  },
+  {
     "guid": "9701043",
     "title": "FinancialJuice: Fitch Ratings: US private credit default rate reaches new high in 2Q 2026",
     "link": "https://www.financialjuice.com/News/9701043/Fitch-Ratings-US-private-credit-default-rate-reaches-new-high-in-2Q-2026.aspx?xy=rss",
