@@ -1,5 +1,397 @@
 [
   {
+    "guid": "9703190",
+    "title": "FinancialJuice: USD CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703190/USD-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:38:22 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 USD CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703189",
+    "title": "FinancialJuice: EUR CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703189/EUR-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:38:19 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 유로화 CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703188",
+    "title": "FinancialJuice: AUD CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703188/AUD-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:38:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 호주 달러(AUD) CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703187",
+    "title": "FinancialJuice: JPY CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703187/JPY-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:38:15 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 엔화 CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703186",
+    "title": "FinancialJuice: GBP CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703186/GBP-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:38:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 GBP CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703185",
+    "title": "FinancialJuice: CHF CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703185/CHF-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:38:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 CHF CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703184",
+    "title": "FinancialJuice: NZD CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703184/NZD-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:38:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 NZD CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703183",
+    "title": "FinancialJuice: CAD CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703183/CAD-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:38:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 CAD CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703182",
+    "title": "FinancialJuice: ZN CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703182/ZN-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:38:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 ZN CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703181",
+    "title": "FinancialJuice: ZT CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703181/ZT-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:38:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 ZT CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703180",
+    "title": "FinancialJuice: VIX CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703180/VIX-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:38:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 VIX CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703179",
+    "title": "FinancialJuice: NQ CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703179/NQ-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:38:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 NQ CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703178",
+    "title": "FinancialJuice: ES CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703178/ES-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:37:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 미국 선물거래위원회(CFTC) 포지션 - FJElite"
+  },
+  {
+    "guid": "9703177",
+    "title": "FinancialJuice: WTI CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703177/WTI-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:37:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 WTI CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703176",
+    "title": "FinancialJuice: Copper CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703176/Copper-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:37:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 구리 CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703175",
+    "title": "FinancialJuice: Gold CFTC Positions Week Ended July 28th - FJElite",
+    "link": "https://www.financialjuice.com/News/9703175/Gold-CFTC-Positions-Week-Ended-July-28th---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:37:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 28일 종료 주간 금 CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9703151",
+    "title": "FinancialJuice: US bank deposits fell to $19.401 tln from $19.467 tln in the prior week.",
+    "link": "https://www.financialjuice.com/News/9703151/US-bank-deposits-fell-to-19401-tln-from-19467-tln-in-the-prior-week.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:16:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 은행 예금 잔액은 전주 19.467조 달러에서 19.401조 달러로 감소했다."
+  },
+  {
+    "guid": "9703146",
+    "title": "FinancialJuice: OpenAI investigators find evidence that other AI agents escaped containment - Sources.",
+    "link": "https://www.financialjuice.com/News/9703146/OpenAI-investigators-find-evidence-that-other-AI-agents-escaped-containment---Sources.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:15:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI 조사팀, 다른 AI 에이전트들이 격리 조치를 벗어나 있었다는 증거를 발견 - 소식통."
+  },
+  {
+    "guid": "9703145",
+    "title": "FinancialJuice: US Week Ahead: Earnings, Geopolitics, & Intervention Risk In Play - FJElite",
+    "link": "https://www.financialjuice.com/News/9703145/US-Week-Ahead-Earnings-Geopolitics--Intervention-Risk-In-Play---FJElite.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 20:10:29 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 이번 주 미국 시장 전망: 실적, 지정학적 상황, 개입 리스크가 주목받는 가운데 - FJElite"
+  },
+  {
+    "guid": "9703129",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9703129/MOC-Imbalance.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 19:50:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOC 불균형"
+  },
+  {
+    "guid": "9703094",
+    "title": "FinancialJuice: CFTC Positions in the Week Ended July 28th, 2026",
+    "link": "https://www.financialjuice.com/News/9703094/CFTC-Positions-in-the-Week-Ended-July-28th-2026.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 19:31:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 2026년 7월 28일 종료된 주의 CFTC 포지션 현황"
+  },
+  {
+    "guid": "9703091",
+    "title": "FinancialJuice: Monday FX Options Expiries ",
+    "link": "https://www.financialjuice.com/News/9703091/Monday-FX-Options-Expiries-.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 19:22:15 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 월요일 외환 옵션 만기일 "
+  },
+  {
+    "guid": "9703075",
+    "title": "FinancialJuice: UK's Chancellor Healey: We cannot rule out tax rises in the budget - The Times.",
+    "link": "https://www.financialjuice.com/News/9703075/UKs-Chancellor-Healey-We-cannot-rule-out-tax-rises-in-the-budget---The-Times.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 19:08:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 헤일리 재무장관 “예산안에서 세금 인상을 배제할 수 없다” - 더 타임스."
+  },
+  {
+    "guid": "9703074",
+    "title": "FinancialJuice: UK's Chancellor Healey tells Cabinet Ministers to prepare for budget cuts - The Times",
+    "link": "https://www.financialjuice.com/News/9703074/UKs-Chancellor-Healey-tells-Cabinet-Ministers-to-prepare-for-budget-cuts---The-Times.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 19:07:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 헤일리 재무장관, 각료들에게 예산 삭감에 대비하라고 지시 - 더 타임스"
+  },
+  {
+    "guid": "9703063",
+    "title": "FinancialJuice: Brent crude futures settle at $90.12/bbl, up $1.09, 1.22%.",
+    "link": "https://www.financialjuice.com/News/9703063/Brent-crude-futures-settle-at-9012bbl-up-109-122.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 18:52:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브렌트 원유 선물 가격이 배럴당 90.12달러로 마감하며, 1.09달러(1.22%) 상승했다."
+  },
+  {
+    "guid": "9703056",
+    "title": "FinancialJuice: The CPC continues oil operations after considering an indefinite halt.",
+    "link": "https://www.financialjuice.com/News/9703056/The-CPC-continues-oil-operations-after-considering-an-indefinite-halt.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 18:41:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: CPC는 무기한 중단 가능성을 검토한 끝에 석유 생산을 계속하기로 했다."
+  },
+  {
+    "guid": "9703041",
+    "title": "FinancialJuice: NYMEX Gasoline August futures settle at $3.2216 a gallon.",
+    "link": "https://www.financialjuice.com/News/9703041/NYMEX-Gasoline-August-futures-settle-at-32216-a-gallon.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 18:31:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 8월물 휘발유 선물 가격이 갤런당 3.2216달러에 마감했다."
+  },
+  {
+    "guid": "9703040",
+    "title": "FinancialJuice: NYMEX Natural Gas September futures settle at $2.7470/MMBtu.\n",
+    "link": "https://www.financialjuice.com/News/9703040/NYMEX-Natural-Gas-September-futures-settle-at-27470MMBtu.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 18:31:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 천연가스 9월물 선물이 MMBtu당 2.7470달러에 마감했다.\n"
+  },
+  {
+    "guid": "9703039",
+    "title": "FinancialJuice: NYMEX Diesel August futures settle at $4.1215 a gallon.",
+    "link": "https://www.financialjuice.com/News/9703039/NYMEX-Diesel-August-futures-settle-at-41215-a-gallon.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 18:31:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 8월물 디젤 선물 가격이 갤런당 4.1215달러로 마감했다."
+  },
+  {
+    "guid": "9703038",
+    "title": "FinancialJuice: NYMEX WTI crude September futures settle at $84.67 a barrel, up $1.08, 1.29%.",
+    "link": "https://www.financialjuice.com/News/9703038/NYMEX-WTI-crude-September-futures-settle-at-8467-a-barrel-up-108-129.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 18:31:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX WTI 원유 9월물 선물은 배럴당 84.67달러에 마감했으며, 이는 1.08달러(1.29%) 상승한 가격이다."
+  },
+  {
+    "guid": "9703031",
+    "title": "FinancialJuice: US banks are said to have been asked by the NY Fed to check EUR/JPY rate.",
+    "link": "https://www.financialjuice.com/News/9703031/US-banks-are-said-to-have-been-asked-by-the-NY-Fed-to-check-EURJPY-rate.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 18:26:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 은행들이 뉴욕 연방준비은행으로부터 유로/엔 환율을 점검해 달라는 요청을 받은 것으로 알려졌다."
+  },
+  {
+    "guid": "9703005",
+    "title": "FinancialJuice: An F-35 crashes near California Marine Corps Air Station - Fox News.",
+    "link": "https://www.financialjuice.com/News/9703005/An-F-35-crashes-near-California-Marine-Corps-Air-Station---Fox-News.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 17:57:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캘리포니아 해병대 항공기지 인근에서 F-35 추락 - 폭스 뉴스."
+  },
+  {
+    "guid": "9702997",
+    "title": "FinancialJuice: Suspected Yen Intervention",
+    "link": "https://www.financialjuice.com/News/9702997/Suspected-Yen-Intervention.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 17:26:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 엔화 개입 의혹"
+  },
+  {
+    "guid": "9702955",
+    "title": "FinancialJuice: US Baker Hughes Oil Rig Count Actual 451 (Forecast -, Previous 450)",
+    "link": "https://www.financialjuice.com/News/9702955/US-Baker-Hughes-Oil-Rig-Count-Actual-451-Forecast---Previous-450.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 17:01:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 베이커 휴즈 석유 시추 장비 수, 실제 451대 (예상 -, 전월 450대)"
+  },
+  {
+    "guid": "9702954",
+    "title": "FinancialJuice: US Baker Hughes Total Rig Count Actual 588 (Forecast -, Previous 587)",
+    "link": "https://www.financialjuice.com/News/9702954/US-Baker-Hughes-Total-Rig-Count-Actual-588-Forecast---Previous-587.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 17:00:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 베이커 휴즈의 총 시추 장비 수, 실제 588대 (예상 -, 전월 587대)"
+  },
+  {
+    "guid": "9702945",
+    "title": "FinancialJuice: Fed's Barkin: Price increases are moving through the economy unevenly - WSJ.",
+    "link": "https://www.financialjuice.com/News/9702945/Feds-Barkin-Price-increases-are-moving-through-the-economy-unevenly---WSJ.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:52:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨 “물가 상승이 경제 전반에 고르지 않게 파급되고 있다” - WSJ."
+  },
+  {
+    "guid": "9702943",
+    "title": "FinancialJuice: Fed's Barkin: It does not feel like a tight labor market - WSJ.",
+    "link": "https://www.financialjuice.com/News/9702943/Feds-Barkin-It-does-not-feel-like-a-tight-labor-market---WSJ.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:51:08 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨 “노동 시장이 타이트하다고 느껴지지 않는다” - WSJ."
+  },
+  {
+    "guid": "9702942",
+    "title": "FinancialJuice: Fed's Barkin: Do you have to add some restraint? I think that's the question - WSJ.",
+    "link": "https://www.financialjuice.com/News/9702942/Feds-Barkin-Do-you-have-to-add-some-restraint-I-think-thats-the-question---WSJ.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:50:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨: 어느 정도 자제력을 발휘해야 할까? 제 생각에 그게 핵심 질문인 것 같습니다 - WSJ."
+  },
+  {
+    "guid": "9702941",
+    "title": "FinancialJuice: Fed's Barkin:  don't know if I would have voted for higher rates this week - WSJ.",
+    "link": "https://www.financialjuice.com/News/9702941/Feds-Barkin--dont-know-if-I-would-have-voted-for-higher-rates-this-week---WSJ.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:50:33 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨 “이번 주 금리 인상에 찬성표를 던졌을지 모르겠다” - WSJ."
+  },
+  {
+    "guid": "9702940",
+    "title": "FinancialJuice: Fed's Barkin: It's a close call whether rates are high enough to bring inflation down - WSJ.",
+    "link": "https://www.financialjuice.com/News/9702940/Feds-Barkin-Its-a-close-call-whether-rates-are-high-enough-to-bring-inflation-down---WSJ.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:50:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨 “인플레이션을 억제하기에 금리가 충분히 높은지 여부는 아슬아슬한 상황” - WSJ."
+  },
+  {
+    "guid": "9702913",
+    "title": "FinancialJuice: Trump concludes the Cabinet Meeting.",
+    "link": "https://www.financialjuice.com/News/9702913/Trump-concludes-the-Cabinet-Meeting.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:28:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 대통령이 내각 회의를 마쳤다."
+  },
+  {
+    "guid": "9702912",
+    "title": "FinancialJuice: Trump, asked about the possibility of an Iran deal: I am losing faith in Iran because they lie.",
+    "link": "https://www.financialjuice.com/News/9702912/Trump-asked-about-the-possibility-of-an-Iran-deal-I-am-losing-faith-in-Iran-because-they-lie.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:23:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 이란과의 합의 가능성에 대한 질문에 “이란은 거짓말을 하기 때문에 그들에 대한 신뢰를 잃어가고 있다”고 답했다."
+  },
+  {
+    "guid": "9702911",
+    "title": "FinancialJuice: Trump on Iran: Witkoff, Kushner, Vance, and Rubio are involved in talks.",
+    "link": "https://www.financialjuice.com/News/9702911/Trump-on-Iran-Witkoff-Kushner-Vance-and-Rubio-are-involved-in-talks.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:22:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프의 이란 관련 발언: 위트코프, 쿠슈너, 밴스, 루비오가 협상에 참여하고 있다."
+  },
+  {
+    "guid": "9702910",
+    "title": "FinancialJuice: Trump praises NVIDIA. $NVDA",
+    "link": "https://www.financialjuice.com/News/9702910/Trump-praises-NVIDIA-NVDA.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:22:05 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 트럼프, 엔비디아를 칭찬하다. $NVDA"
+  },
+  {
+    "guid": "9702909",
+    "title": "FinancialJuice: Trump on Iran Attacks: We've already gone big.",
+    "link": "https://www.financialjuice.com/News/9702909/Trump-on-Iran-Attacks-Weve-already-gone-big.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:17:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 공격에 대한 트럼프의 발언: “우리는 이미 대대적인 조치를 취했다.”"
+  },
+  {
+    "guid": "9702887",
+    "title": "FinancialJuice: Trump on Iran: We'll be hitting them very hard.",
+    "link": "https://www.financialjuice.com/News/9702887/Trump-on-Iran-Well-be-hitting-them-very-hard.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:11:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 이란에 대해 “우리는 그들을 매우 강력하게 타격할 것이다.”"
+  },
+  {
+    "guid": "9702886",
+    "title": "FinancialJuice: Trump on Iran Diplomacy: We just want to win.",
+    "link": "https://www.financialjuice.com/News/9702886/Trump-on-Iran-Diplomacy-We-just-want-to-win.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:11:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 이란 외교에 대해 “우리는 그저 이기고 싶을 뿐이다.”"
+  },
+  {
+    "guid": "9702885",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Core inflation is low, consumer confidence is strong.",
+    "link": "https://www.financialjuice.com/News/9702885/US-Treasury-Secretary-Bessent-Core-inflation-is-low-consumer-confidence-is-strong.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 16:03:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 핵심 물가 상승률은 낮고, 소비자 신뢰도는 높다."
+  },
+  {
+    "guid": "9702874",
+    "title": "FinancialJuice: Chevron expects to recover its Venezuela debt by early 2027. $CVX",
+    "link": "https://www.financialjuice.com/News/9702874/Chevron-expects-to-recover-its-Venezuela-debt-by-early-2027-CVX.aspx?xy=1",
+    "pubDate": "Fri, 31 Jul 2026 15:56:07 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 셰브론은 2027년 초까지 베네수엘라 채권을 회수할 것으로 전망하고 있다. $CVX"
+  },
+  {
     "guid": "9702873",
     "title": "FinancialJuice: Trump: Soon, Iran won't have some military capacity left.",
     "link": "https://www.financialjuice.com/News/9702873/Trump-Soon-Iran-wont-have-some-military-capacity-left.aspx?xy=rss",
