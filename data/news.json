@@ -1,5 +1,597 @@
 [
   {
+    "guid": "9705579",
+    "title": "FinancialJuice: Trump on Iran: I'm under no time constraint.",
+    "link": "https://www.financialjuice.com/News/9705579/Trump-on-Iran-Im-under-no-time-constraint.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:24:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 이란 문제에 대해 “시간적 압박은 전혀 없다.”"
+  },
+  {
+    "guid": "9705578",
+    "title": "FinancialJuice: Trump: I want to give Iran every last chance before decapitation.",
+    "link": "https://www.financialjuice.com/News/9705578/Trump-I-want-to-give-Iran-every-last-chance-before-decapitation.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:22:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “이란에 ‘수뇌부 제거’ 조치를 취하기 전에 마지막 기회를 모두 주고 싶다.”"
+  },
+  {
+    "guid": "9705577",
+    "title": "FinancialJuice: Trump reiterates oil firms better cut the retail price. $XOM $CVX",
+    "link": "https://www.financialjuice.com/News/9705577/Trump-reiterates-oil-firms-better-cut-the-retail-price-XOM-CVX.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:17:54 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 트럼프, 석유 기업들에 소매 가격을 인하해야 한다고 재차 강조. $XOM $CVX"
+  },
+  {
+    "guid": "9705575",
+    "title": "FinancialJuice: Trump: Exxon and Chevron making too much money $CVX",
+    "link": "https://www.financialjuice.com/News/9705575/Trump-Exxon-and-Chevron-making-too-much-money-CVX.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:17:10 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 트럼프 “엑슨과 셰브론, 너무 많은 돈을 벌고 있다” $CVX"
+  },
+  {
+    "guid": "9705563",
+    "title": "FinancialJuice: Trump: Oil firms are making too much money based on the shortage.",
+    "link": "https://www.financialjuice.com/News/9705563/Trump-Oil-firms-are-making-too-much-money-based-on-the-shortage.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:16:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “석유 기업들은 공급 부족을 빌미로 지나치게 많은 이익을 챙기고 있다.”"
+  },
+  {
+    "guid": "9705555",
+    "title": "FinancialJuice: Trump: I think we will have a very good relationship with UK PM.",
+    "link": "https://www.financialjuice.com/News/9705555/Trump-I-think-we-will-have-a-very-good-relationship-with-UK-PM.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:15:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 영국 총리와는 아주 좋은 관계를 맺게 될 것이라고 생각합니다."
+  },
+  {
+    "guid": "9705562",
+    "title": "FinancialJuice: Trump: Oil companies are making too much money.",
+    "link": "https://www.financialjuice.com/News/9705562/Trump-Oil-companies-are-making-too-much-money.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:15:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “석유 회사들이 너무 많은 돈을 벌고 있다.”"
+  },
+  {
+    "guid": "9705551",
+    "title": "FinancialJuice: Trump: I'm not going to let Iran charge to go through the Hormuz Strait.",
+    "link": "https://www.financialjuice.com/News/9705551/Trump-Im-not-going-to-let-Iran-charge-to-go-through-the-Hormuz-Strait.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:12:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “이란이 호르무즈 해협 통과에 통행료를 부과하는 것을 용납하지 않겠다.”"
+  },
+  {
+    "guid": "9705550",
+    "title": "FinancialJuice: Trump: Iran denuclearization phase will take a little while.",
+    "link": "https://www.financialjuice.com/News/9705550/Trump-Iran-denuclearization-phase-will-take-a-little-while.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:04:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “이란 비핵화 과정은 다소 시간이 걸릴 것”"
+  },
+  {
+    "guid": "9705549",
+    "title": "FinancialJuice: Trump: Phase two with Iran is denuclearization, after opening the Strait.",
+    "link": "https://www.financialjuice.com/News/9705549/Trump-Phase-two-with-Iran-is-denuclearization-after-opening-the-Strait.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:03:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “이란과의 2단계 협상은 해협 개방에 이어 비핵화다.”"
+  },
+  {
+    "guid": "9705548",
+    "title": "FinancialJuice: Trump: Phase one of Iran talks is reopening the Strait of Hormuz.",
+    "link": "https://www.financialjuice.com/News/9705548/Trump-Phase-one-of-Iran-talks-is-reopening-the-Strait-of-Hormuz.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:03:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “이란 협상 1단계는 호르무즈 해협을 재개방하는 것이다.”"
+  },
+  {
+    "guid": "9705547",
+    "title": "FinancialJuice: Trump: Talking about having the Straight open by tomorrow.",
+    "link": "https://www.financialjuice.com/News/9705547/Trump-Talking-about-having-the-Straight-open-by-tomorrow.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:02:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 내일까지 스트레이트를 개통할 계획이라고 밝혔다."
+  },
+  {
+    "guid": "9705546",
+    "title": "FinancialJuice: Trump: You'll find out today or tomorrow where the Iran talks are.",
+    "link": "https://www.financialjuice.com/News/9705546/Trump-Youll-find-out-today-or-tomorrow-where-the-Iran-talks-are.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:02:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 이란 협상 상황이 어떻게 되어가는지는 오늘이나 내일 알게 될 것입니다."
+  },
+  {
+    "guid": "9705541",
+    "title": "FinancialJuice: Trump: Gulf nations wanted to give talks a last chance.",
+    "link": "https://www.financialjuice.com/News/9705541/Trump-Gulf-nations-wanted-to-give-talks-a-last-chance.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:01:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “걸프 국가들은 협상에 마지막 기회를 주고 싶어 했다.”"
+  },
+  {
+    "guid": "9705540",
+    "title": "FinancialJuice: Trump: This is the last chance for Iran to sign a deal.",
+    "link": "https://www.financialjuice.com/News/9705540/Trump-This-is-the-last-chance-for-Iran-to-sign-a-deal.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:01:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “이란이 협정에 서명할 수 있는 마지막 기회다.”"
+  },
+  {
+    "guid": "9705539",
+    "title": "FinancialJuice: Trump: We are talking at the request of Iran.",
+    "link": "https://www.financialjuice.com/News/9705539/Trump-We-are-talking-at-the-request-of-Iran.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:00:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 우리는 이란의 요청에 따라 대화를 진행하고 있다."
+  },
+  {
+    "guid": "9705536",
+    "title": "FinancialJuice: Trump: Iran said it wants to talk about denuclearization.",
+    "link": "https://www.financialjuice.com/News/9705536/Trump-Iran-said-it-wants-to-talk-about-denuclearization.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:00:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 이란이 비핵화에 대해 논의하고 싶다고 밝혔다."
+  },
+  {
+    "guid": "9705535",
+    "title": "FinancialJuice: Trump: Iran said it wanted to talk about the Strait.",
+    "link": "https://www.financialjuice.com/News/9705535/Trump-Iran-said-it-wanted-to-talk-about-the-Strait.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 18:00:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 이란 측이 해협 문제에 대해 논의하고 싶다고 밝혔다."
+  },
+  {
+    "guid": "9705534",
+    "title": "FinancialJuice: Trump: When Iran is talking, they don't like to say so.",
+    "link": "https://www.financialjuice.com/News/9705534/Trump-When-Iran-is-talking-they-dont-like-to-say-so.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 17:59:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 이란은 말을 할 때, 그 사실을 직접 밝히기를 꺼린다."
+  },
+  {
+    "guid": "9705533",
+    "title": "FinancialJuice: Trump: Iran talks are going on now.",
+    "link": "https://www.financialjuice.com/News/9705533/Trump-Iran-talks-are-going-on-now.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 17:58:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 현재 이란과의 협상이 진행 중이다."
+  },
+  {
+    "guid": "9705532",
+    "title": "FinancialJuice: Meta invited to the White House Tuesday to discuss AI safety testing by the US government - Company spokesperson $META\n",
+    "link": "https://www.financialjuice.com/News/9705532/Meta-invited-to-the-White-House-Tuesday-to-discuss-AI-safety-testing-by-the-US-government---Company-spokesperson-META.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 17:52:35 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 메타, 화요일 백악관에 초청받아 미국 정부의 AI 안전성 테스트에 대해 논의 - 회사 대변인 $META\n"
+  },
+  {
+    "guid": "9705531",
+    "title": "FinancialJuice: Trump: Conflict with Iran is working out very well.",
+    "link": "https://www.financialjuice.com/News/9705531/Trump-Conflict-with-Iran-is-working-out-very-well.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 17:48:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “이란과의 갈등은 매우 순조롭게 진행되고 있다.”"
+  },
+  {
+    "guid": "9705517",
+    "title": "FinancialJuice: Trump signs executive order aimed at military families - WATCH LIVE",
+    "link": "https://www.financialjuice.com/News/9705517/Trump-signs-executive-order-aimed-at-military-families---WATCH-LIVE.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 17:41:18 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프, 군인 가족을 위한 행정명령 서명 - 생중계 시청하기"
+  },
+  {
+    "guid": "9705444",
+    "title": "FinancialJuice: Meta is going to attend the White House AI meeting tomorrow - Politico. $META",
+    "link": "https://www.financialjuice.com/News/9705444/Meta-is-going-to-attend-the-White-House-AI-meeting-tomorrow---Politico-META.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 16:32:42 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 메타가 내일 백악관에서 열리는 AI 회의에 참석할 예정이다 - Politico. $META"
+  },
+  {
+    "guid": "9705431",
+    "title": "FinancialJuice: Russia's seaborne crude oil exports from its western ports are set to increase by 4% in August from July - Traders.",
+    "link": "https://www.financialjuice.com/News/9705431/Russias-seaborne-crude-oil-exports-from-its-western-ports-are-set-to-increase-by-4-in-August-from-July---Traders.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 16:28:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트레이더들에 따르면, 러시아 서부 항구를 통한 해상 원유 수출량이 8월에 7월 대비 4% 증가할 전망이다."
+  },
+  {
+    "guid": "9705416",
+    "title": "FinancialJuice: Iraq Somo Head: The tariff for transporting crude oil through Turkey is $1.62 per barrel.",
+    "link": "https://www.financialjuice.com/News/9705416/Iraq-Somo-Head-The-tariff-for-transporting-crude-oil-through-Turkey-is-162-per-barrel.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 16:07:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이라크 소모 대표: 터키를 경유해 원유를 수송할 때의 관세는 배럴당 1.62달러입니다."
+  },
+  {
+    "guid": "9705396",
+    "title": "FinancialJuice: Venezuela's July Oil Exports Edge Lower as Shipments Shift Toward the US",
+    "link": "https://www.financialjuice.com/News/9705396/Venezuelas-July-Oil-Exports-Edge-Lower-as-Shipments-Shift-Toward-the-US.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:49:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 베네수엘라, 7월 원유 수출량 소폭 감소…미국으로의 수출 비중 증가"
+  },
+  {
+    "guid": "9705395",
+    "title": "FinancialJuice: AWS CEO: AI Demand Shifting From Training to Inference $AMZN",
+    "link": "https://www.financialjuice.com/News/9705395/AWS-CEO-AI-Demand-Shifting-From-Training-to-Inference-AMZN.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:48:25 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: AWS CEO, “AI 수요가 훈련에서 추론으로 이동 중” $AMZN"
+  },
+  {
+    "guid": "9705380",
+    "title": "FinancialJuice: Head of Iraq’s State Oil Marketer Somo: Iraq sold 42 million barrels of oil in July - Interview with Local Iraqi Television.",
+    "link": "https://www.financialjuice.com/News/9705380/Head-of-Iraqs-State-Oil-Marketer-Somo-Iraq-sold-42-million-barrels-of-oil-in-July---Interview-with-Local-Iraqi-Television.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:39:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이라크 국영 석유 판매업체 SOMO 대표: 이라크, 7월에 원유 4,200만 배럴 판매 - 이라크 현지 TV와의 인터뷰."
+  },
+  {
+    "guid": "9705379",
+    "title": "FinancialJuice: US 3-Month Bill Auction",
+    "link": "https://www.financialjuice.com/News/9705379/US-3-Month-Bill-Auction.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:33:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 3개월 만기 국채 입찰"
+  },
+  {
+    "guid": "9705378",
+    "title": "FinancialJuice: US 6-Month Bill Auction",
+    "link": "https://www.financialjuice.com/News/9705378/US-6-Month-Bill-Auction.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:33:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 6개월 만기 국채 입찰"
+  },
+  {
+    "guid": "9705376",
+    "title": "FinancialJuice: US 3-Month Bill High Yield Actual 3.75% (Forecast -, Previous 3.815%)",
+    "link": "https://www.financialjuice.com/News/9705376/US-3-Month-Bill-High-Yield-Actual-375-Forecast---Previous-3815.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:32:05 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 3개월물 국채 고수익률 실제 3.75% (예상 -, 이전 3.815%)"
+  },
+  {
+    "guid": "9705375",
+    "title": "FinancialJuice: US 3-Month Bill Bid-to-Cover Actual 2.61 (Forecast -, Previous 3.060)",
+    "link": "https://www.financialjuice.com/News/9705375/US-3-Month-Bill-Bid-to-Cover-Actual-261-Forecast---Previous-3060.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:32:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 3개월물 국채 입찰 경쟁률 실제 2.61 (예상 -, 이전 3.060)"
+  },
+  {
+    "guid": "9705373",
+    "title": "FinancialJuice: US 6-Month Bill Bid-to-Cover Actual 2.98 (Forecast -, Previous 3.120)",
+    "link": "https://www.financialjuice.com/News/9705373/US-6-Month-Bill-Bid-to-Cover-Actual-298-Forecast---Previous-3120.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:32:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 6개월물 국채 입찰 경쟁률 실제 2.98 (예상 -, 이전 3.120)"
+  },
+  {
+    "guid": "9705372",
+    "title": "FinancialJuice: US 6-Month Bill High Yield Actual 3.855% (Forecast -, Previous 3.945%)",
+    "link": "https://www.financialjuice.com/News/9705372/US-6-Month-Bill-High-Yield-Actual-3855-Forecast---Previous-3945.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:32:04 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 6개월물 국채 고수익률 실제 3.855% (예상 -, 이전 3.945%)"
+  },
+  {
+    "guid": "9705366",
+    "title": "FinancialJuice: Anthropic invited to White House on Tuesday to discuss AI safety testing by the US government - Source familiar with the meeting",
+    "link": "https://www.financialjuice.com/News/9705366/Anthropic-invited-to-White-House-on-Tuesday-to-discuss-AI-safety-testing-by-the-US-government---Source-familiar-with-the-meeting.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:29:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트로픽, 화요일 백악관에 초청받아 미국 정부의 AI 안전성 테스트에 대해 논의 - 회의 내용을 잘 아는 소식통"
+  },
+  {
+    "guid": "9705365",
+    "title": "FinancialJuice: Trump: We are talking about a solution to a problem that Iran caused.",
+    "link": "https://www.financialjuice.com/News/9705365/Trump-We-are-talking-about-a-solution-to-a-problem-that-Iran-caused.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:27:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 우리는 이란이 야기한 문제에 대한 해결책을 논의하고 있는 중이다."
+  },
+  {
+    "guid": "9705364",
+    "title": "FinancialJuice: Trump: Hormuz is being controlled by the US Navy.",
+    "link": "https://www.financialjuice.com/News/9705364/Trump-Hormuz-is-being-controlled-by-the-US-Navy.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:27:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “호르무즈 해협은 미 해군이 장악하고 있다.”"
+  },
+  {
+    "guid": "9705362",
+    "title": "FinancialJuice: Trump: Iranian leadership is unbelievably duplicitous - Truth Social",
+    "link": "https://www.financialjuice.com/News/9705362/Trump-Iranian-leadership-is-unbelievably-duplicitous---Truth-Social.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:26:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “이란 지도부는 믿을 수 없을 정도로 이중적이다” - Truth Social"
+  },
+  {
+    "guid": "9705361",
+    "title": "FinancialJuice: Trump: Nothing gets through to Iran without US approval - Truth Social.",
+    "link": "https://www.financialjuice.com/News/9705361/Trump-Nothing-gets-through-to-Iran-without-US-approval---Truth-Social.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 15:26:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “미국의 승인 없이는 이란에 어떤 것도 전달될 수 없다” - Truth Social."
+  },
+  {
+    "guid": "9705323",
+    "title": "FinancialJuice: Stocks of crude oil in the US Strategic Petroleum Reserve fell by about 2.85 mln barrels to 304.8 mln barrels last week, the lowest since 1983.",
+    "link": "https://www.financialjuice.com/News/9705323/Stocks-of-crude-oil-in-the-US-Strategic-Petroleum-Reserve-fell-by-about-285-mln-barrels-to-3048-mln-barrels-last-week-the-lowest-since-1983.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:59:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 지난주 미국 전략석유비축기지의 원유 재고량이 약 285만 배럴 감소해 3억 480만 배럴을 기록했으며, 이는 1983년 이후 최저 수준이다."
+  },
+  {
+    "guid": "9705322",
+    "title": "FinancialJuice: The Minister of Interior of Pakistan plans to travel to Iran within the next one or two days - Mehr News, citing Pakistani Sources ",
+    "link": "https://www.financialjuice.com/News/9705322/The-Minister-of-Interior-of-Pakistan-plans-to-travel-to-Iran-within-the-next-one-or-two-days---Mehr-News-citing-Pakistani-Sources-.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:57:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 파키스탄 내무장관이 향후 1~2일 내에 이란을 방문할 계획이라고 파키스탄 소식통을 인용해 메흐르 뉴스가 보도했다 "
+  },
+  {
+    "guid": "9705321",
+    "title": "FinancialJuice: Pakistan formally invites Iran's Araqchi to visit islamabad at the earliest opportunity - IRIB",
+    "link": "https://www.financialjuice.com/News/9705321/Pakistan-formally-invites-Irans-Araqchi-to-visit-islamabad-at-the-earliest-opportunity---IRIB.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:49:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 파키스탄, 이란의 아라크치에게 조속히 이슬라마바드를 방문해 줄 것을 공식 초청 - IRIB"
+  },
+  {
+    "guid": "9705307",
+    "title": "FinancialJuice: White House Official: The US has finalized details of advanced AI model tests.",
+    "link": "https://www.financialjuice.com/News/9705307/White-House-Official-The-US-has-finalized-details-of-advanced-AI-model-tests.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:32:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 관계자: 미국이 첨단 AI 모델 테스트에 대한 세부 사항을 최종 확정했다."
+  },
+  {
+    "guid": "9705289",
+    "title": "FinancialJuice: Switzerland: We are in contact with Iran and the United States regarding potential negotiations - Tasnim News",
+    "link": "https://www.financialjuice.com/News/9705289/Switzerland-We-are-in-contact-with-Iran-and-the-United-States-regarding-potential-negotiations---Tasnim-News.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:28:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스위스: 잠재적인 협상과 관련해 이란 및 미국과 접촉 중 - 타스님 뉴스"
+  },
+  {
+    "guid": "9705287",
+    "title": "FinancialJuice: The Trump Administration invited staffers from major tech companies, including OpenAI, Google, and Anthropic, to the White House on Tuesday - The Information $GOOGL\n",
+    "link": "https://www.financialjuice.com/News/9705287/The-Trump-Administration-invited-staffers-from-major-tech-companies-including-OpenAI-Google-and-Anthropic-to-the-White-House-on-Tuesday---The-Information-GOOGL.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:27:34 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 트럼프 행정부는 화요일 OpenAI, 구글, 앤트로픽 등 주요 기술 기업 관계자들을 백악관으로 초청했다 - The Information $GOOGL\n"
+  },
+  {
+    "guid": "9705286",
+    "title": "FinancialJuice: The White House to host AI companies on Tuesday to review framework - The Information",
+    "link": "https://www.financialjuice.com/News/9705286/The-White-House-to-host-AI-companies-on-Tuesday-to-review-framework---The-Information.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:26:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 화요일 AI 기업들과 만나 정책 틀 검토 예정 - The Information"
+  },
+  {
+    "guid": "9705284",
+    "title": "FinancialJuice: Crypto Fear & Greed Index: 28/100 ",
+    "link": "https://www.financialjuice.com/News/9705284/Crypto-Fear--Greed-Index-28100-.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:18:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 암호화폐 공포·탐욕 지수: 28/100 "
+  },
+  {
+    "guid": "9705283",
+    "title": "FinancialJuice: Fear & Greed Index: 45/100 ",
+    "link": "https://www.financialjuice.com/News/9705283/Fear--Greed-Index-45100-.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:17:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 공포와 탐욕 지수: 45/100 "
+  },
+  {
+    "guid": "9705265",
+    "title": "FinancialJuice: Marine Traffic data shows 39 combined crossings through the Strait of Hormuz and Bab el-Mandeb on 2 August, as traffic patterns across the two corridors continued to diverge.",
+    "link": "https://www.financialjuice.com/News/9705265/Marine-Traffic-data-shows-39-combined-crossings-through-the-Strait-of-Hormuz-and-Bab-el-Mandeb-on-2-August-as-traffic-patterns-across-the-two-corridors-continued-to-diverge.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:12:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마린 트래픽(Marine Traffic) 데이터에 따르면, 8월 2일 호르무즈 해협과 바브 엘 만데브 해협을 통과한 선박의 총 횟수는 39회로 집계되었으며, 두 항로를 오가는 선박의 이동 양상은 계속해서 엇갈리는 양상을 보였다."
+  },
+  {
+    "guid": "9705242",
+    "title": "FinancialJuice: US Construction Spending MoM Actual -0.1% (Forecast 0.2%, Previous 0.1%)",
+    "link": "https://www.financialjuice.com/News/9705242/US-Construction-Spending-MoM-Actual--01-Forecast-02-Previous-01.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 건설 지출 전월 대비 실제 -0.1% (예상 0.2%, 전월 0.1%)"
+  },
+  {
+    "guid": "9705241",
+    "title": "FinancialJuice: US ISM Mfg. New Orders Index Actual 56.7 (Forecast 56.7, Previous 56.0)",
+    "link": "https://www.financialjuice.com/News/9705241/US-ISM-Mfg-New-Orders-Index-Actual-567-Forecast-567-Previous-560.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ISM 제조업 신규 수주 지수, 실제 56.7 (예상 56.7, 전월 56.0)"
+  },
+  {
+    "guid": "9705240",
+    "title": "FinancialJuice: US ISM Manufacturing PMI Actual 55.6 (Forecast 53.9, Previous 53.3)",
+    "link": "https://www.financialjuice.com/News/9705240/US-ISM-Manufacturing-PMI-Actual-556-Forecast-539-Previous-533.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ISM 제조업 PMI 실제치 55.6 (예상치 53.9, 전월치 53.3)"
+  },
+  {
+    "guid": "9705239",
+    "title": "FinancialJuice: US ISM Mfg. Employment Index Actual 52.8 (Forecast 50, Previous 49.7)",
+    "link": "https://www.financialjuice.com/News/9705239/US-ISM-Mfg-Employment-Index-Actual-528-Forecast-50-Previous-497.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ISM 제조업 고용 지수, 실제 52.8 (예상 50, 전월 49.7)"
+  },
+  {
+    "guid": "9705238",
+    "title": "FinancialJuice: US ISM Mfg. Prices Paid Actual 71.1 (Forecast 71, Previous 73.0)",
+    "link": "https://www.financialjuice.com/News/9705238/US-ISM-Mfg-Prices-Paid-Actual-711-Forecast-71-Previous-730.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 14:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ISM 제조업 구매 가격 지수, 실제 71.1 (예상 71, 전월 73.0)"
+  },
+  {
+    "guid": "9705237",
+    "title": "FinancialJuice: UBS: Japanese Intervention Caps USD/JPY but Does Not Reverse Yen Weakness - FJElite",
+    "link": "https://www.financialjuice.com/News/9705237/UBS-Japanese-Intervention-Caps-USDJPY-but-Does-Not-Reverse-Yen-Weakness---FJElite.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 13:51:35 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: UBS: 일본의 외환 개입으로 USD/JPY 상승세가 제한되지만 엔화 약세 추세는 바뀌지 않을 전망 - FJElite"
+  },
+  {
+    "guid": "9705236",
+    "title": "FinancialJuice: Trump: Oil firms, get your prices down - Truth Social.",
+    "link": "https://www.financialjuice.com/News/9705236/Trump-Oil-firms-get-your-prices-down---Truth-Social.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 13:51:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “석유 기업들, 가격을 낮추라” - Truth Social."
+  },
+  {
+    "guid": "9705235",
+    "title": "FinancialJuice: Russian Defence Ministry: Russian forces hit two more vessels in the Black Sea - IFX.",
+    "link": "https://www.financialjuice.com/News/9705235/Russian-Defence-Ministry-Russian-forces-hit-two-more-vessels-in-the-Black-Sea---IFX.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 13:50:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 국방부: 러시아군이 흑해에서 선박 2척을 추가로 타격했다 - IFX."
+  },
+  {
+    "guid": "9705234",
+    "title": "FinancialJuice: Bank of America: Warsh Press Conference Weighs on the Dollar - FJElite",
+    "link": "https://www.financialjuice.com/News/9705234/Bank-of-America-Warsh-Press-Conference-Weighs-on-the-Dollar---FJElite.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 13:48:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뱅크 오브 아메리카: 워시 기자회견, 달러 약세 요인으로 작용 - FJElite"
+  },
+  {
+    "guid": "9705215",
+    "title": "FinancialJuice: US S&P Manufacturing PMI Final Actual 53.9 (Forecast 53.8, Previous 53.8)",
+    "link": "https://www.financialjuice.com/News/9705215/US-SP-Manufacturing-PMI-Final-Actual-539-Forecast-538-Previous-538.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 13:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 S&P 제조업 PMI 최종치 53.9 (예상치 53.8, 전월치 53.8)"
+  },
+  {
+    "guid": "9705214",
+    "title": "FinancialJuice: UBS cuts target price for Citi to $142 from $150 $C\n",
+    "link": "https://www.financialjuice.com/News/9705214/UBS-cuts-target-price-for-Citi-to-142-from-150-C.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 13:37:42 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: UBS, 씨티 목표주가 150달러에서 142달러로 하향 조정 $C\n"
+  },
+  {
+    "guid": "9705208",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9705208/MOO-Imbalance.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 13:30:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOO 불균형"
+  },
+  {
+    "guid": "9705203",
+    "title": "FinancialJuice: Israel's Channel 12 News: An Iranian source to Al-Mayadeen Lebanon: Iran has rejected the latest American offer to open the Strait of Hormuz until the complete end of the war.",
+    "link": "https://www.financialjuice.com/News/9705203/Israels-Channel-12-News-An-Iranian-source-to-Al-Mayadeen-Lebanon-Iran-has-rejected-the-latest-American-offer-to-open-the-Strait-of-Hormuz-until-the-complete-end-of-the-war.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 13:30:01 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이스라엘 채널 12 뉴스: 레바논 알-마야딘에 따르면, 이란 소식통은 이란이 전쟁이 완전히 종식될 때까지 호르무즈 해협을 개방하겠다는 미국의 최근 제안을 거부했다고 전했다."
+  },
+  {
+    "guid": "9705202",
+    "title": "FinancialJuice: White House: Trump to travel to Nevada on Wednesday",
+    "link": "https://www.financialjuice.com/News/9705202/White-House-Trump-to-travel-to-Nevada-on-Wednesday.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 13:23:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 트럼프 대통령 수요일 네바다주 방문 예정"
+  },
+  {
+    "guid": "9705201",
+    "title": "FinancialJuice: White House: Trump to travel to California on Tuesday",
+    "link": "https://www.financialjuice.com/News/9705201/White-House-Trump-to-travel-to-California-on-Tuesday.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 13:21:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 트럼프 대통령 화요일 캘리포니아 방문 예정"
+  },
+  {
+    "guid": "9705177",
+    "title": "FinancialJuice: Kazakhstan's oil and gas Condensate production fell 14% in July from June amid CPC export disruption - Source.",
+    "link": "https://www.financialjuice.com/News/9705177/Kazakhstans-oil-and-gas-Condensate-production-fell-14-in-July-from-June-amid-CPC-export-disruption---Source.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 13:06:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: CPC 수출 차질로 인해 카자흐스탄의 7월 석유·가스 콘덴세이트 생산량이 6월 대비 14% 감소했다 - 출처."
+  },
+  {
+    "guid": "9705158",
+    "title": "FinancialJuice: Effective Fed funds rate 3.63% July 31st vs 3.63% July 30th.",
+    "link": "https://www.financialjuice.com/News/9705158/Effective-Fed-funds-rate-363-July-31st-vs-363-July-30th.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 12:59:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 7월 31일 연방기금 실효 금리 3.63% (7월 30일 3.63% 대비)."
+  },
+  {
+    "guid": "9705146",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett ends remarks on CNBC.",
+    "link": "https://www.financialjuice.com/News/9705146/WH-Sr-Adviser-Hassett-ends-remarks-on-CNBC.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 12:45:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋이 CNBC 인터뷰를 마쳤다."
+  },
+  {
+    "guid": "9705141",
+    "title": "FinancialJuice: Six Saudi-Flagged supertankers empty of cargo have changed course in the Gulf of Aden in recent days and sailed towards Southern Africa - Ship Tracking Data.",
+    "link": "https://www.financialjuice.com/News/9705141/Six-Saudi-Flagged-supertankers-empty-of-cargo-have-changed-course-in-the-Gulf-of-Aden-in-recent-days-and-sailed-towards-Southern-Africa---Ship-Tracking-Data.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 12:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 최근 며칠 동안 아덴만에서 화물을 모두 하역한 사우디 국적의 초대형 유조선 6척이 항로를 변경해 남부 아프리카 방향으로 항해했다 - 선박 추적 데이터."
+  },
+  {
+    "guid": "9705140",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: Fed's Chair Warsh is moving things in a positive direction.",
+    "link": "https://www.financialjuice.com/News/9705140/WH-Sr-Adviser-Hassett-Feds-Chair-Warsh-is-moving-things-in-a-positive-direction.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 12:42:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋: 연준 의장 워시가 상황을 긍정적인 방향으로 이끌고 있다."
+  },
+  {
+    "guid": "9705139",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: Inflation numbers have been fantastic in recent reports - CNBC",
+    "link": "https://www.financialjuice.com/News/9705139/WH-Sr-Adviser-Hassett-Inflation-numbers-have-been-fantastic-in-recent-reports---CNBC.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 12:36:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋 “최근 발표된 인플레이션 수치는 환상적이었다” - CNBC"
+  },
+  {
+    "guid": "9705138",
+    "title": "FinancialJuice: US Sentiment: Equity Strength Broadens at the Start of the Month, as Geopolitical Fears Wind Down - FJElite",
+    "link": "https://www.financialjuice.com/News/9705138/US-Sentiment-Equity-Strength-Broadens-at-the-Start-of-the-Month-as-Geopolitical-Fears-Wind-Down---FJElite.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 12:36:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 지정학적 우려가 누그러지면서 월초 주식 시장의 강세 국면이 확대 - FJElite"
+  },
+  {
+    "guid": "9705113",
+    "title": "FinancialJuice: There is no meeting between US and Iranian negotiators scheduled in Islamabad, at least in the next 24 hours - AA citing Pakistani Government Sources",
+    "link": "https://www.financialjuice.com/News/9705113/There-is-no-meeting-between-US-and-Iranian-negotiators-scheduled-in-Islamabad-at-least-in-the-next-24-hours---AA-citing-Pakistani-Government-Sources.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 12:24:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: AA 통신이 파키스탄 정부 소식통을 인용해, 적어도 향후 24시간 내에는 이슬라마바드에서 미국과 이란 협상단 간의 회담이 예정되어 있지 않다고 보도했다."
+  },
+  {
+    "guid": "9705112",
+    "title": "FinancialJuice: No date or venue has yet been finalized for the resumption of long-stalled direct talks between the US and Iran - AA citing Pakistani Government Sources",
+    "link": "https://www.financialjuice.com/News/9705112/No-date-or-venue-has-yet-been-finalized-for-the-resumption-of-long-stalled-direct-talks-between-the-US-and-Iran---AA-citing-Pakistani-Government-Sources.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 12:24:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 오랫동안 교착 상태에 빠졌던 미국과 이란 간의 직접 회담 재개 시기와 장소는 아직 확정되지 않았다 - AA 통신, 파키스탄 정부 소식통 인용"
+  },
+  {
     "guid": "9705084",
     "title": "FinancialJuice: Secured overnight financing rate 3.66% July 31st vs 3.65% July 30th",
     "link": "https://www.financialjuice.com/News/9705084/Secured-overnight-financing-rate-366-July-31st-vs-365-July-30th.aspx?xy=rss",
