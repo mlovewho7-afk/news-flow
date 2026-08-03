@@ -1,5 +1,701 @@
 [
   {
+    "guid": "9705084",
+    "title": "FinancialJuice: Secured overnight financing rate 3.66% July 31st vs 3.65% July 30th",
+    "link": "https://www.financialjuice.com/News/9705084/Secured-overnight-financing-rate-366-July-31st-vs-365-July-30th.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 12:00:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 7월 31일 담보부 일일 자금 조달 금리 3.66% (7월 30일 3.65% 대비)"
+  },
+  {
+    "guid": "9704952",
+    "title": "FinancialJuice: Fed's Williams: If inflation is not on track to 2%, action is appropriate - Sources",
+    "link": "https://www.financialjuice.com/News/9704952/Feds-Williams-If-inflation-is-not-on-track-to-2-action-is-appropriate---Sources.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 10:09:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 윌리엄스, “인플레이션이 2% 목표치로 향하지 않는다면 조치를 취하는 것이 타당하다” - 소식통"
+  },
+  {
+    "guid": "9704951",
+    "title": "FinancialJuice: Fed's Williams sees inflation coming down in H2 and more next year",
+    "link": "https://www.financialjuice.com/News/9704951/Feds-Williams-sees-inflation-coming-down-in-H2-and-more-next-year.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 10:06:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, 하반기 인플레이션 하락 전망…내년에는 더 큰 하락 예상"
+  },
+  {
+    "guid": "9704935",
+    "title": "FinancialJuice: Fed’s Williams: Rate policy still well positioned to reach 2% inflation",
+    "link": "https://www.financialjuice.com/News/9704935/Feds-Williams-Rate-policy-still-well-positioned-to-reach-2-inflation.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 10:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, “금리 정책은 여전히 2% 인플레이션 목표 달성에 유리한 위치에 있다”"
+  },
+  {
+    "guid": "9704934",
+    "title": "FinancialJuice: Fed’s Williams remains confident inflation pressures will gradually ease",
+    "link": "https://www.financialjuice.com/News/9704934/Feds-Williams-remains-confident-inflation-pressures-will-gradually-ease.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 10:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, 인플레이션 압력이 점차 완화될 것이라는 확신을 유지"
+  },
+  {
+    "guid": "9704933",
+    "title": "FinancialJuice: Fed's Williams: Central bank very committed to returning inflation to 2%",
+    "link": "https://www.financialjuice.com/News/9704933/Feds-Williams-Central-bank-very-committed-to-returning-inflation-to-2.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 10:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, “중앙은행은 인플레이션을 2%로 되돌리겠다는 의지를 확고히 하고 있다”"
+  },
+  {
+    "guid": "9704932",
+    "title": "FinancialJuice: Fed’s Williams: aware of market pricing, Fed not required to endorse market levels",
+    "link": "https://www.financialjuice.com/News/9704932/Feds-Williams-aware-of-market-pricing-Fed-not-required-to-endorse-market-levels.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 10:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, “시장 가격 형상을 인지하고 있으나, 연준이 시장 수준을 지지할 의무는 없다”"
+  },
+  {
+    "guid": "9704931",
+    "title": "FinancialJuice: Fed's Williams: I strongly backed the FOMC's latest move",
+    "link": "https://www.financialjuice.com/News/9704931/Feds-Williams-I-strongly-backed-the-FOMCs-latest-move.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 10:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스 “FOMC의 최근 조치를 강력히 지지했다”"
+  },
+  {
+    "guid": "9704930",
+    "title": "FinancialJuice: Fed’s Williams: Volatility in AI sector is unsurprising",
+    "link": "https://www.financialjuice.com/News/9704930/Feds-Williams-Volatility-in-AI-sector-is-unsurprising.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 10:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, “AI 부문의 변동성은 놀랄 일이 아니다”"
+  },
+  {
+    "guid": "9704929",
+    "title": "FinancialJuice: Fed's Williams: Anticipate Middle East war inflation effect to ease",
+    "link": "https://www.financialjuice.com/News/9704929/Feds-Williams-Anticipate-Middle-East-war-inflation-effect-to-ease.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 10:00:04 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, 중동 전쟁으로 인한 인플레이션 영향이 완화될 것으로 전망"
+  },
+  {
+    "guid": "9704928",
+    "title": "FinancialJuice: Fed’s Williams: Market pricing offers Fed valuable insight",
+    "link": "https://www.financialjuice.com/News/9704928/Feds-Williams-Market-pricing-offers-Fed-valuable-insight.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 10:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, “시장 가격 책정은 연준에 귀중한 통찰력을 제공한다”"
+  },
+  {
+    "guid": "9704927",
+    "title": "FinancialJuice: Fed's Williams: If inflation is not on track to 2%, the Fed will intervene to restore price stability",
+    "link": "https://www.financialjuice.com/News/9704927/Feds-Williams-If-inflation-is-not-on-track-to-2-the-Fed-will-intervene-to-restore-price-stability.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 10:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스 “인플레이션이 2% 목표치로 향하지 않는다면, 연준은 물가 안정을 회복하기 위해 개입할 것”"
+  },
+  {
+    "guid": "9704926",
+    "title": "FinancialJuice: Fed’s Williams: No financial stability risks seen from AI investment",
+    "link": "https://www.financialjuice.com/News/9704926/Feds-Williams-No-financial-stability-risks-seen-from-AI-investment.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 10:00:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 윌리엄스, “AI 투자로 인한 금융 안정성 위험은 보이지 않는다”"
+  },
+  {
+    "guid": "9704908",
+    "title": "FinancialJuice: Japan's PM Takaichi: Cabinet to decide on ¥20B reserve fund for earthquake",
+    "link": "https://www.financialjuice.com/News/9704908/Japans-PM-Takaichi-Cabinet-to-decide-on-20B-reserve-fund-for-earthquake.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 09:45:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 타카이치 총리, 내각에서 지진 대비 200억 엔 규모의 예비 기금 조성 여부 결정할 예정"
+  },
+  {
+    "guid": "9704906",
+    "title": "FinancialJuice: German government spokesperson on Ceuta: Highlights instability of situation at EU external borders, joint European efforts essential",
+    "link": "https://www.financialjuice.com/News/9704906/German-government-spokesperson-on-Ceuta-Highlights-instability-of-situation-at-EU-external-borders-joint-European-efforts-essential.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 09:34:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 세우타 사태에 대한 독일 정부 대변인 성명: EU 대외 국경 상황의 불안정성을 여실히 드러내며, 유럽 차원의 공동 대응이 필수적"
+  },
+  {
+    "guid": "9704888",
+    "title": "FinancialJuice: BoJ data suggest Japan's intervention of about 5.3 trln Yen on Friday",
+    "link": "https://www.financialjuice.com/News/9704888/BoJ-data-suggest-Japans-intervention-of-about-53-trln-Yen-on-Friday.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 09:16:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행(BoJ) 자료에 따르면, 일본은 지난 금요일 약 5.3조 엔 규모의 외환 개입을 단행한 것으로 보인다"
+  },
+  {
+    "guid": "9704887",
+    "title": "FinancialJuice: BoJ money market data suggest FX market intervention by Japan",
+    "link": "https://www.financialjuice.com/News/9704887/BoJ-money-market-data-suggest-FX-market-intervention-by-Japan.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 09:15:26 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 일본은행의 단기 금융시장 데이터, 일본의 외환시장 개입 시사"
+  },
+  {
+    "guid": "9704823",
+    "title": "FinancialJuice: UK Manufacturing PMI Final Actual 51.9 (Forecast 52.8, Previous 52.8)",
+    "link": "https://www.financialjuice.com/News/9704823/UK-Manufacturing-PMI-Final-Actual-519-Forecast-528-Previous-528.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 08:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 제조업 PMI 최종치 51.9 (예상치 52.8, 전월치 52.8)"
+  },
+  {
+    "guid": "9704770",
+    "title": "FinancialJuice: Eurozone Manufacturing PMI Final Actual 51.9 (Forecast 52, Previous 52.0)",
+    "link": "https://www.financialjuice.com/News/9704770/Eurozone-Manufacturing-PMI-Final-Actual-519-Forecast-52-Previous-520.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 제조업 PMI 최종치 51.9 (예상치 52, 전월치 52.0)"
+  },
+  {
+    "guid": "9704768",
+    "title": "FinancialJuice: German Manufacturing PMI Final Actual 52.2 (Forecast 52.2, Previous 52.2)",
+    "link": "https://www.financialjuice.com/News/9704768/German-Manufacturing-PMI-Final-Actual-522-Forecast-522-Previous-522.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:55:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 제조업 PMI 최종치 52.2 (예상치 52.2, 전월치 52.2)"
+  },
+  {
+    "guid": "9704767",
+    "title": "FinancialJuice: Iran's Foreign Ministry Spokesperson Baghaei: New Hormuz route being discussed with Oman will be one path with entry and exit lanes",
+    "link": "https://www.financialjuice.com/News/9704767/Irans-Foreign-Ministry-Spokesperson-Baghaei-New-Hormuz-route-being-discussed-with-Oman-will-be-one-path-with-entry-and-exit-lanes.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:54:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 외무부 대변인 바가에이: 오만과 논의 중인 새로운 호르무즈 항로는 출입 차선이 분리된 단일 경로가 될 것"
+  },
+  {
+    "guid": "9704766",
+    "title": "FinancialJuice: Iraqi civil defence puts out fire in refinery in Baiji oil complex - State news agency",
+    "link": "https://www.financialjuice.com/News/9704766/Iraqi-civil-defence-puts-out-fire-in-refinery-in-Baiji-oil-complex---State-news-agency.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:52:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이라크 민방위대, 바이지 석유 단지 내 정유소 화재 진압 - 국영 통신사"
+  },
+  {
+    "guid": "9704764",
+    "title": "FinancialJuice: French Manufacturing PMI Actual 49.8 (Forecast 50, Previous 50.0)",
+    "link": "https://www.financialjuice.com/News/9704764/French-Manufacturing-PMI-Actual-498-Forecast-50-Previous-500.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:50:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 제조업 PMI 실제치 49.8 (예상치 50, 전월치 50.0)"
+  },
+  {
+    "guid": "9704737",
+    "title": "FinancialJuice: Swiss Manufacturing PMI Actual 53.2 (Forecast 54.9, Previous 54.3)",
+    "link": "https://www.financialjuice.com/News/9704737/Swiss-Manufacturing-PMI-Actual-532-Forecast-549-Previous-543.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스위스 제조업 PMI 실제치 53.2 (예상치 54.9, 전월치 54.3)"
+  },
+  {
+    "guid": "9704736",
+    "title": "FinancialJuice: Iran's Baghaei: Iran-US issues should be addressed at a later stage",
+    "link": "https://www.financialjuice.com/News/9704736/Irans-Baghaei-Iran-US-issues-should-be-addressed-at-a-later-stage.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:21:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 바가에이, “이란-미국 간 현안은 추후에 다루어야 한다”"
+  },
+  {
+    "guid": "9704735",
+    "title": "FinancialJuice: Iran's Baghaei: Reaching an agreement with Oman over the route is not enough for the reopening of the strait, as long as US ‘aggression’ continues, the situation will stay the same",
+    "link": "https://www.financialjuice.com/News/9704735/Irans-Baghaei-Reaching-an-agreement-with-Oman-over-the-route-is-not-enough-for-the-reopening-of-the-strait-as-long-as-US-aggression-continues-the-situation-will-stay-the-same.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:21:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 바가에이: 오만과 항로에 대한 합의에 도달하는 것만으로는 해협 재개통에 충분하지 않으며, 미국의 ‘공격’이 계속되는 한 상황은 변함없이 유지될 것이다"
+  },
+  {
+    "guid": "9704733",
+    "title": "FinancialJuice: Iran's Baghaei: Working with Oman on a temporary safe route through the Hormuz Strait",
+    "link": "https://www.financialjuice.com/News/9704733/Irans-Baghaei-Working-with-Oman-on-a-temporary-safe-route-through-the-Hormuz-Strait.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:19:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 바가에이, 오만과 협력해 호르무즈 해협을 통과하는 임시 안전 항로 마련 중"
+  },
+  {
+    "guid": "9704732",
+    "title": "FinancialJuice: Iran's Foreign Ministry Spokesperson Baghaei: We have no talks with the US currently; talks are with Oman over the Strait of Hormuz",
+    "link": "https://www.financialjuice.com/News/9704732/Irans-Foreign-Ministry-Spokesperson-Baghaei-We-have-no-talks-with-the-US-currently-talks-are-with-Oman-over-the-Strait-of-Hormuz.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:18:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 외무부 대변인 바가에이: “현재 미국과는 어떠한 대화도 진행 중이 아니며, 호르무즈 해협 문제와 관련해 오만과 대화를 진행 중입니다.”"
+  },
+  {
+    "guid": "9704711",
+    "title": "FinancialJuice: Spanish Manufacturing PMI Actual 50.2 (Forecast 50.3, Previous 49.7)",
+    "link": "https://www.financialjuice.com/News/9704711/Spanish-Manufacturing-PMI-Actual-502-Forecast-503-Previous-497.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:15:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페인 제조업 PMI 실제치 50.2 (예상치 50.3, 전월치 49.7)"
+  },
+  {
+    "guid": "9704710",
+    "title": "FinancialJuice: \t\nSNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9704710/%09SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:07:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice:   \n스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9704709",
+    "title": "FinancialJuice: RBA & RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9704709/RBA--RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:07:36 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 중앙은행(RBA) 및 뉴질랜드 중앙은행(RBNZ) 금리 결정 가능성"
+  },
+  {
+    "guid": "9704708",
+    "title": "FinancialJuice: \t\nBoJ Interest Rate Pobabilties",
+    "link": "https://www.financialjuice.com/News/9704708/%09BoJ-Interest-Rate-Pobabilties.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:07:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice:   \n일본은행(BoJ) 금리 결정 전망"
+  },
+  {
+    "guid": "9704707",
+    "title": "FinancialJuice: \t\nBoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9704707/%09BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:07:07 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice:   \n캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9704706",
+    "title": "FinancialJuice: \t\nBoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9704706/%09BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:06:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice:   \n영란은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9704705",
+    "title": "FinancialJuice: \t\nECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9704705/%09ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:06:37 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice:   \nECB 금리 결정 확률"
+  },
+  {
+    "guid": "9704704",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9704704/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:06:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9704703",
+    "title": "FinancialJuice: \t\nCommodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9704703/%09Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:05:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice:   \n원자재 내재 변동성"
+  },
+  {
+    "guid": "9704702",
+    "title": "FinancialJuice: \t\nFX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9704702/%09FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:05:13 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice:   \n외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9704701",
+    "title": "FinancialJuice: \t\nUS Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9704701/%09US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:04:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice:   \n미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9704700",
+    "title": "FinancialJuice: \t\nTop S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9704700/%09Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:04:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice:   \nS&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9704699",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9704699/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:03:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9704698",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9704698/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:03:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9704697",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9704697/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:03:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9704696",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9704696/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:02:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9704682",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: JPY, USD, EUR, CAD, AUD, GBP, CHF, NZD - Weakest",
+    "link": "https://www.financialjuice.com/News/9704682/Currency-Strength-Chart-Strongest-JPY-USD-EUR-CAD-AUD-GBP-CHF-NZD---Weakest.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:01:40 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: JPY, USD, EUR, CAD, AUD, GBP, CHF, NZD - 가장 약한 통화"
+  },
+  {
+    "guid": "9704681",
+    "title": "FinancialJuice: Turkish CPI MoM Actual 1.78% (Forecast 1.96%, Previous 0.99%)",
+    "link": "https://www.financialjuice.com/News/9704681/Turkish-CPI-MoM-Actual-178-Forecast-196-Previous-099.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:00:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 터키 소비자물가지수(CPI) 전월 대비 실제치 1.78% (예상치 1.96%, 전월치 0.99%)"
+  },
+  {
+    "guid": "9704680",
+    "title": "FinancialJuice: Turkish CPI YoY Actual 31.75% (Forecast 31.93%, Previous 32.11%)",
+    "link": "https://www.financialjuice.com/News/9704680/Turkish-CPI-YoY-Actual-3175-Forecast-3193-Previous-3211.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 07:00:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 터키 소비자물가지수(CPI) 전년 동기 대비 실제치 31.75% (예상치 31.93%, 전월치 32.11%)"
+  },
+  {
+    "guid": "9704651",
+    "title": "FinancialJuice: Swiss CPI MoM Actual -0.1% (Forecast -0.1%, Previous 0.0%)",
+    "link": "https://www.financialjuice.com/News/9704651/Swiss-CPI-MoM-Actual--01-Forecast--01-Previous-00.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 06:30:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 소비자물가지수(CPI) 전월 대비 실제 -0.1% (예상 -0.1%, 전월 0.0%)"
+  },
+  {
+    "guid": "9704650",
+    "title": "FinancialJuice: Swiss CPI YoY Actual 0.4% (Forecast 0.4%, Previous 0.5%)",
+    "link": "https://www.financialjuice.com/News/9704650/Swiss-CPI-YoY-Actual-04-Forecast-04-Previous-05.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 06:30:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 소비자물가지수(CPI) 전년 동기 대비 실제치 0.4% (예상치 0.4%, 전월치 0.5%)"
+  },
+  {
+    "guid": "9704649",
+    "title": "FinancialJuice: Russia is taking measures to ensure the safety of navigation and the protection of ships in the Azov-Black Sea basin amid drone attacks - RIA cites the transport ministry",
+    "link": "https://www.financialjuice.com/News/9704649/Russia-is-taking-measures-to-ensure-the-safety-of-navigation-and-the-protection-of-ships-in-the-Azov-Black-Sea-basin-amid-drone-attacks---RIA-cites-the-transport-ministry.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 06:24:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: RIA 통신은 교통부의 말을 인용해, 러시아가 드론 공격이 이어지는 가운데 아조프-흑해 유역에서 항해 안전과 선박 보호를 보장하기 위한 조치를 취하고 있다고 보도했다"
+  },
+  {
+    "guid": "9704617",
+    "title": "FinancialJuice: German Real Retail Sales YoY Actual -0.2% (Forecast -, Previous 1.8%)",
+    "link": "https://www.financialjuice.com/News/9704617/German-Real-Retail-Sales-YoY-Actual--02-Forecast---Previous-18.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 06:00:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 실질 소매판매 전년 동기 대비 실제 -0.2% (예상 -, 이전 1.8%)"
+  },
+  {
+    "guid": "9704616",
+    "title": "FinancialJuice: German Real Retail Sales MoM Actual -1.1% (Forecast -0.3%, Previous 1.1%)",
+    "link": "https://www.financialjuice.com/News/9704616/German-Real-Retail-Sales-MoM-Actual--11-Forecast--03-Previous-11.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 06:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 실질 소매판매 전월 대비 실제 -1.1% (예상 -0.3%, 전월 1.1%)"
+  },
+  {
+    "guid": "9704597",
+    "title": "FinancialJuice: Dutch Retail Sales YoY Actual 4.3% (Forecast -, Previous 1.2%)",
+    "link": "https://www.financialjuice.com/News/9704597/Dutch-Retail-Sales-YoY-Actual-43-Forecast---Previous-12.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 05:38:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 네덜란드 소매판매 전년 동기 대비 실제 4.3% (예상 -, 이전 1.2%)"
+  },
+  {
+    "guid": "9704544",
+    "title": "FinancialJuice: India HSBC and S&P Global July final manufacturing PMI at 53.5, in line with forecast",
+    "link": "https://www.financialjuice.com/News/9704544/India-HSBC-and-SP-Global-July-final-manufacturing-PMI-at-535-in-line-with-forecast.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 05:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인도 HSBC와 S&P 글로벌의 7월 최종 제조업 PMI가 53.5를 기록하며, 예상치와 일치했다"
+  },
+  {
+    "guid": "9704543",
+    "title": "FinancialJuice: Netherlands S&P Global manufacturing PMI July at 54.4 vs 55.5 in June",
+    "link": "https://www.financialjuice.com/News/9704543/Netherlands-SP-Global-manufacturing-PMI-July-at-544-vs-555-in-June.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 05:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 네덜란드 S&P 글로벌 7월 제조업 PMI, 54.4로 집계… 6월 55.5 대비 하락"
+  },
+  {
+    "guid": "9704542",
+    "title": "FinancialJuice: Warehouse in Russia's Vladimir region struck in drone attack: Tass quotes governor",
+    "link": "https://www.financialjuice.com/News/9704542/Warehouse-in-Russias-Vladimir-region-struck-in-drone-attack-Tass-quotes-governor.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 04:49:49 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아 블라디미르 주 창고, 드론 공격 받아… 타스 통신, 주지사 발언 인용"
+  },
+  {
+    "guid": "9704531",
+    "title": "FinancialJuice: Dollar/yen slides 0.63% to 156.38",
+    "link": "https://www.financialjuice.com/News/9704531/Dollaryen-slides-063-to-15638.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 04:46:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 달러/엔 환율이 0.63% 하락해 156.38을 기록"
+  },
+  {
+    "guid": "9704478",
+    "title": "FinancialJuice: U.S. Acting AG Blanche: DOJ withdraws order that created the anti-weaponization fund",
+    "link": "https://www.financialjuice.com/News/9704478/US-Acting-AG-Blanche-DOJ-withdraws-order-that-created-the-anti-weaponization-fund.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 03:40:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 블랑슈 미국 법무부 장관 대행: 법무부, ‘무기화 방지 기금’을 신설했던 명령을 철회"
+  },
+  {
+    "guid": "9704435",
+    "title": "FinancialJuice: Cuba's national electric utility: shutdown of national power grid occurred",
+    "link": "https://www.financialjuice.com/News/9704435/Cubas-national-electric-utility-shutdown-of-national-power-grid-occurred.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 03:05:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 쿠바 국영 전력공사: 전국 전력망 정전 발생"
+  },
+  {
+    "guid": "9704434",
+    "title": "FinancialJuice: Japan finance minister Katayama: no comment on possible forex intervention today",
+    "link": "https://www.financialjuice.com/News/9704434/Japan-finance-minister-Katayama-no-comment-on-possible-forex-intervention-today.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 02:33:11 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 가타야마 일본 재무장관, 오늘 외환 시장 개입 가능성에 대해 “논평할 수 없다”"
+  },
+  {
+    "guid": "9704433",
+    "title": "FinancialJuice: Two people hospitalized following building collapse in Sydney: State Emergency Services",
+    "link": "https://www.financialjuice.com/News/9704433/Two-people-hospitalized-following-building-collapse-in-Sydney-State-Emergency-Services.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 02:23:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 시드니 건물 붕괴로 2명 입원: 주 비상대응국"
+  },
+  {
+    "guid": "9704379",
+    "title": "FinancialJuice: Dollar/yen falls 0.64% to 156.36",
+    "link": "https://www.financialjuice.com/News/9704379/Dollaryen-falls-064-to-15636.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 01:57:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 달러/엔 환율이 0.64% 하락해 156.36을 기록했습니다."
+  },
+  {
+    "guid": "9704366",
+    "title": "FinancialJuice: Chinese Manufacturing  PMI Actual 50.9 (Forecast 52, Previous 51.7)",
+    "link": "https://www.financialjuice.com/News/9704366/Chinese-Manufacturing--PMI-Actual-509-Forecast-52-Previous-517.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 01:45:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 제조업 PMI 실제치 50.9 (예상치 52, 전월치 51.7)"
+  },
+  {
+    "guid": "9704367",
+    "title": "FinancialJuice: Ratingdog China general manufacturing PMI at 50.9 in July, below forecast 51.5",
+    "link": "https://www.financialjuice.com/News/9704367/Ratingdog-China-general-manufacturing-PMI-at-509-in-July-below-forecast-515.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 01:45:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 레이팅독(Ratingdog)의 7월 중국 종합 제조업 PMI가 50.9를 기록하며, 예상치인 51.5를 하회했다."
+  },
+  {
+    "guid": "9704365",
+    "title": "FinancialJuice: S. Korea central bank sells 91-day monetary stabilisation bonds at 2.83% yield",
+    "link": "https://www.financialjuice.com/News/9704365/S-Korea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-283-yield.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 01:40:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국은행, 수익률 2.83%의 91일 만기 통화안정채 발행"
+  },
+  {
+    "guid": "9704364",
+    "title": "FinancialJuice: China's top securities regulator says it plans to expand mutual qualification recognition for futures professionals between China and Hong Kong",
+    "link": "https://www.financialjuice.com/News/9704364/Chinas-top-securities-regulator-says-it-plans-to-expand-mutual-qualification-recognition-for-futures-professionals-between-China-and-Hong-Kong.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 01:37:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 최고 증권 규제 당국은 중국과 홍콩 간 선물 전문가에 대한 상호 자격 인정 범위를 확대할 계획이라고 밝혔다."
+  },
+  {
+    "guid": "9704363",
+    "title": "FinancialJuice: China's top securities regulator: supports Hong Kong in launching more yuan-denominated futures products",
+    "link": "https://www.financialjuice.com/News/9704363/Chinas-top-securities-regulator-supports-Hong-Kong-in-launching-more-yuan-denominated-futures-products.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 01:35:28 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 최고 증권 규제 당국, 홍콩의 위안화 표시 선물 상품 추가 출시 지원"
+  },
+  {
+    "guid": "9704362",
+    "title": "FinancialJuice: China's top securities regulator: to introduce more ETF products tracking Chinese assets",
+    "link": "https://www.financialjuice.com/News/9704362/Chinas-top-securities-regulator-to-introduce-more-ETF-products-tracking-Chinese-assets.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 01:34:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 최고 증권 규제 당국, 중국 자산을 추종하는 ETF 상품 추가 도입 예정"
+  },
+  {
+    "guid": "9704350",
+    "title": "FinancialJuice: China Cbank injects 300 billion yuan via overnight reverse repos: statement",
+    "link": "https://www.financialjuice.com/News/9704350/China-Cbank-injects-300-billion-yuan-via-overnight-reverse-repos-statement.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 01:21:30 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 하루 만기 역레포를 통해 3,000억 위안 유동성 공급… 성명서"
+  },
+  {
+    "guid": "9704349",
+    "title": "FinancialJuice: China central bank injects 63 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+    "link": "https://www.financialjuice.com/News/9704349/China-central-bank-injects-63-billion-yuan-via-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 01:20:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 1.40% 금리로 7일물 역레포를 통해 630억 위안을 공급… 이전 금리 역시 1.40%였음: 성명서"
+  },
+  {
+    "guid": "9704337",
+    "title": "FinancialJuice: Dollar/Yen pares losses slightly, last down 0.73% to 156.225",
+    "link": "https://www.financialjuice.com/News/9704337/DollarYen-pares-losses-slightly-last-down-073-to-156225.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 01:07:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 달러/엔 환율이 하락폭을 소폭 줄였으며, 현재 0.73% 하락한 156.225를 기록 중입니다."
+  },
+  {
+    "guid": "9704328",
+    "title": "FinancialJuice: Taiwan overnight interbank rate starts at 0.805% (vs 0.805% at previous session)",
+    "link": "https://www.financialjuice.com/News/9704328/Taiwan-overnight-interbank-rate-starts-at-0805-vs-0805-at-previous-session.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 01:00:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 대만 일일 은행간 금리, 0.805%로 개장 (전일 0.805% 대비)"
+  },
+  {
+    "guid": "9704318",
+    "title": "FinancialJuice: Dollar/yen falls over 1% to 155.51",
+    "link": "https://www.financialjuice.com/News/9704318/Dollaryen-falls-over-1-to-15551.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:43:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 달러/엔 환율이 1% 이상 하락해 155.51을 기록"
+  },
+  {
+    "guid": "9704317",
+    "title": "FinancialJuice: Dollar/yen extends decline, down 0.65% to 156.36",
+    "link": "https://www.financialjuice.com/News/9704317/Dollaryen-extends-decline-down-065-to-15636.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:34:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 달러/엔 환율 하락세 이어가며 0.65% 하락한 156.36 기록"
+  },
+  {
+    "guid": "9704308",
+    "title": "FinancialJuice: S. Korean Manufacturing PMI Actual 53.1 (Forecast -, Previous 52.1)",
+    "link": "https://www.financialjuice.com/News/9704308/S-Korean-Manufacturing-PMI-Actual-531-Forecast---Previous-521.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:30:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 제조업 PMI 실제치 53.1 (예상치 -, 전월치 52.1)"
+  },
+  {
+    "guid": "9704307",
+    "title": "FinancialJuice: Japanese Mfg PMI Actual 54.5 (Forecast -, Previous 54.7)",
+    "link": "https://www.financialjuice.com/News/9704307/Japanese-Mfg-PMI-Actual-545-Forecast---Previous-547.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:30:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 제조업 PMI 실제치 54.5 (예상치 -, 전월치 54.7)"
+  },
+  {
+    "guid": "9704313",
+    "title": "FinancialJuice: Dollar/yen slips further, now down 0.5% at 156.64",
+    "link": "https://www.financialjuice.com/News/9704313/Dollaryen-slips-further-now-down-05-at-15664.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:30:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 달러/엔 환율이 추가로 하락해 현재 0.5% 하락한 156.64를 기록 중"
+  },
+  {
+    "guid": "9704311",
+    "title": "FinancialJuice: Taiwan S&P Global July manufacturing PMI at 55.1 vs 55.2 in June",
+    "link": "https://www.financialjuice.com/News/9704311/Taiwan-SP-Global-July-manufacturing-PMI-at-551-vs-552-in-June.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 대만 S&P 글로벌 7월 제조업 PMI, 55.1로 집계… 6월 55.2 대비 소폭 하락"
+  },
+  {
+    "guid": "9704310",
+    "title": "FinancialJuice: Japan S&P Global July final manufacturing PMI at 54.5 vs flash 54.7",
+    "link": "https://www.financialjuice.com/News/9704310/Japan-SP-Global-July-final-manufacturing-PMI-at-545-vs-flash-547.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 S&P 글로벌 7월 최종 제조업 PMI, 54.5로 집계… 속보치 54.7 대비"
+  },
+  {
+    "guid": "9704309",
+    "title": "FinancialJuice: South Korea S&P Global July manufacturing PMI rises to 53.1 from 52.1 in June",
+    "link": "https://www.financialjuice.com/News/9704309/South-Korea-SP-Global-July-manufacturing-PMI-rises-to-531-from-521-in-June.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 S&P 글로벌 7월 제조업 PMI, 6월 52.1에서 53.1로 상승"
+  },
+  {
+    "guid": "9704306",
+    "title": "FinancialJuice: Japan's top currency diplomat Mimura: Limits on FIMA facility don't imply overall FX intervention constraints",
+    "link": "https://www.financialjuice.com/News/9704306/Japans-top-currency-diplomat-Mimura-Limits-on-FIMA-facility-dont-imply-overall-FX-intervention-constraints.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:18:09 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 일본의 최고 통화 외교관 미무라: FIMA 시설에 대한 제한이 전반적인 외환 개입 제약을 의미하지는 않는다"
+  },
+  {
+    "guid": "9704296",
+    "title": "FinancialJuice: China PBOC likely to set yuan midpoint at 6.7364 per dollar: estimate",
+    "link": "https://www.financialjuice.com/News/9704296/China-PBOC-likely-to-set-yuan-midpoint-at-67364-per-dollar-estimate.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:16:54 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 인민은행, 위안화 중간 환율을 1달러당 6.7364로 책정할 전망: 추정"
+  },
+  {
+    "guid": "9704295",
+    "title": "FinancialJuice: Japan top currency diplomat Mimura: Fima repurchase facility is just one tool for intervention",
+    "link": "https://www.financialjuice.com/News/9704295/Japan-top-currency-diplomat-Mimura-Fima-repurchase-facility-is-just-one-tool-for-intervention.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:15:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본의 최고 통화 외교관 미무라: 피마(Fima) 환매 시설은 외환 개입을 위한 수단 중 하나일 뿐이다"
+  },
+  {
+    "guid": "9704292",
+    "title": "FinancialJuice: Japan top currency diplomat Mimura: will keep cooperating closely with BoJ",
+    "link": "https://www.financialjuice.com/News/9704292/Japan-top-currency-diplomat-Mimura-will-keep-cooperating-closely-with-BoJ.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:13:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본의 최고 통화 외교관 미무라, “일본은행과 긴밀히 협력해 나갈 것”"
+  },
+  {
+    "guid": "9704291",
+    "title": "FinancialJuice: Japan's top currency diplomat Mimura: No comment on discussions with BoJ",
+    "link": "https://www.financialjuice.com/News/9704291/Japans-top-currency-diplomat-Mimura-No-comment-on-discussions-with-BoJ.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:13:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본의 최고 통화 외교관 미무라, 일본은행(BoJ)과의 협의에 대해 “논평할 수 없다”"
+  },
+  {
+    "guid": "9704290",
+    "title": "FinancialJuice: Japan's top currency diplomat Mimura: no response to Trump remarks on forex intervention",
+    "link": "https://www.financialjuice.com/News/9704290/Japans-top-currency-diplomat-Mimura-no-response-to-Trump-remarks-on-forex-intervention.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:12:56 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 일본의 최고 통화 외교관 미무라, 트럼프의 외환 개입 발언에 대해 별다른 반응 없어"
+  },
+  {
+    "guid": "9704289",
+    "title": "FinancialJuice: Japan top currency diplomat Mimura: joint intervention could mark peak of U.S.-Japan currency partnership",
+    "link": "https://www.financialjuice.com/News/9704289/Japan-top-currency-diplomat-Mimura-joint-intervention-could-mark-peak-of-US-Japan-currency-partnership.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 00:11:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본의 최고 통화 외교관 미무라: 공동 개입은 미·일 통화 협력의 정점을 나타낼 수 있다"
+  },
+  {
     "guid": "9704272",
     "title": "FinancialJuice: Japan FinMin Katayama: No comment on forex intervention except Friday",
     "link": "https://www.financialjuice.com/News/9704272/Japan-FinMin-Katayama-No-comment-on-forex-intervention-except-Friday.aspx?xy=rss",
