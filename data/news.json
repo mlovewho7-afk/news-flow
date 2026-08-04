@@ -1,5 +1,517 @@
 [
   {
+    "guid": "9706428",
+    "title": "FinancialJuice: Italian Retail Sales NSA YoY Actual 3.10% (Forecast -, Previous 2.20%)",
+    "link": "https://www.financialjuice.com/News/9706428/Italian-Retail-Sales-NSA-YoY-Actual-310-Forecast---Previous-220.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 08:01:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이탈리아 소매판매(계절 조정 전, 전년 동기 대비) 실제치 3.10% (예상치 -, 이전치 2.20%)"
+  },
+  {
+    "guid": "9706427",
+    "title": "FinancialJuice: Italian Retail Sales MoM Actual -0.10% (Forecast -, Previous 0.20%)",
+    "link": "https://www.financialjuice.com/News/9706427/Italian-Retail-Sales-MoM-Actual--010-Forecast---Previous-020.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 08:01:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이탈리아 소매판매 전월 대비 실제 -0.10% (예상 -, 이전 0.20%)"
+  },
+  {
+    "guid": "9706429",
+    "title": "FinancialJuice: Italy June retail sales rise 3.1% unadjusted y/y: Istat",
+    "link": "https://www.financialjuice.com/News/9706429/Italy-June-retail-sales-rise-31-unadjusted-yy-Istat.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 08:00:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이탈리아 6월 소매판매, 계절 조정 전 전년 동기 대비 3.1% 증가: Istat"
+  },
+  {
+    "guid": "9706426",
+    "title": "FinancialJuice: Italy June retail sales decline 0.1% month-on-month: Istat",
+    "link": "https://www.financialjuice.com/News/9706426/Italy-June-retail-sales-decline-01-month-on-month-Istat.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 08:00:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이탈리아 6월 소매판매, 전월 대비 0.1% 감소: 이탈리아 통계청(Istat)"
+  },
+  {
+    "guid": "9706425",
+    "title": "FinancialJuice: Armenian central bank holds refinancing rate steady at 6.5%",
+    "link": "https://www.financialjuice.com/News/9706425/Armenian-central-bank-holds-refinancing-rate-steady-at-65.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 08:00:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 아르메니아 중앙은행, 재융자 금리를 6.5%로 동결"
+  },
+  {
+    "guid": "9706417",
+    "title": "FinancialJuice: LME withdraws nickel warrants, volume steady at 8,988 tons",
+    "link": "https://www.financialjuice.com/News/9706417/LME-withdraws-nickel-warrants-volume-steady-at-8988-tons.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 08:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: LME, 니켈 워런트 상장 폐지…거래량은 8,988톤으로 안정세"
+  },
+  {
+    "guid": "9706416",
+    "title": "FinancialJuice: LME aluminum stock slips 1,750 tons to 260,900 tons",
+    "link": "https://www.financialjuice.com/News/9706416/LME-aluminum-stock-slips-1750-tons-to-260900-tons.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 08:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: LME 알루미늄 재고량, 1,750톤 감소해 260,900톤 기록"
+  },
+  {
+    "guid": "9706415",
+    "title": "FinancialJuice: LME nickel stock unchanged at 264,876 tons",
+    "link": "https://www.financialjuice.com/News/9706415/LME-nickel-stock-unchanged-at-264876-tons.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 08:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: LME 니켈 재고량, 264,876톤으로 변동 없음"
+  },
+  {
+    "guid": "9706414",
+    "title": "FinancialJuice: São Paulo July consumer prices decline 0.03% m/m; estimate 0.04% increase",
+    "link": "https://www.financialjuice.com/News/9706414/S%c3%a3o-Paulo-July-consumer-prices-decline-003-mm-estimate-004-increase.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 08:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 상파울루 7월 소비자물가, 전월 대비 0.03% 하락…예상치는 0.04% 상승"
+  },
+  {
+    "guid": "9706413",
+    "title": "FinancialJuice: LME cancels aluminum warrants, reducing by 1,150 tons to 16,250",
+    "link": "https://www.financialjuice.com/News/9706413/LME-cancels-aluminum-warrants-reducing-by-1150-tons-to-16250.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 08:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: LME, 알루미늄 워런트 1,150톤 취소… 잔여량 16,250톤으로 감소"
+  },
+  {
+    "guid": "9706412",
+    "title": "FinancialJuice: LME NASAAC inventory steady at 120 tons",
+    "link": "https://www.financialjuice.com/News/9706412/LME-NASAAC-inventory-steady-at-120-tons.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 08:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: LME NASAAC 재고량, 120톤으로 안정세 유지"
+  },
+  {
+    "guid": "9706411",
+    "title": "FinancialJuice: LME cancels cobalt warrants, stock remains steady at 58 tons",
+    "link": "https://www.financialjuice.com/News/9706411/LME-cancels-cobalt-warrants-stock-remains-steady-at-58-tons.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 08:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: LME, 코발트 워런트 취소… 재고량은 58톤으로 안정세 유지"
+  },
+  {
+    "guid": "9706410",
+    "title": "FinancialJuice: Aramco CEO: Oil exports to Asia take 20-25 days longer via Suez",
+    "link": "https://www.financialjuice.com/News/9706410/Aramco-CEO-Oil-exports-to-Asia-take-20-25-days-longer-via-Suez.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 07:44:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO “수에즈 운하를 경유할 경우 아시아로의 원유 수출에 20~25일이 더 소요된다”"
+  },
+  {
+    "guid": "9706404",
+    "title": "FinancialJuice: Aramco CEO: Looking at developing potential new export routes",
+    "link": "https://www.financialjuice.com/News/9706404/Aramco-CEO-Looking-at-developing-potential-new-export-routes.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 07:38:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO, 잠재적인 신규 수출 경로 개발 검토 중"
+  },
+  {
+    "guid": "9706403",
+    "title": "FinancialJuice: Aramco: Governments globally are looking to build more oil storage",
+    "link": "https://www.financialjuice.com/News/9706403/Aramco-Governments-globally-are-looking-to-build-more-oil-storage.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 07:38:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코: 전 세계 각국 정부가 석유 비축 시설 확충을 모색하고 있다"
+  },
+  {
+    "guid": "9706383",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: AUD, CHF, GBP, EUR, USD, NZD, CAD, JPY - Weakest",
+    "link": "https://www.financialjuice.com/News/9706383/Currency-Strength-Chart-Strongest-AUD-CHF-GBP-EUR-USD-NZD-CAD-JPY---Weakest.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 07:02:41 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: AUD, CHF, GBP, EUR, USD, NZD, CAD, JPY - 가장 약한 통화"
+  },
+  {
+    "guid": "9706340",
+    "title": "FinancialJuice: French Budget Balance Actual -106.773B (Forecast -, Previous -93.31B)",
+    "link": "https://www.financialjuice.com/News/9706340/French-Budget-Balance-Actual--106773B-Forecast---Previous--9331B.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 06:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 예산 수지 실적 -1,067.73억 (예상 -, 전월 -933.1억)"
+  },
+  {
+    "guid": "9706315",
+    "title": "FinancialJuice: Japan duty covers hot-dipped galvanized steel coil, sheet and strip",
+    "link": "https://www.financialjuice.com/News/9706315/Japan-duty-covers-hot-dipped-galvanized-steel-coil-sheet-and-strip.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 06:29:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본의 관세 대상에 용융 아연 도금 강판, 시트 및 스트립 포함"
+  },
+  {
+    "guid": "9706314",
+    "title": "FinancialJuice: Japan imposes provisional anti-dumping duty for South Korea and China",
+    "link": "https://www.financialjuice.com/News/9706314/Japan-imposes-provisional-anti-dumping-duty-for-South-Korea-and-China.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 06:27:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본, 한국과 중국에 대해 잠정 반덤핑 관세 부과"
+  },
+  {
+    "guid": "9706313",
+    "title": "FinancialJuice: Aramco CEO: Red sea threats not impacting export volumes",
+    "link": "https://www.financialjuice.com/News/9706313/Aramco-CEO-Red-sea-threats-not-impacting-export-volumes.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 06:19:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO “홍해의 위협이 수출 물량에 영향을 미치지 않고 있다”"
+  },
+  {
+    "guid": "9706312",
+    "title": "FinancialJuice: BP CEO: Balance sheet needs to strengthen further",
+    "link": "https://www.financialjuice.com/News/9706312/BP-CEO-Balance-sheet-needs-to-strengthen-further.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 06:19:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: BP CEO “대차대조표를 더욱 강화해야 한다”"
+  },
+  {
+    "guid": "9706311",
+    "title": "FinancialJuice: Aramco CEO: Working to expand export capacity",
+    "link": "https://www.financialjuice.com/News/9706311/Aramco-CEO-Working-to-expand-export-capacity.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 06:19:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO, 수출 역량 확대를 위해 노력 중"
+  },
+  {
+    "guid": "9706310",
+    "title": "FinancialJuice: Aramco: No material impact on capacity from July attacks",
+    "link": "https://www.financialjuice.com/News/9706310/Aramco-No-material-impact-on-capacity-from-July-attacks.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 06:17:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코, 7월 공격으로 인한 생산 능력에 중대한 영향 없어"
+  },
+  {
+    "guid": "9706307",
+    "title": "FinancialJuice: Japan sells 30 bln Yen bonds in 2nd non-competitive sale",
+    "link": "https://www.financialjuice.com/News/9706307/Japan-sells-30-bln-Yen-bonds-in-2nd-non-competitive-sale.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 06:16:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본, 두 번째 비경쟁 입찰에서 300억 엔 규모 채권 발행"
+  },
+  {
+    "guid": "9706294",
+    "title": "FinancialJuice: Aramco plans to continue exporting about 5m b/d",
+    "link": "https://www.financialjuice.com/News/9706294/Aramco-plans-to-continue-exporting-about-5m-bd.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 06:12:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코, 하루 약 500만 배럴의 원유 수출을 지속할 계획"
+  },
+  {
+    "guid": "9706293",
+    "title": "FinancialJuice: Aramco CEO: When Hormuz reopens, 18 months to refill global stocks",
+    "link": "https://www.financialjuice.com/News/9706293/Aramco-CEO-When-Hormuz-reopens-18-months-to-refill-global-stocks.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 06:10:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO “호르무즈 해협이 재개통되면 전 세계 재고를 보충하는 데 18개월이 걸릴 것”"
+  },
+  {
+    "guid": "9706292",
+    "title": "FinancialJuice: Aramco CEO: 100m barrels lost every week Hormuz was shut",
+    "link": "https://www.financialjuice.com/News/9706292/Aramco-CEO-100m-barrels-lost-every-week-Hormuz-was-shut.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 06:10:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO “호르무즈 해협 봉쇄로 매주 1억 배럴의 원유 공급 차질”"
+  },
+  {
+    "guid": "9706291",
+    "title": "FinancialJuice: Aramco CEO: The market is losing 11m b/d in liquids due to the crisis",
+    "link": "https://www.financialjuice.com/News/9706291/Aramco-CEO-The-market-is-losing-11m-bd-in-liquids-due-to-the-crisis.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 06:07:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO “이번 위기로 인해 시장에서 하루 1,100만 배럴의 액체 연료 공급이 감소하고 있다”"
+  },
+  {
+    "guid": "9706229",
+    "title": "FinancialJuice: Russian online retailer Wildberries: warehouse in Leningrad region catches fire, people evacuated",
+    "link": "https://www.financialjuice.com/News/9706229/Russian-online-retailer-Wildberries-warehouse-in-Leningrad-region-catches-fire-people-evacuated.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 04:55:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 온라인 유통업체 와일드베리스: 레닌그라드 주에 있는 물류창고에서 화재 발생, 인원 대피"
+  },
+  {
+    "guid": "9706197",
+    "title": "FinancialJuice: Saudi Arabia S&P Global July Composite PMI at 53.1 vs 53.3 in June",
+    "link": "https://www.financialjuice.com/News/9706197/Saudi-Arabia-SP-Global-July-Composite-PMI-at-531-vs-533-in-June.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 04:15:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디아라비아 S&P 글로벌 7월 종합 PMI, 53.1 기록… 6월 53.3 대비 하락"
+  },
+  {
+    "guid": "9706196",
+    "title": "FinancialJuice: Warehouse caught fire in Russia's Moscow region after drone attack: Vesti quotes governor",
+    "link": "https://www.financialjuice.com/News/9706196/Warehouse-caught-fire-in-Russias-Moscow-region-after-drone-attack-Vesti-quotes-governor.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 04:14:19 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아 모스크바 주에서 드론 공격으로 창고에 화재 발생… ‘베스티’가 주지사의 말을 인용해 보도했다"
+  },
+  {
+    "guid": "9706195",
+    "title": "FinancialJuice: Five killed, six wounded in drone strike on Russia's Moscow region: TASS quotes governor",
+    "link": "https://www.financialjuice.com/News/9706195/Five-killed-six-wounded-in-drone-strike-on-Russias-Moscow-region-TASS-quotes-governor.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 04:10:15 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아 모스크바 주에서 드론 공격으로 5명 사망, 6명 부상… 타스 통신, 주지사 발언 인용"
+  },
+  {
+    "guid": "9706144",
+    "title": "FinancialJuice: Japan finance minister Katayama: no further comments on Japan-US joint forex intervention beyond previous statement",
+    "link": "https://www.financialjuice.com/News/9706144/Japan-finance-minister-Katayama-no-further-comments-on-Japan-US-joint-forex-intervention-beyond-previous-statement.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 03:28:13 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 가타야마 일본 재무장관, “미일 공동 외환 개입에 대해서는 기존 성명 외에 더 이상 언급할 내용이 없다”"
+  },
+  {
+    "guid": "9706143",
+    "title": "FinancialJuice: Japan finmin Katayama: declines to comment on effectiveness of joint intervention",
+    "link": "https://www.financialjuice.com/News/9706143/Japan-finmin-Katayama-declines-to-comment-on-effectiveness-of-joint-intervention.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 03:21:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무상, 공동 개입의 효과에 대해서는 논평을 거부했다"
+  },
+  {
+    "guid": "9706115",
+    "title": "FinancialJuice: Warehouse facility targeted by drones in Russia's Leningrad region, governor says",
+    "link": "https://www.financialjuice.com/News/9706115/Warehouse-facility-targeted-by-drones-in-Russias-Leningrad-region-governor-says.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 02:42:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 레닌그라드 주에서 드론의 공격을 받은 창고 시설, 주지사 발표"
+  },
+  {
+    "guid": "9706114",
+    "title": "FinancialJuice: Japan Economy Minister Kiuchi: won’t comment on specific FX level but closely monitoring impact of currency moves on economy, prices",
+    "link": "https://www.financialjuice.com/News/9706114/Japan-Economy-Minister-Kiuchi-wont-comment-on-specific-FX-level-but-closely-monitoring-impact-of-currency-moves-on-economy-prices.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 02:24:55 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 기우치 일본 경제산업상: 구체적인 환율 수준에 대해서는 언급하지 않겠지만, 환율 변동이 경제와 물가에 미치는 영향을 면밀히 주시하고 있다"
+  },
+  {
+    "guid": "9706113",
+    "title": "FinancialJuice: Japan economy minister Kiuchi says hope BoJ closely coordinates with government on policy guidance",
+    "link": "https://www.financialjuice.com/News/9706113/Japan-economy-minister-Kiuchi-says-hope-BoJ-closely-coordinates-with-government-on-policy-guidance.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 02:23:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 기우치 일본 경제산업상, 일본은행이 정책 지침에 있어 정부와 긴밀히 협력하기를 희망한다고 밝혀"
+  },
+  {
+    "guid": "9706112",
+    "title": "FinancialJuice: Japan economy minister Kiuchi: hopes BoJ implements monetary policy to steadily, sustainably reach 2% inflation goal",
+    "link": "https://www.financialjuice.com/News/9706112/Japan-economy-minister-Kiuchi-hopes-BoJ-implements-monetary-policy-to-steadily-sustainably-reach-2-inflation-goal.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 02:21:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 기우치 일본 경제장관, 일본은행이 2% 인플레이션 목표를 꾸준하고 지속 가능하게 달성할 수 있도록 통화정책을 시행하기를 희망"
+  },
+  {
+    "guid": "9706111",
+    "title": "FinancialJuice: Japan economy minister Kiuchi: Govt shares with BoJ forecast consumer inflation to pick up in second half of 2024, ease later",
+    "link": "https://www.financialjuice.com/News/9706111/Japan-economy-minister-Kiuchi-Govt-shares-with-BoJ-forecast-consumer-inflation-to-pick-up-in-second-half-of-2024-ease-later.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 02:21:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 기우치 일본 경제산업상: 정부와 일본은행(BoJ), 2024년 하반기 소비자 물가 상승세가 가속화되다가 이후 완화될 것으로 전망"
+  },
+  {
+    "guid": "9706110",
+    "title": "FinancialJuice: Japan economy minister Kiuchi: must stay alert to possible cost pass-through on food from summer through autumn",
+    "link": "https://www.financialjuice.com/News/9706110/Japan-economy-minister-Kiuchi-must-stay-alert-to-possible-cost-pass-through-on-food-from-summer-through-autumn.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 02:20:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 기우치 일본 경제장관, “여름부터 가을에 걸쳐 식료품 가격에 원가 전가될 가능성에 대비해야 한다”"
+  },
+  {
+    "guid": "9706109",
+    "title": "FinancialJuice: Japan economy minister Kiuchi: June overall CPI indicates moderate year-on-year price increases",
+    "link": "https://www.financialjuice.com/News/9706109/Japan-economy-minister-Kiuchi-June-overall-CPI-indicates-moderate-year-on-year-price-increases.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 02:19:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 기우치 일본 경제산업상: 6월 종합 소비자물가지수(CPI)는 전년 동기 대비 소폭 상승세를 나타냈다"
+  },
+  {
+    "guid": "9706108",
+    "title": "FinancialJuice: Japan Economy Minister Kiuchi: Pass-through of rising expenses to goods prices remains limited so far",
+    "link": "https://www.financialjuice.com/News/9706108/Japan-Economy-Minister-Kiuchi-Pass-through-of-rising-expenses-to-goods-prices-remains-limited-so-far.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 02:18:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 기우치 일본 경제산업상: 비용 상승분이 상품 가격에 전가되는 현상은 지금까지 제한적인 수준에 그치고 있다"
+  },
+  {
+    "guid": "9706107",
+    "title": "FinancialJuice: TSMC: will contribute 250 million yen to Kumamoto earthquake relief and recovery efforts, says on X post",
+    "link": "https://www.financialjuice.com/News/9706107/TSMC-will-contribute-250-million-yen-to-Kumamoto-earthquake-relief-and-recovery-efforts-says-on-X-post.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 02:06:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: TSMC, X 게시물을 통해 구마모토 지진 구호 및 복구 활동에 2억 5천만 엔을 기부하겠다고 밝혔다"
+  },
+  {
+    "guid": "9705997",
+    "title": "FinancialJuice: China finance ministry: plans 30 billion yuan auction of 91-day bills on Aug. 5",
+    "link": "https://www.financialjuice.com/News/9705997/China-finance-ministry-plans-30-billion-yuan-auction-of-91-day-bills-on-Aug-5.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 01:58:58 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 재무부, 8월 5일 91일 만기 단기채 300억 위안 규모 경매 실시 예정"
+  },
+  {
+    "guid": "9705996",
+    "title": "FinancialJuice: Telegram has been reinstated on the App Store and will soon be accessible to all users",
+    "link": "https://www.financialjuice.com/News/9705996/Telegram-has-been-reinstated-on-the-App-Store-and-will-soon-be-accessible-to-all-users.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 01:55:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 텔레그램이 앱 스토어에 다시 등록되었으며, 곧 모든 사용자가 이용할 수 있게 될 예정입니다"
+  },
+  {
+    "guid": "9705965",
+    "title": "FinancialJuice: Australia Q2 household spending volume rises 0.7% quarter-on-quarter seasonally adjusted",
+    "link": "https://www.financialjuice.com/News/9705965/Australia-Q2-household-spending-volume-rises-07-quarter-on-quarter-seasonally-adjusted.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 01:30:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 2분기 가계 소비액, 계절 조정 기준 전분기 대비 0.7% 증가"
+  },
+  {
+    "guid": "9705961",
+    "title": "FinancialJuice: S.Korea finance minister: to rapidly enact rules on single-stock leveraged ETFs",
+    "link": "https://www.financialjuice.com/News/9705961/SKorea-finance-minister-to-rapidly-enact-rules-on-single-stock-leveraged-ETFs.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 01:30:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 재무부 장관, 개별 종목 레버리지 ETF 관련 규정 신속히 제정할 방침"
+  },
+  {
+    "guid": "9705960",
+    "title": "FinancialJuice: Australia June household spending rises 0.8% month-on-month seasonally adjusted",
+    "link": "https://www.financialjuice.com/News/9705960/Australia-June-household-spending-rises-08-month-on-month-seasonally-adjusted.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 01:30:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 6월 가계 지출, 계절 조정 기준 전월 대비 0.8% 증가"
+  },
+  {
+    "guid": "9705959",
+    "title": "FinancialJuice: Australia June household spending volumes rise 0.7% quarterly seasonally adjusted absolute",
+    "link": "https://www.financialjuice.com/News/9705959/Australia-June-household-spending-volumes-rise-07-quarterly-seasonally-adjusted-absolute.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 01:30:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주의 6월 가계 지출 규모, 계절 조정 기준 전분기 대비 0.7% 증가 (절대치)"
+  },
+  {
+    "guid": "9705958",
+    "title": "FinancialJuice: S.Korea finance minister: to strive to reduce stock market swings",
+    "link": "https://www.financialjuice.com/News/9705958/SKorea-finance-minister-to-strive-to-reduce-stock-market-swings.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 01:28:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 재무부 장관, 주식시장 변동성 완화에 힘쓸 것"
+  },
+  {
+    "guid": "9705957",
+    "title": "FinancialJuice: China c.bank injects 46.5 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+    "link": "https://www.financialjuice.com/News/9705957/China-cbank-injects-465-bln-yuan-through-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 01:21:13 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 1.40% 금리로 7일물 역레포를 통해 465억 위안을 공급… 이전 금리 역시 1.40%였음: 성명서"
+  },
+  {
+    "guid": "9705933",
+    "title": "FinancialJuice: Taiwan overnight interbank rate starts at 0.805% unchanged from previous session open",
+    "link": "https://www.financialjuice.com/News/9705933/Taiwan-overnight-interbank-rate-starts-at-0805-unchanged-from-previous-session-open.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 01:00:44 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 대만 일중 은행간 금리가 전일 개장 시점과 동일한 0.805%로 시작"
+  },
+  {
+    "guid": "9705918",
+    "title": "FinancialJuice: China PBOC likely to fix yuan midpoint at 6.7595 per dollar: estimate",
+    "link": "https://www.financialjuice.com/News/9705918/China-PBOC-likely-to-fix-yuan-midpoint-at-67595-per-dollar-estimate.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 00:26:42 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 인민은행, 위안화 중간 환율을 1달러당 6.7595로 책정할 전망: 추정"
+  },
+  {
+    "guid": "9705917",
+    "title": "FinancialJuice: Bank of Korea: to closely monitor inflation as core rates expected to remain elevated",
+    "link": "https://www.financialjuice.com/News/9705917/Bank-of-Korea-to-closely-monitor-inflation-as-core-rates-expected-to-remain-elevated.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 00:17:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국은행, 핵심 물가 상승률이 높은 수준을 유지할 것으로 예상됨에 따라 물가 동향을 면밀히 주시할 예정"
+  },
+  {
+    "guid": "9705916",
+    "title": "FinancialJuice: Bank of Korea: August inflation likely to rise on base effects",
+    "link": "https://www.financialjuice.com/News/9705916/Bank-of-Korea-August-inflation-likely-to-rise-on-base-effects.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 00:17:08 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국은행, 기저 효과로 8월 물가 상승세 예상"
+  },
+  {
+    "guid": "9705893",
+    "title": "FinancialJuice: Ireland S&P Global July manufacturing PMI at 55.1 vs 54.9 in June",
+    "link": "https://www.financialjuice.com/News/9705893/Ireland-SP-Global-July-manufacturing-PMI-at-551-vs-549-in-June.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 00:01:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아일랜드 S&P 글로벌 7월 제조업 PMI, 55.1로 집계… 6월 54.9 대비 상승"
+  },
+  {
+    "guid": "9705892",
+    "title": "FinancialJuice: Japanese Monetary Base YoY Actual -13.8% (Forecast -, Previous -13.7%)",
+    "link": "https://www.financialjuice.com/News/9705892/Japanese-Monetary-Base-YoY-Actual--138-Forecast---Previous--137.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 23:50:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 통화 공급량 전년 동기 대비 실제 -13.8% (예상 -, 이전 -13.7%)"
+  },
+  {
+    "guid": "9705855",
+    "title": "FinancialJuice: S.Korea July consumer price index rises 2.8% y/y, misses poll of 3.0%: ministry",
+    "link": "https://www.financialjuice.com/News/9705855/SKorea-July-consumer-price-index-rises-28-yy-misses-poll-of-30-ministry.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 23:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 7월 소비자물가지수, 전년 동기 대비 2.8% 상승…예상치 3.0% 하회: 산업통상자원부"
+  },
+  {
+    "guid": "9705854",
+    "title": "FinancialJuice: S. Korea July core CPI posts biggest year-on-year increase since December 2023",
+    "link": "https://www.financialjuice.com/News/9705854/S-Korea-July-core-CPI-posts-biggest-year-on-year-increase-since-December-2023.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 23:00:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국 7월 핵심 소비자물가지수, 2023년 12월 이후 최대 전년 동기 대비 상승률 기록"
+  },
+  {
+    "guid": "9705853",
+    "title": "FinancialJuice: S.Korea July consumer price index falls 0.2% month-on-month, data ministry says",
+    "link": "https://www.financialjuice.com/News/9705853/SKorea-July-consumer-price-index-falls-02-month-on-month-data-ministry-says.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 23:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 7월 소비자물가지수, 전월 대비 0.2% 하락…통계청 발표"
+  },
+  {
+    "guid": "9705852",
+    "title": "FinancialJuice: S.Korea July core CPI rises 2.6% y/y vs 2.5% in June: data ministry",
+    "link": "https://www.financialjuice.com/News/9705852/SKorea-July-core-CPI-rises-26-yy-vs-25-in-June-data-ministry.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 23:00:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국 7월 핵심 소비자물가지수(CPI), 전년 동기 대비 2.6% 상승…6월 2.5% 대비 상승폭 확대: 통계청"
+  },
+  {
+    "guid": "9705851",
+    "title": "FinancialJuice: S.Korea July consumer price index posts first monthly decline since Nov. 2025",
+    "link": "https://www.financialjuice.com/News/9705851/SKorea-July-consumer-price-index-posts-first-monthly-decline-since-Nov-2025.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 23:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 7월 소비자물가지수, 2025년 11월 이후 처음으로 전월 대비 하락 기록"
+  },
+  {
+    "guid": "9705850",
+    "title": "FinancialJuice: S. Korean CPI YoY Actual 2.8% (Forecast 3%, Previous 3.20%)",
+    "link": "https://www.financialjuice.com/News/9705850/S-Korean-CPI-YoY-Actual-28-Forecast-3-Previous-320.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 23:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국 소비자물가지수(CPI) 전년 동기 대비 실제 2.8% (예상 3%, 이전 3.20%)"
+  },
+  {
+    "guid": "9705849",
+    "title": "FinancialJuice: S. Korean CPI MoM Actual -0.2% (Forecast -0.1%, Previous 0.10%)",
+    "link": "https://www.financialjuice.com/News/9705849/S-Korean-CPI-MoM-Actual--02-Forecast--01-Previous-010.aspx?xy=rss",
+    "pubDate": "Mon, 03 Aug 2026 23:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국 소비자물가지수(CPI) 전월 대비 실제 -0.2% (예상 -0.1%, 전월 0.10%)"
+  },
+  {
     "guid": "9705767",
     "title": "FinancialJuice: Cuba’s national power grid collapses after blackout on Sunday: Cuban state media",
     "link": "https://www.financialjuice.com/News/9705767/Cubas-national-power-grid-collapses-after-blackout-on-Sunday-Cuban-state-media.aspx?xy=rss",
