@@ -1,5 +1,293 @@
 [
   {
+    "guid": "9707516",
+    "title": "FinancialJuice: US API Distillate Stock Change Actual -1.2M (Forecast -, Previous -0.125M)",
+    "link": "https://www.financialjuice.com/News/9707516/US-API-Distillate-Stock-Change-Actual--12M-Forecast---Previous--0125M.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 20:48:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 증류유 재고 변동 실제 -1.2M (예상 -, 이전 -0.125M)"
+  },
+  {
+    "guid": "9707515",
+    "title": "FinancialJuice: US API Gasoline Stock Change Actual 0.2M (Forecast -, Previous 0.918M)",
+    "link": "https://www.financialjuice.com/News/9707515/US-API-Gasoline-Stock-Change-Actual-02M-Forecast---Previous-0918M.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 20:48:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 휘발유 재고 변동량, 실제 0.2M (예상 -, 전월 0.918M)"
+  },
+  {
+    "guid": "9707514",
+    "title": "FinancialJuice: US API Cushing Stock Change Actual 2.4M  (Forecast -, Previous 0.273M)",
+    "link": "https://www.financialjuice.com/News/9707514/US-API-Cushing-Stock-Change-Actual-24M--Forecast---Previous-0273M.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 20:48:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 쿠싱 재고 변동량, 실제 2.4M  (예상 -, 전월 0.273M)"
+  },
+  {
+    "guid": "9707513",
+    "title": "FinancialJuice: US API Crude Oil Stock Change Actual 2.7M  (Forecast -2M, Previous -3.296M)",
+    "link": "https://www.financialjuice.com/News/9707513/US-API-Crude-Oil-Stock-Change-Actual-27M--Forecast--2M-Previous--3296M.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 20:48:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 원유 재고 변동량, 실제 2.7M  (예상 -2M, 전월 -3.296M)"
+  },
+  {
+    "guid": "9707494",
+    "title": "FinancialJuice: US Energy Secretary Wright: The extension of the Jones Act waiver is likely and has resulted in lower energy prices in California and the US East Coast.",
+    "link": "https://www.financialjuice.com/News/9707494/US-Energy-Secretary-Wright-The-extension-of-the-Jones-Act-waiver-is-likely-and-has-resulted-in-lower-energy-prices-in-California-and-the-US-East-Coast.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 20:32:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관: 존스법 면제 조치의 연장이 유력하며, 이로 인해 캘리포니아와 미국 동부 해안 지역의 에너지 가격이 하락했다."
+  },
+  {
+    "guid": "9707481",
+    "title": "FinancialJuice: US Energy Secretary Wright: Fuel prices should come down in coming weeks.",
+    "link": "https://www.financialjuice.com/News/9707481/US-Energy-Secretary-Wright-Fuel-prices-should-come-down-in-coming-weeks.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 20:29:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관: 향후 몇 주 안에 유가가 하락할 전망이다."
+  },
+  {
+    "guid": "9707463",
+    "title": "FinancialJuice: $AMD AMD Q2 Earnings\n",
+    "link": "https://www.financialjuice.com/News/9707463/AMD-AMD-Q2-Earnings.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 20:15:53 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: $AMD AMD 2분기 실적\n"
+  },
+  {
+    "guid": "9707462",
+    "title": "FinancialJuice: Trump: As we grow defense production, will issue more to allies.",
+    "link": "https://www.financialjuice.com/News/9707462/Trump-As-we-grow-defense-production-will-issue-more-to-allies.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 20:15:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “방위 산업 생산을 확대함에 따라 동맹국들에 더 많은 물량을 공급할 것이다.”"
+  },
+  {
+    "guid": "9707457",
+    "title": "FinancialJuice: $SPCX SpaceX Q2 2026 Earnings",
+    "link": "https://www.financialjuice.com/News/9707457/SPCX-SpaceX-Q2-2026-Earnings.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 20:02:35 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: $SPCX 스페이스X 2026년 2분기 실적"
+  },
+  {
+    "guid": "9707433",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9707433/MOC-Imbalance.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:50:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOC 불균형"
+  },
+  {
+    "guid": "9707428",
+    "title": "FinancialJuice: SpaceX: Starmind satellites to include Nvidia Rubin GPUs. $SPCX $NVDA",
+    "link": "https://www.financialjuice.com/News/9707428/SpaceX-Starmind-satellites-to-include-Nvidia-Rubin-GPUs-SPCX-NVDA.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:33:11 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 스페이스X, 스타마인드 위성에 엔비디아 루빈 GPU 탑재 예정. $SPCX $NVDA"
+  },
+  {
+    "guid": "9707427",
+    "title": "FinancialJuice: SpaceX: SpaceX is partnering with Nvidia to design the starmind am satellite compute payload. $SPCX $NVDA",
+    "link": "https://www.financialjuice.com/News/9707427/SpaceX-SpaceX-is-partnering-with-Nvidia-to-design-the-starmind-am-satellite-compute-payload-SPCX-NVDA.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:32:42 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 스페이스X: 스페이스X가 엔비디아와 협력해 ‘스타마인드(Starmind)’ 위성 컴퓨팅 페이로드를 설계하고 있다. $SPCX $NVDA"
+  },
+  {
+    "guid": "9707424",
+    "title": "FinancialJuice: SpaceX: SpaceX is partnering with Nvidia. $SPCX $NVDA",
+    "link": "https://www.financialjuice.com/News/9707424/SpaceX-SpaceX-is-partnering-with-Nvidia-SPCX-NVDA.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:32:01 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 스페이스X: 스페이스X가 엔비디아와 제휴를 맺었습니다. $SPCX $NVDA"
+  },
+  {
+    "guid": "9707403",
+    "title": "FinancialJuice: House China Panel's report expected as soon as Tuesday.",
+    "link": "https://www.financialjuice.com/News/9707403/House-China-Panels-report-expected-as-soon-as-Tuesday.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:23:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 하원 중국 관련 위원회의 보고서가 빠르면 화요일에 발표될 전망이다."
+  },
+  {
+    "guid": "9707402",
+    "title": "FinancialJuice: A Chinese telecom hack exposed data centers - House Report.",
+    "link": "https://www.financialjuice.com/News/9707402/A-Chinese-telecom-hack-exposed-data-centers---House-Report.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:22:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 통신사 해킹으로 데이터 센터 정보 유출 - 하원 보고서."
+  },
+  {
+    "guid": "9707401",
+    "title": "FinancialJuice: House China Panel's report points to cybersecurity risks.",
+    "link": "https://www.financialjuice.com/News/9707401/House-China-Panels-report-points-to-cybersecurity-risks.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:22:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 하원 중국 특별위원회의 보고서가 사이버 보안 위험을 지적하고 있다."
+  },
+  {
+    "guid": "9707400",
+    "title": "FinancialJuice: Wednesday FX Options Expiries",
+    "link": "https://www.financialjuice.com/News/9707400/Wednesday-FX-Options-Expiries.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 19:21:36 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 수요일 외환 옵션 만기일"
+  },
+  {
+    "guid": "9707379",
+    "title": "FinancialJuice: Europe could foot bill in new plan to reopen Hormuz - The Telegraph",
+    "link": "https://www.financialjuice.com/News/9707379/Europe-could-foot-bill-in-new-plan-to-reopen-Hormuz---The-Telegraph.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:54:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호르무즈 해협 재개방을 위한 새로운 계획의 비용은 유럽이 부담할 수도 있다 - 더 텔레그래프"
+  },
+  {
+    "guid": "9707378",
+    "title": "FinancialJuice: Brent Crude futures settle at $79.36/bbl, down $4.41, 5.26%",
+    "link": "https://www.financialjuice.com/News/9707378/Brent-Crude-futures-settle-at-7936bbl-down-441-526.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:48:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브렌트 원유 선물 가격이 배럴당 79.36달러로 마감하며, 4.41달러(5.26%) 하락했다."
+  },
+  {
+    "guid": "9707350",
+    "title": "FinancialJuice: NYMEX Nat Gas Sept. futures settle at $2.6820/MMBTU",
+    "link": "https://www.financialjuice.com/News/9707350/NYMEX-Nat-Gas-Sept-futures-settle-at-26820MMBTU.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:31:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 9월 인도분 천연가스 선물, MMBTU당 2.6820달러에 마감"
+  },
+  {
+    "guid": "9707348",
+    "title": "FinancialJuice: NYMEX Diesel Sept. futures settle at $3.7705 a gallon",
+    "link": "https://www.financialjuice.com/News/9707348/NYMEX-Diesel-Sept-futures-settle-at-37705-a-gallon.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:31:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 9월물 디젤 선물, 갤런당 3.7705달러에 마감"
+  },
+  {
+    "guid": "9707347",
+    "title": "FinancialJuice: NYMEX Gasoline Sept. futures settle at $2.8522 a gallon",
+    "link": "https://www.financialjuice.com/News/9707347/NYMEX-Gasoline-Sept-futures-settle-at-28522-a-gallon.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:31:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 9월물 휘발유 선물, 갤런당 2.8522달러에 마감"
+  },
+  {
+    "guid": "9707346",
+    "title": "FinancialJuice: NYMEX WTI Crude Sept. futures settle at $75.77 a barrel down $4.57, 5.69%",
+    "link": "https://www.financialjuice.com/News/9707346/NYMEX-WTI-Crude-Sept-futures-settle-at-7577-a-barrel-down-457-569.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:31:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX WTI 원유 9월물 선물 가격이 배럴당 75.77달러로 마감하며 4.57달러(5.69%) 하락했다."
+  },
+  {
+    "guid": "9707344",
+    "title": "FinancialJuice: US Official: Strait of Hormuz is an international waterway and no party controls its routes or the ability to pass through it - Al Jazeera",
+    "link": "https://www.financialjuice.com/News/9707344/US-Official-Strait-of-Hormuz-is-an-international-waterway-and-no-party-controls-its-routes-or-the-ability-to-pass-through-it---Al-Jazeera.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:28:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 당국자 “호르무즈 해협은 국제 수로이며, 어느 당사자도 그 항로나 통행권을 통제하지 않는다” - 알자지라"
+  },
+  {
+    "guid": "9707343",
+    "title": "FinancialJuice: Negotiations on document to reopen Strait of Hormuz via Pakistan-mediated indirect US-Iran talks are close to finalization - Asia One News' Anas Malik",
+    "link": "https://www.financialjuice.com/News/9707343/Negotiations-on-document-to-reopen-Strait-of-Hormuz-via-Pakistan-mediated-indirect-US-Iran-talks-are-close-to-finalization---Asia-One-News-Anas-Malik.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:25:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 파키스탄이 중재하는 미국-이란 간 간접 회담을 통해 호르무즈 해협 재개방을 위한 문서에 대한 협상이 막바지에 접어들었다 - Asia One News의 아나스 말릭"
+  },
+  {
+    "guid": "9707342",
+    "title": "FinancialJuice: Iran-Oman agreement alone would not ensure security of the Strait of Hormuz - Fars News citing source close to negotiating team",
+    "link": "https://www.financialjuice.com/News/9707342/Iran-Oman-agreement-alone-would-not-ensure-security-of-the-Strait-of-Hormuz---Fars-News-citing-source-close-to-negotiating-team.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:21:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란-오만 간 합의만으로는 호르무즈 해협의 안보를 보장할 수 없다 - 파르스 뉴스, 협상팀 관계자 인용"
+  },
+  {
+    "guid": "9707341",
+    "title": "FinancialJuice: Still concern that the obstructionist actions of the US or some regional parties may prolong or disrupt the negotiation process - Iran's Fars News",
+    "link": "https://www.financialjuice.com/News/9707341/Still-concern-that-the-obstructionist-actions-of-the-US-or-some-regional-parties-may-prolong-or-disrupt-the-negotiation-process---Irans-Fars-News.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:20:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국이나 일부 지역 세력의 방해 행위로 인해 협상 과정이 장기화되거나 차질을 빚을 수 있다는 우려가 여전히 남아 있다 - 이란 파르스 뉴스"
+  },
+  {
+    "guid": "9707340",
+    "title": "FinancialJuice: White House expected to extend Jones Act waiver in coming days - sources",
+    "link": "https://www.financialjuice.com/News/9707340/White-House-expected-to-extend-Jones-Act-waiver-in-coming-days---sources.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:19:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면 백악관이 조만간 존스법 면제 조치를 연장할 것으로 예상된다"
+  },
+  {
+    "guid": "9707339",
+    "title": "FinancialJuice: In recent days, some US officials have sent mixed signals, directly or through some of their regional partners, causing disruptions in the negotiation process - Fars News",
+    "link": "https://www.financialjuice.com/News/9707339/In-recent-days-some-US-officials-have-sent-mixed-signals-directly-or-through-some-of-their-regional-partners-causing-disruptions-in-the-negotiation-process---Fars-News.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:19:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 최근 일부 미국 관리들이 직접적으로 또는 일부 지역 파트너들을 통해 모호한 신호를 보내면서 협상 과정에 차질을 빚고 있다 - 파르스 뉴스"
+  },
+  {
+    "guid": "9707338",
+    "title": "FinancialJuice: Source close to negotiating team says no negotiations have been held with US - Fars News",
+    "link": "https://www.financialjuice.com/News/9707338/Source-close-to-negotiating-team-says-no-negotiations-have-been-held-with-US---Fars-News.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:17:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 협상팀과 가까운 소식통에 따르면 미국과는 아직 협상이 이루어지지 않았다고 한다 - 파르스 뉴스"
+  },
+  {
+    "guid": "9707333",
+    "title": "FinancialJuice: Source close to negotiating team says Iran is negotiating only with Oman on future Strait of Hormuz arrangements - Fars News",
+    "link": "https://www.financialjuice.com/News/9707333/Source-close-to-negotiating-team-says-Iran-is-negotiating-only-with-Oman-on-future-Strait-of-Hormuz-arrangements---Fars-News.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:17:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 협상팀과 가까운 소식통에 따르면, 이란은 호르무즈 해협의 향후 운영 방안에 대해 오만과만 협상 중이라고 한다 - 파르스 뉴스"
+  },
+  {
+    "guid": "9707317",
+    "title": "FinancialJuice: Qatar's Emir and Trump discuss efforts to reduce escalation and converge viewpoints between US and Iran - Emir's Office",
+    "link": "https://www.financialjuice.com/News/9707317/Qatars-Emir-and-Trump-discuss-efforts-to-reduce-escalation-and-converge-viewpoints-between-US-and-Iran---Emirs-Office.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 18:11:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르 에미르와 트럼프, 미국-이란 간 긴장 고조 완화 및 입장 조율 방안 논의 - 에미르실"
+  },
+  {
+    "guid": "9707276",
+    "title": "FinancialJuice: API CEO: About 7mb/d of oil flows through Hormuz each day.",
+    "link": "https://www.financialjuice.com/News/9707276/API-CEO-About-7mbd-of-oil-flows-through-Hormuz-each-day.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 17:20:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: API CEO: 매일 약 7mb/d의 원유가 호르무즈 해협을 통과한다."
+  },
+  {
+    "guid": "9707254",
+    "title": "FinancialJuice: US: Israel-Lebanon talks began today to continue through August 6th.",
+    "link": "https://www.financialjuice.com/News/9707254/US-Israel-Lebanon-talks-began-today-to-continue-through-August-6th.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 17:01:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국: 이스라엘-레바논 간 회담이 오늘 시작되어 8월 6일까지 이어질 예정이다."
+  },
+  {
+    "guid": "9707251",
+    "title": "FinancialJuice: India Shipping Minister: Indian MSV Faize Noore Oliya has been hit by a projectile near Yemeni waters, causing the vessel to capsize and sink.",
+    "link": "https://www.financialjuice.com/News/9707251/India-Shipping-Minister-Indian-MSV-Faize-Noore-Oliya-has-been-hit-by-a-projectile-near-Yemeni-waters-causing-the-vessel-to-capsize-and-sink.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 16:49:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인도 해운부 장관: 인도 중형 화물선(MSV) ‘파이제 누르 올리야(Faize Noore Oliya)’호가 예멘 인근 해역에서 발사체에 피격되어 전복 및 침몰했다."
+  },
+  {
+    "guid": "9707229",
+    "title": "FinancialJuice: Iran's Foreign Ministry spokesman: Talks have been positive at technical and political levels.",
+    "link": "https://www.financialjuice.com/News/9707229/Irans-Foreign-Ministry-spokesman-Talks-have-been-positive-at-technical-and-political-levels.aspx?xy=rss",
+    "pubDate": "Tue, 04 Aug 2026 16:20:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 외무부 대변인: 기술적·정치적 차원에서 협상이 긍정적으로 진행되고 있다."
+  },
+  {
     "guid": "9707228",
     "title": "FinancialJuice: Iran's Foreign Ministry Spokeman: The talks have so far been assessed as positive at both the technical and political levels, and Iran is working with Oman to develop the necessary mechanisms for future arrangements to manage shipping traffic in this strategic waterway.",
     "link": "https://www.financialjuice.com/News/9707228/Irans-Foreign-Ministry-Spokeman-The-talks-have-so-far-been-assessed-as-positive-at-both-the-technical-and-political-levels-and-Iran-is-working-with-Oman-to-develop-the-necessary-mechanisms-for-future-arrangements-to-manage-shipping-traffic-.aspx?xy=rss",
