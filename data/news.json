@@ -1,5 +1,437 @@
 [
   {
+    "guid": "9710047",
+    "title": "FinancialJuice: Zelenskyy: Ukraine hit 2 Russian oil refineries",
+    "link": "https://www.financialjuice.com/News/9710047/Zelenskyy-Ukraine-hit-2-Russian-oil-refineries.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 07:27:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 젤렌스키: 우크라이나, 러시아 정유소 2곳 공격"
+  },
+  {
+    "guid": "9710022",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: USD, CAD, JPY, GBP, EUR, CHF, AUD, NZD - Weakest",
+    "link": "https://www.financialjuice.com/News/9710022/Currency-Strength-Chart-Strongest-USD-CAD-JPY-GBP-EUR-CHF-AUD-NZD---Weakest.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 07:03:01 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: USD, CAD, JPY, GBP, EUR, CHF, AUD, NZD - 가장 약한 통화"
+  },
+  {
+    "guid": "9710019",
+    "title": "FinancialJuice: Swiss Unemployment Rate Adjusted Actual 3.1% (Forecast 3.1%, Previous 3.1%)",
+    "link": "https://www.financialjuice.com/News/9710019/Swiss-Unemployment-Rate-Adjusted-Actual-31-Forecast-31-Previous-31.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 07:00:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 실업률(계절 조정 후) 3.1% (예상 3.1%, 전월 3.1%)"
+  },
+  {
+    "guid": "9710018",
+    "title": "FinancialJuice: Swiss Unemployment Rate Unadjusted Actual 3% (Forecast 3%, Previous 2.9%)",
+    "link": "https://www.financialjuice.com/News/9710018/Swiss-Unemployment-Rate-Unadjusted-Actual-3-Forecast-3-Previous-29.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 실업률(계절 조정 전) 실제 3% (예상 3%, 전월 2.9%)"
+  },
+  {
+    "guid": "9710000",
+    "title": "FinancialJuice: OpenAI files for dismissal of Apple trade secrets lawsuit",
+    "link": "https://www.financialjuice.com/News/9710000/OpenAI-files-for-dismissal-of-Apple-trade-secrets-lawsuit.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 06:07:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 오픈AI, 애플 영업비밀 소송 기각 신청"
+  },
+  {
+    "guid": "9709983",
+    "title": "FinancialJuice: German Industrial Orders MoM Actual 3.1% (Forecast 0.5%, Previous 1.9%)",
+    "link": "https://www.financialjuice.com/News/9709983/German-Industrial-Orders-MoM-Actual-31-Forecast-05-Previous-19.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 06:00:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 산업수주 전월 대비 실제치 3.1% (예상치 0.5%, 전월치 1.9%)"
+  },
+  {
+    "guid": "9709911",
+    "title": "FinancialJuice: Russia strikes two ships near Ukraine's Odesa late Wednesday: Russian defense ministry, newswires say",
+    "link": "https://www.financialjuice.com/News/9709911/Russia-strikes-two-ships-near-Ukraines-Odesa-late-Wednesday-Russian-defense-ministry-newswires-say.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 04:53:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 수요일 늦은 시간, 러시아가 우크라이나 오데사 인근에서 선박 2척을 공격했다: 러시아 국방부 및 통신사 보도에 따르면"
+  },
+  {
+    "guid": "9709897",
+    "title": "FinancialJuice: Dutch June consumer spending rises 1.7% y/y after May's revised 2.2% growth: CBS",
+    "link": "https://www.financialjuice.com/News/9709897/Dutch-June-consumer-spending-rises-17-yy-after-Mays-revised-22-growth-CBS.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 04:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 네덜란드 6월 소비자 지출, 5월 수정치 2.2% 성장에 이어 전년 동기 대비 1.7% 증가: CBS"
+  },
+  {
+    "guid": "9709896",
+    "title": "FinancialJuice: Dutch Consumer Spending Actual 1.7% (Forecast -, Previous 1.8%)",
+    "link": "https://www.financialjuice.com/News/9709896/Dutch-Consumer-Spending-Actual-17-Forecast---Previous-18.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 04:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 네덜란드 소비자 지출, 실제 1.7% (예상 -, 이전 1.8%)"
+  },
+  {
+    "guid": "9709895",
+    "title": "FinancialJuice: Sinopec purchases 30 to 40 Russian shipments for July-September, trade sources say",
+    "link": "https://www.financialjuice.com/News/9709895/Sinopec-purchases-30-to-40-Russian-shipments-for-July-September-trade-sources-say.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 04:25:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 무역 소식통에 따르면, 시노펙이 7~9월분 러시아산 원유 30~40회분을 구매했다고 한다"
+  },
+  {
+    "guid": "9709894",
+    "title": "FinancialJuice: Sinopec increases Russian oil imports to compensate for Middle East supply cut, traders and tracker say",
+    "link": "https://www.financialjuice.com/News/9709894/Sinopec-increases-Russian-oil-imports-to-compensate-for-Middle-East-supply-cut-traders-and-tracker-say.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 04:25:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트레이더들과 시장 분석가들에 따르면, 시노펙이 중동산 원유 공급 감소를 만회하기 위해 러시아산 원유 수입을 늘리고 있다고 한다"
+  },
+  {
+    "guid": "9709852",
+    "title": "FinancialJuice: Two Israeli soldiers killed in southern Lebanon: Israeli military",
+    "link": "https://www.financialjuice.com/News/9709852/Two-Israeli-soldiers-killed-in-southern-Lebanon-Israeli-military.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 03:21:24 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 레바논 남부에서 이스라엘 군인 2명 사망: 이스라엘 군 당국"
+  },
+  {
+    "guid": "9709827",
+    "title": "FinancialJuice: Hong Kong's Hang Seng index falls over 2%",
+    "link": "https://www.financialjuice.com/News/9709827/Hong-Kongs-Hang-Seng-index-falls-over-2.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 02:03:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 홍콩 항셍 지수 2% 이상 하락"
+  },
+  {
+    "guid": "9709742",
+    "title": "FinancialJuice: Kuwait Investment Authority obtains $4.25 billion loan",
+    "link": "https://www.financialjuice.com/News/9709742/Kuwait-Investment-Authority-obtains-425-billion-loan.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:33:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 쿠웨이트 투자청, 42억 5천만 달러 대출 확보"
+  },
+  {
+    "guid": "9709724",
+    "title": "FinancialJuice: Australian Imports Actual -0.2% (Forecast -, Previous 2.6%)",
+    "link": "https://www.financialjuice.com/News/9709724/Australian-Imports-Actual--02-Forecast---Previous-26.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:30:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 수입 실적 -0.2% (예상 -, 전월 2.6%)"
+  },
+  {
+    "guid": "9709723",
+    "title": "FinancialJuice: Australian Exports Actual 9.6% (Forecast -, Previous -6.9%)",
+    "link": "https://www.financialjuice.com/News/9709723/Australian-Exports-Actual-96-Forecast---Previous--69.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:30:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 수출 실적 9.6% (예상 -, 전월 -6.9%)"
+  },
+  {
+    "guid": "9709727",
+    "title": "FinancialJuice: Australia June goods balance A$1,929 mln, seasonally adjusted versus poll A$-1,100 mln",
+    "link": "https://www.financialjuice.com/News/9709727/Australia-June-goods-balance-A1929-mln-seasonally-adjusted-versus-poll-A-1100-mln.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주의 6월 상품수지, 계절 조정 기준 1,929 mln A$, 시장 예상치 -1,100 mln A$"
+  },
+  {
+    "guid": "9709726",
+    "title": "FinancialJuice: Australia June goods exports rise 9.6% m/m, seasonally adjusted",
+    "link": "https://www.financialjuice.com/News/9709726/Australia-June-goods-exports-rise-96-mm-seasonally-adjusted.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주의 6월 상품 수출, 계절 조정 기준 전월 대비 9.6% 증가"
+  },
+  {
+    "guid": "9709725",
+    "title": "FinancialJuice: Australia June goods imports decline 0.2% m/m, seasonally adjusted",
+    "link": "https://www.financialjuice.com/News/9709725/Australia-June-goods-imports-decline-02-mm-seasonally-adjusted.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주의 6월 상품 수입, 계절 조정 기준 전월 대비 0.2% 감소"
+  },
+  {
+    "guid": "9709722",
+    "title": "FinancialJuice: Australian Trade Balance Actual 1929M (Forecast -1080M, Previous -3,018M)",
+    "link": "https://www.financialjuice.com/News/9709722/Australian-Trade-Balance-Actual-1929M-Forecast--1080M-Previous--3018M.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 무역수지 실제치 1,929M (예상치 -1,080M, 전월치 -3,018M)"
+  },
+  {
+    "guid": "9709721",
+    "title": "FinancialJuice: Fed's Daly: increase in borrowing for tech investment warrants attention",
+    "link": "https://www.financialjuice.com/News/9709721/Feds-Daly-increase-in-borrowing-for-tech-investment-warrants-attention.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:28:36 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, “기술 투자 목적의 차입 증가에 주목해야 한다”"
+  },
+  {
+    "guid": "9709720",
+    "title": "FinancialJuice: South Korea Industry Minister: U.S. to reveal results of oversupply probe this month",
+    "link": "https://www.financialjuice.com/News/9709720/South-Korea-Industry-Minister-US-to-reveal-results-of-oversupply-probe-this-month.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:28:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 산업부 장관, “미국이 이번 달 중 공급 과잉 조사 결과를 발표할 예정”"
+  },
+  {
+    "guid": "9709719",
+    "title": "FinancialJuice: Fed's Daly: focusing on investment levels in technology sector",
+    "link": "https://www.financialjuice.com/News/9709719/Feds-Daly-focusing-on-investment-levels-in-technology-sector.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:26:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, 기술 부문의 투자 수준에 주목"
+  },
+  {
+    "guid": "9709718",
+    "title": "FinancialJuice: OpenAI: Its AI agents compromised own systems before Hugging Face - Axios",
+    "link": "https://www.financialjuice.com/News/9709718/OpenAI-Its-AI-agents-compromised-own-systems-before-Hugging-Face---Axios.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:25:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI: Hugging Face 사건 이전에 자사 AI 에이전트가 자체 시스템을 침해했다 - Axios"
+  },
+  {
+    "guid": "9709717",
+    "title": "FinancialJuice: China c.bank pumps 1 bln yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+    "link": "https://www.financialjuice.com/News/9709717/China-cbank-pumps-1-bln-yuan-through-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:20:49 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 7일물 역레포를 통해 10억 위안을 공급… 금리는 이전과 동일한 1.40%: 성명서"
+  },
+  {
+    "guid": "9709702",
+    "title": "FinancialJuice: Fed's Daly: resurgence of strong inflation pressures would require aggressive rate response",
+    "link": "https://www.financialjuice.com/News/9709702/Feds-Daly-resurgence-of-strong-inflation-pressures-would-require-aggressive-rate-response.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:16:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, “강력한 인플레이션 압력이 재부상할 경우 공격적인 금리 대응이 필요할 것”"
+  },
+  {
+    "guid": "9709701",
+    "title": "FinancialJuice: Fed's Daly: concerns about public reaction to another significant inflation shock",
+    "link": "https://www.financialjuice.com/News/9709701/Feds-Daly-concerns-about-public-reaction-to-another-significant-inflation-shock.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:16:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, 또 다른 심각한 인플레이션 충격에 대한 대중의 반응 우려"
+  },
+  {
+    "guid": "9709699",
+    "title": "FinancialJuice: Fed's Daly: central bank should be ready to intervene if inflation worsens",
+    "link": "https://www.financialjuice.com/News/9709699/Feds-Daly-central-bank-should-be-ready-to-intervene-if-inflation-worsens.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:06:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, “인플레이션이 악화될 경우 중앙은행은 개입할 준비를 해야 한다”"
+  },
+  {
+    "guid": "9709698",
+    "title": "FinancialJuice: Fed's Daly: central bank still needs data to determine next policy step",
+    "link": "https://www.financialjuice.com/News/9709698/Feds-Daly-central-bank-still-needs-data-to-determine-next-policy-step.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:04:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, “중앙은행은 향후 정책 방향을 결정하기 위해 여전히 데이터가 필요하다”"
+  },
+  {
+    "guid": "9709697",
+    "title": "FinancialJuice: Fed's Daly: fully backs holding rates steady in July",
+    "link": "https://www.financialjuice.com/News/9709697/Feds-Daly-fully-backs-holding-rates-steady-in-July.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:04:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, 7월 금리 동결을 전폭 지지"
+  },
+  {
+    "guid": "9709696",
+    "title": "FinancialJuice: Fed's Daly: central bank faces varied risks in setting rate policy",
+    "link": "https://www.financialjuice.com/News/9709696/Feds-Daly-central-bank-faces-varied-risks-in-setting-rate-policy.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:03:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, “중앙은행은 금리 정책 수립 과정에서 다양한 위험에 직면해 있다”"
+  },
+  {
+    "guid": "9709689",
+    "title": "FinancialJuice: Taiwan overnight interbank rate begins at 0.806% (vs 0.805% at prior session open)",
+    "link": "https://www.financialjuice.com/News/9709689/Taiwan-overnight-interbank-rate-begins-at-0806-vs-0805-at-prior-session-open.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 01:00:47 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 대만 일일 은행간 금리, 0.806%로 개장 (전 거래일 개장 시 0.805% 대비)"
+  },
+  {
+    "guid": "9709684",
+    "title": "FinancialJuice: Fed's Daly: Stable Inflation Expectations Should Not Be Taken for Granted",
+    "link": "https://www.financialjuice.com/News/9709684/Feds-Daly-Stable-Inflation-Expectations-Should-Not-Be-Taken-for-Granted.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:57:56 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리 “안정적인 인플레이션 기대감을 당연시해서는 안 된다”"
+  },
+  {
+    "guid": "9709683",
+    "title": "FinancialJuice: Fed's Daly: Longer-Term Inflation Expectations Remain Firmly Anchored",
+    "link": "https://www.financialjuice.com/News/9709683/Feds-Daly-Longer-Term-Inflation-Expectations-Remain-Firmly-Anchored.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:57:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, “장기 인플레이션 기대치는 여전히 확고하게 고정되어 있다”"
+  },
+  {
+    "guid": "9709682",
+    "title": "FinancialJuice: Fed's Daly: job market unlikely to spark significant inflation pressure",
+    "link": "https://www.financialjuice.com/News/9709682/Feds-Daly-job-market-unlikely-to-spark-significant-inflation-pressure.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:55:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, “고용 시장이 상당한 인플레이션 압력을 유발할 가능성은 낮다”"
+  },
+  {
+    "guid": "9709681",
+    "title": "FinancialJuice: Fed's Daly: 'good reasons' to expect supply shocks won't cause lasting inflation impact",
+    "link": "https://www.financialjuice.com/News/9709681/Feds-Daly-good-reasons-to-expect-supply-shocks-wont-cause-lasting-inflation-impact.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:52:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, “공급 충격이 지속적인 인플레이션 영향을 미치지 않을 것이라고 예상할 만한 ‘타당한 이유’가 있다”"
+  },
+  {
+    "guid": "9709680",
+    "title": "FinancialJuice: Fed's Daly: many expect supply shocks to trigger temporary inflation surge",
+    "link": "https://www.financialjuice.com/News/9709680/Feds-Daly-many-expect-supply-shocks-to-trigger-temporary-inflation-surge.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:51:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, “많은 이들이 공급 충격이 일시적인 인플레이션 급등을 촉발할 것으로 예상하고 있다”"
+  },
+  {
+    "guid": "9709668",
+    "title": "FinancialJuice: Fed's Daly: Technology spending is pushing inflation higher",
+    "link": "https://www.financialjuice.com/News/9709668/Feds-Daly-Technology-spending-is-pushing-inflation-higher.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:45:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리 “기술 분야 지출이 인플레이션을 끌어올리고 있다”"
+  },
+  {
+    "guid": "9709667",
+    "title": "FinancialJuice: Fed's Daly: Middle East war ending should ease inflation pressures",
+    "link": "https://www.financialjuice.com/News/9709667/Feds-Daly-Middle-East-war-ending-should-ease-inflation-pressures.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:43:58 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 연준의 데일리 “중동 전쟁 종식, 인플레이션 압력 완화할 것”"
+  },
+  {
+    "guid": "9709666",
+    "title": "FinancialJuice: Fed's Daly: some signs tariff impact on inflation starting to fade",
+    "link": "https://www.financialjuice.com/News/9709666/Feds-Daly-some-signs-tariff-impact-on-inflation-starting-to-fade.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:42:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리, “관세가 물가에 미치는 영향이 점차 약화되기 시작했다는 징후가 일부 나타나고 있다”"
+  },
+  {
+    "guid": "9709665",
+    "title": "FinancialJuice: Fed's Daly: tariffs had obvious effect on inflation",
+    "link": "https://www.financialjuice.com/News/9709665/Feds-Daly-tariffs-had-obvious-effect-on-inflation.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:42:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 데일리 “관세가 물가에 뚜렷한 영향을 미쳤다”"
+  },
+  {
+    "guid": "9709660",
+    "title": "FinancialJuice: UKMTO: crew and ship reported safe, no environmental harm detected",
+    "link": "https://www.financialjuice.com/News/9709660/UKMTO-crew-and-ship-reported-safe-no-environmental-harm-detected.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:24:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: UKMTO: 선원 및 선박은 무사한 것으로 보고되었으며, 환경 피해는 확인되지 않았음"
+  },
+  {
+    "guid": "9709659",
+    "title": "FinancialJuice: UKMTO: tanker master reports hearing two blasts while passing Strait of Hormuz",
+    "link": "https://www.financialjuice.com/News/9709659/UKMTO-tanker-master-reports-hearing-two-blasts-while-passing-Strait-of-Hormuz.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:24:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: UKMTO: 유조선 선장이 호르무즈 해협을 통과하던 중 두 차례의 폭발음을 들었다고 보고했다"
+  },
+  {
+    "guid": "9709658",
+    "title": "FinancialJuice: UKMTO reports incident 9 nm southeast of Kumzar, Oman",
+    "link": "https://www.financialjuice.com/News/9709658/UKMTO-reports-incident-9-nm-southeast-of-Kumzar-Oman.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:24:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: UKMTO, 오만 쿰자르 남동쪽 9해리 지점에서 발생한 사건 보고"
+  },
+  {
+    "guid": "9709646",
+    "title": "FinancialJuice: China PBOC projected to fix yuan midpoint at 6.7462 per dollar: Estimate",
+    "link": "https://www.financialjuice.com/News/9709646/China-PBOC-projected-to-fix-yuan-midpoint-at-67462-per-dollar-Estimate.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:16:43 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 인민은행, 위안화 중간 환율을 1달러당 6.7462로 책정할 전망: 추정치"
+  },
+  {
+    "guid": "9709631",
+    "title": "FinancialJuice: S. Korea finance minister: chance rises significantly for economic growth to hit 3% level first time in 5 years",
+    "link": "https://www.financialjuice.com/News/9709631/S-Korea-finance-minister-chance-rises-significantly-for-economic-growth-to-hit-3-level-first-time-in-5-years.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:01:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 재무부 장관, “5년 만에 처음으로 경제 성장률이 3% 수준에 도달할 가능성이 크게 높아졌다”"
+  },
+  {
+    "guid": "9709630",
+    "title": "FinancialJuice: Ireland S&P Global July Services PMI rises to 55.2 from 54.2 in June",
+    "link": "https://www.financialjuice.com/News/9709630/Ireland-SP-Global-July-Services-PMI-rises-to-552-from-542-in-June.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 00:01:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아일랜드 S&P 글로벌 7월 서비스업 PMI, 6월 54.2에서 55.2로 상승"
+  },
+  {
+    "guid": "9709628",
+    "title": "FinancialJuice: Foreign Investment Japanese Bonds Actual 558.9B (Forecast -, Previous -1,513.9B)",
+    "link": "https://www.financialjuice.com/News/9709628/Foreign-Investment-Japanese-Bonds-Actual-5589B-Forecast---Previous--15139B.aspx?xy=rss",
+    "pubDate": "Wed, 05 Aug 2026 23:51:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 국채에 대한 외국인 투자 실적이 5,589억을 기록했습니다 (예상 -, 이전 -1,513.9B)."
+  },
+  {
+    "guid": "9709627",
+    "title": "FinancialJuice: Japanese Foreign Stock Investment Actual -276.4B (Forecast -, Previous 320.2B)",
+    "link": "https://www.financialjuice.com/News/9709627/Japanese-Foreign-Stock-Investment-Actual--2764B-Forecast---Previous-3202B.aspx?xy=rss",
+    "pubDate": "Wed, 05 Aug 2026 23:51:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 해외 주식 투자 실적이 -2,764억을 기록했습니다 (예상 -, 이전 3,202억)."
+  },
+  {
+    "guid": "9709626",
+    "title": "FinancialJuice: Foreign Investment Japanese Stocks Actual -392.5B (Forecast -, Previous 912.1B ,Revision 912.4B)",
+    "link": "https://www.financialjuice.com/News/9709626/Foreign-Investment-Japanese-Stocks-Actual--3925B-Forecast---Previous-9121B-Revision-9124B.aspx?xy=rss",
+    "pubDate": "Wed, 05 Aug 2026 23:50:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 주식 외국인 투자 실적이 -3,925억을 기록했습니다 (예상 -, 이전 9,121억, 수정치 9,124억)."
+  },
+  {
+    "guid": "9709625",
+    "title": "FinancialJuice: Japanese Foreign Bond Investment Actual 477.9B (Forecast -, Previous -811.4B)",
+    "link": "https://www.financialjuice.com/News/9709625/Japanese-Foreign-Bond-Investment-Actual-4779B-Forecast---Previous--8114B.aspx?xy=rss",
+    "pubDate": "Wed, 05 Aug 2026 23:50:46 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 일본의 해외 채권 투자 실적 4,779억 (예상 -, 전월 -8,114억)"
+  },
+  {
+    "guid": "9709569",
+    "title": "FinancialJuice: S.Korea June current-account surplus provisional $49.73 billion vs $38.61 billion in May: central bank",
+    "link": "https://www.financialjuice.com/News/9709569/SKorea-June-current-account-surplus-provisional-4973-billion-vs-3861-billion-in-May-central-bank.aspx?xy=rss",
+    "pubDate": "Wed, 05 Aug 2026 23:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국 6월 경상수지 흑자 잠정치 497억 3천만 달러…5월 386억 1천만 달러 대비 증가: 한국은행"
+  },
+  {
+    "guid": "9709568",
+    "title": "FinancialJuice: South Korea January-June current account surplus provisional at $191.01 billion vs $47.87 billion year earlier: central bank",
+    "link": "https://www.financialjuice.com/News/9709568/South-Korea-January-June-current-account-surplus-provisional-at-19101-billion-vs-4787-billion-year-earlier-central-bank.aspx?xy=rss",
+    "pubDate": "Wed, 05 Aug 2026 23:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국 1~6월 경상수지 흑자, 전년 동기 478억 7천만 달러 대비 1,910억 1천만 달러로 잠정 집계: 한국은행"
+  },
+  {
+    "guid": "9709567",
+    "title": "FinancialJuice: S. Korean Current Account Bal NSA Actual 49.7304B (Forecast -, Previous 38.61B)",
+    "link": "https://www.financialjuice.com/News/9709567/S-Korean-Current-Account-Bal-NSA-Actual-497304B-Forecast---Previous-3861B.aspx?xy=rss",
+    "pubDate": "Wed, 05 Aug 2026 23:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 경상수지 순액(NSA) 실제치 49.7304B (예상치 -, 전월치 38.61B)"
+  },
+  {
     "guid": "9709525",
     "title": "FinancialJuice: Unifor: BC labour board forces Amazon to first union contract through binding arbitration - website",
     "link": "https://www.financialjuice.com/News/9709525/Unifor-BC-labour-board-forces-Amazon-to-first-union-contract-through-binding-arbitration---website.aspx?xy=rss",
