@@ -1,5 +1,805 @@
 [
   {
+    "guid": "9711448",
+    "title": "FinancialJuice: Firmus round includes follow-on from Coatue and Nvidia, new investment from Blackstone Tactical Opportunities-managed funds, others",
+    "link": "https://www.financialjuice.com/News/9711448/Firmus-round-includes-follow-on-from-Coatue-and-Nvidia-new-investment-from-Blackstone-Tactical-Opportunities-managed-funds-others.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 01:37:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Firmus의 이번 투자 라운드에는 Coatue와 Nvidia의 후속 투자, Blackstone Tactical Opportunities가 운용하는 펀드 등의 신규 투자가 포함됐다."
+  },
+  {
+    "guid": "9711447",
+    "title": "FinancialJuice: scribed $2 billion strategic equity funding",
+    "link": "https://www.financialjuice.com/News/9711447/scribed-2-billion-strategic-equity-funding.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 01:37:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 20억 달러 규모의 전략적 지분 투자 유치"
+  },
+  {
+    "guid": "9711446",
+    "title": "FinancialJuice: Firmus: investment to speed Nvidia AI factory growth across Australia and Asia-Pacific",
+    "link": "https://www.financialjuice.com/News/9711446/Firmus-investment-to-speed-Nvidia-AI-factory-growth-across-Australia-and-Asia-Pacific.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 01:37:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Firmus, 호주 및 아시아·태평양 지역 전역에서 엔비디아 AI 공장 확장을 가속화하기 위한 투자"
+  },
+  {
+    "guid": "9711445",
+    "title": "FinancialJuice: Firmus announces fully subscribed $2 billion strategic equity injection",
+    "link": "https://www.financialjuice.com/News/9711445/Firmus-announces-fully-subscribed-2-billion-strategic-equity-injection.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 01:36:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Firmus, 20억 달러 규모의 전략적 자본 투입이 전액 청약 완료되었다고 발표"
+  },
+  {
+    "guid": "9711439",
+    "title": "FinancialJuice: China c.bank injects 1 bln yuan via 7-day reverse repos at 1.40%: statement",
+    "link": "https://www.financialjuice.com/News/9711439/China-cbank-injects-1-bln-yuan-via-7-day-reverse-repos-at-140-statement.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 01:21:40 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 1.40% 금리의 7일 만기 역레포를 통해 10억 위안 유동성 공급: 성명서"
+  },
+  {
+    "guid": "9711417",
+    "title": "FinancialJuice: Taiwan overnight interbank rate starts at 0.806% vs previous session open at 0.806%",
+    "link": "https://www.financialjuice.com/News/9711417/Taiwan-overnight-interbank-rate-starts-at-0806-vs-previous-session-open-at-0806.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 01:00:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 대만 일일 은행간 금리, 0.806%로 개장…전일 개장가 0.806%와 동일"
+  },
+  {
+    "guid": "9711402",
+    "title": "FinancialJuice: ECB was informed of US selling euros to buy yen on Friday after the transaction - FT",
+    "link": "https://www.financialjuice.com/News/9711402/ECB-was-informed-of-US-selling-euros-to-buy-yen-on-Friday-after-the-transaction---FT.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 00:38:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 금요일 거래가 이루어진 후, 미국이 유로를 매도하고 엔화를 매수했다는 사실이 유럽중앙은행(ECB)에 통보되었다 - FT"
+  },
+  {
+    "guid": "9711379",
+    "title": "FinancialJuice: China PBOC likely to set yuan midpoint at 6.7548 per dollar: estimate",
+    "link": "https://www.financialjuice.com/News/9711379/China-PBOC-likely-to-set-yuan-midpoint-at-67548-per-dollar-estimate.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 00:14:36 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 인민은행, 위안화 중간 환율을 1달러당 6.7548로 책정할 전망: 추정"
+  },
+  {
+    "guid": "9711372",
+    "title": "FinancialJuice: Meta on New Mexico court ruling: disagrees with decision, plans to appeal",
+    "link": "https://www.financialjuice.com/News/9711372/Meta-on-New-Mexico-court-ruling-disagrees-with-decision-plans-to-appeal.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:53:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴멕시코주 법원 판결에 대한 메타의 입장: 판결에 동의하지 않으며 항소할 계획"
+  },
+  {
+    "guid": "9711371",
+    "title": "FinancialJuice: Japan carried out yen-buying intervention on three days in April and May, finance ministry data shows",
+    "link": "https://www.financialjuice.com/News/9711371/Japan-carried-out-yen-buying-intervention-on-three-days-in-April-and-May-finance-ministry-data-shows.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:50:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 재무성 자료에 따르면, 일본은 4월과 5월에 걸쳐 3일간 엔화 매수 개입을 실시했다"
+  },
+  {
+    "guid": "9711370",
+    "title": "FinancialJuice: Japan's biggest daily intervention in April-June quarter reached 6.2787 trillion yen on April 30, finance ministry data shows",
+    "link": "https://www.financialjuice.com/News/9711370/Japans-biggest-daily-intervention-in-April-June-quarter-reached-62787-trillion-yen-on-April-30-finance-ministry-data-shows.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:50:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 재무부 자료에 따르면, 4~6월 분기 동안 일본이 실시한 일일 외환 개입 규모 중 최대치는 4월 30일 6조 2,787억 엔을 기록했다."
+  },
+  {
+    "guid": "9711369",
+    "title": "FinancialJuice: Japan foreign reserves $1.29 trillion at end-july, down from $1.29 trillion at end-june: MOF",
+    "link": "https://www.financialjuice.com/News/9711369/Japan-foreign-reserves-129-trillion-at-end-july-down-from-129-trillion-at-end-june-MOF.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:50:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 외환보유고, 7월 말 기준 1조 2,900억 달러로 집계… 6월 말 1조 2,900억 달러 대비 감소: 재무성"
+  },
+  {
+    "guid": "9711356",
+    "title": "FinancialJuice: Japan govt official on June household spending: Typhoons, cold weather and more rain led to reduced beverage and dining out expenses",
+    "link": "https://www.financialjuice.com/News/9711356/Japan-govt-official-on-June-household-spending-Typhoons-cold-weather-and-more-rain-led-to-reduced-beverage-and-dining-out-expenses.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:40:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 정부 관계자, 6월 가계 지출에 대해: 태풍, 추운 날씨, 그리고 비가 더 많이 내린 탓에 음료 및 외식 지출이 감소했다"
+  },
+  {
+    "guid": "9711355",
+    "title": "FinancialJuice: New Mexico court directs Meta to pay $567 million abatement fund addressing awareness and prevention",
+    "link": "https://www.financialjuice.com/News/9711355/New-Mexico-court-directs-Meta-to-pay-567-million-abatement-fund-addressing-awareness-and-prevention.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:37:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴멕시코주 법원, 메타에 인식 제고 및 예방을 위한 5억 6,700만 달러 규모의 감면 기금 지급 명령"
+  },
+  {
+    "guid": "9711354",
+    "title": "FinancialJuice: New Mexico court mandates Meta to set 90-hour monthly limit on Facebook, Instagram for under-18 users in state",
+    "link": "https://www.financialjuice.com/News/9711354/New-Mexico-court-mandates-Meta-to-set-90-hour-monthly-limit-on-Facebook-Instagram-for-under-18-users-in-state.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:34:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴멕시코주 법원, 주 내 18세 미만 사용자에 대해 페이스북·인스타그램 월간 이용 시간을 90시간으로 제한하도록 메타에 명령"
+  },
+  {
+    "guid": "9711353",
+    "title": "FinancialJuice: New Mexico court directs Meta to identify users under 13 and remove their accounts",
+    "link": "https://www.financialjuice.com/News/9711353/New-Mexico-court-directs-Meta-to-identify-users-under-13-and-remove-their-accounts.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:33:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴멕시코주 법원, 메타에 13세 미만 사용자 신원 파악 및 계정 삭제 명령"
+  },
+  {
+    "guid": "9711352",
+    "title": "FinancialJuice: New Mexico court directs Meta to enhance sextortion detection, obscure nude images",
+    "link": "https://www.financialjuice.com/News/9711352/New-Mexico-court-directs-Meta-to-enhance-sextortion-detection-obscure-nude-images.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:33:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴멕시코주 법원, 메타에 성착취 범죄 탐지 기능 강화 및 누드 이미지 모자이크 처리 지시"
+  },
+  {
+    "guid": "9711348",
+    "title": "FinancialJuice: New Mexico court directs Meta to locate users undefined",
+    "link": "https://www.financialjuice.com/News/9711348/New-Mexico-court-directs-Meta-to-locate-users-undefined.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:32:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴멕시코주 법원, 메타에 사용자 위치 정보 제공 명령 - 정의되지 않음"
+  },
+  {
+    "guid": "9711347",
+    "title": "FinancialJuice: Users under 13 must delete their accounts",
+    "link": "https://www.financialjuice.com/News/9711347/Users-under-13-must-delete-their-accounts.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:32:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 13세 미만 사용자는 계정을 삭제해야 합니다"
+  },
+  {
+    "guid": "9711331",
+    "title": "FinancialJuice: Japanese All Household Spending MoM Actual -6.4% (Forecast -, Previous 3.7%)",
+    "link": "https://www.financialjuice.com/News/9711331/Japanese-All-Household-Spending-MoM-Actual--64-Forecast---Previous-37.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:30:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 전체 가계 소비, 전월 대비 실제 -6.4% (예상 -, 이전 3.7%)"
+  },
+  {
+    "guid": "9711332",
+    "title": "FinancialJuice: Japan June household spending falls 6.4% month-on-month, government data shows (Poll: -3.1%)",
+    "link": "https://www.financialjuice.com/News/9711332/Japan-June-household-spending-falls-64-month-on-month-government-data-shows-Poll--31.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:30:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 6월 가계 지출, 전월 대비 6.4% 감소…정부 통계에 따르면 (설문조사: -3.1%)"
+  },
+  {
+    "guid": "9711330",
+    "title": "FinancialJuice: Japan June household spending declines 3.3% year on year: govt (Poll +1.0%)",
+    "link": "https://www.financialjuice.com/News/9711330/Japan-June-household-spending-declines-33-year-on-year-govt-Poll-10.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:30:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 6월 가계 지출, 전년 동기 대비 3.3% 감소…정부 발표 (여론조사 +1.0%)"
+  },
+  {
+    "guid": "9711329",
+    "title": "FinancialJuice: Japanese All Household Spending YoY Actual -3.3% (Forecast 0.9%, Previous -0.4%)",
+    "link": "https://www.financialjuice.com/News/9711329/Japanese-All-Household-Spending-YoY-Actual--33-Forecast-09-Previous--04.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 전체 가계 지출 전년 동기 대비 실제 -3.3% (예상 0.9%, 이전 -0.4%)"
+  },
+  {
+    "guid": "9711328",
+    "title": "FinancialJuice: New Mexico court rules Meta products fuel state youth mental health crisis",
+    "link": "https://www.financialjuice.com/News/9711328/New-Mexico-court-rules-Meta-products-fuel-state-youth-mental-health-crisis.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:29:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴멕시코주 법원, 메타의 제품들이 주 내 청소년 정신 건강 위기를 부추긴다고 판결"
+  },
+  {
+    "guid": "9711327",
+    "title": "FinancialJuice: New Mexico jury orders Meta to pay $375 million in penalties, plus $567 million court-ordered fund",
+    "link": "https://www.financialjuice.com/News/9711327/New-Mexico-jury-orders-Meta-to-pay-375-million-in-penalties-plus-567-million-court-ordered-fund.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:28:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴멕시코주 배심원단, 메타에 3억 7,500만 달러의 벌금과 5억 6,700만 달러의 법원 명령 기금 납부를 명령"
+  },
+  {
+    "guid": "9711326",
+    "title": "FinancialJuice: New Mexico court orders Meta to pay $567 million over state lawsuit alleging exposure of children to sexual exploitation",
+    "link": "https://www.financialjuice.com/News/9711326/New-Mexico-court-orders-Meta-to-pay-567-million-over-state-lawsuit-alleging-exposure-of-children-to-sexual-exploitation.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 23:21:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴멕시코주 법원, 아동이 성적 착취에 노출되었다는 주 정부의 소송과 관련해 메타에 5억 6,700만 달러를 지급하라고 명령"
+  },
+  {
+    "guid": "9711264",
+    "title": "FinancialJuice: Fed's Musalem: inflation expectations stable and align with 2% target",
+    "link": "https://www.financialjuice.com/News/9711264/Feds-Musalem-inflation-expectations-stable-and-align-with-2-target.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:16:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘, “인플레이션 기대치는 안정적이며 2% 목표치와 일치한다”"
+  },
+  {
+    "guid": "9711263",
+    "title": "FinancialJuice: Fed's Musalem: inflation expectations risk losing anchor",
+    "link": "https://www.financialjuice.com/News/9711263/Feds-Musalem-inflation-expectations-risk-losing-anchor.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:16:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “인플레이션 기대치가 앵커 역할을 상실할 위험이 있다”"
+  },
+  {
+    "guid": "9711262",
+    "title": "FinancialJuice: Fed's Musalem: Sometimes it's acceptable for central bank to surprise markets",
+    "link": "https://www.financialjuice.com/News/9711262/Feds-Musalem-Sometimes-its-acceptable-for-central-bank-to-surprise-markets.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:16:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “때로는 중앙은행이 시장을 놀라게 하는 것도 용인될 수 있다”"
+  },
+  {
+    "guid": "9711261",
+    "title": "FinancialJuice: Fed's Musalem: focused on core inflation amid energy market volatility",
+    "link": "https://www.financialjuice.com/News/9711261/Feds-Musalem-focused-on-core-inflation-amid-energy-market-volatility.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:16:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘, 에너지 시장 변동성 속에서도 핵심 인플레이션에 주목"
+  },
+  {
+    "guid": "9711260",
+    "title": "FinancialJuice: Fed's Musalem: central banks have faced increased supply shocks",
+    "link": "https://www.financialjuice.com/News/9711260/Feds-Musalem-central-banks-have-faced-increased-supply-shocks.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:16:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “중앙은행들은 공급 충격이 심화되는 상황에 직면해 왔다”"
+  },
+  {
+    "guid": "9711257",
+    "title": "FinancialJuice: fertile ground for inflation expectations to slip unstuck",
+    "link": "https://www.financialjuice.com/News/9711257/fertile-ground-for-inflation-expectations-to-slip-unstuck.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:14:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 인플레이션 기대감이 다시 고개를 들 수 있는 비옥한 토양"
+  },
+  {
+    "guid": "9711256",
+    "title": "FinancialJuice: El Nino weather event could trigger new supply shock",
+    "link": "https://www.financialjuice.com/News/9711256/El-Nino-weather-event-could-trigger-new-supply-shock.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:13:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 엘니뇨 현상이 새로운 공급 충격을 촉발할 수 있다"
+  },
+  {
+    "guid": "9711255",
+    "title": "FinancialJuice: Job market appears to be stable",
+    "link": "https://www.financialjuice.com/News/9711255/Job-market-appears-to-be-stable.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:13:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 취업 시장은 안정적인 양상을 보이고 있다"
+  },
+  {
+    "guid": "9711254",
+    "title": "FinancialJuice: Fed must prioritize what's right, not be led by markets: officials",
+    "link": "https://www.financialjuice.com/News/9711254/Fed-must-prioritize-whats-right-not-be-led-by-markets-officials.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:13:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준은 시장의 흐름에 휩쓸리지 말고 옳은 일을 우선시해야 한다: 관계자들"
+  },
+  {
+    "guid": "9711253",
+    "title": "FinancialJuice: Financial conditions remain very accommodative: Fed is monitoring that",
+    "link": "https://www.financialjuice.com/News/9711253/Financial-conditions-remain-very-accommodative-Fed-is-monitoring-that.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:13:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 금융 여건은 여전히 매우 완화적인 상태를 유지하고 있으며, 연준은 이를 주시하고 있다"
+  },
+  {
+    "guid": "9711252",
+    "title": "FinancialJuice: Tunes Out Political Noise, Focuses on Fed's Mandate",
+    "link": "https://www.financialjuice.com/News/9711252/Tunes-Out-Political-Noise-Focuses-on-Feds-Mandate.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:13:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 정치적 소음은 배제하고 연준의 본연의 임무에 집중"
+  },
+  {
+    "guid": "9711251",
+    "title": "FinancialJuice: US remains fastest-growing and most innovative economy, maintains strong rule of law",
+    "link": "https://www.financialjuice.com/News/9711251/US-remains-fastest-growing-and-most-innovative-economy-maintains-strong-rule-of-law.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:13:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국은 여전히 가장 빠르게 성장하고 가장 혁신적인 경제 대국이며, 견고한 법치주의를 유지하고 있다"
+  },
+  {
+    "guid": "9711250",
+    "title": "FinancialJuice: Doesn't anticipate conditions to dethrone dollar as main reserve currency",
+    "link": "https://www.financialjuice.com/News/9711250/Doesnt-anticipate-conditions-to-dethrone-dollar-as-main-reserve-currency.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:13:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 달러가 주요 준비통화 지위를 잃을 만한 상황은 예상되지 않는다"
+  },
+  {
+    "guid": "9711249",
+    "title": "FinancialJuice: there are times when it's acceptable for Fed to surprise markets:",
+    "link": "https://www.financialjuice.com/News/9711249/there-are-times-when-its-acceptable-for-Fed-to-surprise-markets.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:13:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 때로는 연준이 시장을 놀라게 하는 것도 용인될 수 있다:"
+  },
+  {
+    "guid": "9711248",
+    "title": "FinancialJuice: inflation expectations steady and align with 2% target",
+    "link": "https://www.financialjuice.com/News/9711248/inflation-expectations-steady-and-align-with-2-target.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:13:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 인플레이션 기대치는 안정적이며 2% 목표치와 일치"
+  },
+  {
+    "guid": "9711247",
+    "title": "FinancialJuice: Central banks face increasing supply disruptions",
+    "link": "https://www.financialjuice.com/News/9711247/Central-banks-face-increasing-supply-disruptions.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:13:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중앙은행들, 공급 차질 심화 문제에 직면"
+  },
+  {
+    "guid": "9711246",
+    "title": "FinancialJuice: Many asset prices remain elevated",
+    "link": "https://www.financialjuice.com/News/9711246/Many-asset-prices-remain-elevated.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:13:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 많은 자산 가격이 여전히 높은 수준을 유지하고 있다"
+  },
+  {
+    "guid": "9711245",
+    "title": "FinancialJuice: Fed's Musalem: central banks face increased supply disruptions",
+    "link": "https://www.financialjuice.com/News/9711245/Feds-Musalem-central-banks-face-increased-supply-disruptions.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:11:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “중앙은행들, 공급 차질 심화 문제에 직면”"
+  },
+  {
+    "guid": "9711244",
+    "title": "FinancialJuice: Fed's Musalem: no signs conditions will dethrone dollar as main reserve currency",
+    "link": "https://www.financialjuice.com/News/9711244/Feds-Musalem-no-signs-conditions-will-dethrone-dollar-as-main-reserve-currency.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:10:51 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “달러가 주요 준비통화 지위를 잃을 조짐은 없다”"
+  },
+  {
+    "guid": "9711243",
+    "title": "FinancialJuice: Fed's Musalem: US remains fastest-growing, most innovative economy with effective rule of law",
+    "link": "https://www.financialjuice.com/News/9711243/Feds-Musalem-US-remains-fastest-growing-most-innovative-economy-with-effective-rule-of-law.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:10:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “미국은 효과적인 법치 체제를 바탕으로 여전히 가장 빠르게 성장하고 가장 혁신적인 경제 대국으로 남아 있다”"
+  },
+  {
+    "guid": "9711242",
+    "title": "FinancialJuice: Fed's Musalem: many asset prices remain high",
+    "link": "https://www.financialjuice.com/News/9711242/Feds-Musalem-many-asset-prices-remain-high.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:09:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “많은 자산 가격이 여전히 높은 수준”"
+  },
+  {
+    "guid": "9711241",
+    "title": "FinancialJuice: Fed's Musalem: financial conditions remain highly accommodative, central bank is monitoring",
+    "link": "https://www.financialjuice.com/News/9711241/Feds-Musalem-financial-conditions-remain-highly-accommodative-central-bank-is-monitoring.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:08:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “금융 여건은 여전히 매우 완화적이며, 중앙은행은 상황을 주시하고 있다”"
+  },
+  {
+    "guid": "9711240",
+    "title": "FinancialJuice: Microsoft commercial CEO Judson Althoff reports open market sale of 10,000 shares on Aug. 5 at avg price $487.89 per share: SEC filing",
+    "link": "https://www.financialjuice.com/News/9711240/Microsoft-commercial-CEO-Judson-Althoff-reports-open-market-sale-of-10000-shares-on-Aug-5-at-avg-price-48789-per-share-SEC-filing.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:06:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마이크로소프트 상업 부문 CEO 저드슨 알토프(Judson Althoff)가 8월 5일 주당 평균 487.89달러에 10,000주를 공개 시장에서 매도했다고 SEC 제출 서류에 명시됨"
+  },
+  {
+    "guid": "9711239",
+    "title": "FinancialJuice: Fed's Musalem: there are moments when central bank can surprise markets",
+    "link": "https://www.financialjuice.com/News/9711239/Feds-Musalem-there-are-moments-when-central-bank-can-surprise-markets.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:04:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “중앙은행이 시장을 놀라게 할 수 있는 순간들이 있다”"
+  },
+  {
+    "guid": "9711238",
+    "title": "FinancialJuice: Fed's Musalem: central bank must act in best interest but can't be swayed by markets",
+    "link": "https://www.financialjuice.com/News/9711238/Feds-Musalem-central-bank-must-act-in-best-interest-but-cant-be-swayed-by-markets.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:04:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “중앙은행은 최선의 이익을 위해 행동해야 하지만 시장의 영향에 휘둘려서는 안 된다”"
+  },
+  {
+    "guid": "9711237",
+    "title": "FinancialJuice: Fed's Musalem: closely monitors financial markets",
+    "link": "https://www.financialjuice.com/News/9711237/Feds-Musalem-closely-monitors-financial-markets.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 22:02:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘, 금융시장을 면밀히 주시하고 있다"
+  },
+  {
+    "guid": "9711231",
+    "title": "FinancialJuice: Fed’s Musalem: tunes out political noise, focuses on central bank mandate",
+    "link": "https://www.financialjuice.com/News/9711231/Feds-Musalem-tunes-out-political-noise-focuses-on-central-bank-mandate.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:58:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘, 정치적 소음은 무시하고 중앙은행의 본연의 임무에 집중"
+  },
+  {
+    "guid": "9711230",
+    "title": "FinancialJuice: Fed's Musalem: labor market appears to be in strong shape",
+    "link": "https://www.financialjuice.com/News/9711230/Feds-Musalem-labor-market-appears-to-be-in-strong-shape.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:57:44 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “노동시장이 견고한 모습을 보이고 있다”"
+  },
+  {
+    "guid": "9711229",
+    "title": "FinancialJuice: Fed's Musalem: El Niño weather event could trigger new supply shock",
+    "link": "https://www.financialjuice.com/News/9711229/Feds-Musalem-El-Ni%c3%b1o-weather-event-could-trigger-new-supply-shock.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:52:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “엘니뇨 현상이 새로운 공급 충격을 촉발할 수 있다”"
+  },
+  {
+    "guid": "9711228",
+    "title": "FinancialJuice: Turkey, Saudi Arabia and Pakistan to ink joint defense pact in Saudi Arabia on Friday, two regional sources say",
+    "link": "https://www.financialjuice.com/News/9711228/Turkey-Saudi-Arabia-and-Pakistan-to-ink-joint-defense-pact-in-Saudi-Arabia-on-Friday-two-regional-sources-say.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:52:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 지역 소식통 두 곳에 따르면, 터키, 사우디아라비아, 파키스탄이 금요일 사우디아라비아에서 공동 방위 협정을 체결할 예정이라고 한다."
+  },
+  {
+    "guid": "9711227",
+    "title": "FinancialJuice: Fed's Musalem: very receptive to Fed task forces",
+    "link": "https://www.financialjuice.com/News/9711227/Feds-Musalem-very-receptive-to-Fed-task-forces.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:50:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘, 연준 태스크포스에 매우 긍정적인 반응"
+  },
+  {
+    "guid": "9711226",
+    "title": "FinancialJuice: Fed's Musalem: wants to see monthly inflation rates under 0.2% readings",
+    "link": "https://www.financialjuice.com/News/9711226/Feds-Musalem-wants-to-see-monthly-inflation-rates-under-02-readings.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:49:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘, 월간 인플레이션율이 0.2% 미만으로 유지되기를 희망"
+  },
+  {
+    "guid": "9711225",
+    "title": "FinancialJuice: Fed's Musalem: Labor Market Is Not an Inflation Driver",
+    "link": "https://www.financialjuice.com/News/9711225/Feds-Musalem-Labor-Market-Is-Not-an-Inflation-Driver.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:48:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “노동 시장은 인플레이션의 원인이 아니다”"
+  },
+  {
+    "guid": "9711224",
+    "title": "FinancialJuice: Fed's Musalem: core inflation probably between 2.5% and 3%",
+    "link": "https://www.financialjuice.com/News/9711224/Feds-Musalem-core-inflation-probably-between-25-and-3.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:48:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘, “핵심 인플레이션은 2.5%에서 3% 사이일 것으로 보인다”"
+  },
+  {
+    "guid": "9711223",
+    "title": "FinancialJuice: Fed's Musalem: incremental rate hikes less costly than sudden changes",
+    "link": "https://www.financialjuice.com/News/9711223/Feds-Musalem-incremental-rate-hikes-less-costly-than-sudden-changes.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:47:37 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘 “점진적인 금리 인상이 갑작스러운 변화보다 비용이 적게 든다”"
+  },
+  {
+    "guid": "9711207",
+    "title": "FinancialJuice: Fed's Musalem: foresees greater likelihood inflation will stay above target",
+    "link": "https://www.financialjuice.com/News/9711207/Feds-Musalem-foresees-greater-likelihood-inflation-will-stay-above-target.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:47:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘, 인플레이션이 목표치를 상회할 가능성이 더 높아질 것으로 전망"
+  },
+  {
+    "guid": "9711205",
+    "title": "FinancialJuice: Fed's Musalem: preferred increasing rates at recent FOMC meeting",
+    "link": "https://www.financialjuice.com/News/9711205/Feds-Musalem-preferred-increasing-rates-at-recent-FOMC-meeting.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:46:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 무살렘, 최근 FOMC 회의에서 금리 인상을 선호했다"
+  },
+  {
+    "guid": "9711190",
+    "title": "FinancialJuice: Canada’s LeBlanc: Canadian trade negotiators held productive and detailed talks with USTR Greer in Washington on Thursday",
+    "link": "https://www.financialjuice.com/News/9711190/Canadas-LeBlanc-Canadian-trade-negotiators-held-productive-and-detailed-talks-with-USTR-Greer-in-Washington-on-Thursday.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:25:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다의 르블랑: 캐나다 무역 협상단이 목요일 워싱턴에서 그리어 미국 무역대표부(USTR) 대표와 생산적이고 심도 있는 협의를 가졌다"
+  },
+  {
+    "guid": "9711189",
+    "title": "FinancialJuice: Saudi-led coalition: injured include seven Saudis, one Yemeni, two Egyptians and one Pakistani",
+    "link": "https://www.financialjuice.com/News/9711189/Saudi-led-coalition-injured-include-seven-Saudis-one-Yemeni-two-Egyptians-and-one-Pakistani.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:23:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 주도 연합군: 부상자 중에는 사우디인 7명, 예멘인 1명, 이집트인 2명, 파키스탄인 1명이 포함되어 있다"
+  },
+  {
+    "guid": "9711188",
+    "title": "FinancialJuice: Saudi-led coalition: 111 civilians wounded in Saudi Arabia's Najran from Houthi strikes - statement",
+    "link": "https://www.financialjuice.com/News/9711188/Saudi-led-coalition-111-civilians-wounded-in-Saudi-Arabias-Najran-from-Houthi-strikes---statement.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:22:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 주도 연합군: 사우디 나즈란에서 후티 반군의 공격으로 민간인 111명 부상 - 성명"
+  },
+  {
+    "guid": "9711171",
+    "title": "FinancialJuice: White House: tariffs on polysilicon and related products start at 12:01 a.m. ET on December 4, 2026",
+    "link": "https://www.financialjuice.com/News/9711171/White-House-tariffs-on-polysilicon-and-related-products-start-at-1201-am-ET-on-December-4-2026.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:15:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 폴리실리콘 및 관련 제품에 대한 관세는 2026년 12월 4일 오전 12시 1분(미국 동부 표준시)부터 적용된다"
+  },
+  {
+    "guid": "9711163",
+    "title": "FinancialJuice: White House: minimum import price program for polysilicon and related products starts 12:01 a.m. eastern time December 4, 2026",
+    "link": "https://www.financialjuice.com/News/9711163/White-House-minimum-import-price-program-for-polysilicon-and-related-products-starts-1201-am-eastern-time-December-4-2026.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:12:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 폴리실리콘 및 관련 제품에 대한 최저 수입가 프로그램이 2026년 12월 4일 동부 표준시 오전 12시 1분부터 시행된다"
+  },
+  {
+    "guid": "9711162",
+    "title": "FinancialJuice: executive order blocks entry to u.s. for those intending to engage in birth tourism",
+    "link": "https://www.financialjuice.com/News/9711162/executive-order-blocks-entry-to-us-for-those-intending-to-engage-in-birth-tourism.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:12:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 행정명령으로 출산 관광을 목적으로 하는 이들의 미국 입국이 차단된다"
+  },
+  {
+    "guid": "9711161",
+    "title": "FinancialJuice: Trump executive order on birth tourism permanently blocks entry to anyone attempting to enter U.S. for birth tourism",
+    "link": "https://www.financialjuice.com/News/9711161/Trump-executive-order-on-birth-tourism-permanently-blocks-entry-to-anyone-attempting-to-enter-US-for-birth-tourism.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:11:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 대통령의 출산 관광 관련 행정명령으로, 출산 관광을 목적으로 미국에 입국하려는 모든 사람의 입국이 영구적으로 차단된다"
+  },
+  {
+    "guid": "9711160",
+    "title": "FinancialJuice: Morocco ready to collaborate on repatriation of minors from Spain, state media says",
+    "link": "https://www.financialjuice.com/News/9711160/Morocco-ready-to-collaborate-on-repatriation-of-minors-from-Spain-state-media-says.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:11:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 모로코, 스페인에서 미성년자 송환에 협력할 준비가 돼 있다고 국영 매체가 보도했다"
+  },
+  {
+    "guid": "9711159",
+    "title": "FinancialJuice: White House on birth tourism executive order: DHS chief may exempt foreign nationals for humanitarian reasons or national interest",
+    "link": "https://www.financialjuice.com/News/9711159/White-House-on-birth-tourism-executive-order-DHS-chief-may-exempt-foreign-nationals-for-humanitarian-reasons-or-national-interest.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:10:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 출산 관광 관련 행정명령에 대해: 국토안보부 장관이 인도적 사유나 국익을 이유로 외국인을 예외로 인정할 수 있다"
+  },
+  {
+    "guid": "9711158",
+    "title": "FinancialJuice: White House: U.S. sets minimum import price at $0.22 per watt for solar cells",
+    "link": "https://www.financialjuice.com/News/9711158/White-House-US-sets-minimum-import-price-at-022-per-watt-for-solar-cells.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:08:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 태양전지 최소 수입가를 와트당 0.22달러로 책정"
+  },
+  {
+    "guid": "9711157",
+    "title": "FinancialJuice: White House: U.S. sets minimum import price of $100 per kilogram for polysilicon ingots and wafers",
+    "link": "https://www.financialjuice.com/News/9711157/White-House-US-sets-minimum-import-price-of-100-per-kilogram-for-polysilicon-ingots-and-wafers.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:07:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 미국 정부가 폴리실리콘 잉곳 및 웨이퍼에 대해 킬로그램당 100달러의 최저 수입가를 책정했다"
+  },
+  {
+    "guid": "9711156",
+    "title": "FinancialJuice: White House: U.S. sets minimum import price at $21 per kilogram for polysilicon",
+    "link": "https://www.financialjuice.com/News/9711156/White-House-US-sets-minimum-import-price-at-21-per-kilogram-for-polysilicon.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:07:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 폴리실리콘에 대해 킬로그램당 21달러의 최저 수입가를 책정"
+  },
+  {
+    "guid": "9711155",
+    "title": "FinancialJuice: White House: Trump decides to impose 15% ad valorem tariff on polysilicon derivative imports",
+    "link": "https://www.financialjuice.com/News/9711155/White-House-Trump-decides-to-impose-15-ad-valorem-tariff-on-polysilicon-derivative-imports.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 21:05:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 트럼프 대통령, 폴리실리콘 파생 제품 수입에 15% 종가세 부과 결정"
+  },
+  {
+    "guid": "9711123",
+    "title": "FinancialJuice: Saudi Official: Potential attacks could target civilian and economic sites, including energy infrastructure, ports and airports.",
+    "link": "https://www.financialjuice.com/News/9711123/Saudi-Official-Potential-attacks-could-target-civilian-and-economic-sites-including-energy-infrastructure-ports-and-airports.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:44:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 당국자: 잠재적인 공격 대상에는 에너지 인프라, 항만, 공항을 포함한 민간 및 경제 시설이 포함될 수 있다."
+  },
+  {
+    "guid": "9711122",
+    "title": "FinancialJuice: Saudi official: Saudi Arabia has spotted drones and missiles being relocated, hinting at possible coordinated attacks from north and south",
+    "link": "https://www.financialjuice.com/News/9711122/Saudi-official-Saudi-Arabia-has-spotted-drones-and-missiles-being-relocated-hinting-at-possible-coordinated-attacks-from-north-and-south.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:44:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 당국자: 사우디가 드론과 미사일이 재배치되는 것을 포착했으며, 이는 북쪽과 남쪽에서 동시에 공격이 가해질 가능성을 시사한다"
+  },
+  {
+    "guid": "9711120",
+    "title": "FinancialJuice: Saudi Official: Will take all necessary measures to respond to any aggression.",
+    "link": "https://www.financialjuice.com/News/9711120/Saudi-Official-Will-take-all-necessary-measures-to-respond-to-any-aggression.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:41:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 당국자: 어떠한 침략에도 대응하기 위해 필요한 모든 조치를 취할 것이다."
+  },
+  {
+    "guid": "9711119",
+    "title": "FinancialJuice: Saudi Official: Saudi-US cooperation remains very high and strong at all levels, including operationally with US CENTCOM",
+    "link": "https://www.financialjuice.com/News/9711119/Saudi-Official-Saudi-US-cooperation-remains-very-high-and-strong-at-all-levels-including-operationally-with-US-CENTCOM.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:41:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 당국자: 사우디와 미국의 협력은 미 중앙사령부(CENTCOM)와의 작전 차원을 포함해 모든 수준에서 여전히 매우 높은 수준을 유지하며 견고하다"
+  },
+  {
+    "guid": "9711118",
+    "title": "FinancialJuice: Saudi Official: Reports of planned attacks are shocking as Riyadh pursues de-escalation and peaceful resolution. Negotiations appear to be moving in the right direction",
+    "link": "https://www.financialjuice.com/News/9711118/Saudi-Official-Reports-of-planned-attacks-are-shocking-as-Riyadh-pursues-de-escalation-and-peaceful-resolution-Negotiations-appear-to-be-moving-in-the-right-direction.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:40:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 당국자: 리야드가 긴장 완화와 평화적 해결을 모색하고 있는 가운데, 공격 계획에 대한 보도는 충격적이다. 협상은 올바른 방향으로 진행되고 있는 것으로 보인다."
+  },
+  {
+    "guid": "9711116",
+    "title": "FinancialJuice: Trump ends remarks",
+    "link": "https://www.financialjuice.com/News/9711116/Trump-ends-remarks.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:31:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 연설 마무리"
+  },
+  {
+    "guid": "9711114",
+    "title": "FinancialJuice: Trump on munitions supply: We have unlimited supply.",
+    "link": "https://www.financialjuice.com/News/9711114/Trump-on-munitions-supply-We-have-unlimited-supply.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:28:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 군수품 공급에 대해 “우리는 무제한으로 공급할 수 있다.”"
+  },
+  {
+    "guid": "9711113",
+    "title": "FinancialJuice: Trump: I'm involved in the negotiation around the Strait of Hormuz.",
+    "link": "https://www.financialjuice.com/News/9711113/Trump-Im-involved-in-the-negotiation-around-the-Strait-of-Hormuz.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:28:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 저는 호르무즈 해협과 관련된 협상에 참여하고 있습니다."
+  },
+  {
+    "guid": "9711112",
+    "title": "FinancialJuice: Trump: Strait is sort of open right now.",
+    "link": "https://www.financialjuice.com/News/9711112/Trump-Strait-is-sort-of-open-right-now.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:25:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 현재 해협은 어느 정도 개방된 상태입니다."
+  },
+  {
+    "guid": "9711111",
+    "title": "FinancialJuice: Trump: Don't think Iran can go much longer.",
+    "link": "https://www.financialjuice.com/News/9711111/Trump-Dont-think-Iran-can-go-much-longer.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:25:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “이란이 더 이상 버티기 어려울 것”"
+  },
+  {
+    "guid": "9711110",
+    "title": "FinancialJuice: Trump on Iran: I think war will end pretty soon.",
+    "link": "https://www.financialjuice.com/News/9711110/Trump-on-Iran-I-think-war-will-end-pretty-soon.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:25:12 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프, 이란에 대해 “전쟁은 곧 끝날 것 같다.”"
+  },
+  {
+    "guid": "9711088",
+    "title": "FinancialJuice: US Nonfarm Payrolls Cribsheet - FJElite",
+    "link": "https://www.financialjuice.com/News/9711088/US-Nonfarm-Payrolls-Cribsheet---FJElite.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:14:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 비농업 부문 고용 통계 요약 - FJElite"
+  },
+  {
+    "guid": "9711087",
+    "title": "FinancialJuice: Trump signs executive order targeting polysilicon industry",
+    "link": "https://www.financialjuice.com/News/9711087/Trump-signs-executive-order-targeting-polysilicon-industry.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 20:13:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 폴리실리콘 산업을 겨냥한 행정명령에 서명"
+  },
+  {
+    "guid": "9711066",
+    "title": "FinancialJuice: OpenAI: New device doesn’t infringe on Apple trade secrets. $AAPL",
+    "link": "https://www.financialjuice.com/News/9711066/OpenAI-New-device-doesnt-infringe-on-Apple-trade-secrets-AAPL.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 19:59:57 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: OpenAI, 신제품이 애플의 영업비밀을 침해하지 않는다고 밝혀. $AAPL"
+  },
+  {
+    "guid": "9711065",
+    "title": "FinancialJuice: Ring-shaped OpenAI device will be portable around the house",
+    "link": "https://www.financialjuice.com/News/9711065/Ring-shaped-OpenAI-device-will-be-portable-around-the-house.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 19:59:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 고리 모양의 OpenAI 기기는 집안 곳곳에서 휴대하며 사용할 수 있을 전망"
+  },
+  {
+    "guid": "9711064",
+    "title": "FinancialJuice: OpenAI says product will use moving parts, lights to seem lifelike",
+    "link": "https://www.financialjuice.com/News/9711064/OpenAI-says-product-will-use-moving-parts-lights-to-seem-lifelike.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 19:59:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI, 제품에 움직이는 부품과 조명을 활용해 생동감 있게 보이게 할 것이라고 밝혔다"
+  },
+  {
+    "guid": "9711063",
+    "title": "FinancialJuice: OpenAI’s gadget to resemble small doughnut with price exceeding $300",
+    "link": "https://www.financialjuice.com/News/9711063/OpenAIs-gadget-to-resemble-small-doughnut-with-price-exceeding-300.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 19:59:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI의 신제품, 작은 도넛 모양으로 가격은 300달러를 넘어설 전망"
+  },
+  {
+    "guid": "9711061",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9711061/MOC-Imbalance.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 19:50:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOC 불균형"
+  },
+  {
+    "guid": "9711037",
+    "title": "FinancialJuice: Japan to share advance defense procurement plans with contractors - Nikkei",
+    "link": "https://www.financialjuice.com/News/9711037/Japan-to-share-advance-defense-procurement-plans-with-contractors---Nikkei.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 19:27:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본, 방위 장비 조달 계획을 계약업체들과 사전에 공유할 예정 - 닛케이"
+  },
+  {
+    "guid": "9711036",
+    "title": "FinancialJuice: 2 explosions heard on Qeshm Island were linked to action against hostile targets near Strait of Hormuz entrance - Iran's Tasnim cites informed sources",
+    "link": "https://www.financialjuice.com/News/9711036/2-explosions-heard-on-Qeshm-Island-were-linked-to-action-against-hostile-targets-near-Strait-of-Hormuz-entrance---Irans-Tasnim-cites-informed-sources.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 19:25:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 케슘 섬에서 들린 두 차례의 폭발음은 호르무즈 해협 입구 인근의 적대적 표적을 겨냥한 작전과 관련이 있는 것으로 알려졌다 - 이란 타스님 통신이 정보통을 인용해 보도했다"
+  },
+  {
+    "guid": "9711035",
+    "title": "FinancialJuice: Iran struck hostile targets in Strait of Hormuz - Fars News",
+    "link": "https://www.financialjuice.com/News/9711035/Iran-struck-hostile-targets-in-Strait-of-Hormuz---Fars-News.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 19:24:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란, 호르무즈 해협의 적대적 목표물을 타격 - 파르스 뉴스"
+  },
+  {
+    "guid": "9711033",
+    "title": "FinancialJuice: Friday FX Options Expiries",
+    "link": "https://www.financialjuice.com/News/9711033/Friday-FX-Options-Expiries.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 19:21:32 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 금요일 외환 옵션 만기일"
+  },
+  {
+    "guid": "9711011",
+    "title": "FinancialJuice: Trump administration likely to decline requests from some US solar makers for faster rollout of new tariff and price floor on polysilicon imports - source",
+    "link": "https://www.financialjuice.com/News/9711011/Trump-administration-likely-to-decline-requests-from-some-US-solar-makers-for-faster-rollout-of-new-tariff-and-price-floor-on-polysilicon-imports---source.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 19:14:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 행정부, 일부 미국 태양광 제조업체들이 폴리실리콘 수입에 대한 새로운 관세 및 최저가격제 조기 시행을 요청한 것에 대해 이를 거부할 것으로 보인다 - 소식통"
+  },
+  {
+    "guid": "9711000",
+    "title": "FinancialJuice: Trump spoke with Saudi leader several hours ago - Axios",
+    "link": "https://www.financialjuice.com/News/9711000/Trump-spoke-with-Saudi-leader-several-hours-ago---Axios.aspx?xy=rss",
+    "pubDate": "Thu, 06 Aug 2026 18:57:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 몇 시간 전 사우디 지도자와 통화 - Axios"
+  },
+  {
     "guid": "9710047",
     "title": "FinancialJuice: Zelenskyy: Ukraine hit 2 Russian oil refineries",
     "link": "https://www.financialjuice.com/News/9710047/Zelenskyy-Ukraine-hit-2-Russian-oil-refineries.aspx?xy=rss",
