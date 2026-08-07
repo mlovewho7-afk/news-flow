@@ -1,5 +1,221 @@
 [
   {
+    "guid": "9711831",
+    "title": "FinancialJuice: French Current Account Actual -1.4B (Forecast -, Previous -0.1B)",
+    "link": "https://www.financialjuice.com/News/9711831/French-Current-Account-Actual--14B-Forecast---Previous--01B.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:45:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 경상수지 실제 -14억 (예상 -, 전월 -0.1B)"
+  },
+  {
+    "guid": "9711830",
+    "title": "FinancialJuice: French Trade Balance SA Actual -5.847082B (Forecast -, Previous -6.93B)",
+    "link": "https://www.financialjuice.com/News/9711830/French-Trade-Balance-SA-Actual--5847082B-Forecast---Previous--693B.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 무역수지(SA) 실제치 -5.847082B (예상치 -, 이전치 -6.93B)"
+  },
+  {
+    "guid": "9711809",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9711809/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:22:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9711808",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9711808/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:21:48 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9711807",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9711807/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:21:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9711806",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9711806/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:21:08 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9711805",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9711805/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:20:48 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9711804",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9711804/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:20:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9711803",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9711803/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:20:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9711802",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9711802/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:19:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9711801",
+    "title": "FinancialJuice: Lloyd's: Affordability remains a challenge",
+    "link": "https://www.financialjuice.com/News/9711801/Lloyds-Affordability-remains-a-challenge.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:19:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 로이드: 보험료 부담은 여전히 과제로 남아"
+  },
+  {
+    "guid": "9711800",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9711800/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:19:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9711799",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9711799/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:18:30 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시장 내재 변동성"
+  },
+  {
+    "guid": "9711798",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9711798/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:18:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물 내재 변동성"
+  },
+  {
+    "guid": "9711797",
+    "title": "FinancialJuice: UK house prices rose 0.1% on the year in July -Lloyds",
+    "link": "https://www.financialjuice.com/News/9711797/UK-house-prices-rose-01-on-the-year-in-July--Lloyds.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:18:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 영국 주택 가격, 전년 동기 대비 0.1% 상승 - 로이드스"
+  },
+  {
+    "guid": "9711796",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9711796/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:17:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9711795",
+    "title": "FinancialJuice: UK house prices fell 0.3% on the quarter in July -Lloyds",
+    "link": "https://www.financialjuice.com/News/9711795/UK-house-prices-fell-03-on-the-quarter-in-July--Lloyds.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:17:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 영국 주택 가격, 전분기 대비 0.3% 하락 - 로이드스"
+  },
+  {
+    "guid": "9711794",
+    "title": "FinancialJuice: UK house prices unchanged on the month in July -Lloyds",
+    "link": "https://www.financialjuice.com/News/9711794/UK-house-prices-unchanged-on-the-month-in-July--Lloyds.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:17:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 영국 주택 가격, 전월 대비 변동 없음 - 로이드스"
+  },
+  {
+    "guid": "9711780",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9711780/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:16:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9711779",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9711779/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:16:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9711778",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9711778/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:15:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9711777",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9711777/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:15:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9711759",
+    "title": "FinancialJuice: German Trade Balance SA Actual 15.4B (Forecast 17.2B, Previous 19.1B)",
+    "link": "https://www.financialjuice.com/News/9711759/German-Trade-Balance-SA-Actual-154B-Forecast-172B-Previous-191B.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:00:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 무역수지(계절조정 후) 실제치 154억 (예상치 172억, 전월치 191억)"
+  },
+  {
+    "guid": "9711758",
+    "title": "FinancialJuice: German Exports MoM SA Actual 0.9% (Forecast 0.5%, Previous 0.9%)",
+    "link": "https://www.financialjuice.com/News/9711758/German-Exports-MoM-SA-Actual-09-Forecast-05-Previous-09.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:00:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 수출 전월 대비 계절 조정 후 실제치 0.9% (예상치 0.5%, 전월치 0.9%)"
+  },
+  {
+    "guid": "9711757",
+    "title": "FinancialJuice: German Imports MoM SA Actual 4.4% (Forecast 2%, Previous -2.5%)",
+    "link": "https://www.financialjuice.com/News/9711757/German-Imports-MoM-SA-Actual-44-Forecast-2-Previous--25.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:00:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 수입, 전월 대비 계절 조정 후 실제 4.4% (예상 2%, 전월 -2.5%)"
+  },
+  {
+    "guid": "9711756",
+    "title": "FinancialJuice: German Industrial Production YoY SA Actual -0.1% (Forecast 0.1%, Previous 0.11%)",
+    "link": "https://www.financialjuice.com/News/9711756/German-Industrial-Production-YoY-SA-Actual--01-Forecast-01-Previous-011.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 산업생산 전년 동기 대비 계절 조정 후 실제치 -0.1% (예상치 0.1%, 전월치 0.11%)"
+  },
+  {
+    "guid": "9711755",
+    "title": "FinancialJuice: German Industrial Production MoM Actual 0.2% (Forecast 0.2%, Previous 0.9%)",
+    "link": "https://www.financialjuice.com/News/9711755/German-Industrial-Production-MoM-Actual-02-Forecast-02-Previous-09.aspx?xy=rss",
+    "pubDate": "Fri, 07 Aug 2026 06:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 산업생산 전월 대비 실제치 0.2% (예상치 0.2%, 전월치 0.9%)"
+  },
+  {
     "guid": "9711729",
     "title": "FinancialJuice: French ILO Unemployment Rate Actual 8.3% (Forecast 8.2%, Previous 8.1%)",
     "link": "https://www.financialjuice.com/News/9711729/French-ILO-Unemployment-Rate-Actual-83-Forecast-82-Previous-81.aspx",
