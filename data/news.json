@@ -1,5 +1,77 @@
 [
   {
+    "guid": "9714005",
+    "title": "FinancialJuice: Sony Group, TSMC to mass-produce next-generation imaging sensors by 2029: Nikkei says",
+    "link": "https://www.financialjuice.com/News/9714005/Sony-Group-TSMC-to-mass-produce-next-generation-imaging-sensors-by-2029-Nikkei-says.aspx?xy=rss",
+    "pubDate": "Mon, 10 Aug 2026 02:02:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소니 그룹과 TSMC, 2029년까지 차세대 이미지 센서 양산 예정: 닛케이 보도"
+  },
+  {
+    "guid": "9714000",
+    "title": "FinancialJuice: Sony Group, TSMC to pour 1 trillion yen into Kumamoto plant, Nikkei says",
+    "link": "https://www.financialjuice.com/News/9714000/Sony-Group-TSMC-to-pour-1-trillion-yen-into-Kumamoto-plant-Nikkei-says.aspx?xy=rss",
+    "pubDate": "Mon, 10 Aug 2026 02:01:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 닛케이 보도에 따르면 소니 그룹과 TSMC가 구마모토 공장에 1조 엔을 투자할 예정"
+  },
+  {
+    "guid": "9713950",
+    "title": "FinancialJuice: S.Korea central bank: sells 91-day monetary stabilization bonds at 2.700% yield",
+    "link": "https://www.financialjuice.com/News/9713950/SKorea-central-bank-sells-91-day-monetary-stabilization-bonds-at-2700-yield.aspx?xy=rss",
+    "pubDate": "Mon, 10 Aug 2026 01:40:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국은행, 수익률 2.700%의 91일물 통화안정채 발행"
+  },
+  {
+    "guid": "9713949",
+    "title": "FinancialJuice: Yemeni military: Houthi assault on Mocha port kills 7, injures 30",
+    "link": "https://www.financialjuice.com/News/9713949/Yemeni-military-Houthi-assault-on-Mocha-port-kills-7-injures-30.aspx?xy=rss",
+    "pubDate": "Mon, 10 Aug 2026 01:35:59 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 예멘 군 당국: 후티 반군의 모카 항구 공격으로 7명 사망, 30명 부상"
+  },
+  {
+    "guid": "9713940",
+    "title": "FinancialJuice: Taiwan stocks climb over 2%",
+    "link": "https://www.financialjuice.com/News/9713940/Taiwan-stocks-climb-over-2.aspx?xy=rss",
+    "pubDate": "Mon, 10 Aug 2026 01:26:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 대만 증시, 2% 이상 상승"
+  },
+  {
+    "guid": "9713939",
+    "title": "FinancialJuice: China c.bank injects 18 billion yuan via 7-day reverse repos at 1.40% vs prior 1.40%: statement",
+    "link": "https://www.financialjuice.com/News/9713939/China-cbank-injects-18-billion-yuan-via-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx?xy=rss",
+    "pubDate": "Mon, 10 Aug 2026 01:20:21 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 7일물 역레포를 통해 180억 위안을 공급… 금리는 이전과 동일한 1.40%: 성명서"
+  },
+  {
+    "guid": "9713938",
+    "title": "FinancialJuice: PBOC sets yuan midpoint at strongest level since Feb. 10, 2023",
+    "link": "https://www.financialjuice.com/News/9713938/PBOC-sets-yuan-midpoint-at-strongest-level-since-Feb-10-2023.aspx?xy=rss",
+    "pubDate": "Mon, 10 Aug 2026 01:17:38 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국인민은행, 위안화 기준환율을 2023년 2월 10일 이후 최고 수준으로 책정"
+  },
+  {
+    "guid": "9713924",
+    "title": "FinancialJuice: Dollar/yen last up 0.14% at 158.070",
+    "link": "https://www.financialjuice.com/News/9713924/Dollaryen-last-up-014-at-158070.aspx?xy=rss",
+    "pubDate": "Mon, 10 Aug 2026 01:08:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 달러/엔 환율이 0.14% 상승한 158.070을 기록하며 마감했다."
+  },
+  {
+    "guid": "9713913",
+    "title": "FinancialJuice: Taiwan overnight interbank rate starts at 0.805% vs 0.806% in prior session opening",
+    "link": "https://www.financialjuice.com/News/9713913/Taiwan-overnight-interbank-rate-starts-at-0805-vs-0806-in-prior-session-opening.aspx?xy=rss",
+    "pubDate": "Mon, 10 Aug 2026 01:00:47 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 대만 일일 은행간 금리, 전일 개장 시 0.806% 대비 0.805%로 개장"
+  },
+  {
     "guid": "9713907",
     "title": "FinancialJuice: China PBOC likely to set yuan midpoint at 6.7379 per dollar: Estimate",
     "link": "https://www.financialjuice.com/News/9713907/China-PBOC-likely-to-set-yuan-midpoint-at-67379-per-dollar-Estimate.aspx?xy=rss",
