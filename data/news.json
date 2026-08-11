@@ -1,5 +1,85 @@
 [
   {
+    "guid": "9715884",
+    "title": "FinancialJuice: Bank of Korea Senior Deputy Governor Ryoo: There will be an additional rate hike",
+    "link": "https://www.financialjuice.com/News/9715884/Bank-of-Korea-Senior-Deputy-Governor-Ryoo-There-will-be-an-additional-rate-hike.aspx?xy=rss",
+    "pubDate": "Tue, 11 Aug 2026 06:00:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 류 한국은행 부총재 “추가 금리 인상이 있을 것”"
+  },
+  {
+    "guid": "9715881",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9715881/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:59:45 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9715880",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9715880/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:59:28 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9715879",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9715879/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:58:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9715878",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9715878/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:57:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9715877",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9715877/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:57:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9715876",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9715876/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:57:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9715875",
+    "title": "FinancialJuice: RBA's Gov. Bullock: Housing downturn not a massive risk to financial stability",
+    "link": "https://www.financialjuice.com/News/9715875/RBAs-Gov-Bullock-Housing-downturn-not-a-massive-risk-to-financial-stability.aspx?xy=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:56:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: RBA 불록 총재, “주택 시장 침체는 금융 안정성에 큰 위협이 아니다”"
+  },
+  {
+    "guid": "9715874",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9715874/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:56:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9715873",
+    "title": "FinancialJuice: RBA's Gov. Bullock: We need slower growth and higher jobless to cool inflation",
+    "link": "https://www.financialjuice.com/News/9715873/RBAs-Gov-Bullock-We-need-slower-growth-and-higher-jobless-to-cool-inflation.aspx?xy=rss",
+    "pubDate": "Tue, 11 Aug 2026 05:51:08 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: RBA 불록 총재 “인플레이션을 진정시키려면 성장세 둔화와 실업률 상승이 필요하다”"
+  },
+  {
     "guid": "9715872",
     "title": "FinancialJuice: RBA's Gov. Bullock: The board decided to wait for a bit more information; rate hike still front of mind.",
     "link": "https://www.financialjuice.com/News/9715872/RBAs-Gov-Bullock-The-board-decided-to-wait-for-a-bit-more-information-rate-hike-still-front-of-mind.aspx?xy=rss",
