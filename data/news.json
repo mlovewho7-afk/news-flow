@@ -1,5 +1,117 @@
 [
   {
+    "guid": "9718126",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9718126/MOO-Imbalance.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 13:30:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOO 불균형"
+  },
+  {
+    "guid": "9718124",
+    "title": "FinancialJuice: US Sentiment: CPI Inline, Rate Hike Expectations Decline - FJElite",
+    "link": "https://www.financialjuice.com/News/9718124/US-Sentiment-CPI-Inline-Rate-Hike-Expectations-Decline---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 13:28:45 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 시장 심리: CPI 예상치와 일치, 금리 인상 기대감 하락 - FJElite"
+  },
+  {
+    "guid": "9718076",
+    "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 11 vs 3.63% August 10.",
+    "link": "https://www.financialjuice.com/News/9718076/Effective-Fed-Funds-Rate-363-August-11-vs-363-August-10.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:59:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 8월 11일 실효 연방기금 금리 3.63% (8월 10일 3.63% 대비)."
+  },
+  {
+    "guid": "9718074",
+    "title": "FinancialJuice: Fed Fund Futures Before & After Inline US CPI Data - FJElite",
+    "link": "https://www.financialjuice.com/News/9718074/Fed-Fund-Futures-Before--After-Inline-US-CPI-Data---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:54:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 CPI 지표 발표 전후의 연방기금 선물 동향 - FJElite"
+  },
+  {
+    "guid": "9718062",
+    "title": "FinancialJuice: US Supercore CPI YoY: 2.843%, previous 3.172%",
+    "link": "https://www.financialjuice.com/News/9718062/US-Supercore-CPI-YoY-2843-previous-3172.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:36:36 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 슈퍼코어 CPI 전년 동기 대비: 2.843%, 이전 수치 3.172%"
+  },
+  {
+    "guid": "9718061",
+    "title": "FinancialJuice: US Supercore CPI MoM: 0.189%, Previous -0.206% ",
+    "link": "https://www.financialjuice.com/News/9718061/US-Supercore-CPI-MoM-0189-Previous--0206-.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:36:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 슈퍼코어 CPI 전월 대비: 0.189%, 이전 수치 -0.206% "
+  },
+  {
+    "guid": "9718063",
+    "title": "FinancialJuice: Traders keep bets on a 45% chance of a September Fed rate hike.",
+    "link": "https://www.financialjuice.com/News/9718063/Traders-keep-bets-on-a-45-chance-of-a-September-Fed-rate-hike.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:36:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 트레이더들은 9월 연준 금리 인상 가능성을 45%로 보고 베팅을 이어가고 있다."
+  },
+  {
+    "guid": "9718060",
+    "title": "FinancialJuice: US short-term interest-rate futures rise slightly after inflation report.",
+    "link": "https://www.financialjuice.com/News/9718060/US-short-term-interest-rate-futures-rise-slightly-after-inflation-report.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:35:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 물가 보고서 발표 후 미국 단기 금리 선물이 소폭 상승했다."
+  },
+  {
+    "guid": "9718024",
+    "title": "FinancialJuice: Canadian Building Permits MoM Actual 18.5% (Forecast 0.8%, Previous -1.7%)",
+    "link": "https://www.financialjuice.com/News/9718024/Canadian-Building-Permits-MoM-Actual-185-Forecast-08-Previous--17.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:31:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 건축 허가 건수, 전월 대비 실제 18.5% (예상 0.8%, 전월 -1.7%)"
+  },
+  {
+    "guid": "9718021",
+    "title": "FinancialJuice: US CPI YoY Actual 3.4% (Forecast 3.4%, Previous 3.5%)",
+    "link": "https://www.financialjuice.com/News/9718021/US-CPI-YoY-Actual-34-Forecast-34-Previous-35.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:31:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 소비자물가지수(CPI) 전년 동기 대비 실제치 3.4% (예상치 3.4%, 전월치 3.5%)"
+  },
+  {
+    "guid": "9718023",
+    "title": "FinancialJuice: US Core CPI MoM Actual 0.2% (Forecast 0.2%, Previous 0.0%)",
+    "link": "https://www.financialjuice.com/News/9718023/US-Core-CPI-MoM-Actual-02-Forecast-02-Previous-00.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:30:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 핵심 소비자물가지수(CPI) 전월 대비 실제치 0.2% (예상치 0.2%, 전월치 0.0%)"
+  },
+  {
+    "guid": "9718022",
+    "title": "FinancialJuice: US Core CPI YoY Actual 2.5% (Forecast 2.5%, Previous 2.6%)",
+    "link": "https://www.financialjuice.com/News/9718022/US-Core-CPI-YoY-Actual-25-Forecast-25-Previous-26.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:30:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 핵심 소비자물가지수(CPI) 전년 동기 대비 실제치 2.5% (예상치 2.5%, 전월치 2.6%)"
+  },
+  {
+    "guid": "9718020",
+    "title": "FinancialJuice: US CPI MoM Actual 0.1% (Forecast 0.1%, Previous -0.4%)",
+    "link": "https://www.financialjuice.com/News/9718020/US-CPI-MoM-Actual-01-Forecast-01-Previous--04.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:30:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 소비자물가지수(CPI) 전월 대비 실제치 0.1% (예상치 0.1%, 전월치 -0.4%)"
+  },
+  {
+    "guid": "9718019",
+    "title": "FinancialJuice: Recent Saudi Red Sea crude loadings done with ship tracking turned off as Yemen's Houthis launch more attacks - Data",
+    "link": "https://www.financialjuice.com/News/9718019/Recent-Saudi-Red-Sea-crude-loadings-done-with-ship-tracking-turned-off-as-Yemens-Houthis-launch-more-attacks---Data.aspx?xy=rss",
+    "pubDate": "Wed, 12 Aug 2026 12:25:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 후티 반군의 공격이 잇따르면서 최근 사우디의 홍해 원유 선적 시 선박 추적 기능이 꺼진 채 진행됐다 - 데이터"
+  },
+  {
     "guid": "9718003",
     "title": "FinancialJuice: US CPI Crib Sheet - FJElite",
     "link": "https://www.financialjuice.com/News/9718003/US-CPI-Crib-Sheet---FJElite.aspx?xy=rss",
