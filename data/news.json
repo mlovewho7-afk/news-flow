@@ -1,5 +1,301 @@
 [
   {
+    "guid": "9719940",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9719940/MOO-Imbalance.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 13:30:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOO 불균형"
+  },
+  {
+    "guid": "9719925",
+    "title": "FinancialJuice: RBC's Forecasts for Oil - FJElite",
+    "link": "https://www.financialjuice.com/News/9719925/RBCs-Forecasts-for-Oil---FJElite.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 13:30:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: RBC의 원유 전망 - FJElite"
+  },
+  {
+    "guid": "9719924",
+    "title": "FinancialJuice: JPMorgan's View on US CPI - FJElite",
+    "link": "https://www.financialjuice.com/News/9719924/JPMorgans-View-on-US-CPI---FJElite.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 13:25:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: JP모건의 미국 CPI 전망 - FJElite"
+  },
+  {
+    "guid": "9719923",
+    "title": "FinancialJuice: CIBC on US CPI - FJElite",
+    "link": "https://www.financialjuice.com/News/9719923/CIBC-on-US-CPI---FJElite.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 13:22:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: CIBC의 미국 소비자물가지수(CPI) 분석 - FJElite"
+  },
+  {
+    "guid": "9719922",
+    "title": "FinancialJuice: Deutsche Bank's View on US CPI - FJElite",
+    "link": "https://www.financialjuice.com/News/9719922/Deutsche-Banks-View-on-US-CPI---FJElite.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 13:20:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 도이체방크의 미국 소비자물가지수(CPI) 전망 - FJElite"
+  },
+  {
+    "guid": "9719905",
+    "title": "FinancialJuice: US Sentiment: Faster BoJ Hikes Said to be Supported by Japan - FJElite",
+    "link": "https://www.financialjuice.com/News/9719905/US-Sentiment-Faster-BoJ-Hikes-Said-to-be-Supported-by-Japan---FJElite.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 13:16:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 일본 측, 일본은행의 조기 금리 인상 지지하는 것으로 전해져 - FJElite"
+  },
+  {
+    "guid": "9719883",
+    "title": "FinancialJuice: US Chamber of Commerce CEO Clark: We need to bring inflation down to 2% faster",
+    "link": "https://www.financialjuice.com/News/9719883/US-Chamber-of-Commerce-CEO-Clark-We-need-to-bring-inflation-down-to-2-faster.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 13:01:56 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 상공회의소 클라크 대표 “인플레이션을 2% 수준으로 더 빨리 낮춰야 한다”"
+  },
+  {
+    "guid": "9719879",
+    "title": "FinancialJuice: Fed's Hammack: If it takes another 3-4 years to get to 2% inflation, can the public wait?",
+    "link": "https://www.financialjuice.com/News/9719879/Feds-Hammack-If-it-takes-another-3-4-years-to-get-to-2-inflation-can-the-public-wait.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 13:00:44 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “인플레이션이 2%에 도달하는 데 3~4년이 더 걸린다면, 대중이 그 정도까지 기다릴 수 있을까?”"
+  },
+  {
+    "guid": "9719870",
+    "title": "FinancialJuice: Fed's Hammack: Recent two inflation reports are welcome news, but no confidence we'll continue to see that progress",
+    "link": "https://www.financialjuice.com/News/9719870/Feds-Hammack-Recent-two-inflation-reports-are-welcome-news-but-no-confidence-well-continue-to-see-that-progress.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 13:00:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “최근 발표된 두 건의 물가 보고서는 반가운 소식이지만, 이러한 진전이 계속될 것이라는 확신은 없다”"
+  },
+  {
+    "guid": "9719869",
+    "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 12 vs 3.63% August 11.",
+    "link": "https://www.financialjuice.com/News/9719869/Effective-Fed-Funds-Rate-363-August-12-vs-363-August-11.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 13:00:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 8월 12일 실효 연방기금 금리 3.63% (8월 11일 3.63% 대비)."
+  },
+  {
+    "guid": "9719868",
+    "title": "FinancialJuice: Fed's Hammack: Inflation from these supply shocks has proved more persistent",
+    "link": "https://www.financialjuice.com/News/9719868/Feds-Hammack-Inflation-from-these-supply-shocks-has-proved-more-persistent.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:59:47 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “이러한 공급 충격으로 인한 인플레이션은 더 오래 지속되는 것으로 드러났다”"
+  },
+  {
+    "guid": "9719867",
+    "title": "FinancialJuice: Fed's Barkin: Consumers seem \"bound and determined\" to spend, and are finding ways to finance it.",
+    "link": "https://www.financialjuice.com/News/9719867/Feds-Barkin-Consumers-seem-bound-and-determined-to-spend-and-are-finding-ways-to-finance-it.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:58:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨 위원: 소비자들은 지출에 “단호한 의지”를 보이고 있으며, 이를 위한 자금 조달 방법을 모색하고 있다."
+  },
+  {
+    "guid": "9719866",
+    "title": "FinancialJuice: Fed's Hammack: Payroll data is noisy",
+    "link": "https://www.financialjuice.com/News/9719866/Feds-Hammack-Payroll-data-is-noisy.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:57:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “고용 지표는 잡음이 많다”"
+  },
+  {
+    "guid": "9719865",
+    "title": "FinancialJuice: Fed's Barkin: Current levels of federal debt are an inflationary \"wind\" that the Fed has to navigate against.",
+    "link": "https://www.financialjuice.com/News/9719865/Feds-Barkin-Current-levels-of-federal-debt-are-an-inflationary-wind-that-the-Fed-has-to-navigate-against.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:56:37 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨 위원: 현재의 연방 부채 수준은 연준이 헤쳐 나가야 할 인플레이션을 부추기는 ‘역풍’이다."
+  },
+  {
+    "guid": "9719864",
+    "title": "FinancialJuice: Fed's Hammack: I also watch private credit and whether AI is a bubble",
+    "link": "https://www.financialjuice.com/News/9719864/Feds-Hammack-I-also-watch-private-credit-and-whether-AI-is-a-bubble.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:54:08 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “민간 신용 시장도 주시하고 있으며, AI가 거품인지 여부도 지켜보고 있다”"
+  },
+  {
+    "guid": "9719863",
+    "title": "FinancialJuice: Fed's Hammack: A lot of leverage is being used to buy treasuries. Treasuries is 1 area I monitor for financial stability.",
+    "link": "https://www.financialjuice.com/News/9719863/Feds-Hammack-A-lot-of-leverage-is-being-used-to-buy-treasuries-Treasuries-is-1-area-I-monitor-for-financial-stability.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:53:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 국채 매입에 상당한 레버리지가 활용되고 있다. 국채 시장은 내가 금융 안정성을 지켜보는 주요 분야 중 하나다."
+  },
+  {
+    "guid": "9719862",
+    "title": "FinancialJuice: The US eases export controls on certain drones and parts",
+    "link": "https://www.financialjuice.com/News/9719862/The-US-eases-export-controls-on-certain-drones-and-parts.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:49:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국, 특정 드론 및 부품에 대한 수출 규제를 완화"
+  },
+  {
+    "guid": "9719846",
+    "title": "FinancialJuice: Fed's Hammack: Businesses have adapted to tariff and oil shocks, there's resilience and investment.",
+    "link": "https://www.financialjuice.com/News/9719846/Feds-Hammack-Businesses-have-adapted-to-tariff-and-oil-shocks-theres-resilience-and-investment.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:45:58 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 기업들은 관세 및 유가 충격에 적응해 왔으며, 회복력과 투자가 나타나고 있다."
+  },
+  {
+    "guid": "9719838",
+    "title": "FinancialJuice: Fed's Hammack: Raising interest rates can be painful, but must not let growth and investment be so fast the economy overheats.",
+    "link": "https://www.financialjuice.com/News/9719838/Feds-Hammack-Raising-interest-rates-can-be-painful-but-must-not-let-growth-and-investment-be-so-fast-the-economy-overheats.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:43:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 금리 인상은 고통스러울 수 있지만, 성장과 투자가 지나치게 빨라져 경제가 과열되는 일은 막아야 한다."
+  },
+  {
+    "guid": "9719837",
+    "title": "FinancialJuice: Fed's Hammack: Inflation is broad-based, not just in certain sectors, I have learned that from talking with businesses",
+    "link": "https://www.financialjuice.com/News/9719837/Feds-Hammack-Inflation-is-broad-based-not-just-in-certain-sectors-I-have-learned-that-from-talking-with-businesses.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:42:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “인플레이션은 특정 부문에만 국한된 것이 아니라 광범위하게 나타나고 있다. 기업들과의 대화를 통해 그 사실을 알게 되었다”"
+  },
+  {
+    "guid": "9719836",
+    "title": "FinancialJuice: Fed's Barkin: The US economy remains resilient, driven by consumer",
+    "link": "https://www.financialjuice.com/News/9719836/Feds-Barkin-The-US-economy-remains-resilient-driven-by-consumer.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:40:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨 “소비자 수요에 힘입어 미국 경제는 여전히 탄탄한 회복력을 보이고 있다”"
+  },
+  {
+    "guid": "9719835",
+    "title": "FinancialJuice: Fed's Barkin: US investment boom not confined to data centers.",
+    "link": "https://www.financialjuice.com/News/9719835/Feds-Barkin-US-investment-boom-not-confined-to-data-centers.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:40:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨, “미국의 투자 붐은 데이터 센터에만 국한되지 않는다.”"
+  },
+  {
+    "guid": "9719834",
+    "title": "FinancialJuice: Fed's Barkin: Much of today's inflation is from shocks that should pass",
+    "link": "https://www.financialjuice.com/News/9719834/Feds-Barkin-Much-of-todays-inflation-is-from-shocks-that-should-pass.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:40:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨 “현재 인플레이션의 상당 부분은 일시적인 충격에서 비롯된 것”"
+  },
+  {
+    "guid": "9719833",
+    "title": "FinancialJuice: Fed's Barkin: Some inflation drivers, including AI, could be persistent.",
+    "link": "https://www.financialjuice.com/News/9719833/Feds-Barkin-Some-inflation-drivers-including-AI-could-be-persistent.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:40:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨 위원: AI를 비롯한 일부 인플레이션 요인은 지속될 수 있다."
+  },
+  {
+    "guid": "9719832",
+    "title": "FinancialJuice: Fed's Barkin: AI investment seems impervious to the level of rates",
+    "link": "https://www.financialjuice.com/News/9719832/Feds-Barkin-AI-investment-seems-impervious-to-the-level-of-rates.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:40:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨 “AI 투자는 금리 수준에 영향을 받지 않는 듯하다”"
+  },
+  {
+    "guid": "9719831",
+    "title": "FinancialJuice: Fed's Hammack: It's important Fed is held accountable to one inflation number.",
+    "link": "https://www.financialjuice.com/News/9719831/Feds-Hammack-Its-important-Fed-is-held-accountable-to-one-inflation-number.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:40:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 연준이 단일 인플레이션 지표에 대해 책임을 지는 것이 중요하다."
+  },
+  {
+    "guid": "9719830",
+    "title": "FinancialJuice: Fed's Hammack: Policy is not restrictive, businesses are excited to grow and borrow",
+    "link": "https://www.financialjuice.com/News/9719830/Feds-Hammack-Policy-is-not-restrictive-businesses-are-excited-to-grow-and-borrow.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:38:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “통화 정책은 긴축적이지 않으며, 기업들은 성장과 차입에 적극적인 태도를 보이고 있다”"
+  },
+  {
+    "guid": "9719829",
+    "title": "FinancialJuice: Fed's Hammack: Unemployment is the best indicator of the job market; it's stable",
+    "link": "https://www.financialjuice.com/News/9719829/Feds-Hammack-Unemployment-is-the-best-indicator-of-the-job-market-its-stable.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:37:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “실업률은 고용 시장을 가늠하는 가장 좋은 지표이며, 현재 안정적인 상태”"
+  },
+  {
+    "guid": "9719828",
+    "title": "FinancialJuice: Fed's Hammack: Inflation amid recent shocks has risen.",
+    "link": "https://www.financialjuice.com/News/9719828/Feds-Hammack-Inflation-amid-recent-shocks-has-risen.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:37:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 최근의 충격 속에서 인플레이션이 상승했다."
+  },
+  {
+    "guid": "9719827",
+    "title": "FinancialJuice: Fed's Hammack: The labor market is stable",
+    "link": "https://www.financialjuice.com/News/9719827/Feds-Hammack-The-labor-market-is-stable.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:37:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “노동 시장은 안정적이다”"
+  },
+  {
+    "guid": "9719826",
+    "title": "FinancialJuice: Fed's Hammack: My view is we need to act now.",
+    "link": "https://www.financialjuice.com/News/9719826/Feds-Hammack-My-view-is-we-need-to-act-now.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:36:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 제 생각에는 지금 당장 조치를 취해야 합니다."
+  },
+  {
+    "guid": "9719807",
+    "title": "FinancialJuice: US Core PPI MoM Actual 0.2% (Forecast 0.3%, Previous 0.2%, Revised 0.4%)",
+    "link": "https://www.financialjuice.com/News/9719807/US-Core-PPI-MoM-Actual-02-Forecast-03-Previous-02-Revised-04.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 핵심 생산자물가지수(PPI) 전월 대비 실제치 0.2% (예상치 0.3%, 전월치 0.2%, 수정치 0.4%)"
+  },
+  {
+    "guid": "9719806",
+    "title": "FinancialJuice: US Core PPI YoY Actual 4.2% (Forecast 4.1%, Previous 4.7%)",
+    "link": "https://www.financialjuice.com/News/9719806/US-Core-PPI-YoY-Actual-42-Forecast-41-Previous-47.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:30:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 핵심 생산자물가지수(PPI) 전년 동기 대비 실제치 4.2% (예상치 4.1%, 전월치 4.7%)"
+  },
+  {
+    "guid": "9719805",
+    "title": "FinancialJuice: US PPI MoM Actual 0% (Forecast 0.2%, Previous -0.3%, Revised -0.1%)",
+    "link": "https://www.financialjuice.com/News/9719805/US-PPI-MoM-Actual-0-Forecast-02-Previous--03-Revised--01.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:30:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 생산자물가지수(PPI) 전월 대비 실제치 0% (예상치 0.2%, 전월치 -0.3%, 수정치 -0.1%)"
+  },
+  {
+    "guid": "9719804",
+    "title": "FinancialJuice: US PPI YoY Actual 4.7% (Forecast 4.9%, Previous 5.5%)",
+    "link": "https://www.financialjuice.com/News/9719804/US-PPI-YoY-Actual-47-Forecast-49-Previous-55.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:30:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 생산자물가지수(PPI) 전년 동기 대비 실제치 4.7% (예상치 4.9%, 전월치 5.5%)"
+  },
+  {
+    "guid": "9719803",
+    "title": "FinancialJuice: US Continued Jobless Claims Actual 1.777M (Forecast 1.794M, Previous 1.801M, Revised 1.799M)",
+    "link": "https://www.financialjuice.com/News/9719803/US-Continued-Jobless-Claims-Actual-1777M-Forecast-1794M-Previous-1801M-Revised-1799M.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지속 실업수당 청구 건수, 실제 177만 7천 건 (예상 179만 4천 건, 전월 180만 1천 건, 수정치 179만 9천 건)"
+  },
+  {
+    "guid": "9719802",
+    "title": "FinancialJuice: US Initial Jobless Claims Actual 209k (Forecast 202k, Previous 199k, Revised 200k)",
+    "link": "https://www.financialjuice.com/News/9719802/US-Initial-Jobless-Claims-Actual-209k-Forecast-202k-Previous-199k-Revised-200k.aspx?xy=1",
+    "pubDate": "Thu, 13 Aug 2026 12:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 신규 실업수당 청구 건수, 실제 209k (예상 202k, 전월 199k, 수정치 200k)"
+  },
+  {
     "guid": "9719780",
     "title": "FinancialJuice: Iran: Trump's claim of controlling the strait is a lie - IRIB",
     "link": "https://www.financialjuice.com/News/9719780/Iran-Trumps-claim-of-controlling-the-strait-is-a-lie---IRIB.aspx?xy=rss",
