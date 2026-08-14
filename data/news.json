@@ -1,5 +1,101 @@
 [
   {
+    "guid": "9721681",
+    "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 13 vs 3.63% August 12.",
+    "link": "https://www.financialjuice.com/News/9721681/Effective-Fed-Funds-Rate-363-August-13-vs-363-August-12.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 12:59:56 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 8월 13일 실효 연방기금 금리 3.63% (8월 12일 3.63% 대비)."
+  },
+  {
+    "guid": "9721680",
+    "title": "FinancialJuice: Goldman Sachs' Fishman on Yen - FJElite",
+    "link": "https://www.financialjuice.com/News/9721680/Goldman-Sachs-Fishman-on-Yen---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 12:53:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 골드만삭스의 피쉬먼, 엔화 전망 - FJElite"
+  },
+  {
+    "guid": "9721676",
+    "title": "FinancialJuice: UBS Rate Expectations - FJElite",
+    "link": "https://www.financialjuice.com/News/9721676/UBS-Rate-Expectations---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 12:46:28 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: UBS 금리 전망 - FJElite"
+  },
+  {
+    "guid": "9721671",
+    "title": "FinancialJuice: JPMorgan: Even faster BoJ tightening unlikely to lift the yen through BoJ efforts alone - FJElite",
+    "link": "https://www.financialjuice.com/News/9721671/JPMorgan-Even-faster-BoJ-tightening-unlikely-to-lift-the-yen-through-BoJ-efforts-alone---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 12:44:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: JP모건: 일본은행의 긴축 속도가 더 빨라지더라도 일본은행의 노력만으로는 엔화 강세를 이끌어내기 어려울 전망 - FJElite"
+  },
+  {
+    "guid": "9721670",
+    "title": "FinancialJuice: US Sentiment: Apple & Baba Work on AI in China, Markets Wary of US-Iran - FJElite",
+    "link": "https://www.financialjuice.com/News/9721670/US-Sentiment-Apple--Baba-Work-on-AI-in-China-Markets-Wary-of-US-Iran---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 12:43:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 애플과 바바, 중국에서 AI 개발 추진… 시장, 미-이란 관계에 경계 - FJElite"
+  },
+  {
+    "guid": "9721664",
+    "title": "FinancialJuice: Traders pare wagers on more than one Fed rate hike by mid-2027.",
+    "link": "https://www.financialjuice.com/News/9721664/Traders-pare-wagers-on-more-than-one-Fed-rate-hike-by-mid-2027.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 12:33:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 트레이더들이 2027년 중반까지 연준이 한 번 이상 금리를 인상할 것이라는 전망에 대한 베팅을 줄이고 있다."
+  },
+  {
+    "guid": "9721638",
+    "title": "FinancialJuice: US Retail Sales YoY Actual 5.01% (Forecast -, Previous 6.72%)",
+    "link": "https://www.financialjuice.com/News/9721638/US-Retail-Sales-YoY-Actual-501-Forecast---Previous-672.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 12:32:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 소매판매 전년 동기 대비 실제 5.01% (예상 -, 이전 6.72%)"
+  },
+  {
+    "guid": "9721626",
+    "title": "FinancialJuice: Canadian Manufacturing Sales MoM Actual 0.1% (Forecast -0.1%, Previous 1.3%)",
+    "link": "https://www.financialjuice.com/News/9721626/Canadian-Manufacturing-Sales-MoM-Actual-01-Forecast--01-Previous-13.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 12:31:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 제조업 매출 전월 대비 실제치 0.1% (예상 -0.1%, 전월 1.3%)"
+  },
+  {
+    "guid": "9721628",
+    "title": "FinancialJuice: Canadian Wholesale Sales MoM Actual 2.8% (Forecast 2.7%, Previous 0.0%)",
+    "link": "https://www.financialjuice.com/News/9721628/Canadian-Wholesale-Sales-MoM-Actual-28-Forecast-27-Previous-00.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 12:30:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 도매 판매 전월 대비 실제 2.8% (예상 2.7%, 전월 0.0%)"
+  },
+  {
+    "guid": "9721627",
+    "title": "FinancialJuice: US Core Retail Sales MoM Actual -0.3% (Forecast 0.2%, Previous -0.2%)",
+    "link": "https://www.financialjuice.com/News/9721627/US-Core-Retail-Sales-MoM-Actual--03-Forecast-02-Previous--02.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 12:30:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 핵심 소매판매 전월 대비 실제 -0.3% (예상 0.2%, 전월 -0.2%)"
+  },
+  {
+    "guid": "9721625",
+    "title": "FinancialJuice: US Retail Sales MoM Actual -0.6% (Forecast 0.1%, Previous 0.2%)",
+    "link": "https://www.financialjuice.com/News/9721625/US-Retail-Sales-MoM-Actual--06-Forecast-01-Previous-02.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 12:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 소매판매 전월 대비 실제 -0.6% (예상 0.1%, 전월 0.2%)"
+  },
+  {
+    "guid": "9721597",
+    "title": "FinancialJuice: Pentagon announces Boeing & RTX deals on missile interceptors. Agreement to boost production of missile components $BA",
+    "link": "https://www.financialjuice.com/News/9721597/Pentagon-announces-Boeing--RTX-deals-on-missile-interceptors-Agreement-to-boost-production-of-missile-components-BA.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 12:05:27 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 미 국방부, 보잉 및 RTX와 미사일 요격기 계약 체결 발표. 미사일 부품 생산 확대에 합의 $BA"
+  },
+  {
     "guid": "9721572",
     "title": "FinancialJuice: Secured overnight financing rate 3.62% August 13th vs 3.62% August 12th",
     "link": "https://www.financialjuice.com/News/9721572/Secured-overnight-financing-rate-362-August-13th-vs-362-August-12th.aspx?xy=rss",
