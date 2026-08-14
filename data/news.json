@@ -1,5 +1,181 @@
 [
   {
+    "guid": "9721171",
+    "title": "FinancialJuice: French HICP MoM Final Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
+    "link": "https://www.financialjuice.com/News/9721171/French-HICP-MoM-Final-Actual-06-Forecast-06-Previous-06.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 HICP 전월 대비 최종 실적 0.6% (예상 0.6%, 전월 0.6%)"
+  },
+  {
+    "guid": "9721170",
+    "title": "FinancialJuice: French CPI MoM NSA Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
+    "link": "https://www.financialjuice.com/News/9721170/French-CPI-MoM-NSA-Actual-06-Forecast-06-Previous-06.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:45:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 프랑스 소비자물가지수(CPI) 전월 대비(NSA) 실제치 0.6% (예상치 0.6%, 전월치 0.6%)"
+  },
+  {
+    "guid": "9721169",
+    "title": "FinancialJuice: French HICP YoY Final Actual 2.4% (Forecast 2.4%, Previous 2.4%)",
+    "link": "https://www.financialjuice.com/News/9721169/French-HICP-YoY-Final-Actual-24-Forecast-24-Previous-24.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 HICP 전년 동기 대비 최종 실적 2.4% (예상 2.4%, 이전 2.4%)"
+  },
+  {
+    "guid": "9721168",
+    "title": "FinancialJuice: French CPI YoY NSA Actual 2.1% (Forecast 2.1%, Previous 2.1%)",
+    "link": "https://www.financialjuice.com/News/9721168/French-CPI-YoY-NSA-Actual-21-Forecast-21-Previous-21.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:45:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 프랑스 소비자물가지수(CPI) 전년 동기 대비(계절 조정 전) 실제치 2.1% (예상치 2.1%, 전월치 2.1%)"
+  },
+  {
+    "guid": "9721142",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9721142/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:13:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9721141",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9721141/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:12:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9721140",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9721140/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:12:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9721139",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9721139/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:12:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9721138",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9721138/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:11:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9721137",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9721137/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:11:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9721136",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9721136/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:11:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9721135",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9721135/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:11:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9721134",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9721134/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:10:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9721133",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9721133/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:10:08 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시장 내재 변동성"
+  },
+  {
+    "guid": "9721132",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9721132/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:09:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9721131",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9721131/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:09:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9721130",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9721130/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:08:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9721129",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9721129/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:08:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9721128",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9721128/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:08:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9721127",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9721127/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:07:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9721107",
+    "title": "FinancialJuice: German Wholesale Price Index MoM Actual 0.2% (Forecast -, Previous -0.7%)",
+    "link": "https://www.financialjuice.com/News/9721107/German-Wholesale-Price-Index-MoM-Actual-02-Forecast---Previous--07.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 도매물가지수(전월 대비) 실제 0.2% (예상 -, 전월 -0.7%)"
+  },
+  {
+    "guid": "9721106",
+    "title": "FinancialJuice: German Wholesale Price Index YoY Actual 5.3% (Forecast -, Previous 4.9%)",
+    "link": "https://www.financialjuice.com/News/9721106/German-Wholesale-Price-Index-YoY-Actual-53-Forecast---Previous-49.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 06:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 도매물가지수 전년 동기 대비 실제 5.3% (예상 -, 이전 4.9%)"
+  },
+  {
     "guid": "9721091",
     "title": "FinancialJuice: Japan bank for international cooperation signs loan agreement of about $801 million with US entity Japan invest 4 LLC.",
     "link": "https://www.financialjuice.com/News/9721091/Japan-bank-for-international-cooperation-signs-loan-agreement-of-about-801-million-with-US-entity-Japan-invest-4-LLC.aspx?xy=rss",
