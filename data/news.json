@@ -1,5 +1,125 @@
 [
   {
+    "guid": "9721410",
+    "title": "FinancialJuice: Minimax to announce 2026 interim financial results on August 26, 2026",
+    "link": "https://www.financialjuice.com/News/9721410/Minimax-to-announce-2026-interim-financial-results-on-August-26-2026.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 09:30:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미니맥스, 2026년 8월 26일 2026년 중간 재무 실적 발표 예정"
+  },
+  {
+    "guid": "9721409",
+    "title": "FinancialJuice: ECB: 32 million euros borrowed through overnight loan facility, 2010.07 billion euros deposited",
+    "link": "https://www.financialjuice.com/News/9721409/ECB-32-million-euros-borrowed-through-overnight-loan-facility-201007-billion-euros-deposited.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 09:25:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB): 2010년, 일일 대출 제도를 통해 3,200만 유로를 차입하고, 7010억 유로를 예치함"
+  },
+  {
+    "guid": "9721408",
+    "title": "FinancialJuice: ECB: banks placed €2.0 trillion with it overnight",
+    "link": "https://www.financialjuice.com/News/9721408/ECB-banks-placed-20-trillion-with-it-overnight.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 09:25:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB): 은행들이 ECB에 2조 유로를 하루 동안 예치했다"
+  },
+  {
+    "guid": "9721407",
+    "title": "FinancialJuice: ECB: banks took EU32.0 million at marginal rate",
+    "link": "https://www.financialjuice.com/News/9721407/ECB-banks-took-EU320-million-at-marginal-rate.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 09:25:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB): 은행들이 한계 금리로 3,200만 유로를 차입했다"
+  },
+  {
+    "guid": "9721406",
+    "title": "FinancialJuice: Savolon agrees sale and leaseback of aircraft with Akasa Air",
+    "link": "https://www.financialjuice.com/News/9721406/Savolon-agrees-sale-and-leaseback-of-aircraft-with-Akasa-Air.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 09:23:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사볼론, 아카사 에어와 항공기 매각 후 리스백 계약 체결"
+  },
+  {
+    "guid": "9721405",
+    "title": "FinancialJuice: Savolon agrees to sell and lease back seven Boeing 737-8200 aircraft",
+    "link": "https://www.financialjuice.com/News/9721405/Savolon-agrees-to-sell-and-lease-back-seven-Boeing-737-8200-aircraft.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 09:23:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사볼론, 보잉 737-8200 기종 7대 매각 및 리스백 계약 체결"
+  },
+  {
+    "guid": "9721362",
+    "title": "FinancialJuice: Eurozone Trade Balance NSA Actual 8.6B (Forecast -, Previous -7.8B)",
+    "link": "https://www.financialjuice.com/News/9721362/Eurozone-Trade-Balance-NSA-Actual-86B-Forecast---Previous--78B.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 09:01:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 무역수지(비조정한 수치) 실제 86억 (예상 -, 이전 -78억)"
+  },
+  {
+    "guid": "9721361",
+    "title": "FinancialJuice: Eurozone GDP YoY Flash Estimate Actual 1.0% (Forecast 1%, Previous 1.0%)",
+    "link": "https://www.financialjuice.com/News/9721361/Eurozone-GDP-YoY-Flash-Estimate-Actual-10-Forecast-1-Previous-10.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 09:01:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유로존 GDP 전년 동기 대비 속보치 1.0% (예상치 1%, 이전치 1.0%)"
+  },
+  {
+    "guid": "9721360",
+    "title": "FinancialJuice: Eurozone GDP QoQ Flash Estimate Actual 0.4% (Forecast 0.4%, Previous 0.4%)",
+    "link": "https://www.financialjuice.com/News/9721360/Eurozone-GDP-QoQ-Flash-Estimate-Actual-04-Forecast-04-Previous-04.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 09:01:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유로존 GDP 전분기 대비 속보치 0.4% (예상치 0.4%, 전분기 0.4%)"
+  },
+  {
+    "guid": "9721359",
+    "title": "FinancialJuice: Eurozone Employment Change QoQ Flash Actual 0.1% (Forecast -, Previous 0.1%)",
+    "link": "https://www.financialjuice.com/News/9721359/Eurozone-Employment-Change-QoQ-Flash-Actual-01-Forecast---Previous-01.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 09:01:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 고용 변화 (전분기 대비) 속보치 0.1% (예상 -%, 이전 0.1%)"
+  },
+  {
+    "guid": "9721370",
+    "title": "FinancialJuice: Eurozone Trade Balance Actual 1.8B (Forecast -, Previous -5B)",
+    "link": "https://www.financialjuice.com/News/9721370/Eurozone-Trade-Balance-Actual-18B-Forecast---Previous--5B.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 09:00:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 무역수지 실제치 18억 (예상치 -, 전월치 -50억)"
+  },
+  {
+    "guid": "9721349",
+    "title": "FinancialJuice: ING: The JPY - FJElite",
+    "link": "https://www.financialjuice.com/News/9721349/ING-The-JPY---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 08:46:52 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: ING: 엔화 - FJElite"
+  },
+  {
+    "guid": "9721338",
+    "title": "FinancialJuice: ING: The EUR - FJElite",
+    "link": "https://www.financialjuice.com/News/9721338/ING-The-EUR---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 08:46:06 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: ING: 유로 - FJElite"
+  },
+  {
+    "guid": "9721328",
+    "title": "FinancialJuice: Europe Sentiment: Stocks Rise Following Back to Back Benign US Inflation Reports - FJElite\n",
+    "link": "https://www.financialjuice.com/News/9721328/Europe-Sentiment-Stocks-Rise-Following-Back-to-Back-Benign-US-Inflation-Reports---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 08:43:28 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유럽 시장 심리: 미국 물가 지표가 연이어 양호한 수치를 기록하며 주가 상승 - FJElite\n"
+  },
+  {
+    "guid": "9721304",
+    "title": "FinancialJuice: China July M2 money supply rises 7.7% y/y, below poll estimate of 7.9%",
+    "link": "https://www.financialjuice.com/News/9721304/China-July-M2-money-supply-rises-77-yy-below-poll-estimate-of-79.aspx?xy=rss",
+    "pubDate": "Fri, 14 Aug 2026 08:31:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국의 7월 M2 통화 공급량이 전년 동기 대비 7.7% 증가했으나, 설문조사 예상치인 7.9%에는 미치지 못했다."
+  },
+  {
     "guid": "9721252",
     "title": "FinancialJuice: UKMTO: Tanker struck by drone during Hormuz outbound transit.",
     "link": "https://www.financialjuice.com/News/9721252/UKMTO-Tanker-struck-by-drone-during-Hormuz-outbound-transit.aspx?xy=rss",
