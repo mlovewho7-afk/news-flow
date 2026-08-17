@@ -1,5 +1,141 @@
 [
   {
+    "guid": "9723716",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9723716/SNB-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:20:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9723715",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9723715/RBNZ-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:20:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9723714",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9723714/RBA-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:19:55 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9723713",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9723713/BoJ-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:19:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9723712",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9723712/BoC-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:19:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9723711",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9723711/BoE-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:18:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9723710",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9723710/ECB-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:18:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9723709",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9723709/Fed-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:18:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9723708",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9723708/Commodities-Implied-Volatility.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:17:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9723707",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9723707/FX-Implied-Volatility.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:17:23 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시장 내재 변동성"
+  },
+  {
+    "guid": "9723706",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9723706/US-Index-Futures-Implied-Volatility.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:17:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물 내재 변동성"
+  },
+  {
+    "guid": "9723694",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9723694/Top-SP-500-Stock-Names-Implied-Volatility.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:16:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9723693",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9723693/120-Day-Correlation-Matrix.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:16:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9723692",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9723692/90-Day-Correlation-Matrix.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:15:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9723689",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9723689/60-Day-Correlation-Matrix.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:15:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9723688",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9723688/30-Day-Correlation-Matrix.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:15:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9723670",
+    "title": "FinancialJuice: Norwegian Trade Balance Actual 84.33B (Forecast -, Previous 61.90B)",
+    "link": "https://www.financialjuice.com/News/9723670/Norwegian-Trade-Balance-Actual-8433B-Forecast---Previous-6190B.aspx",
+    "pubDate": "Mon, 17 Aug 2026 06:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 노르웨이 무역수지 실제치 84.33B (예상치 -, 전월치 61.90B)"
+  },
+  {
     "guid": "9723669",
     "title": "FinancialJuice: South Korea's Blue House: To make diplomatic efforts for US-Korea military cooperation for the situation in the Strait of Hormuz",
     "link": "https://www.financialjuice.com/News/9723669/South-Koreas-Blue-House-To-make-diplomatic-efforts-for-US-Korea-military-cooperation-for-the-situation-in-the-Strait-of-Hormuz.aspx",
