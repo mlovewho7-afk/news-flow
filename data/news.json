@@ -1,5 +1,165 @@
 [
   {
+    "guid": "9725927",
+    "title": "FinancialJuice: ECB settled €1,678.8 bln public-sector bond purchases",
+    "link": "https://www.financialjuice.com/News/9725927/ECB-settled-16788-bln-public-sector-bond-purchases.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:00:43 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB), 1조 6,788억 유로 규모의 공공 부문 채권 매입을 완료했다"
+  },
+  {
+    "guid": "9725926",
+    "title": "FinancialJuice: ECB bond holdings under PEPP €1.29 tln as of last week.",
+    "link": "https://www.financialjuice.com/News/9725926/ECB-bond-holdings-under-PEPP-129-tln-as-of-last-week.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:00:35 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 지난주 기준 PEPP를 통해 ECB가 보유한 채권 규모는 1.29조 유로이다."
+  },
+  {
+    "guid": "9725922",
+    "title": "FinancialJuice: ECB settled €218.0 bln corporate bond purchases.",
+    "link": "https://www.financialjuice.com/News/9725922/ECB-settled-2180-bln-corporate-bond-purchases.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:00:21 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)이 2,180억 유로 규모의 기업채 매입을 완료했다."
+  },
+  {
+    "guid": "9725921",
+    "title": "FinancialJuice: Effective fed funds rate 3.63% August 17th vs 3.63% August 14th",
+    "link": "https://www.financialjuice.com/News/9725921/Effective-fed-funds-rate-363-August-17th-vs-363-August-14th.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 13:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 8월 17일 실효 연방기금 금리 3.63% (8월 14일 3.63% 대비)"
+  },
+  {
+    "guid": "9725920",
+    "title": "FinancialJuice: Qatar: Want an agreement to reopen the Strait of Hormuz and establish a ceasefire simultaneously. - IRNA",
+    "link": "https://www.financialjuice.com/News/9725920/Qatar-Want-an-agreement-to-reopen-the-Strait-of-Hormuz-and-establish-a-ceasefire-simultaneously---IRNA.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:59:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르: 호르무즈 해협 재개방과 휴전 협정을 동시에 체결하기를 원한다. - IRNA"
+  },
+  {
+    "guid": "9725919",
+    "title": "FinancialJuice: Qatar: Efforts are focused on containing the crisis and bringing Iran and the United States back to the memorandum of understanding. - IRNA",
+    "link": "https://www.financialjuice.com/News/9725919/Qatar-Efforts-are-focused-on-containing-the-crisis-and-bringing-Iran-and-the-United-States-back-to-the-memorandum-of-understanding---IRNA.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:58:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르: 위기를 수습하고 이란과 미국을 양해각서(MOU)로 복귀시키는 데 주력하고 있다. - IRNA"
+  },
+  {
+    "guid": "9725918",
+    "title": "FinancialJuice: ECB's Lane: Euro zone inflation one percentage point above ECB's 2% target is a lot.",
+    "link": "https://www.financialjuice.com/News/9725918/ECBs-Lane-Euro-zone-inflation-one-percentage-point-above-ECBs-2-target-is-a-lot.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:57:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB의 레인: 유로존 인플레이션이 ECB의 2% 목표치보다 1%포인트 높은 것은 상당히 큰 수치다."
+  },
+  {
+    "guid": "9725876",
+    "title": "FinancialJuice: US Export Prices MoM Actual -1.3% (Forecast 0%, Previous -0.6%)",
+    "link": "https://www.financialjuice.com/News/9725876/US-Export-Prices-MoM-Actual--13-Forecast-0-Previous--06.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 수출 가격 전월 대비 실제 -1.3% (예상 0%, 이전 -0.6%)"
+  },
+  {
+    "guid": "9725875",
+    "title": "FinancialJuice: US Import Prices MoM Actual -0.4% (Forecast 0.1%, Previous 0.3%)",
+    "link": "https://www.financialjuice.com/News/9725875/US-Import-Prices-MoM-Actual--04-Forecast-01-Previous-03.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:30:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 수입물가 전월 대비 실제 -0.4% (예상 0.1%, 전월 0.3%)"
+  },
+  {
+    "guid": "9725874",
+    "title": "FinancialJuice: US Housing Starts Actual 1.239M (Forecast 1.345M, Previous 1.427M, Revised 1.415M)",
+    "link": "https://www.financialjuice.com/News/9725874/US-Housing-Starts-Actual-1239M-Forecast-1345M-Previous-1427M-Revised-1415M.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 주택 착공 건수, 실제 123만 9천 건 (예상 134만 5천 건, 전월 142만 7천 건, 수정치 141만 5천 건)"
+  },
+  {
+    "guid": "9725873",
+    "title": "FinancialJuice: US Building Permits Actual 1.443M (Forecast 1.375M, Previous 1.374M)",
+    "link": "https://www.financialjuice.com/News/9725873/US-Building-Permits-Actual-1443M-Forecast-1375M-Previous-1374M.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 건축 허가 건수, 실제 144만 3천 건 (예상 137만 5천 건, 전월 137만 4천 건)"
+  },
+  {
+    "guid": "9725872",
+    "title": "FinancialJuice: US Housing Starts Change MoM Actual -12.4% (Forecast -5.9%, Previous 19.0%)",
+    "link": "https://www.financialjuice.com/News/9725872/US-Housing-Starts-Change-MoM-Actual--124-Forecast--59-Previous-190.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 주택 착공 건수 전월 대비 변동률 실제 -12.4% (예상 -5.9%, 이전 19.0%)"
+  },
+  {
+    "guid": "9725871",
+    "title": "FinancialJuice: US Building Permits Change MoM Actual 5% (Forecast 0.6%, Previous -2.6%)",
+    "link": "https://www.financialjuice.com/News/9725871/US-Building-Permits-Change-MoM-Actual-5-Forecast-06-Previous--26.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 건축 허가 건수 전월 대비 변동률, 실제 5% (예상 0.6%, 전월 -2.6%)"
+  },
+  {
+    "guid": "9725870",
+    "title": "FinancialJuice: Goldman Sachs: Q2 Earnings Point to Solid Growth, but Consumer Risks Are Building - FJElite",
+    "link": "https://www.financialjuice.com/News/9725870/Goldman-Sachs-Q2-Earnings-Point-to-Solid-Growth-but-Consumer-Risks-Are-Building---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:29:43 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 골드만삭스: 2분기 실적은 견실한 성장을 시사하지만, 소비자 부문의 위험 요인이 커지고 있다 - FJElite"
+  },
+  {
+    "guid": "9725869",
+    "title": "FinancialJuice: CACIB: CFTC Non-Commercial Net Positions in Futures - FJElite",
+    "link": "https://www.financialjuice.com/News/9725869/CACIB-CFTC-Non-Commercial-Net-Positions-in-Futures---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:27:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: CACIB: CFTC 선물 시장 비상업 부문 순포지션 - FJElite"
+  },
+  {
+    "guid": "9725868",
+    "title": "FinancialJuice: Deutsche Bank: Middle East Stalemate Pushes Oil and Long-End Yields Higher - FJElite",
+    "link": "https://www.financialjuice.com/News/9725868/Deutsche-Bank-Middle-East-Stalemate-Pushes-Oil-and-Long-End-Yields-Higher---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:25:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 도이체방크: 중동 정국 교착 상태로 유가와 장기 채권 수익률 상승 - FJElite"
+  },
+  {
+    "guid": "9725840",
+    "title": "FinancialJuice: Canadian House Starts, Annualized Actual 229.074k (Forecast 250k, Previous 239.0k)",
+    "link": "https://www.financialjuice.com/News/9725840/Canadian-House-Starts-Annualized-Actual-229074k-Forecast-250k-Previous-2390k.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:15:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 주택 착공 건수, 연율 환산 실제치 229.074k (예상치 250k, 이전치 239.0k)"
+  },
+  {
+    "guid": "9725839",
+    "title": "FinancialJuice: US ADP Wkly Employment Change Actual 9.5k (Forecast -, Previous 8.25k)",
+    "link": "https://www.financialjuice.com/News/9725839/US-ADP-Wkly-Employment-Change-Actual-95k-Forecast---Previous-825k.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:15:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ADP 주간 고용 변화 실적을 9.5k로 발표 (예상 -, 전주 8.25k)"
+  },
+  {
+    "guid": "9725838",
+    "title": "FinancialJuice: US Sentiment: Risk Sentiment Down, with Oil & Yields in Focus - FJElite",
+    "link": "https://www.financialjuice.com/News/9725838/US-Sentiment-Risk-Sentiment-Down-with-Oil--Yields-in-Focus---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:13:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 위험 선호 심리 위축, 유가와 금리가 주목받는 가운데 - FJElite"
+  },
+  {
+    "guid": "9725836",
+    "title": "FinancialJuice: US home prices rose 0.27% in July, essentially unchanged from a month earlier - Redfin.",
+    "link": "https://www.financialjuice.com/News/9725836/US-home-prices-rose-027-in-July-essentially-unchanged-from-a-month-earlier---Redfin.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 12:02:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 7월 미국 주택 가격은 0.27% 상승했으나, 전월 대비 사실상 변동이 없었다 - Redfin."
+  },
+  {
     "guid": "9725825",
     "title": "FinancialJuice: Secured overnight financing rate: 3.66% August 17th vs 3.62% August 14th",
     "link": "https://www.financialjuice.com/News/9725825/Secured-overnight-financing-rate-366-August-17th-vs-362-August-14th.aspx?xy=rss",
