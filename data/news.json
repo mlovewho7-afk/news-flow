@@ -1,5 +1,181 @@
 [
   {
+    "guid": "9725381",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9725381/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:12:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9725380",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9725380/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:11:59 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9725379",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9725379/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:11:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 가능성"
+  },
+  {
+    "guid": "9725378",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9725378/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:11:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9725377",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9725377/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:10:58 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9725376",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9725376/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:10:36 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9725375",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9725375/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:10:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9725374",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9725374/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:09:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9725373",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9725373/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:09:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9725372",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9725372/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:08:27 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시장 내재 변동성"
+  },
+  {
+    "guid": "9725371",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9725371/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:08:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9725370",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9725370/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:07:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9725369",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9725369/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:07:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9725368",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9725368/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:06:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9725367",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9725367/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:06:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9725366",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9725366/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:06:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9725349",
+    "title": "FinancialJuice: UK Employment Change 3M/3M Actual 84k (Forecast 130k, Previous 147k)",
+    "link": "https://www.financialjuice.com/News/9725349/UK-Employment-Change-3M3M-Actual-84k-Forecast-130k-Previous-147k.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 고용 변화 (전분기 대비) 실제 8.4만 명 (예상 13만 명, 이전 14.7만 명)"
+  },
+  {
+    "guid": "9725348",
+    "title": "FinancialJuice: UK Average Earnings (Ex-Bonus) Actual 3.5% (Forecast 3.4%, Previous 3.4%)",
+    "link": "https://www.financialjuice.com/News/9725348/UK-Average-Earnings-Ex-Bonus-Actual-35-Forecast-34-Previous-34.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:00:03 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 영국 평균 소득(보너스 제외) 실제 3.5%(예상 3.4%, 이전 3.4%)"
+  },
+  {
+    "guid": "9725347",
+    "title": "FinancialJuice: UK Average Weekly Earnings YoY Actual 4.1% (Forecast 4%, Previous 4.3%)",
+    "link": "https://www.financialjuice.com/News/9725347/UK-Average-Weekly-Earnings-YoY-Actual-41-Forecast-4-Previous-43.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:00:03 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 영국 주당 평균 소득 전년 동기 대비 실제 4.1% (예상 4%, 이전 4.3%)"
+  },
+  {
+    "guid": "9725346",
+    "title": "FinancialJuice: UK Unemployment Rate Actual 4.9% (Forecast 4.8%, Previous 4.9%)",
+    "link": "https://www.financialjuice.com/News/9725346/UK-Unemployment-Rate-Actual-49-Forecast-48-Previous-49.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:00:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 실업률 실제치 4.9% (예상치 4.8%, 전월치 4.9%)"
+  },
+  {
+    "guid": "9725345",
+    "title": "FinancialJuice: UK Employment Change SA Actual -13k (Forecast 0k, Previous -4k)",
+    "link": "https://www.financialjuice.com/News/9725345/UK-Employment-Change-SA-Actual--13k-Forecast-0k-Previous--4k.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 고용 변화 (계절 조정 후) 실제 -13k (예상 0k, 이전 -4k)"
+  },
+  {
+    "guid": "9725344",
+    "title": "FinancialJuice: UK Unemployment Change Actual -11k (Forecast -, Previous 6.7k)",
+    "link": "https://www.financialjuice.com/News/9725344/UK-Unemployment-Change-Actual--11k-Forecast---Previous-67k.aspx?xy=rss",
+    "pubDate": "Tue, 18 Aug 2026 06:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 실업자 수 변동 실제 -11k (예상 -, 전월 6.7k)"
+  },
+  {
     "guid": "9725327",
     "title": "FinancialJuice: China axing Microsoft Windows from state agencies ahead of plan $MSFT",
     "link": "https://www.financialjuice.com/News/9725327/China-axing-Microsoft-Windows-from-state-agencies-ahead-of-plan-MSFT.aspx",
