@@ -1,5 +1,149 @@
 [
   {
+    "guid": "9727209",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: JPY, CHF, EUR, GBP, CAD, NZD, USD, AUD - Weakest",
+    "link": "https://www.financialjuice.com/News/9727209/Currency-Strength-Chart-Strongest-JPY-CHF-EUR-GBP-CAD-NZD-USD-AUD---Weakest.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 07:01:25 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: JPY, CHF, EUR, GBP, CAD, NZD, USD, AUD - 가장 약한 통화"
+  },
+  {
+    "guid": "9727208",
+    "title": "FinancialJuice: ECB's Rehn sees no clear signs of second-round effects.",
+    "link": "https://www.financialjuice.com/News/9727208/ECBs-Rehn-sees-no-clear-signs-of-second-round-effects.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 07:00:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 레른, 2차 파급 효과에 대한 뚜렷한 징후는 보이지 않는다고 밝혔다."
+  },
+  {
+    "guid": "9727207",
+    "title": "FinancialJuice: ECB's Rehn: Wage growth, wage outlook remained moderate so far.",
+    "link": "https://www.financialjuice.com/News/9727207/ECBs-Rehn-Wage-growth-wage-outlook-remained-moderate-so-far.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 07:00:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 레른: 임금 상승률과 임금 전망은 지금까지 완만한 수준을 유지했다."
+  },
+  {
+    "guid": "9727199",
+    "title": "FinancialJuice: ECB's Rehn: Keeping inflation expectations anchored is essential",
+    "link": "https://www.financialjuice.com/News/9727199/ECBs-Rehn-Keeping-inflation-expectations-anchored-is-essential.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 07:00:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB의 레른 “인플레이션 기대치를 안정적으로 유지하는 것이 필수적”"
+  },
+  {
+    "guid": "9727198",
+    "title": "FinancialJuice: UAE official: news of providing financial facilities to Iran is untrue",
+    "link": "https://www.financialjuice.com/News/9727198/UAE-official-news-of-providing-financial-facilities-to-Iran-is-untrue.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:47:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아랍에미리트(UAE) 관계자: 이란에 금융 지원 제공했다는 보도는 사실이 아니다"
+  },
+  {
+    "guid": "9727171",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9727171/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:26:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9727170",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9727170/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:26:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9727169",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9727169/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:25:55 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9727168",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9727168/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:25:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9727167",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9727167/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:25:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9727166",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9727166/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:24:48 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9727165",
+    "title": "FinancialJuice: Pakistan & Turkey foreign ministers discuss regional development",
+    "link": "https://www.financialjuice.com/News/9727165/Pakistan--Turkey-foreign-ministers-discuss-regional-development.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:24:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 파키스탄과 터키 외무장관, 지역 발전 논의"
+  },
+  {
+    "guid": "9727164",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9727164/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:24:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 가능성"
+  },
+  {
+    "guid": "9727163",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9727163/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:24:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9727162",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9727162/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:23:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9727161",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9727161/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:23:10 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시세의 내재 변동성"
+  },
+  {
+    "guid": "9727160",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9727160/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:22:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9727159",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9727159/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 19 Aug 2026 06:22:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
     "guid": "9727137",
     "title": "FinancialJuice: Iran warns Gulf countries not to facilitate US military - Mehr",
     "link": "https://www.financialjuice.com/News/9727137/Iran-warns-Gulf-countries-not-to-facilitate-US-military---Mehr.aspx?xy=rss",
