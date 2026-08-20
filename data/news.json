@@ -1,5 +1,165 @@
 [
   {
+    "guid": "9728974",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9728974/SNB-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:09:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9728973",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9728973/RBNZ-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:09:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9728972",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9728972/RBA-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:08:55 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9728971",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9728971/BoJ-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:08:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9728970",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9728970/BoC-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:08:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9728969",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9728969/BoE-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:07:58 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9728968",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9728968/ECB-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:07:36 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9728967",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9728967/Fed-Interest-Rate-Probabilities.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:07:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연방준비제도(Fed) 금리 결정 확률"
+  },
+  {
+    "guid": "9728966",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9728966/Commodities-Implied-Volatility.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:06:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9728965",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9728965/FX-Implied-Volatility.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:06:23 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시세의 내재 변동성"
+  },
+  {
+    "guid": "9728964",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9728964/US-Index-Futures-Implied-Volatility.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:06:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물 내재 변동성"
+  },
+  {
+    "guid": "9728963",
+    "title": "FinancialJuice: Top S&P 500 Stock names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9728963/Top-SP-500-Stock-names-Implied-Volatility.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:05:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목 중 내재 변동성이 가장 높은 종목"
+  },
+  {
+    "guid": "9728962",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9728962/120-Day-Correlation-Matrix.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:05:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9728961",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9728961/90-Day-Correlation-Matrix.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:04:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9728960",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9728960/60-Day-Correlation-Matrix.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:04:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9728959",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9728959/30-Day-Correlation-Matrix.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:03:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9728939",
+    "title": "FinancialJuice: German PPI YoY Actual 3.0% (Forecast 2.5%, Previous 1.8%)",
+    "link": "https://www.financialjuice.com/News/9728939/German-PPI-YoY-Actual-30-Forecast-25-Previous-18.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:01:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 독일 생산자물가지수(PPI) 전년 동기 대비 실제치 3.0% (예상치 2.5%, 전월치 1.8%)"
+  },
+  {
+    "guid": "9728938",
+    "title": "FinancialJuice: German PPI MoM Actual 1.1% (Forecast 0.6%, Previous -0.3%)",
+    "link": "https://www.financialjuice.com/News/9728938/German-PPI-MoM-Actual-11-Forecast-06-Previous--03.aspx",
+    "pubDate": "Thu, 20 Aug 2026 06:01:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 독일 생산자물가지수(PPI) 전월 대비 실제치 1.1% (예상치 0.6%, 전월치 -0.3%)"
+  },
+  {
+    "guid": "9728937",
+    "title": "FinancialJuice: Iran's Araghchi: US policies will bring defeat and enmity",
+    "link": "https://www.financialjuice.com/News/9728937/Irans-Araghchi-US-policies-will-bring-defeat-and-enmity.aspx",
+    "pubDate": "Thu, 20 Aug 2026 05:59:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 아라그치, “미국의 정책은 패배와 적대감을 초래할 것”"
+  },
+  {
+    "guid": "9728936",
+    "title": "FinancialJuice: Iran's Araghchi: \"Economic D-Day' is a diversion from the US' crisis",
+    "link": "https://www.financialjuice.com/News/9728936/Irans-Araghchi-Economic-D-Day-is-a-diversion-from-the-US-crisis.aspx",
+    "pubDate": "Thu, 20 Aug 2026 05:58:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 아라그치, “경제적 D-데이”는 미국의 위기를 돌리기 위한 수단일 뿐"
+  },
+  {
     "guid": "9728894",
     "title": "FinancialJuice: New Zealand Annual Trade Bal. Actual -3.75B (Forecast -, Previous -3.61B)",
     "link": "https://www.financialjuice.com/News/9728894/New-Zealand-Annual-Trade-Bal-Actual--375B-Forecast---Previous--361B.aspx?xy=rss",
