@@ -1,5 +1,165 @@
 [
   {
+    "guid": "9730808",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9730808/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:07:27 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9730807",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9730807/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:07:10 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9730806",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9730806/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:06:51 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9730805",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9730805/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:06:34 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9730804",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9730804/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:06:15 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9730803",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9730803/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:05:54 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9730802",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9730802/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:05:36 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9730801",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9730801/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:04:59 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9730800",
+    "title": "FinancialJuice: Japan Finance Ministry considering setting assumed interest rate at 3.8% for calculating debt servicing costs in fiscal 2027/28 budget request - Nikkei",
+    "link": "https://www.financialjuice.com/News/9730800/Japan-Finance-Ministry-considering-setting-assumed-interest-rate-at-38-for-calculating-debt-servicing-costs-in-fiscal-202728-budget-request---Nikkei.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:04:42 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9730799",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9730799/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:04:10 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9730798",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9730798/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:03:54 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9730797",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9730797/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:03:37 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9730796",
+    "title": "FinancialJuice: Top S&P 500 Stock names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9730796/Top-SP-500-Stock-names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:03:19 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9730795",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9730795/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:02:39 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9730794",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9730794/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:02:23 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9730787",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9730787/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:02:06 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9730774",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9730774/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:01:43 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9730773",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: AUD, NZD, CAD, EUR, GBP, JPY, CHF, USD - Weakest",
+    "link": "https://www.financialjuice.com/News/9730773/Currency-Strength-Chart-Strongest-AUD-NZD-CAD-EUR-GBP-JPY-CHF-USD---Weakest.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 07:01:23 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9730746",
+    "title": "FinancialJuice: French Business Climate Mfg Actual 103 (Forecast 101, Previous 101)",
+    "link": "https://www.financialjuice.com/News/9730746/French-Business-Climate-Mfg-Actual-103-Forecast-101-Previous-101.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 06:45:00 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9730745",
+    "title": "FinancialJuice: French Business Climate Overall Actual 98 (Forecast 98, Previous 97)",
+    "link": "https://www.financialjuice.com/News/9730745/French-Business-Climate-Overall-Actual-98-Forecast-98-Previous-97.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 06:45:00 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
     "guid": "9730695",
     "title": "FinancialJuice: UK PSNB ex Banks Actual 1.800B (Forecast -, Previous 15.989B)",
     "link": "https://www.financialjuice.com/News/9730695/UK-PSNB-ex-Banks-Actual-1800B-Forecast---Previous-15989B.aspx?xy=rss",
