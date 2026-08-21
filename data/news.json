@@ -1,5 +1,141 @@
 [
   {
+    "guid": "9731802",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9731802/MOC-Imbalance.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:50:30 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731801",
+    "title": "FinancialJuice: Gold CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731801/Gold-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:47:30 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731786",
+    "title": "FinancialJuice: Copper CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731786/Copper-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:45:54 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731785",
+    "title": "FinancialJuice: WTI CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731785/WTI-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:45:37 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731779",
+    "title": "FinancialJuice: ES CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731779/ES-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:45:07 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731778",
+    "title": "FinancialJuice: NQ CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731778/NQ-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:44:50 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731777",
+    "title": "FinancialJuice: VIX CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731777/VIX-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:44:34 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731776",
+    "title": "FinancialJuice: ZT CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731776/ZT-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:44:17 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731775",
+    "title": "FinancialJuice: ZN CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731775/ZN-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:43:50 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731774",
+    "title": "FinancialJuice: CAD CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731774/CAD-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:43:34 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731773",
+    "title": "FinancialJuice: NZD CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731773/NZD-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:43:18 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731772",
+    "title": "FinancialJuice: CHF CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731772/CHF-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:43:03 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731771",
+    "title": "FinancialJuice: GBP CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731771/GBP-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:42:44 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731770",
+    "title": "FinancialJuice: JPY CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731770/JPY-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:42:27 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9731769",
+    "title": "FinancialJuice: AUD CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731769/AUD-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:41:59 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9731768",
+    "title": "FinancialJuice: EUR CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731768/EUR-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:41:18 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9731767",
+    "title": "FinancialJuice: USD CFTC Positions Week August 18th - FJElite",
+    "link": "https://www.financialjuice.com/News/9731767/USD-CFTC-Positions-Week-August-18th---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 21 Aug 2026 19:40:50 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
     "guid": "9731753",
     "title": "FinancialJuice: CFTC Positions in the Week Ended August 18th",
     "link": "https://www.financialjuice.com/News/9731753/CFTC-Positions-in-the-Week-Ended-August-18th.aspx?xy=rss",
