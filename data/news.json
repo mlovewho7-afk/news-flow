@@ -1,5 +1,165 @@
 [
   {
+    "guid": "9733132",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9733132/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:11:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9733131",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9733131/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:11:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 가능성"
+  },
+  {
+    "guid": "9733130",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9733130/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:10:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: RBA 금리 결정 확률"
+  },
+  {
+    "guid": "9733129",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9733129/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:10:25 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9733128",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9733128/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:10:08 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9733127",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9733127/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:09:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9733126",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9733126/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:09:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9733125",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9733125/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:09:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연방준비제도(Fed) 금리 결정 확률"
+  },
+  {
+    "guid": "9733124",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9733124/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:08:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9733123",
+    "title": "FinancialJuice: ECB's Cipollone: risk of economic stagnation and sharp inflation rise is rather remote",
+    "link": "https://www.financialjuice.com/News/9733123/ECBs-Cipollone-risk-of-economic-stagnation-and-sharp-inflation-rise-is-rather-remote.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:08:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)의 치폴로네, “경제 정체와 급격한 물가 상승의 위험은 상당히 희박하다”"
+  },
+  {
+    "guid": "9733122",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9733122/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:08:03 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시장의 내재 변동성"
+  },
+  {
+    "guid": "9733121",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9733121/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:07:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9733120",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9733120/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:07:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 주요 종목의 내재 변동성"
+  },
+  {
+    "guid": "9733119",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9733119/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:06:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9733118",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9733118/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:06:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9733117",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9733117/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:06:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9733116",
+    "title": "FinancialJuice: ECB's Cipollone: No signs pointing to a scenario of stagflation",
+    "link": "https://www.financialjuice.com/News/9733116/ECBs-Cipollone-No-signs-pointing-to-a-scenario-of-stagflation.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:05:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 치폴로네, “스태그플레이션 시나리오를 시사하는 징후는 없다”"
+  },
+  {
+    "guid": "9733115",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9733115/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:05:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9733114",
+    "title": "FinancialJuice: ECB's Cipollone: Inflation is far from adverse & severe scenarios",
+    "link": "https://www.financialjuice.com/News/9733114/ECBs-Cipollone-Inflation-is-far-from-adverse--severe-scenarios.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:05:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)의 치폴로네: 인플레이션은 부정적·심각한 시나리오와는 거리가 멀다"
+  },
+  {
+    "guid": "9733113",
+    "title": "FinancialJuice: ECB's Cipollone: Monetary policy needs to be well calibrated",
+    "link": "https://www.financialjuice.com/News/9733113/ECBs-Cipollone-Monetary-policy-needs-to-be-well-calibrated.aspx?xy=rss",
+    "pubDate": "Mon, 24 Aug 2026 06:04:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 치폴로네 “통화 정책은 세심하게 조정되어야 한다”"
+  },
+  {
     "guid": "9733028",
     "title": "FinancialJuice: Iran foreign ministry spokesperson: Oman foreign minister to visit Tehran Tuesday - statement",
     "link": "https://www.financialjuice.com/News/9733028/Iran-foreign-ministry-spokesperson-Oman-foreign-minister-to-visit-Tehran-Tuesday---statement.aspx?xy=rss",
