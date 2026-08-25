@@ -1,5 +1,181 @@
 [
   {
+    "guid": "9735337",
+    "title": "FinancialJuice: ECB bond holdings under PEPP €1.29 tln as of last week.",
+    "link": "https://www.financialjuice.com/News/9735337/ECB-bond-holdings-under-PEPP-129-tln-as-of-last-week.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 13:01:42 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 지난주 기준 PEPP를 통해 ECB가 보유한 채권 규모는 1.29조 유로이다."
+  },
+  {
+    "guid": "9735336",
+    "title": "FinancialJuice: ECB forex reserves rose eu900 mln to €349.3 bln",
+    "link": "https://www.financialjuice.com/News/9735336/ECB-forex-reserves-rose-eu900-mln-to-3493-bln.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 13:01:41 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: ECB 외환보유고, 9억 유로 증가해 3,493억 유로 기록"
+  },
+  {
+    "guid": "9735335",
+    "title": "FinancialJuice: ECB settled €1,669.4 bln public-sector bond purchases",
+    "link": "https://www.financialjuice.com/News/9735335/ECB-settled-16694-bln-public-sector-bond-purchases.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 13:01:31 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB), 1조 6,694억 유로 규모의 공공 부문 채권 매입 완료"
+  },
+  {
+    "guid": "9735334",
+    "title": "FinancialJuice: ECB settled €217.9 bln corporate bond purchases.",
+    "link": "https://www.financialjuice.com/News/9735334/ECB-settled-2179-bln-corporate-bond-purchases.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 13:01:27 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)이 2,179억 유로 규모의 기업채 매입을 완료했다."
+  },
+  {
+    "guid": "9735328",
+    "title": "FinancialJuice: US House Price Index YoY Actual 2.3% (Forecast -, Previous 2.2%)",
+    "link": "https://www.financialjuice.com/News/9735328/US-House-Price-Index-YoY-Actual-23-Forecast---Previous-22.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 13:01:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 주택 가격 지수 전년 동기 대비 실제 2.3% (예상 -, 이전 2.2%)"
+  },
+  {
+    "guid": "9735333",
+    "title": "FinancialJuice: Apple introduces M6 & M5 ultra.",
+    "link": "https://www.financialjuice.com/News/9735333/Apple-introduces-M6--M5-ultra.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 13:01:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 애플, M6 및 M5 울트라 공개."
+  },
+  {
+    "guid": "9735327",
+    "title": "FinancialJuice: US CaseShiller 20 YoY Actual 2.1% (Forecast 1.8%, Previous 1.6%, Revised 1.65%)",
+    "link": "https://www.financialjuice.com/News/9735327/US-CaseShiller-20-YoY-Actual-21-Forecast-18-Previous-16-Revised-165.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 13:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 케이스-쉴러 지수, 전년 동기 대비 2.1% 상승 (예상치 1.8%, 이전치 1.6%, 수정치 1.65%)"
+  },
+  {
+    "guid": "9735326",
+    "title": "FinancialJuice: US House Price Index MoM Actual 0% (Forecast 0.2%, Previous 0.3%)",
+    "link": "https://www.financialjuice.com/News/9735326/US-House-Price-Index-MoM-Actual-0-Forecast-02-Previous-03.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 13:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 주택가격지수 전월 대비 실제치 0% (예상치 0.2%, 전월치 0.3%)"
+  },
+  {
+    "guid": "9735325",
+    "title": "FinancialJuice: Effective Fed Funds Rate 3.63% August 24 vs 3.63% August 21.",
+    "link": "https://www.financialjuice.com/News/9735325/Effective-Fed-Funds-Rate-363-August-24-vs-363-August-21.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:59:45 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 8월 24일 실효 연방기금 금리 3.63% (8월 21일 3.63% 대비)."
+  },
+  {
+    "guid": "9735324",
+    "title": "FinancialJuice: US Redbook YoY Actual 9.1% (Forecast -, Previous 7.6%)",
+    "link": "https://www.financialjuice.com/News/9735324/US-Redbook-YoY-Actual-91-Forecast---Previous-76.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:56:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 레드북 지수 전년 동기 대비 실제 9.1% (예상 -, 이전 7.6%)"
+  },
+  {
+    "guid": "9735295",
+    "title": "FinancialJuice: Canada's Trade Minister LeBlanc: Government intends to announce retaliatory tariffs today",
+    "link": "https://www.financialjuice.com/News/9735295/Canadas-Trade-Minister-LeBlanc-Government-intends-to-announce-retaliatory-tariffs-today.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:37:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 르블랑 무역장관, “정부는 오늘 보복 관세 조치를 발표할 예정”"
+  },
+  {
+    "guid": "9735294",
+    "title": "FinancialJuice: Canada Minister for US Trade Leblanc: Government intention is to announce retaliatory tariffs.",
+    "link": "https://www.financialjuice.com/News/9735294/Canada-Minister-for-US-Trade-Leblanc-Government-intention-is-to-announce-retaliatory-tariffs.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:37:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 대미 무역 담당 장관 르블랑: 정부는 보복 관세를 발표할 방침이다."
+  },
+  {
+    "guid": "9735293",
+    "title": "FinancialJuice: Morgan Stanley: US-China Summit Likely to Reinforce Managed Competition - FJElite",
+    "link": "https://www.financialjuice.com/News/9735293/Morgan-Stanley-US-China-Summit-Likely-to-Reinforce-Managed-Competition---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:33:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 모건 스탠리: 미·중 정상회담, ‘통제된 경쟁’ 강화할 전망 - FJElite"
+  },
+  {
+    "guid": "9735292",
+    "title": "FinancialJuice: Canada's Trade Minister LeBlanc: Wanted to have the best situation of all US trade partners",
+    "link": "https://www.financialjuice.com/News/9735292/Canadas-Trade-Minister-LeBlanc-Wanted-to-have-the-best-situation-of-all-US-trade-partners.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:33:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 르블랑 캐나다 무역장관, “미국의 모든 무역 파트너 중 가장 유리한 조건을 확보하고 싶었다”"
+  },
+  {
+    "guid": "9735285",
+    "title": "FinancialJuice: Deutsche Bank: Warsh’s Jackson Hole Speech Comes Against a Difficult Policy Backdrop - FJElite",
+    "link": "https://www.financialjuice.com/News/9735285/Deutsche-Bank-Warshs-Jackson-Hole-Speech-Comes-Against-a-Difficult-Policy-Backdrop---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:31:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 도이체방크: 워쉬의 잭슨홀 연설, 어려운 정책 여건 속에서 진행 - FJElite"
+  },
+  {
+    "guid": "9735284",
+    "title": "FinancialJuice: Canada July wholesale trade most likely fell 0.6% from previous month - StatsCan Flash Estimate.",
+    "link": "https://www.financialjuice.com/News/9735284/Canada-July-wholesale-trade-most-likely-fell-06-from-previous-month---StatsCan-Flash-Estimate.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:30:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 7월 도매 무역이 전월 대비 0.6% 감소했을 가능성이 높다 - 캐나다 통계청(StatsCan)의 속보치."
+  },
+  {
+    "guid": "9735279",
+    "title": "FinancialJuice: Credit Agricole: Europe’s Energy Crisis Is Worsening - FJElite",
+    "link": "https://www.financialjuice.com/News/9735279/Credit-Agricole-Europes-Energy-Crisis-Is-Worsening---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 크레디 아그리콜: 유럽의 에너지 위기가 심화되고 있다 - FJElite"
+  },
+  {
+    "guid": "9735277",
+    "title": "FinancialJuice: Canada's Trade Minister LeBlanc: Focused on having a constructive relationship with the US",
+    "link": "https://www.financialjuice.com/News/9735277/Canadas-Trade-Minister-LeBlanc-Focused-on-having-a-constructive-relationship-with-the-US.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:28:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 르블랑 캐나다 통상장관, “미국과의 건설적인 관계 구축에 주력하고 있다”"
+  },
+  {
+    "guid": "9735276",
+    "title": "FinancialJuice: US Sentiment: Risk Appetite Boosted by Geopolitical Optimism - FJElite",
+    "link": "https://www.financialjuice.com/News/9735276/US-Sentiment-Risk-Appetite-Boosted-by-Geopolitical-Optimism---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:28:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 지정학적 낙관론에 힘입어 위험 선호 심리가 고조 - FJElite"
+  },
+  {
+    "guid": "9735275",
+    "title": "FinancialJuice: Iran's oil production is in a favorable condition - IRNA",
+    "link": "https://www.financialjuice.com/News/9735275/Irans-oil-production-is-in-a-favorable-condition---IRNA.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:22:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 석유 생산 상황이 양호하다 - IRNA"
+  },
+  {
+    "guid": "9735263",
+    "title": "FinancialJuice: US ADP Wkly Employment Change Actual 11.75k (Forecast -, Previous 9.5k)",
+    "link": "https://www.financialjuice.com/News/9735263/US-ADP-Wkly-Employment-Change-Actual-1175k-Forecast---Previous-95k.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:15:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ADP 주간 고용 변화, 실제 11.75k (예상 -, 이전 9.5k)"
+  },
+  {
+    "guid": "9735262",
+    "title": "FinancialJuice: Russia may extend Diesel export ban into September - Sources \n",
+    "link": "https://www.financialjuice.com/News/9735262/Russia-may-extend-Diesel-export-ban-into-September---Sources-.aspx?xy=rss",
+    "pubDate": "Tue, 25 Aug 2026 12:13:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아, 디젤 수출 금지 조치를 9월까지 연장할 가능성 - 소식통 \n"
+  },
+  {
     "guid": "9735243",
     "title": "FinancialJuice: Superx gets $38.8m NVIDIA B300 server order.",
     "link": "https://www.financialjuice.com/News/9735243/Superx-gets-388m-NVIDIA-B300-server-order.aspx?xy=rss",
