@@ -1,5 +1,133 @@
 [
   {
+    "guid": "9737647",
+    "title": "FinancialJuice: Salesforce: Salesforce and Anthropic announce ClaudeForce. $CRM",
+    "link": "https://www.financialjuice.com/News/9737647/Salesforce-Salesforce-and-Anthropic-announce-ClaudeForce-CRM.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 20:07:19 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: Salesforce: Salesforce와 Anthropic, ClaudeForce 출시 발표. $CRM"
+  },
+  {
+    "guid": "9737636",
+    "title": "FinancialJuice: $CRM Salesforce Q2 Earnings\n",
+    "link": "https://www.financialjuice.com/News/9737636/CRM-Salesforce-Q2-Earnings.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 20:01:52 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: $CRM 세일즈포스 2분기 실적\n"
+  },
+  {
+    "guid": "9737633",
+    "title": "FinancialJuice: Local sources in Syria reported that the country's highlands were targeted by artillery from the Israeli regime's army near Damascus - Tasnim News",
+    "link": "https://www.financialjuice.com/News/9737633/Local-sources-in-Syria-reported-that-the-countrys-highlands-were-targeted-by-artillery-from-the-Israeli-regimes-army-near-Damascus---Tasnim-News.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:53:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 시리아 현지 소식통에 따르면, 다마스쿠스 인근에서 이스라엘 정권군의 포격이 시리아 고지대를 겨냥했다고 타스님 뉴스가 보도했다."
+  },
+  {
+    "guid": "9737632",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9737632/MOC-Imbalance.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:50:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOC 불균형"
+  },
+  {
+    "guid": "9737611",
+    "title": "FinancialJuice: Trump Signs Order Banning Some Foreign Energy Equipment From US Grid",
+    "link": "https://www.financialjuice.com/News/9737611/Trump-Signs-Order-Banning-Some-Foreign-Energy-Equipment-From-US-Grid.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:38:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 미국 전력망에 특정 외국산 에너지 설비 반입 금지 명령 서명"
+  },
+  {
+    "guid": "9737610",
+    "title": "FinancialJuice: Google moves it's AI-responsibility team out of the DeepMind lab - WSJ. $GOOGL",
+    "link": "https://www.financialjuice.com/News/9737610/Google-moves-its-AI-responsibility-team-out-of-the-DeepMind-lab---WSJ-GOOGL.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:37:26 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글, AI 책임 팀을 딥마인드 연구소 밖으로 이전 - WSJ. $GOOGL"
+  },
+  {
+    "guid": "9737609",
+    "title": "FinancialJuice: Canada's Saskatchewan: To put a 50% tax on US alcohol in response to the US.",
+    "link": "https://www.financialjuice.com/News/9737609/Canadas-Saskatchewan-To-put-a-50-tax-on-US-alcohol-in-response-to-the-US.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:37:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 서스캐처원주, 미국의 조치에 대응해 미국산 주류에 50% 관세를 부과할 예정."
+  },
+  {
+    "guid": "9737577",
+    "title": "FinancialJuice: OpenAI: Could have moved to prevent the Hugging Face hack.",
+    "link": "https://www.financialjuice.com/News/9737577/OpenAI-Could-have-moved-to-prevent-the-Hugging-Face-hack.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:04:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI: Hugging Face 해킹을 막기 위해 조치를 취할 수도 있었을 것이다."
+  },
+  {
+    "guid": "9737575",
+    "title": "FinancialJuice: OpenAI releases report on the Hugging Face AI agent hack - CNBC.",
+    "link": "https://www.financialjuice.com/News/9737575/OpenAI-releases-report-on-the-Hugging-Face-AI-agent-hack---CNBC.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 19:02:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI, Hugging Face AI 에이전트 해킹 사건에 관한 보고서 발표 - CNBC."
+  },
+  {
+    "guid": "9737559",
+    "title": "FinancialJuice: Brent Crude futures settle at $87.84/bbl, down 74 cents, 0.84%.",
+    "link": "https://www.financialjuice.com/News/9737559/Brent-Crude-futures-settle-at-8784bbl-down-74-cents-084.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 18:51:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브렌트 원유 선물 가격이 배럴당 87.84달러로 마감하며, 74센트(0.84%) 하락했다."
+  },
+  {
+    "guid": "9737544",
+    "title": "FinancialJuice: NYMEX Natural Gas September futures settle at $2.8420/MMBtu.\n",
+    "link": "https://www.financialjuice.com/News/9737544/NYMEX-Natural-Gas-September-futures-settle-at-28420MMBtu.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 18:31:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 천연가스 9월물 선물 가격이 MMBtu당 2.8420달러로 마감했다.\n"
+  },
+  {
+    "guid": "9737543",
+    "title": "FinancialJuice: NYMEX Diesel September futures settle at $4.2600 a gallon.",
+    "link": "https://www.financialjuice.com/News/9737543/NYMEX-Diesel-September-futures-settle-at-42600-a-gallon.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 18:31:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 9월물 디젤 선물 가격이 갤런당 4.2600달러로 마감했다."
+  },
+  {
+    "guid": "9737542",
+    "title": "FinancialJuice: NYMEX Gasoline September futures settle at $3.3201 a gallon.",
+    "link": "https://www.financialjuice.com/News/9737542/NYMEX-Gasoline-September-futures-settle-at-33201-a-gallon.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 18:31:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 9월물 휘발유 선물 가격이 갤런당 3.3201달러에 마감했다."
+  },
+  {
+    "guid": "9737541",
+    "title": "FinancialJuice: NYMEX WTI Crude October futures settle at $82.23 a barrel, down 13 cents, 0.16%.",
+    "link": "https://www.financialjuice.com/News/9737541/NYMEX-WTI-Crude-October-futures-settle-at-8223-a-barrel-down-13-cents-016.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 18:31:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX WTI 원유 10월물 선물은 배럴당 82.23달러에 마감되었으며, 이는 13센트(0.16%) 하락한 가격이다."
+  },
+  {
+    "guid": "9737536",
+    "title": "FinancialJuice: The Qatari Prime Minister is going to meet in Tehran with a number of Iranian officials to discuss ways to de-escalate tensions - Foreign Ministry Spokesperson.",
+    "link": "https://www.financialjuice.com/News/9737536/The-Qatari-Prime-Minister-is-going-to-meet-in-Tehran-with-a-number-of-Iranian-officials-to-discuss-ways-to-de-escalate-tensions---Foreign-Ministry-Spokesperson.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 18:25:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르 총리가 테헤란에서 여러 이란 고위 관리들과 만나 긴장 완화 방안을 논의할 예정이라고 외무부 대변인이 밝혔다."
+  },
+  {
+    "guid": "9737535",
+    "title": "FinancialJuice: Qatar's Prime Minister is going to visit Tehran on Thursday -Foreign Ministry Spokesperson.",
+    "link": "https://www.financialjuice.com/News/9737535/Qatars-Prime-Minister-is-going-to-visit-Tehran-on-Thursday--Foreign-Ministry-Spokesperson.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 18:23:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르 총리가 목요일에 테헤란을 방문할 예정이라고 외무부 대변인이 밝혔다."
+  },
+  {
     "guid": "9737480",
     "title": "FinancialJuice: SNB's Vice Chairman Martin: Would prefer our banks to have robust capital buffers and take market shares from foreign banks that are going to be in trouble next time there's a downturn.",
     "link": "https://www.financialjuice.com/News/9737480/SNBs-Vice-Chairman-Martin-Would-prefer-our-banks-to-have-robust-capital-buffers-and-take-market-shares-from-foreign-banks-that-are-going-to-be-in-trouble-next-time-theres-a-downturn.aspx",
