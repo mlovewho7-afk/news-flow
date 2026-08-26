@@ -1,5 +1,189 @@
 [
   {
+    "guid": "9736336",
+    "title": "FinancialJuice: Wildberries warehouse in Russia's Tambov region ablaze after drone strike: local governor",
+    "link": "https://www.financialjuice.com/News/9736336/Wildberries-warehouse-in-Russias-Tambov-region-ablaze-after-drone-strike-local-governor.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 02:05:08 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아 탐보프 주의 와일드베리스 물류센터, 드론 공격으로 화재 발생: 현지 주지사"
+  },
+  {
+    "guid": "9736245",
+    "title": "FinancialJuice: Russia, Ukraine discuss prisoner of war exchange: Tass",
+    "link": "https://www.financialjuice.com/News/9736245/Russia-Ukraine-discuss-prisoner-of-war-exchange-Tass.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:57:36 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아·우크라이나, 전쟁포로 교환 논의…타스 통신"
+  },
+  {
+    "guid": "9736244",
+    "title": "FinancialJuice: Microsoft 365 halts maintenance activity: service returns to normal availability levels",
+    "link": "https://www.financialjuice.com/News/9736244/Microsoft-365-halts-maintenance-activity-service-returns-to-normal-availability-levels.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:49:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Microsoft 365, 유지보수 작업 중단: 서비스 가용성 정상화"
+  },
+  {
+    "guid": "9736243",
+    "title": "FinancialJuice: Microsoft 365: Maintenance activity causes degraded Microsoft Teams functionality for users in Asia-Pacific",
+    "link": "https://www.financialjuice.com/News/9736243/Microsoft-365-Maintenance-activity-causes-degraded-Microsoft-Teams-functionality-for-users-in-Asia-Pacific.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:49:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Microsoft 365: 유지보수 작업으로 인해 아시아 태평양 지역 사용자의 Microsoft Teams 기능이 일시적으로 저하됨"
+  },
+  {
+    "guid": "9736225",
+    "title": "FinancialJuice: China's onshore yuan strengthens to 6.7051 per dollar, highest since Feb. 2, 2023",
+    "link": "https://www.financialjuice.com/News/9736225/Chinas-onshore-yuan-strengthens-to-67051-per-dollar-highest-since-Feb-2-2023.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:37:11 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 온쇼어 위안화, 달러당 6.7051까지 강세… 2023년 2월 2일 이후 최고치"
+  },
+  {
+    "guid": "9736224",
+    "title": "FinancialJuice: Taiwan overnight interbank rate starts at 0.805% compared with previous session at 0.805%",
+    "link": "https://www.financialjuice.com/News/9736224/Taiwan-overnight-interbank-rate-starts-at-0805-compared-with-previous-session-at-0805.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:32:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 대만 일일 은행간 금리는 0.805%로 시작했으며, 이는 전 거래일의 0.805%와 동일한 수준이다."
+  },
+  {
+    "guid": "9736204",
+    "title": "FinancialJuice: Australia July CPI (all groups) rises 1% m/m",
+    "link": "https://www.financialjuice.com/News/9736204/Australia-July-CPI-all-groups-rises-1-mm.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:31:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 7월 소비자물가지수(전 부문)가 전월 대비 1% 상승"
+  },
+  {
+    "guid": "9736202",
+    "title": "FinancialJuice: Australia Q2 construction output falls 2.1% q/q, seasonally adjusted (Poll: +0.5%)",
+    "link": "https://www.financialjuice.com/News/9736202/Australia-Q2-construction-output-falls-21-qq-seasonally-adjusted-Poll-05.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:30:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주의 2분기 건설 생산량, 계절 조정 기준 전분기 대비 2.1% 감소 (설문조사: +0.5%)"
+  },
+  {
+    "guid": "9736201",
+    "title": "FinancialJuice: Australia July RBA trimmed mean CPI rises 0.5% month on month",
+    "link": "https://www.financialjuice.com/News/9736201/Australia-July-RBA-trimmed-mean-CPI-rises-05-month-on-month.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 7월 RBA 조정 평균 소비자물가지수(CPI), 전월 대비 0.5% 상승"
+  },
+  {
+    "guid": "9736200",
+    "title": "FinancialJuice: Australia July RBA trimmed mean CPI rises 3.6% year-on-year",
+    "link": "https://www.financialjuice.com/News/9736200/Australia-July-RBA-trimmed-mean-CPI-rises-36-year-on-year.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:30:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 7월 RBA 트림드 평균 소비자물가지수(CPI), 전년 동기 대비 3.6% 상승"
+  },
+  {
+    "guid": "9736199",
+    "title": "FinancialJuice: Australia July RBA weighted median CPI rises 0.4% month/month",
+    "link": "https://www.financialjuice.com/News/9736199/Australia-July-RBA-weighted-median-CPI-rises-04-monthmonth.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:30:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 7월 RBA 가중 중앙값 소비자물가지수(CPI), 전월 대비 0.4% 상승"
+  },
+  {
+    "guid": "9736198",
+    "title": "FinancialJuice: Australia July RBA weighted median CPI at 3.6% year/year",
+    "link": "https://www.financialjuice.com/News/9736198/Australia-July-RBA-weighted-median-CPI-at-36-yearyear.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:30:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 7월 RBA 가중 중앙값 소비자물가지수(CPI), 전년 동기 대비 3.6%"
+  },
+  {
+    "guid": "9736197",
+    "title": "FinancialJuice: Australia July CPI (all groups) rises 3.5% year/year",
+    "link": "https://www.financialjuice.com/News/9736197/Australia-July-CPI-all-groups-rises-35-yearyear.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:30:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 7월 소비자물가지수(전 부문)가 전년 동기 대비 3.5% 상승"
+  },
+  {
+    "guid": "9736196",
+    "title": "FinancialJuice: Australian Construction Work Done QoQ Actual -2.1% (Forecast 0.4%, Previous 3.4%)",
+    "link": "https://www.financialjuice.com/News/9736196/Australian-Construction-Work-Done-QoQ-Actual--21-Forecast-04-Previous-34.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 건설 공사량, 전분기 대비 실질 -2.1% (예상 0.4%, 이전 3.4%)"
+  },
+  {
+    "guid": "9736195",
+    "title": "FinancialJuice: Australian CPI YoY NSA Actual 3.5% (Forecast 3.3%, Previous 3.8%)",
+    "link": "https://www.financialjuice.com/News/9736195/Australian-CPI-YoY-NSA-Actual-35-Forecast-33-Previous-38.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:30:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 소비자물가지수(CPI) 전년 동기 대비(비계절조정) 실제치 3.5% (예상치 3.3%, 전월치 3.8%)"
+  },
+  {
+    "guid": "9736194",
+    "title": "FinancialJuice: Australian CPI Trimmed Mean YoY Actual 3.6% (Forecast 3.5%, Previous 3.6%)",
+    "link": "https://www.financialjuice.com/News/9736194/Australian-CPI-Trimmed-Mean-YoY-Actual-36-Forecast-35-Previous-36.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:30:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 소비자물가지수(CPI) 트림 평균 전년 동기 대비 실제치 3.6% (예상치 3.5%, 전월치 3.6%)"
+  },
+  {
+    "guid": "9736193",
+    "title": "FinancialJuice: Meta: states have discussed resolving teen social media harm lawsuit",
+    "link": "https://www.financialjuice.com/News/9736193/Meta-states-have-discussed-resolving-teen-social-media-harm-lawsuit.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:24:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 메타: 각 주 정부, 청소년 소셜 미디어 피해 관련 소송 해결 방안 논의"
+  },
+  {
+    "guid": "9736192",
+    "title": "FinancialJuice: China c.bank injects 239.5 bln yuan via 7-day reverse repos at 1.40%: statement",
+    "link": "https://www.financialjuice.com/News/9736192/China-cbank-injects-2395-bln-yuan-via-7-day-reverse-repos-at-140-statement.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:20:48 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 1.40% 금리의 7일 만기 역레포를 통해 2,395억 위안 유동성 공급: 성명서"
+  },
+  {
+    "guid": "9736191",
+    "title": "FinancialJuice: China sets yuan midpoint 663 pips below estimate, biggest weak-side deviation since Feb. 27, 2026",
+    "link": "https://www.financialjuice.com/News/9736191/China-sets-yuan-midpoint-663-pips-below-estimate-biggest-weak-side-deviation-since-Feb-27-2026.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 01:19:18 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국, 위안화 중간 환율을 예상치보다 663 핍 낮게 책정… 2026년 2월 27일 이후 최대 약세 편차 기록"
+  },
+  {
+    "guid": "9736157",
+    "title": "FinancialJuice: BOJ: Board member Tamura to attend on Ueda's behalf, no media access",
+    "link": "https://www.financialjuice.com/News/9736157/BOJ-Board-member-Tamura-to-attend-on-Uedas-behalf-no-media-access.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 00:54:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행(BOJ): 타무라 이사가 우에다 총재 대신 회의에 참석, 언론 취재 불가"
+  },
+  {
+    "guid": "9736156",
+    "title": "FinancialJuice: Darline Graham wins South Carolina Republican primary runoff for US Senate: NBC News projects",
+    "link": "https://www.financialjuice.com/News/9736156/Darline-Graham-wins-South-Carolina-Republican-primary-runoff-for-US-Senate-NBC-News-projects.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 00:54:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 달린 그레이엄, 사우스캐롤라이나주 상원 의원 공화당 경선 결선에서 승리: NBC 뉴스 예측"
+  },
+  {
+    "guid": "9736155",
+    "title": "FinancialJuice: BOJ: governor Ueda will skip this week's Jackson Hole meeting",
+    "link": "https://www.financialjuice.com/News/9736155/BOJ-governor-Ueda-will-skip-this-weeks-Jackson-Hole-meeting.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 00:54:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행(BOJ): 우에다 총재, 이번 주 잭슨홀 회의 불참"
+  },
+  {
+    "guid": "9736149",
+    "title": "FinancialJuice: Darline Graham wins South Carolina Republican primary runoff for U.S. Senate: DDHQ projects",
+    "link": "https://www.financialjuice.com/News/9736149/Darline-Graham-wins-South-Carolina-Republican-primary-runoff-for-US-Senate-DDHQ-projects.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 00:39:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 달린 그레이엄, 사우스캐롤라이나주 연방 상원 의원 공화당 경선 결선에서 승리: DDHQ 예측"
+  },
+  {
     "guid": "9736136",
     "title": "FinancialJuice: China PBOC seen setting yuan midpoint at 6.7166 per dollar: estimate",
     "link": "https://www.financialjuice.com/News/9736136/China-PBOC-seen-setting-yuan-midpoint-at-67166-per-dollar-estimate.aspx?xy=rss",
