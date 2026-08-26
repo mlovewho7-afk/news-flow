@@ -1,5 +1,149 @@
 [
   {
+    "guid": "9736820",
+    "title": "FinancialJuice: German 15 Yr Bid-to-Cover Actual 2 (Forecast -, Previous 1.8)",
+    "link": "https://www.financialjuice.com/News/9736820/German-15-Yr-Bid-to-Cover-Actual-2-Forecast---Previous-18.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:35:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 15년물 입찰 경쟁률 실제치 2 (예상치 -, 이전치 1.8)"
+  },
+  {
+    "guid": "9736819",
+    "title": "FinancialJuice: German 15 Yr Bund Yield Actual 3.5% (Forecast -, Previous 3.46%)",
+    "link": "https://www.financialjuice.com/News/9736819/German-15-Yr-Bund-Yield-Actual-35-Forecast---Previous-346.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:35:23 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 독일 15년 만기 국채 수익률, 실제 3.5% (예상 -, 전월 3.46%)"
+  },
+  {
+    "guid": "9736789",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9736789/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:05:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9736788",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9736788/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:05:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9736787",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9736787/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:04:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9736786",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9736786/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:04:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 가능성"
+  },
+  {
+    "guid": "9736785",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9736785/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:04:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9736784",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9736784/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:03:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9736783",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9736783/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:03:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9736782",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9736782/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:03:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9736781",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9736781/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:02:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9736780",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9736780/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:02:28 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시장 내재 변동성"
+  },
+  {
+    "guid": "9736779",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9736779/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:02:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9736773",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9736773/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:01:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9736761",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9736761/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:01:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9736760",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9736760/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:00:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9736759",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9736759/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:00:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9736750",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9736750/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 26 Aug 2026 09:00:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
     "guid": "9736746",
     "title": "FinancialJuice: Credit Ágricole: Gold - FJElite",
     "link": "https://www.financialjuice.com/News/9736746/Credit-%c3%81gricole-Gold---FJElite.aspx?xy=rss",
