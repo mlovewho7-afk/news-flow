@@ -1,5 +1,805 @@
 [
   {
+    "guid": "9739081",
+    "title": "FinancialJuice: Canada adds 50% tariffs to US copper wire and wood charcoal",
+    "link": "https://www.financialjuice.com/News/9739081/Canada-adds-50-tariffs-to-US-copper-wire-and-wood-charcoal.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 16:01:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다, 미국산 구리선과 목탄에 50% 관세 부과"
+  },
+  {
+    "guid": "9739068",
+    "title": "FinancialJuice: US 30-Yr fixed rate mortgage averages 6.66% in Aug 27th week vs 6.65% prior week- Freddie Mac",
+    "link": "https://www.financialjuice.com/News/9739068/US-30-Yr-fixed-rate-mortgage-averages-666-in-Aug-27th-week-vs-665-prior-week--Freddie-Mac.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 16:00:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 8월 27일 주 미국 30년 만기 고정금리 모기지 평균 금리, 전주 6.65% 대비 6.66% 기록 - 프레디 맥"
+  },
+  {
+    "guid": "9739048",
+    "title": "FinancialJuice: Japan’s top banks regain access to Anthropic's Mythos AI after US freeze - Nikkei.",
+    "link": "https://www.financialjuice.com/News/9739048/Japans-top-banks-regain-access-to-Anthropics-Mythos-AI-after-US-freeze---Nikkei.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 15:37:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국의 자산 동결 조치 이후 일본 주요 은행들이 앤트로픽의 ‘마이토스(Mythos)’ AI에 대한 접근 권한을 되찾았다 - 닛케이."
+  },
+  {
+    "guid": "9739047",
+    "title": "FinancialJuice: US 4-Week Bill Auction",
+    "link": "https://www.financialjuice.com/News/9739047/US-4-Week-Bill-Auction.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 15:33:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 4주물 국채 입찰"
+  },
+  {
+    "guid": "9739046",
+    "title": "FinancialJuice: US 4-Week Bill Bid-to-Cover Actual 2.73 (Forecast -, Previous 2.840)",
+    "link": "https://www.financialjuice.com/News/9739046/US-4-Week-Bill-Bid-to-Cover-Actual-273-Forecast---Previous-2840.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 15:32:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 4주물 국채 입찰 경쟁률 실제 2.73 (예상 -, 이전 2.840)"
+  },
+  {
+    "guid": "9739045",
+    "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.65% (Forecast -, Previous 3.640%)",
+    "link": "https://www.financialjuice.com/News/9739045/US-4-Week-Bill-High-Yield-Actual-365-Forecast---Previous-3640.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 15:32:05 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 4주 만기 국채 고수익률, 실제 3.65% (예상 -, 이전 3.640%)"
+  },
+  {
+    "guid": "9739031",
+    "title": "FinancialJuice: Canada's Finance Minister Champagne: Dropped fish tariffs after listening to CDN fishers.",
+    "link": "https://www.financialjuice.com/News/9739031/Canadas-Finance-Minister-Champagne-Dropped-fish-tariffs-after-listening-to-CDN-fishers.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 15:16:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 샴페인 캐나다 재무장관, 캐나다 어민들의 의견을 수렴한 뒤 수산물 관세를 철폐했다."
+  },
+  {
+    "guid": "9739013",
+    "title": "FinancialJuice: SK Hynix opens construction of $4 bln memory hub in Indiana. $SKHY",
+    "link": "https://www.financialjuice.com/News/9739013/SK-Hynix-opens-construction-of-4-bln-memory-hub-in-Indiana-SKHY.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 15:09:46 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: SK하이닉스, 인디애나주에 40억 달러 규모 메모리 허브 착공. $SKHY"
+  },
+  {
+    "guid": "9739012",
+    "title": "FinancialJuice: Iran's Parliament Speaker Ghalibaf: Qatar PM stressed efforts to advance solutions to restore regional stability - Tasnim News",
+    "link": "https://www.financialjuice.com/News/9739012/Irans-Parliament-Speaker-Ghalibaf-Qatar-PM-stressed-efforts-to-advance-solutions-to-restore-regional-stability---Tasnim-News.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 15:04:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 의회 의장 갈리바프: 카타르 총리, 지역 안정 회복을 위한 해결책 마련에 힘쓰겠다고 강조 - 타스님 뉴스"
+  },
+  {
+    "guid": "9739007",
+    "title": "FinancialJuice: Kansas City Fed Manufacturing Actual 17 (Forecast -, Previous 17)",
+    "link": "https://www.financialjuice.com/News/9739007/Kansas-City-Fed-Manufacturing-Actual-17-Forecast---Previous-17.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 15:02:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캔자스시티 연방준비은행 제조업 지수 실제 17 (예상 -, 이전 17)"
+  },
+  {
+    "guid": "9739004",
+    "title": "FinancialJuice: Kansas City Fed Composite Index Actual 10 (Forecast 9.5, Previous 9)",
+    "link": "https://www.financialjuice.com/News/9739004/Kansas-City-Fed-Composite-Index-Actual-10-Forecast-95-Previous-9.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 15:02:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캔자스시티 연방준비은행 종합지수, 실제치 10 (예상치 9.5, 전월치 9)"
+  },
+  {
+    "guid": "9739011",
+    "title": "FinancialJuice: US to sell $52 bln 52-Week bills on September 1st, to settle on September 3rd",
+    "link": "https://www.financialjuice.com/News/9739011/US-to-sell-52-bln-52-Week-bills-on-September-1st-to-settle-on-September-3rd.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 15:02:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국, 9월 1일 520억 달러 규모의 52주 만기 국채 발행… 9월 3일 결제 예정"
+  },
+  {
+    "guid": "9739009",
+    "title": "FinancialJuice: US to sell $92 bln 3-Month bills on August 31st to settle on September 3rd",
+    "link": "https://www.financialjuice.com/News/9739009/US-to-sell-92-bln-3-Month-bills-on-August-31st-to-settle-on-September-3rd.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 15:01:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국, 8월 31일에 920억 달러 규모의 3개월 만기 국채를 발행해 9월 3일에 결제할 예정"
+  },
+  {
+    "guid": "9739001",
+    "title": "FinancialJuice: US to sell $79 bln 6-Month bills on August 31st, to settle on September 3rd",
+    "link": "https://www.financialjuice.com/News/9739001/US-to-sell-79-bln-6-Month-bills-on-August-31st-to-settle-on-September-3rd.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 15:00:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국, 8월 31일 790억 달러 규모의 6개월 만기 국채 발행… 9월 3일 결제 예정"
+  },
+  {
+    "guid": "9738985",
+    "title": "FinancialJuice: Pakistan Foreign Ministry Spokesperson: Islamabad is not obligated to comply with unilateral sanctions on Iran unless imposed by the UN - ISNA",
+    "link": "https://www.financialjuice.com/News/9738985/Pakistan-Foreign-Ministry-Spokesperson-Islamabad-is-not-obligated-to-comply-with-unilateral-sanctions-on-Iran-unless-imposed-by-the-UN---ISNA.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:38:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 파키스탄 외무부 대변인 “유엔이 부과하지 않는 한 이슬라마바드는 이란에 대한 일방적 제재를 따를 의무가 없다” - ISNA"
+  },
+  {
+    "guid": "9738984",
+    "title": "FinancialJuice: Pakistan Foreign Ministry spokesperson: Issues should be resolved through dialogue - Tasnim News",
+    "link": "https://www.financialjuice.com/News/9738984/Pakistan-Foreign-Ministry-spokesperson-Issues-should-be-resolved-through-dialogue---Tasnim-News.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:33:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 파키스탄 외무부 대변인 “문제는 대화를 통해 해결되어야 한다” - 타스님 뉴스"
+  },
+  {
+    "guid": "9738983",
+    "title": "FinancialJuice: Pakistan Foreign Ministry spokesperson: US unilateral sanctions on Iran violate international law - Tasnim News",
+    "link": "https://www.financialjuice.com/News/9738983/Pakistan-Foreign-Ministry-spokesperson-US-unilateral-sanctions-on-Iran-violate-international-law---Tasnim-News.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:33:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 파키스탄 외무부 대변인, “미국의 이란에 대한 일방적 제재는 국제법을 위반한다” - 타스님 뉴스"
+  },
+  {
+    "guid": "9738982",
+    "title": "FinancialJuice: Reports Iraqi and Saudi security delegations meet in Baghdad to coordinate border security and intelligence cooperation - IRNA",
+    "link": "https://www.financialjuice.com/News/9738982/Reports-Iraqi-and-Saudi-security-delegations-meet-in-Baghdad-to-coordinate-border-security-and-intelligence-cooperation---IRNA.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:32:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이라크와 사우디 보안 대표단이 바그다드에서 만나 국경 보안 및 정보 협력을 조율했다고 보도 - IRNA"
+  },
+  {
+    "guid": "9738966",
+    "title": "FinancialJuice: Fed's Hammack interview on CNBC concludes",
+    "link": "https://www.financialjuice.com/News/9738966/Feds-Hammack-interview-on-CNBC-concludes.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: CNBC에서 진행된 연준의 해맥 인터뷰가 마무리되었다"
+  },
+  {
+    "guid": "9738965",
+    "title": "FinancialJuice: EIA Natural Gas Change BCF Actual 15B (Forecast 15B, Previous 16B)",
+    "link": "https://www.financialjuice.com/News/9738965/EIA-Natural-Gas-Change-BCF-Actual-15B-Forecast-15B-Previous-16B.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EIA 천연가스 재고 변동량(BCF) 실제 15B (예상 15B, 전월 16B)"
+  },
+  {
+    "guid": "9738964",
+    "title": "FinancialJuice: Fed's Hammack: Treasury has its own objectives, Fed operates independently for its own goals.",
+    "link": "https://www.financialjuice.com/News/9738964/Feds-Hammack-Treasury-has-its-own-objectives-Fed-operates-independently-for-its-own-goals.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:29:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 재무부는 자체적인 목표를 가지고 있으며, 연준은 자체 목표를 위해 독립적으로 운영된다."
+  },
+  {
+    "guid": "9738963",
+    "title": "FinancialJuice: Fed's Hammack: Markets are good complement, but not a substitute, for Fed.",
+    "link": "https://www.financialjuice.com/News/9738963/Feds-Hammack-Markets-are-good-complement-but-not-a-substitute-for-Fed.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:29:45 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “시장은 연준을 보완하는 좋은 요소이지만, 대체할 수는 없다.”"
+  },
+  {
+    "guid": "9738962",
+    "title": "FinancialJuice: Hammack: my neutral rate projection on upper end of committee range",
+    "link": "https://www.financialjuice.com/News/9738962/Hammack-my-neutral-rate-projection-on-upper-end-of-committee-range.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:27:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 해맥: 내 중립 금리 전망치는 위원회 목표 범위 상단에 위치"
+  },
+  {
+    "guid": "9738961",
+    "title": "FinancialJuice: Fed’s Hammack: neutral rate seen higher than other Fed officials",
+    "link": "https://www.financialjuice.com/News/9738961/Feds-Hammack-neutral-rate-seen-higher-than-other-Fed-officials.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:27:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥, 중립 금리가 다른 연준 관계자들보다 높게 전망"
+  },
+  {
+    "guid": "9738960",
+    "title": "FinancialJuice: Fed's Hammack: You recognize neutral monetary policy when you see it",
+    "link": "https://www.financialjuice.com/News/9738960/Feds-Hammack-You-recognize-neutral-monetary-policy-when-you-see-it.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:27:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “중립적인 통화 정책은 보면 알 수 있다”"
+  },
+  {
+    "guid": "9738959",
+    "title": "FinancialJuice: Fed's Hammack: concerned inflationary mindset may be taking hold",
+    "link": "https://www.financialjuice.com/News/9738959/Feds-Hammack-concerned-inflationary-mindset-may-be-taking-hold.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:26:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥, 인플레이션에 대한 우려가 확산되고 있을지도 모른다는 우려 표명"
+  },
+  {
+    "guid": "9738958",
+    "title": "FinancialJuice: Fed's Hammack: contacts highly concerned about inflation and living expenses",
+    "link": "https://www.financialjuice.com/News/9738958/Feds-Hammack-contacts-highly-concerned-about-inflation-and-living-expenses.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:26:37 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥, “연락망 내 인사들, 인플레이션과 생활비 문제에 대해 깊은 우려 표명”"
+  },
+  {
+    "guid": "9738957",
+    "title": "FinancialJuice: Fed's Hammack: The main worry is that public will lose confidence inflation will return to 2%.",
+    "link": "https://www.financialjuice.com/News/9738957/Feds-Hammack-The-main-worry-is-that-public-will-lose-confidence-inflation-will-return-to-2.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:26:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 가장 큰 우려는 대중이 인플레이션이 2%로 돌아올 것이라는 믿음을 잃게 될 것이라는 점이다."
+  },
+  {
+    "guid": "9738956",
+    "title": "FinancialJuice: Fed's Hammack: Above target has been persistent amid questions of how shocks will play out.",
+    "link": "https://www.financialjuice.com/News/9738956/Feds-Hammack-Above-target-has-been-persistent-amid-questions-of-how-shocks-will-play-out.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:25:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 충격이 어떻게 전개될지에 대한 의문이 제기되는 가운데, 목표치를 상회하는 현상이 지속되고 있다."
+  },
+  {
+    "guid": "9738955",
+    "title": "FinancialJuice: Fed's Hammack: I do not see Fed policy providing restriction for economy.",
+    "link": "https://www.financialjuice.com/News/9738955/Feds-Hammack-I-do-not-see-Fed-policy-providing-restriction-for-economy.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:24:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 연준의 정책이 경제에 제약을 가할 것이라고는 생각하지 않는다."
+  },
+  {
+    "guid": "9738954",
+    "title": "FinancialJuice: Fed's Hammack: Now is time to act given persistence of inflation.",
+    "link": "https://www.financialjuice.com/News/9738954/Feds-Hammack-Now-is-time-to-act-given-persistence-of-inflation.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:24:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “인플레이션이 지속되고 있는 만큼, 지금이 바로 행동에 나설 때다.”"
+  },
+  {
+    "guid": "9738953",
+    "title": "FinancialJuice: Fed's Hammack: Most recent inflation number was as expected - CNBC",
+    "link": "https://www.financialjuice.com/News/9738953/Feds-Hammack-Most-recent-inflation-number-was-as-expected---CNBC.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:24:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥, “최근 물가 상승률은 예상대로였다” - CNBC"
+  },
+  {
+    "guid": "9738952",
+    "title": "FinancialJuice: Fear & Greed Index: 58/100 - Greed",
+    "link": "https://www.financialjuice.com/News/9738952/Fear--Greed-Index-58100---Greed.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:18:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 공포와 탐욕 지수: 58/100 - 탐욕"
+  },
+  {
+    "guid": "9738951",
+    "title": "FinancialJuice: Crypto Fear & Greed Index: 71/100 - Greed",
+    "link": "https://www.financialjuice.com/News/9738951/Crypto-Fear--Greed-Index-71100---Greed.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:17:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 암호화폐 공포·탐욕 지수: 71/100 - 탐욕"
+  },
+  {
+    "guid": "9738936",
+    "title": "FinancialJuice: California AG Bonta: Very interested in Snap and Youtube as well. $GOOGL",
+    "link": "https://www.financialjuice.com/News/9738936/California-AG-Bonta-Very-interested-in-Snap-and-Youtube-as-well-GOOGL.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:13:08 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 캘리포니아주 법무장관 본타, 스냅과 유튜브에도 큰 관심을 보이고 있다. $GOOGL"
+  },
+  {
+    "guid": "9738935",
+    "title": "FinancialJuice: Qatar PM and Iran's Ghalibaf stressed need to resume diplomatic track -Foreign Ministry",
+    "link": "https://www.financialjuice.com/News/9738935/Qatar-PM-and-Irans-Ghalibaf-stressed-need-to-resume-diplomatic-track--Foreign-Ministry.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:10:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르 총리와 이란의 갈리바프, 외교적 대화 재개 필요성 강조 - 외무부"
+  },
+  {
+    "guid": "9738934",
+    "title": "FinancialJuice: Qatar PM meets with Iran's Ghalibaf in Tehran - Ministry",
+    "link": "https://www.financialjuice.com/News/9738934/Qatar-PM-meets-with-Irans-Ghalibaf-in-Tehran---Ministry.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:10:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르 총리, 테헤란에서 이란의 갈리바프와 회동 - 외무부"
+  },
+  {
+    "guid": "9738931",
+    "title": "FinancialJuice: Meta projected could spend up to $10b/year on Anthropic AI - NYT. $META",
+    "link": "https://www.financialjuice.com/News/9738931/Meta-projected-could-spend-up-to-10byear-on-Anthropic-AI---NYT-META.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 14:06:30 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 메타, 앤트로픽 AI에 연간 최대 100억 달러 지출할 전망 - NYT. $META"
+  },
+  {
+    "guid": "9738875",
+    "title": "FinancialJuice: US Sentiment: NVDA Earning Outlook Helps Equities - FJElite",
+    "link": "https://www.financialjuice.com/News/9738875/US-Sentiment-NVDA-Earning-Outlook-Helps-Equities---FJElite.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 13:39:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 시장 심리: NVDA 실적 전망이 주식 시장에 호재 - FJElite"
+  },
+  {
+    "guid": "9738871",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9738871/MOO-Imbalance.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 13:30:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOO 불균형"
+  },
+  {
+    "guid": "9738844",
+    "title": "FinancialJuice: SpaceX’s Musk, David Sacks, to join OpenAI's Altman, and Nvidia's Huang at the G20 event.",
+    "link": "https://www.financialjuice.com/News/9738844/SpaceXs-Musk-David-Sacks-to-join-OpenAIs-Altman-and-Nvidias-Huang-at-the-G20-event.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 13:15:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페이스X의 머스크와 데이비드 삭스가 G20 행사에서 오픈AI의 알트먼, 엔비디아의 황과 함께할 예정이다."
+  },
+  {
+    "guid": "9738841",
+    "title": "FinancialJuice: UBS on USDJPY - FJElite",
+    "link": "https://www.financialjuice.com/News/9738841/UBS-on-USDJPY---FJElite.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 13:11:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: UBS의 USDJPY 분석 - FJElite"
+  },
+  {
+    "guid": "9738840",
+    "title": "FinancialJuice: JPMorgan on US - FJElite",
+    "link": "https://www.financialjuice.com/News/9738840/JPMorgan-on-US---FJElite.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 13:07:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: JPMorgan의 미국 경제 전망 - FJElite"
+  },
+  {
+    "guid": "9738839",
+    "title": "FinancialJuice: Iran's Deputy Oil Minister: Around 40% of the damaged capacity of the South Pars gas field is back into production - Fars News.",
+    "link": "https://www.financialjuice.com/News/9738839/Irans-Deputy-Oil-Minister-Around-40-of-the-damaged-capacity-of-the-South-Pars-gas-field-is-back-into-production---Fars-News.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 13:02:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 석유부 차관, “사우스 파르스 가스전의 손상된 생산 능력 중 약 40%가 생산을 재개했다” - 파르스 뉴스."
+  },
+  {
+    "guid": "9738809",
+    "title": "FinancialJuice: Iran's oil minister: Iranian oil sales and deliveries in distant waters have not stopped despite reduction - State Media",
+    "link": "https://www.financialjuice.com/News/9738809/Irans-oil-minister-Iranian-oil-sales-and-deliveries-in-distant-waters-have-not-stopped-despite-reduction---State-Media.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:45:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 석유장관 “생산량 감소에도 불구하고 원거리 해역에서의 이란산 원유 판매 및 선적은 중단되지 않았다” - 국영 매체"
+  },
+  {
+    "guid": "9738806",
+    "title": "FinancialJuice: Royal Bank of Canada CEO: The implementation of the recently announced tariffs could impact about 40 basis points of Canadian GDP, with a larger impact on certain sectors and provinces.",
+    "link": "https://www.financialjuice.com/News/9738806/Royal-Bank-of-Canada-CEO-The-implementation-of-the-recently-announced-tariffs-could-impact-about-40-basis-points-of-Canadian-GDP-with-a-larger-impact-on-certain-sectors-and-provinces.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:38:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 왕립은행(RBC) CEO: 최근 발표된 관세 조치가 시행될 경우 캐나다 GDP에 약 40 베이시스 포인트의 영향을 미칠 수 있으며, 특정 산업 분야와 주에서는 그 영향이 더 클 것으로 보인다."
+  },
+  {
+    "guid": "9738783",
+    "title": "FinancialJuice: Canadian Current Account Actual 8.84B (Forecast 3.9B, Previous -7.18B)",
+    "link": "https://www.financialjuice.com/News/9738783/Canadian-Current-Account-Actual-884B-Forecast-39B-Previous--718B.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:31:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 경상수지 실제치 88.4억 (예상치 39억, 전월치 -71.8억)"
+  },
+  {
+    "guid": "9738782",
+    "title": "FinancialJuice: US Retail Inventories Ex-Auto Adv. Actual 0.7% (Forecast -, Previous -0.4%)",
+    "link": "https://www.financialjuice.com/News/9738782/US-Retail-Inventories-Ex-Auto-Adv-Actual-07-Forecast---Previous--04.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:31:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 소매 재고(자동차 제외) 증가율, 실제 0.7% (예상 -, 이전 -0.4%)"
+  },
+  {
+    "guid": "9738781",
+    "title": "FinancialJuice: US Wholesale Inventories MoM Advance Actual 1.3% (Forecast 0.2%, Previous 0.2%)",
+    "link": "https://www.financialjuice.com/News/9738781/US-Wholesale-Inventories-MoM-Advance-Actual-13-Forecast-02-Previous-02.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 도매 재고, 전월 대비 1.3% 증가 (예상 0.2%, 전월 0.2%)"
+  },
+  {
+    "guid": "9738780",
+    "title": "FinancialJuice: US Continued Jobless Claims Actual 1.778M (Forecast 1.792M, Previous 1.799M, Revision 1.796M)",
+    "link": "https://www.financialjuice.com/News/9738780/US-Continued-Jobless-Claims-Actual-1778M-Forecast-1792M-Previous-1799M-Revision-1796M.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지속 실업수당 청구 건수, 실제 177만8천 건 (예상 179만2천 건, 전월 179만9천 건, 수정치 179만6천 건)"
+  },
+  {
+    "guid": "9738779",
+    "title": "FinancialJuice: US Initial Jobless Claims Actual 203k (Forecast 208k, Previous 206k, Revison 207k)",
+    "link": "https://www.financialjuice.com/News/9738779/US-Initial-Jobless-Claims-Actual-203k-Forecast-208k-Previous-206k-Revison-207k.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 신규 실업수당 청구 건수, 실제 203k (예상 208k, 전월 206k, 수정치 207k)"
+  },
+  {
+    "guid": "9738778",
+    "title": "FinancialJuice: US Advance Goods Trade Balance Actual -118.8B (Forecast -100.5B, Previous -101.41B)",
+    "link": "https://www.financialjuice.com/News/9738778/US-Advance-Goods-Trade-Balance-Actual--1188B-Forecast--1005B-Previous--10141B.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 상품수지 잠정치 -1,188억 (예상치 -1,005억, 전월치 -1,014.1억)"
+  },
+  {
+    "guid": "9738777",
+    "title": "FinancialJuice: WH Press Sec. Leavitt on iran: Naval blockade stays in effect.",
+    "link": "https://www.financialjuice.com/News/9738777/WH-Press-Sec-Leavitt-on-iran-Naval-blockade-stays-in-effect.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:29:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 레빗 백악관 대변인, 이란 관련 발언: 해상 봉쇄 조치는 계속 유지된다."
+  },
+  {
+    "guid": "9738776",
+    "title": "FinancialJuice: WH Press Sec. Leavitt on iran: All options remain on the table.",
+    "link": "https://www.financialjuice.com/News/9738776/WH-Press-Sec-Leavitt-on-iran-All-options-remain-on-the-table.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:28:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 레빗 백악관 대변인, 이란 문제에 대해 “모든 선택지는 여전히 열려 있다”고 밝혔다."
+  },
+  {
+    "guid": "9738775",
+    "title": "FinancialJuice: WH Press Sec. Leavitt: No negotiations happening now with Iran. - Fox News",
+    "link": "https://www.financialjuice.com/News/9738775/WH-Press-Sec-Leavitt-No-negotiations-happening-now-with-Iran---Fox-News.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:28:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 대변인 리빗, “현재 이란과 협상 진행 중이지 않다” - 폭스 뉴스"
+  },
+  {
+    "guid": "9738774",
+    "title": "FinancialJuice: Fed's Goolsbee: Biggest short-run fear is that inflation is not under control.",
+    "link": "https://www.financialjuice.com/News/9738774/Feds-Goolsbee-Biggest-short-run-fear-is-that-inflation-is-not-under-control.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:25:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 굴스비 “단기적으로 가장 우려되는 점은 인플레이션이 통제되지 못하고 있다는 사실이다.”"
+  },
+  {
+    "guid": "9738773",
+    "title": "FinancialJuice: Fed's Goolsbee: Current low hire and low fire job market is unusual.",
+    "link": "https://www.financialjuice.com/News/9738773/Feds-Goolsbee-Current-low-hire-and-low-fire-job-market-is-unusual.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:24:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 굴스비, “현재와 같이 채용은 적고 해고는 적은 고용 시장은 이례적이다.”"
+  },
+  {
+    "guid": "9738772",
+    "title": "FinancialJuice: Fed's Goolsbee: The economy on balance has been stable.",
+    "link": "https://www.financialjuice.com/News/9738772/Feds-Goolsbee-The-economy-on-balance-has-been-stable.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:24:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 굴스비 “전반적으로 경제는 안정적인 양상을 보여왔다.”"
+  },
+  {
+    "guid": "9738771",
+    "title": "FinancialJuice: Fed's Goolsbee: A 3% rate and 2% inflation is a loose target where we're headed.",
+    "link": "https://www.financialjuice.com/News/9738771/Feds-Goolsbee-A-3-rate-and-2-inflation-is-a-loose-target-where-were-headed.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:22:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 굴스비: 3% 금리와 2% 인플레이션은 우리가 향하고 있는 완화적인 목표치입니다."
+  },
+  {
+    "guid": "9738770",
+    "title": "FinancialJuice: Fed's Goolsbee: 3-month inflation doesn't look terrible.",
+    "link": "https://www.financialjuice.com/News/9738770/Feds-Goolsbee-3-month-inflation-doesnt-look-terrible.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:20:45 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 굴스비 “지난 3개월간의 물가 상승률은 그리 나쁘지 않아 보인다.”"
+  },
+  {
+    "guid": "9738743",
+    "title": "FinancialJuice: Fed's Goolsbee: Political interference in central banks generally leads to inflation.",
+    "link": "https://www.financialjuice.com/News/9738743/Feds-Goolsbee-Political-interference-in-central-banks-generally-leads-to-inflation.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:12:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 굴스비: 중앙은행에 대한 정치적 개입은 대개 인플레이션을 초래한다."
+  },
+  {
+    "guid": "9738742",
+    "title": "FinancialJuice: Fed's Goolsbee: Political pressure on the Fed puts me on edge.",
+    "link": "https://www.financialjuice.com/News/9738742/Feds-Goolsbee-Political-pressure-on-the-Fed-puts-me-on-edge.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:12:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 굴스비 “연준에 가해지는 정치적 압박이 나를 불안하게 만든다.”"
+  },
+  {
+    "guid": "9738740",
+    "title": "FinancialJuice: Fed's Goolsbee: Tariffs and war-related price increases a challenge for the Fed - Rapid Response Podcast.",
+    "link": "https://www.financialjuice.com/News/9738740/Feds-Goolsbee-Tariffs-and-war-related-price-increases-a-challenge-for-the-Fed---Rapid-Response-Podcast.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:04:57 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 연준의 굴스비, “관세와 전쟁으로 인한 물가 상승이 연준에 과제” - Rapid Response 팟캐스트."
+  },
+  {
+    "guid": "9738738",
+    "title": "FinancialJuice: S&P: AI infrastructure investment to exceed $1.3t by 2027.",
+    "link": "https://www.financialjuice.com/News/9738738/SP-AI-infrastructure-investment-to-exceed-13t-by-2027.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:02:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P, 2027년까지 AI 인프라 투자 규모가 1.3조 달러를 넘어설 전망."
+  },
+  {
+    "guid": "9738718",
+    "title": "FinancialJuice: Secured overnight financing rate 3.64% August 26th vs 3.66% August 25th.",
+    "link": "https://www.financialjuice.com/News/9738718/Secured-overnight-financing-rate-364-August-26th-vs-366-August-25th.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:00:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 8월 26일 담보부 일일 자금 조달 금리 3.64% (8월 25일 3.66% 대비)."
+  },
+  {
+    "guid": "9738717",
+    "title": "FinancialJuice: The EU's 2028-2034 budget plan should be cut by hundreds of billions of euros, say Germany, Denmark, the Netherlands, Austria, Finland, and Sweden in a joint statement.",
+    "link": "https://www.financialjuice.com/News/9738717/The-EUs-2028-2034-budget-plan-should-be-cut-by-hundreds-of-billions-of-euros-say-Germany-Denmark-the-Netherlands-Austria-Finland-and-Sweden-in-a-joint-statement.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 12:00:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일, 덴마크, 네덜란드, 오스트리아, 핀란드, 스웨덴은 공동 성명을 통해 EU의 2028~2034년 예산안을 수천억 유로 규모로 삭감해야 한다고 밝혔다."
+  },
+  {
+    "guid": "9738712",
+    "title": "FinancialJuice: Fed's Goolsbee: Trying to figure out if inflation shocks persistent.",
+    "link": "https://www.financialjuice.com/News/9738712/Feds-Goolsbee-Trying-to-figure-out-if-inflation-shocks-persistent.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:55:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 굴스비, 인플레이션 충격이 지속될지 파악 중."
+  },
+  {
+    "guid": "9738704",
+    "title": "FinancialJuice: ECB Account: Price expectations seen anchored over the long term.",
+    "link": "https://www.financialjuice.com/News/9738704/ECB-Account-Price-expectations-seen-anchored-over-the-long-term.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:45:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 분석: 물가 기대치가 장기적으로 안정될 것으로 전망된다."
+  },
+  {
+    "guid": "9738697",
+    "title": "FinancialJuice: ECB Account: S-term growth outlook improved slightly since June.",
+    "link": "https://www.financialjuice.com/News/9738697/ECB-Account-S-term-growth-outlook-improved-slightly-since-June.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:42:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 분석: 6월 이후 단기 성장 전망이 소폭 개선되었다."
+  },
+  {
+    "guid": "9738696",
+    "title": "FinancialJuice: ECB Account: Euro-area economy was more resilient than expected.",
+    "link": "https://www.financialjuice.com/News/9738696/ECB-Account-Euro-area-economy-was-more-resilient-than-expected.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:41:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 분석: 유로존 경제가 예상보다 탄력적이었다."
+  },
+  {
+    "guid": "9738695",
+    "title": "FinancialJuice: ECB Account: Agreement that shock's full effect still unfolding.",
+    "link": "https://www.financialjuice.com/News/9738695/ECB-Account-Agreement-that-shocks-full-effect-still-unfolding.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:40:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 분석: 충격의 완전한 영향이 여전히 나타나고 있다는 데 의견이 일치."
+  },
+  {
+    "guid": "9738694",
+    "title": "FinancialJuice: ECB Account: Transmission of monetary policy remained orderly.",
+    "link": "https://www.financialjuice.com/News/9738694/ECB-Account-Transmission-of-monetary-policy-remained-orderly.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:39:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 계정: 통화정책의 전달 과정은 여전히 순조로웠다."
+  },
+  {
+    "guid": "9738693",
+    "title": "FinancialJuice: ECB Accounts: Another rate hike would likely be necessary unless the inflation outlook improved significantly.",
+    "link": "https://www.financialjuice.com/News/9738693/ECB-Accounts-Another-rate-hike-would-likely-be-necessary-unless-the-inflation-outlook-improved-significantly.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:39:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 분석: 인플레이션 전망이 크게 개선되지 않는 한 추가 금리 인상이 필요할 것으로 보인다."
+  },
+  {
+    "guid": "9738692",
+    "title": "FinancialJuice: ECB Accounts: Some members would not have opposed raising rates at the current meeting.",
+    "link": "https://www.financialjuice.com/News/9738692/ECB-Accounts-Some-members-would-not-have-opposed-raising-rates-at-the-current-meeting.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:36:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 회의록: 일부 위원들은 이번 회의에서 금리 인상에 반대하지 않았을 것으로 보인다."
+  },
+  {
+    "guid": "9738691",
+    "title": "FinancialJuice: Fed's Schmid: There may be room to have fewer fed meetings.",
+    "link": "https://www.financialjuice.com/News/9738691/Feds-Schmid-There-may-be-room-to-have-fewer-fed-meetings.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:35:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 슈미드: 연준 회의 횟수를 줄일 여지가 있을 수 있다."
+  },
+  {
+    "guid": "9738690",
+    "title": "FinancialJuice: ECB Accounts: Members stressed that the incoming data provided a strong case for a pause in rate hikes at the current meeting.",
+    "link": "https://www.financialjuice.com/News/9738690/ECB-Accounts-Members-stressed-that-the-incoming-data-provided-a-strong-case-for-a-pause-in-rate-hikes-at-the-current-meeting.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:35:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 회의록: 위원들은 최근 발표된 경제 지표들이 이번 회의에서 금리 인상을 일시 중단해야 할 강력한 근거를 제공한다고 강조했다."
+  },
+  {
+    "guid": "9738689",
+    "title": "FinancialJuice: Fed's Schmid: It will take time to change fed's balance sheet.",
+    "link": "https://www.financialjuice.com/News/9738689/Feds-Schmid-It-will-take-time-to-change-feds-balance-sheet.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:35:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 슈미드 “연준의 대차대조표를 조정하는 데는 시간이 걸릴 것”"
+  },
+  {
+    "guid": "9738688",
+    "title": "FinancialJuice: ECB Accounts: Since labour market conditions had softened at the same time, this suggested a relatively low likelihood of second-round effects.",
+    "link": "https://www.financialjuice.com/News/9738688/ECB-Accounts-Since-labour-market-conditions-had-softened-at-the-same-time-this-suggested-a-relatively-low-likelihood-of-second-round-effects.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:35:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 보고서: 노동 시장 여건도 동시에 완화되었기 때문에, 이는 2차 파급 효과가 발생할 가능성이 상대적으로 낮음을 시사했다."
+  },
+  {
+    "guid": "9738687",
+    "title": "FinancialJuice: Fed's Schmid: Fed needs to get to 2% inflation.",
+    "link": "https://www.financialjuice.com/News/9738687/Feds-Schmid-Fed-needs-to-get-to-2-inflation.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:35:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 슈미드 “연준은 물가상승률을 2%로 끌어올려야 한다.”"
+  },
+  {
+    "guid": "9738686",
+    "title": "FinancialJuice: Fed's Schmid: Energy shock is leaking into economy.",
+    "link": "https://www.financialjuice.com/News/9738686/Feds-Schmid-Energy-shock-is-leaking-into-economy.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:34:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 슈미드, “에너지 충격이 경제 전반으로 파급되고 있다.”"
+  },
+  {
+    "guid": "9738685",
+    "title": "FinancialJuice: ECB Account: Some members saw case for mildly restrictive rates.",
+    "link": "https://www.financialjuice.com/News/9738685/ECB-Account-Some-members-saw-case-for-mildly-restrictive-rates.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:34:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 소식: 일부 위원들은 금리를 소폭 인상해야 할 근거가 있다고 봤다."
+  },
+  {
+    "guid": "9738684",
+    "title": "FinancialJuice: ECB Accounts: The projected duration of above-target inflation was seen as an important reason for continuing to monitor the intensity and persistence of the energy price shock.",
+    "link": "https://www.financialjuice.com/News/9738684/ECB-Accounts-The-projected-duration-of-above-target-inflation-was-seen-as-an-important-reason-for-continuing-to-monitor-the-intensity-and-persistence-of-the-energy-price-shock.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:34:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 보고서: 목표치를 상회하는 인플레이션이 지속될 것으로 예상되는 기간은 에너지 가격 충격의 강도와 지속성을 계속 주시해야 하는 중요한 이유로 꼽혔다."
+  },
+  {
+    "guid": "9738683",
+    "title": "FinancialJuice: ECB Accounts: Second-round effects of energy price shocks had not yet become embedded in domestic price and wage dynamics.",
+    "link": "https://www.financialjuice.com/News/9738683/ECB-Accounts-Second-round-effects-of-energy-price-shocks-had-not-yet-become-embedded-in-domestic-price-and-wage-dynamics.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:33:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 보고서: 에너지 가격 충격의 2차 효과가 아직 국내 물가 및 임금 동향에 반영되지 않았다."
+  },
+  {
+    "guid": "9738682",
+    "title": "FinancialJuice: ECB Accounts: Underlying price pressures had continued to moderate and that more persistent inflation components had evolved more favourably.",
+    "link": "https://www.financialjuice.com/News/9738682/ECB-Accounts-Underlying-price-pressures-had-continued-to-moderate-and-that-more-persistent-inflation-components-had-evolved-more-favourably.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:33:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 보고서: 근본적인 물가 상승 압력은 계속해서 완화되는 양상을 보였으며, 보다 지속적인 인플레이션 요인들은 더 긍정적인 방향으로 변화했다."
+  },
+  {
+    "guid": "9738681",
+    "title": "FinancialJuice: Fed's Schmid: Unclear what Fed policy is restricting right now.",
+    "link": "https://www.financialjuice.com/News/9738681/Feds-Schmid-Unclear-what-Fed-policy-is-restricting-right-now.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:33:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 슈미드: 현재 연준의 정책이 무엇을 제한하고 있는지 불분명하다."
+  },
+  {
+    "guid": "9738680",
+    "title": "FinancialJuice: ECB Accounts: if natural gas prices remained elevated, the impact would ultimately be felt.",
+    "link": "https://www.financialjuice.com/News/9738680/ECB-Accounts-if-natural-gas-prices-remained-elevated-the-impact-would-ultimately-be-felt.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:33:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 분석: 천연가스 가격이 높은 수준을 유지한다면, 결국 그 영향이 나타날 것이다."
+  },
+  {
+    "guid": "9738679",
+    "title": "FinancialJuice: ECB Accounts: Impact of energy price increases on consumer liquid fuel prices might not yet be fully visible in the July data and could take until August to materialise.",
+    "link": "https://www.financialjuice.com/News/9738679/ECB-Accounts-Impact-of-energy-price-increases-on-consumer-liquid-fuel-prices-might-not-yet-be-fully-visible-in-the-July-data-and-could-take-until-August-to-materialise.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:32:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 분석: 에너지 가격 상승이 소비자용 액체 연료 가격에 미치는 영향은 7월 데이터에는 아직 완전히 반영되지 않았을 수 있으며, 그 영향이 나타나기까지는 8월까지 걸릴 수도 있다."
+  },
+  {
+    "guid": "9738678",
+    "title": "FinancialJuice: Qatar, Iran discussed proposed phased framework that includes creation of temporary shipping corridor through Strait of Hormuz - Qatar Foreign Ministry",
+    "link": "https://www.financialjuice.com/News/9738678/Qatar-Iran-discussed-proposed-phased-framework-that-includes-creation-of-temporary-shipping-corridor-through-Strait-of-Hormuz---Qatar-Foreign-Ministry.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:32:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르와 이란, 호르무즈 해협을 통과하는 임시 해상 통로 개설을 포함한 단계적 실행 방안 논의 - 카타르 외무부"
+  },
+  {
+    "guid": "9738677",
+    "title": "FinancialJuice: Qatar, Iran discussed agreement to implement \"joint project\" to clear mines from Strait of hormuz - Qatar Foreign Ministry.",
+    "link": "https://www.financialjuice.com/News/9738677/Qatar-Iran-discussed-agreement-to-implement-joint-project-to-clear-mines-from-Strait-of-hormuz---Qatar-Foreign-Ministry.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:32:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르와 이란, 호르무즈 해협의 지뢰 제거를 위한 “공동 프로젝트” 이행 합의 논의 - 카타르 외무부."
+  },
+  {
+    "guid": "9738660",
+    "title": "FinancialJuice: Fed's Schmid: Would probably have supported rate hike at July meeting.",
+    "link": "https://www.financialjuice.com/News/9738660/Feds-Schmid-Would-probably-have-supported-rate-hike-at-July-meeting.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:30:59 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 슈미드, “7월 회의에서 금리 인상을 지지했을 가능성이 높다.”"
+  },
+  {
+    "guid": "9738659",
+    "title": "FinancialJuice: Fed's Schmid: I don't see Fed's credibility as damaged in recent weeks.",
+    "link": "https://www.financialjuice.com/News/9738659/Feds-Schmid-I-dont-see-Feds-credibility-as-damaged-in-recent-weeks.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:30:47 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 슈미드: 최근 몇 주 동안 연준의 신뢰도가 훼손되었다고는 생각하지 않는다."
+  },
+  {
+    "guid": "9738658",
+    "title": "FinancialJuice: Fed's Schmid: Midterms won't affect Fed's October meeting decision.",
+    "link": "https://www.financialjuice.com/News/9738658/Feds-Schmid-Midterms-wont-affect-Feds-October-meeting-decision.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:30:36 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 슈미드, “중간선거는 연준의 10월 회의 결정에 영향을 미치지 않을 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9738655",
+    "title": "FinancialJuice: Fed's Schmid: Interest rates not restraining us economy.",
+    "link": "https://www.financialjuice.com/News/9738655/Feds-Schmid-Interest-rates-not-restraining-us-economy.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:30:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 슈미드 “금리, 미국 경제에 제약을 주지 않고 있다.”"
+  },
+  {
+    "guid": "9738652",
+    "title": "FinancialJuice: Canada's Leblanc: Looking forward to more US clarifications.",
+    "link": "https://www.financialjuice.com/News/9738652/Canadas-Leblanc-Looking-forward-to-more-US-clarifications.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:23:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다의 르블랑: 미국의 추가 설명이 기대된다."
+  },
+  {
+    "guid": "9738651",
+    "title": "FinancialJuice: Canada's Leblanc: US withdraws French labeling objections.",
+    "link": "https://www.financialjuice.com/News/9738651/Canadas-Leblanc-US-withdraws-French-labeling-objections.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:23:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다의 르블랑: 미국, 프랑스산 제품 라벨링에 대한 이의를 철회했다."
+  },
+  {
+    "guid": "9738639",
+    "title": "FinancialJuice: US Pentagon Policy Chief Colby: Poland, Germany, Netherlands are making extraordinary investments in defence.",
+    "link": "https://www.financialjuice.com/News/9738639/US-Pentagon-Policy-Chief-Colby-Poland-Germany-Netherlands-are-making-extraordinary-investments-in-defence.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:06:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 국방부 정책 담당관 콜비: 폴란드, 독일, 네덜란드가 국방 분야에 막대한 투자를 하고 있다."
+  },
+  {
+    "guid": "9738638",
+    "title": "FinancialJuice: US Pentagon Policy Chief Colby: Europe will remain a critical interest for the US.",
+    "link": "https://www.financialjuice.com/News/9738638/US-Pentagon-Policy-Chief-Colby-Europe-will-remain-a-critical-interest-for-the-US.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 11:06:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 국방부 정책 담당 책임자 콜비, “유럽은 앞으로도 미국의 핵심 이해관계로 남을 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9738608",
+    "title": "FinancialJuice: EC Pres. von der Leyen: Stepping up China investigations significantly.",
+    "link": "https://www.financialjuice.com/News/9738608/EC-Pres-von-der-Leyen-Stepping-up-China-investigations-significantly.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 10:48:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 폰 데어 라이엔 유럽집행위원회 위원장: 중국에 대한 조사 대대적으로 강화."
+  },
+  {
+    "guid": "9738607",
+    "title": "FinancialJuice: EC Pres. von der Leyen: Dialogue with China remains necessary.",
+    "link": "https://www.financialjuice.com/News/9738607/EC-Pres-von-der-Leyen-Dialogue-with-China-remains-necessary.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 10:48:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 폰 데어 라이엔 유럽집행위원회 위원장: 중국과의 대화는 여전히 필요하다."
+  },
+  {
+    "guid": "9738591",
+    "title": "FinancialJuice: Iran and Qatar foreign ministers hold talks in Tehran - IRNA",
+    "link": "https://www.financialjuice.com/News/9738591/Iran-and-Qatar-foreign-ministers-hold-talks-in-Tehran---IRNA.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 10:38:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란과 카타르 외무장관, 테헤란에서 회담 - IRNA"
+  },
+  {
     "guid": "9738196",
     "title": "FinancialJuice: China's foreign minister: both parties should effectively manage differences, eliminate interference and resolve hurdles to high-level talks",
     "link": "https://www.financialjuice.com/News/9738196/Chinas-foreign-minister-both-parties-should-effectively-manage-differences-eliminate-interference-and-resolve-hurdles-to-high-level-talks.aspx?xy=rss",
