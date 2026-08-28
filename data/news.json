@@ -1,5 +1,725 @@
 [
   {
+    "guid": "9739602",
+    "title": "FinancialJuice: China PBOC anticipated to fix yuan mid-point at 6.7208 per dollar: estimate",
+    "link": "https://www.financialjuice.com/News/9739602/China-PBOC-anticipated-to-fix-yuan-mid-point-at-67208-per-dollar-estimate.aspx?xy=rss",
+    "pubDate": "Fri, 28 Aug 2026 00:17:29 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 인민은행(PBOC), 위안화 중간 환율을 달러당 6.7208로 책정할 것으로 전망: 추정"
+  },
+  {
+    "guid": "9739601",
+    "title": "FinancialJuice: South Korea, U.S., Japan to conduct freedom edge drills from Sept. 7 - media",
+    "link": "https://www.financialjuice.com/News/9739601/South-Korea-US-Japan-to-conduct-freedom-edge-drills-from-Sept-7---media.aspx?xy=rss",
+    "pubDate": "Fri, 28 Aug 2026 00:05:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국·미국·일본, 9월 7일부터 ‘프리덤 엣지’ 합동군사훈련 실시 예정 – 언론 보도"
+  },
+  {
+    "guid": "9739584",
+    "title": "FinancialJuice: ICE awards $16.7 million deal to purchase thousands of electric shock gloves: CBS News",
+    "link": "https://www.financialjuice.com/News/9739584/ICE-awards-167-million-deal-to-purchase-thousands-of-electric-shock-gloves-CBS-News.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 23:35:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ICE, 수천 켤레의 전기 충격 장갑 구매를 위한 1,670만 달러 규모 계약 체결: CBS 뉴스"
+  },
+  {
+    "guid": "9739574",
+    "title": "FinancialJuice: Tokyo Core CPI YoY Actual 1.8% (Forecast 1.8%, Previous 1.9%)",
+    "link": "https://www.financialjuice.com/News/9739574/Tokyo-Core-CPI-YoY-Actual-18-Forecast-18-Previous-19.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 23:31:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 도쿄 핵심 소비자물가지수(CPI) 전년 동기 대비 실제 1.8% (예상 1.8%, 전월 1.9%)"
+  },
+  {
+    "guid": "9739578",
+    "title": "FinancialJuice: Tokyo area August overall CPI rises 1.9% yr/yr: govt",
+    "link": "https://www.financialjuice.com/News/9739578/Tokyo-area-August-overall-CPI-rises-19-yryr-govt.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 23:30:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 도쿄권 8월 전체 소비자물가지수(CPI), 전년 동기 대비 1.9% 상승: 정부"
+  },
+  {
+    "guid": "9739577",
+    "title": "FinancialJuice: Japan july seasonally adjusted unemployment rate 2.4%: govt (Poll: 2.5%)",
+    "link": "https://www.financialjuice.com/News/9739577/Japan-july-seasonally-adjusted-unemployment-rate-24-govt-Poll-25.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 23:30:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본 7월 계절 조정 실업률 2.4%: 정부 발표 (여론조사: 2.5%)"
+  },
+  {
+    "guid": "9739576",
+    "title": "FinancialJuice: Tokyo area August consumer prices excluding fresh food, energy increase 2.0% yr/yr: govt",
+    "link": "https://www.financialjuice.com/News/9739576/Tokyo-area-August-consumer-prices-excluding-fresh-food-energy-increase-20-yryr-govt.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 23:30:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 도쿄권 8월 신선식품 및 에너지를 제외한 소비자물가, 전년 동기 대비 2.0% 상승: 정부"
+  },
+  {
+    "guid": "9739575",
+    "title": "FinancialJuice: Tokyo CPI Overall Actual 1.9% (Forecast 1.9%, Previous 2.0%)",
+    "link": "https://www.financialjuice.com/News/9739575/Tokyo-CPI-Overall-Actual-19-Forecast-19-Previous-20.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 23:30:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 도쿄 소비자물가지수(CPI) 전체, 실제 1.9% (예상 1.9%, 전월 2.0%)"
+  },
+  {
+    "guid": "9739573",
+    "title": "FinancialJuice: Tokyo area august core CPI rises 1.8% yr/yr: govt (poll 1.7%)",
+    "link": "https://www.financialjuice.com/News/9739573/Tokyo-area-august-core-CPI-rises-18-yryr-govt-poll-17.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 23:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 도쿄권 8월 핵심 소비자물가지수(CPI) 전년 동기 대비 1.8% 상승: 정부 발표 (예상치 1.7%)"
+  },
+  {
+    "guid": "9739572",
+    "title": "FinancialJuice: Japanese Unemployment Rate Actual 2.4% (Forecast 2.5%, Previous 2.5%)",
+    "link": "https://www.financialjuice.com/News/9739572/Japanese-Unemployment-Rate-Actual-24-Forecast-25-Previous-25.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 23:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본 실업률, 실제 2.4% (예상 2.5%, 전월 2.5%)"
+  },
+  {
+    "guid": "9739571",
+    "title": "FinancialJuice: Japan July jobs-applicants ratio steady at 1.18, unchanged from June: govt (Poll 1.19)",
+    "link": "https://www.financialjuice.com/News/9739571/Japan-July-jobs-applicants-ratio-steady-at-118-unchanged-from-June-govt-Poll-119.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 23:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 7월 구직자 비율, 6월과 동일한 1.18로 안정세 유지… 정부 발표 (설문조사 결과 1.19)"
+  },
+  {
+    "guid": "9739570",
+    "title": "FinancialJuice: Japanese Jobs/Applicants Ratio Actual 1.18 (Forecast 1.19, Previous 1.18)",
+    "link": "https://www.financialjuice.com/News/9739570/Japanese-JobsApplicants-Ratio-Actual-118-Forecast-119-Previous-118.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 23:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 구인·구직 비율, 실제 1.18 (예상 1.19, 이전 1.18)"
+  },
+  {
+    "guid": "9739549",
+    "title": "FinancialJuice: Venezuela considers OPEC exit after decades as it strengthens US ties",
+    "link": "https://www.financialjuice.com/News/9739549/Venezuela-considers-OPEC-exit-after-decades-as-it-strengthens-US-ties.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 22:35:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 베네수엘라, 수십 년간 OPEC 회원국 지위를 유지해오다 미국과의 관계를 강화하며 탈퇴 검토"
+  },
+  {
+    "guid": "9739521",
+    "title": "FinancialJuice: U.S. FTC probing YouTube since last year: in final stages of preparing potential lawsuit",
+    "link": "https://www.financialjuice.com/News/9739521/US-FTC-probing-YouTube-since-last-year-in-final-stages-of-preparing-potential-lawsuit.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 22:11:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 연방거래위원회(FTC), 작년부터 유튜브 조사 중… 잠재적 소송 준비 막바지 단계"
+  },
+  {
+    "guid": "9739520",
+    "title": "FinancialJuice: US FTC probing YouTube on social media guidelines",
+    "link": "https://www.financialjuice.com/News/9739520/US-FTC-probing-YouTube-on-social-media-guidelines.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 22:09:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 연방거래위원회(FTC), 소셜 미디어 지침과 관련해 유튜브 조사 중"
+  },
+  {
+    "guid": "9739519",
+    "title": "FinancialJuice: Medcaptain Medical Technology Co announces 38.9 million H shares offered globally",
+    "link": "https://www.financialjuice.com/News/9739519/Medcaptain-Medical-Technology-Co-announces-389-million-H-shares-offered-globally.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 22:06:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 메드캡틴 메디컬 테크놀로지, 전 세계적으로 3,890만 H주 공모 발표"
+  },
+  {
+    "guid": "9739514",
+    "title": "FinancialJuice: ANZ-Roy Morgan New Zealand consumer confidence index at 98.0 in August from 99.3 prev month",
+    "link": "https://www.financialjuice.com/News/9739514/ANZ-Roy-Morgan-New-Zealand-consumer-confidence-index-at-980-in-August-from-993-prev-month.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 22:00:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ANZ-Roy Morgan 뉴질랜드 소비자 신뢰 지수가 8월에 98.0을 기록했으며, 이는 전월의 99.3에서 하락한 수치이다."
+  },
+  {
+    "guid": "9739513",
+    "title": "FinancialJuice: U.S. government nears agreement to ensure long-term access to Venezuela's oil reserves, sources say",
+    "link": "https://www.financialjuice.com/News/9739513/US-government-nears-agreement-to-ensure-long-term-access-to-Venezuelas-oil-reserves-sources-say.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 21:48:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면, 미국 정부가 베네수엘라 석유 매장량에 대한 장기적인 접근권을 확보하기 위한 합의에 근접했다고 한다"
+  },
+  {
+    "guid": "9739512",
+    "title": "FinancialJuice: Nvidia halts revenue-sharing agreements with AI cloud providers - WSJ",
+    "link": "https://www.financialjuice.com/News/9739512/Nvidia-halts-revenue-sharing-agreements-with-AI-cloud-providers---WSJ.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 21:47:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 엔비디아, AI 클라우드 제공업체들과의 수익 분배 계약 중단 - WSJ"
+  },
+  {
+    "guid": "9739488",
+    "title": "FinancialJuice: US Treasury official: hope for joint communique from all G20 members on boosting growth, cutting global imbalances, tackling sovereign debt challenges, financial literacy",
+    "link": "https://www.financialjuice.com/News/9739488/US-Treasury-official-hope-for-joint-communique-from-all-G20-members-on-boosting-growth-cutting-global-imbalances-tackling-sovereign-debt-challenges-financial-literacy.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 21:38:06 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 재무부 관계자: G20 모든 회원국이 성장 촉진, 글로벌 불균형 해소, 국가 부채 문제 해결, 금융 교육 강화에 관한 공동 성명을 발표할 것으로 기대한다"
+  },
+  {
+    "guid": "9739487",
+    "title": "FinancialJuice: Trump: Ben Moss to become assistant to president and White House staff secretary effective September 2nd",
+    "link": "https://www.financialjuice.com/News/9739487/Trump-Ben-Moss-to-become-assistant-to-president-and-White-House-staff-secretary-effective-September-2nd.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 21:31:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 벤 모스가 9월 2일부터 대통령 보좌관 겸 백악관 비서실장으로 취임할 예정"
+  },
+  {
+    "guid": "9739471",
+    "title": "FinancialJuice: Trump administration considers adding 500 million gallons to 2027 biofuel quotas to offset small-refinery exemptions - sources",
+    "link": "https://www.financialjuice.com/News/9739471/Trump-administration-considers-adding-500-million-gallons-to-2027-biofuel-quotas-to-offset-small-refinery-exemptions---sources.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 21:29:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면, 트럼프 행정부는 소규모 정유소에 대한 면제 조치를 상쇄하기 위해 2027년 바이오연료 할당량에 5억 갤런을 추가하는 방안을 검토 중이라고 한다."
+  },
+  {
+    "guid": "9739470",
+    "title": "FinancialJuice: U.S. treasury official: bond yields to decline as inflation eases, Trump administration aims to reduce long bond yields",
+    "link": "https://www.financialjuice.com/News/9739470/US-treasury-official-bond-yields-to-decline-as-inflation-eases-Trump-administration-aims-to-reduce-long-bond-yields.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 21:21:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 재무부 관계자 “인플레이션 완화로 채권 수익률 하락할 전망… 트럼프 행정부, 장기 채권 수익률 낮추는 데 주력”"
+  },
+  {
+    "guid": "9739469",
+    "title": "FinancialJuice: Anthropic considered then abandoned plan to buy chip startup Matx for $7 billion, sources say",
+    "link": "https://www.financialjuice.com/News/9739469/Anthropic-considered-then-abandoned-plan-to-buy-chip-startup-Matx-for-7-billion-sources-say.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 21:20:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면, 앤트로픽이 칩 스타트업 매트엑스(Matx)를 70억 달러에 인수할 계획을 검토했으나 결국 포기했다고 한다."
+  },
+  {
+    "guid": "9739468",
+    "title": "FinancialJuice: Anthropic exploring alliance with Matx to accelerate AI chip design process, source says",
+    "link": "https://www.financialjuice.com/News/9739468/Anthropic-exploring-alliance-with-Matx-to-accelerate-AI-chip-design-process-source-says.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 21:20:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면, 앤트로픽이 AI 칩 설계 과정을 가속화하기 위해 Matx와의 제휴를 모색하고 있다고 한다"
+  },
+  {
+    "guid": "9739450",
+    "title": "FinancialJuice: Mazloum Abdi, commander of dissolved Syrian Democratic Forces, named adviser to presidency: Syrian state news agency",
+    "link": "https://www.financialjuice.com/News/9739450/Mazloum-Abdi-commander-of-dissolved-Syrian-Democratic-Forces-named-adviser-to-presidency-Syrian-state-news-agency.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 21:11:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 해체된 시리아 민주군(SDF)의 사령관 마즐룸 압디, 대통령 보좌관으로 임명: 시리아 국영 통신사"
+  },
+  {
+    "guid": "9739449",
+    "title": "FinancialJuice: Senior U.S. Treasury official: G20 finance meeting to concentrate on boosting economic growth, cutting global imbalances",
+    "link": "https://www.financialjuice.com/News/9739449/Senior-US-Treasury-official-G20-finance-meeting-to-concentrate-on-boosting-economic-growth-cutting-global-imbalances.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 21:09:51 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 재무부 고위 관계자: G20 재무장관 회의, 경제 성장 촉진과 글로벌 불균형 해소에 초점 둘 것"
+  },
+  {
+    "guid": "9739438",
+    "title": "FinancialJuice: Israeli forces attacked near the town of Beit Jinn, a suburb of Damascus, using two shells - Israel's N12 News",
+    "link": "https://www.financialjuice.com/News/9739438/Israeli-forces-attacked-near-the-town-of-Beit-Jinn-a-suburb-of-Damascus-using-two-shells---Israels-N12-News.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 20:58:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘군이 다마스쿠스 교외의 베이트 진 마을 인근을 포탄 두 발로 공격했다 - 이스라엘 N12 뉴스"
+  },
+  {
+    "guid": "9739437",
+    "title": "FinancialJuice: Arab sources have reported hearing multiple explosions in the Syrian capital - Tasnim News.",
+    "link": "https://www.financialjuice.com/News/9739437/Arab-sources-have-reported-hearing-multiple-explosions-in-the-Syrian-capital---Tasnim-News.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 20:57:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아랍 소식통에 따르면 시리아 수도에서 여러 차례의 폭발음이 들렸다고 한다 - 타스님 뉴스."
+  },
+  {
+    "guid": "9739423",
+    "title": "FinancialJuice: Canada's Ambassador to Washington Wiseman: Canada's removal of tariffs on US seafood was done more for technical reasons than as a signal of a quick resumption of negotiations.",
+    "link": "https://www.financialjuice.com/News/9739423/Canadas-Ambassador-to-Washington-Wiseman-Canadas-removal-of-tariffs-on-US-seafood-was-done-more-for-technical-reasons-than-as-a-signal-of-a-quick-resumption-of-negotiations.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 20:41:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다의 워싱턴 주재 대사 와이즈먼: 캐나다가 미국산 수산물에 대한 관세를 철폐한 것은 협상 조속한 재개를 시사하기보다는 기술적인 이유에서 비롯된 조치였다."
+  },
+  {
+    "guid": "9739421",
+    "title": "FinancialJuice: Canada's Ambassador to Washington Wiseman: Canada cannot accept a US trade deal unless it ensures the survival of a robust Canadian auto assembly and parts industry.",
+    "link": "https://www.financialjuice.com/News/9739421/Canadas-Ambassador-to-Washington-Wiseman-Canada-cannot-accept-a-US-trade-deal-unless-it-ensures-the-survival-of-a-robust-Canadian-auto-assembly-and-parts-industry.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 20:41:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 와이즈먼 캐나다 주미대사: 캐나다는 견고한 캐나다 자동차 조립 및 부품 산업의 생존이 보장되지 않는 한 미국의 무역 협정을 받아들일 수 없다."
+  },
+  {
+    "guid": "9739373",
+    "title": "FinancialJuice: Musk: Guess SpaceX will see $3.5t revenue around 2033. $SPCX",
+    "link": "https://www.financialjuice.com/News/9739373/Musk-Guess-SpaceX-will-see-35t-revenue-around-2033-SPCX.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 19:52:41 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 머스크: 스페이스X의 매출이 2033년경 3.5조 달러에 달할 것으로 보인다. $SPCX"
+  },
+  {
+    "guid": "9739372",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9739372/MOC-Imbalance.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 19:50:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOC 불균형"
+  },
+  {
+    "guid": "9739341",
+    "title": "FinancialJuice: Iran's Rezai: Dahieh region and Beirut are our red lines, and no one has the right to move towards Beirut and the Dahieh - Fars News.",
+    "link": "https://www.financialjuice.com/News/9739341/Irans-Rezai-Dahieh-region-and-Beirut-are-our-red-lines-and-no-one-has-the-right-to-move-towards-Beirut-and-the-Dahieh---Fars-News.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 19:29:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 레자이, “다히예 지역과 베이루트는 우리의 레드라인이며, 그 누구도 베이루트와 다히예 쪽으로 진격할 권리가 없다” - 파르스 뉴스."
+  },
+  {
+    "guid": "9739340",
+    "title": "FinancialJuice: Friday FX Option Expiries",
+    "link": "https://www.financialjuice.com/News/9739340/Friday-FX-Option-Expiries.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 19:21:41 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 금요일 외환 옵션 만기일"
+  },
+  {
+    "guid": "9739324",
+    "title": "FinancialJuice: US money-market fund assets rise to $7.93 trillion at ICI.\n",
+    "link": "https://www.financialjuice.com/News/9739324/US-money-market-fund-assets-rise-to-793-trillion-at-ICI.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 19:14:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ICI에 따르면 미국 머니마켓 펀드 자산 규모가 7조 9,300억 달러로 증가했다.\n"
+  },
+  {
+    "guid": "9739323",
+    "title": "FinancialJuice: Iran's Rezai: Iran exported 80 million barrels of oil during the ceasefire.",
+    "link": "https://www.financialjuice.com/News/9739323/Irans-Rezai-Iran-exported-80-million-barrels-of-oil-during-the-ceasefire.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 19:12:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 레자이: 이란은 휴전 기간 동안 8,000만 배럴의 원유를 수출했다."
+  },
+  {
+    "guid": "9739322",
+    "title": "FinancialJuice: Iran's Rezaei: Ships will transit through the designated central channel in the Strait of Hormuz, if the US meets Iran's conditions - Al Manar TV Interview.",
+    "link": "https://www.financialjuice.com/News/9739322/Irans-Rezaei-Ships-will-transit-through-the-designated-central-channel-in-the-Strait-of-Hormuz-if-the-US-meets-Irans-conditions---Al-Manar-TV-Interview.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 19:08:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 레자이, “미국이 이란의 조건을 수용한다면 선박들은 호르무즈 해협의 지정된 중앙 항로를 통과할 것” - 알 마나르 TV 인터뷰."
+  },
+  {
+    "guid": "9739321",
+    "title": "FinancialJuice: Iran's Rezaei: We have agreed to a corridor with Oman, part of it lies in Omani waters and some in Iranian waters - Al Manar TV interview",
+    "link": "https://www.financialjuice.com/News/9739321/Irans-Rezaei-We-have-agreed-to-a-corridor-with-Oman-part-of-it-lies-in-Omani-waters-and-some-in-Iranian-waters---Al-Manar-TV-interview.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 19:07:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 레자이, “오만과 해상 통로 개설에 합의했으며, 그 중 일부는 오만 영해에, 일부는 이란 영해에 위치한다” - 알 마나르 TV 인터뷰"
+  },
+  {
+    "guid": "9739320",
+    "title": "FinancialJuice: Iran's Rezaei: Conditions include ending the war in the region -Al Manar TV Interview.",
+    "link": "https://www.financialjuice.com/News/9739320/Irans-Rezaei-Conditions-include-ending-the-war-in-the-region--Al-Manar-TV-Interview.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 19:06:19 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이란의 레자에이, “조건에는 이 지역 전쟁 종식이 포함된다” - 알 마나르 TV 인터뷰."
+  },
+  {
+    "guid": "9739319",
+    "title": "FinancialJuice: Iran's Security Chief Rezaei, according to an interpreter: Mediators asked Iran for its conditions to open Hormuz, and Tehran is preparing a list - Al Manar TV Interview.",
+    "link": "https://www.financialjuice.com/News/9739319/Irans-Security-Chief-Rezaei-according-to-an-interpreter-Mediators-asked-Iran-for-its-conditions-to-open-Hormuz-and-Tehran-is-preparing-a-list---Al-Manar-TV-Interview.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 19:05:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 통역사의 말에 따르면, 이란의 레자에이 국가안보보좌관은 “중재자들이 호르무즈 해협 개방 조건에 대해 이란 측에 문의했으며, 테헤란은 현재 조건 목록을 작성 중”이라고 밝혔다. - 알 마나르 TV 인터뷰."
+  },
+  {
+    "guid": "9739303",
+    "title": "FinancialJuice: Brent Crude futures settle at $89.70/bbl, up $1.86, 2.12%.",
+    "link": "https://www.financialjuice.com/News/9739303/Brent-Crude-futures-settle-at-8970bbl-up-186-212.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:48:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브렌트유 선물 가격이 배럴당 89.70달러로 마감하며, 1.86달러(2.12%) 상승했다."
+  },
+  {
+    "guid": "9739292",
+    "title": "FinancialJuice: Trump on Truth Social: Micron just announced a massive $10 billion investment in new research labs right here in America - Truth Social $MU",
+    "link": "https://www.financialjuice.com/News/9739292/Trump-on-Truth-Social-Micron-just-announced-a-massive-10-billion-investment-in-new-research-labs-right-here-in-America---Truth-Social-MU.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:35:57 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 트럼프, 트루스 소셜 게시물: 마이크론이 방금 미국 내 신규 연구소에 100억 달러 규모의 대규모 투자를 발표했습니다 - 트루스 소셜 $MU"
+  },
+  {
+    "guid": "9739291",
+    "title": "FinancialJuice: Trump praises Micron on Truth Social $MU",
+    "link": "https://www.financialjuice.com/News/9739291/Trump-praises-Micron-on-Truth-Social-MU.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:32:48 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 트럼프, 트루스 소셜 관련 마이크론($MU)을 칭찬하다"
+  },
+  {
+    "guid": "9739289",
+    "title": "FinancialJuice: NYMEX Natural Gas September futures settle at $2.9070/MMBtu.\n",
+    "link": "https://www.financialjuice.com/News/9739289/NYMEX-Natural-Gas-September-futures-settle-at-29070MMBtu.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:31:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 천연가스 9월물 선물이 MMBtu당 2.9070달러에 마감했다.\n"
+  },
+  {
+    "guid": "9739288",
+    "title": "FinancialJuice: NYMEX Diesel September futures settle at $4.2787 a gallon.",
+    "link": "https://www.financialjuice.com/News/9739288/NYMEX-Diesel-September-futures-settle-at-42787-a-gallon.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:31:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 9월물 디젤 선물 가격이 갤런당 4.2787달러에 마감했다."
+  },
+  {
+    "guid": "9739277",
+    "title": "FinancialJuice: NYMEX Gasoline September futures settle at $3.3842 a gallon.",
+    "link": "https://www.financialjuice.com/News/9739277/NYMEX-Gasoline-September-futures-settle-at-33842-a-gallon.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:31:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 9월 인도분 휘발유 선물 가격이 갤런당 3.3842달러로 마감했다."
+  },
+  {
+    "guid": "9739274",
+    "title": "FinancialJuice: NYMEX WTI Crude October futures settle at $83.53 a barrel, up $1.30, 1.58%.",
+    "link": "https://www.financialjuice.com/News/9739274/NYMEX-WTI-Crude-October-futures-settle-at-8353-a-barrel-up-130-158.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:31:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX WTI 원유 10월물 선물은 배럴당 83.53달러에 마감했으며, 이는 1.30달러(1.58%) 상승한 가격이다."
+  },
+  {
+    "guid": "9739259",
+    "title": "FinancialJuice: Anthropic is expected to host an investor day in mid-September - The Information.",
+    "link": "https://www.financialjuice.com/News/9739259/Anthropic-is-expected-to-host-an-investor-day-in-mid-September---The-Information.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:16:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트로픽이 9월 중순에 투자자 설명회를 개최할 것으로 예상된다 - The Information."
+  },
+  {
+    "guid": "9739247",
+    "title": "FinancialJuice: The Anthropic IPO is likely in late September/early October - The Information.",
+    "link": "https://www.financialjuice.com/News/9739247/The-Anthropic-IPO-is-likely-in-late-Septemberearly-October---The-Information.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:15:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트로픽(Anthropic)의 기업공개(IPO)는 9월 말이나 10월 초에 이루어질 것으로 보인다 - The Information."
+  },
+  {
+    "guid": "9739237",
+    "title": "FinancialJuice: Anthropic is also mulling a longer lockup period to manage volatility after the upcoming listing - The Information.",
+    "link": "https://www.financialjuice.com/News/9739237/Anthropic-is-also-mulling-a-longer-lockup-period-to-manage-volatility-after-the-upcoming-listing---The-Information.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:14:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트로픽은 또한 다가오는 상장 이후의 주가 변동성을 관리하기 위해 락업 기간을 연장하는 방안을 검토하고 있다 - The Information."
+  },
+  {
+    "guid": "9739236",
+    "title": "FinancialJuice: Anthropic mulls letting shareholders sell in its IPO - The Information.\n",
+    "link": "https://www.financialjuice.com/News/9739236/Anthropic-mulls-letting-shareholders-sell-in-its-IPO---The-Information.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:13:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트로픽, 기업공개(IPO) 시 주주들의 주식 매각 허용 여부 검토 중 - The Information.\n"
+  },
+  {
+    "guid": "9739234",
+    "title": "FinancialJuice: Trump is expected to convene a meeting with US refiners and fuel retailers next week to highlight efforts to bring down gas prices - Sources.",
+    "link": "https://www.financialjuice.com/News/9739234/Trump-is-expected-to-convene-a-meeting-with-US-refiners-and-fuel-retailers-next-week-to-highlight-efforts-to-bring-down-gas-prices---Sources.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:02:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면, 트럼프 대통령은 다음 주 미국 정유사 및 주유소 업체 대표들과 회동을 갖고 휘발유 가격 인하를 위한 노력을 강조할 것으로 예상된다."
+  },
+  {
+    "guid": "9739219",
+    "title": "FinancialJuice: Fed's Collins: The recent inflation data was mixed, with the headline figure stronger than expected, but there are promising signs in the details.",
+    "link": "https://www.financialjuice.com/News/9739219/Feds-Collins-The-recent-inflation-data-was-mixed-with-the-headline-figure-stronger-than-expected-but-there-are-promising-signs-in-the-details.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:01:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스: 최근 인플레이션 지표는 엇갈린 양상을 보였는데, 전체 수치는 예상보다 높았으나 세부 내역에서는 긍정적인 신호가 포착됐다."
+  },
+  {
+    "guid": "9739218",
+    "title": "FinancialJuice: Fed's Collins: Watching bond yields, but has no comment on Bessent's intervention.",
+    "link": "https://www.financialjuice.com/News/9739218/Feds-Collins-Watching-bond-yields-but-has-no-comment-on-Bessents-intervention.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:01:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스, “채권 수익률을 주시하고 있으나 베센트의 개입에 대해서는 언급할 바 없다.”"
+  },
+  {
+    "guid": "9739217",
+    "title": "FinancialJuice: Fed's Collins: Recent increase in bond yields still consistent with price stability, not a sign inflation expectations are increasing.",
+    "link": "https://www.financialjuice.com/News/9739217/Feds-Collins-Recent-increase-in-bond-yields-still-consistent-with-price-stability-not-a-sign-inflation-expectations-are-increasing.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:00:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스: 최근 채권 수익률 상승은 여전히 물가 안정과 부합하며, 인플레이션 기대감이 높아지고 있다는 신호는 아니다."
+  },
+  {
+    "guid": "9739209",
+    "title": "FinancialJuice: Fed's Collins: The recent personal consumption expenditures report did not change the overall outlook that current monetary policy is restrictive and will lead to a gradual disinflation.",
+    "link": "https://www.financialjuice.com/News/9739209/Feds-Collins-The-recent-personal-consumption-expenditures-report-did-not-change-the-overall-outlook-that-current-monetary-policy-is-restrictive-and-will-lead-to-a-gradual-disinflation.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:00:28 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연방준비제도(Fed)의 콜린스: 최근 발표된 개인소비지출 보고서는 현재의 통화 정책이 긴축적이며 점진적인 디플레이션으로 이어질 것이라는 전반적인 전망에 변화를 주지 않았다."
+  },
+  {
+    "guid": "9739208",
+    "title": "FinancialJuice: Fed's Collins: Portfolio management fees had an outsized influence on headline inflation, with market-based prices more in line with the Fed's target.",
+    "link": "https://www.financialjuice.com/News/9739208/Feds-Collins-Portfolio-management-fees-had-an-outsized-influence-on-headline-inflation-with-market-based-prices-more-in-line-with-the-Feds-target.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 18:00:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스: 포트폴리오 관리 수수료가 표면 인플레이션에 지나치게 큰 영향을 미쳤으며, 시장 기반 가격은 연준의 목표치와 더 부합하는 것으로 나타났다."
+  },
+  {
+    "guid": "9739205",
+    "title": "FinancialJuice: US Commerce Secretary Lutnick expects Canada to want to talk after separatist votes.",
+    "link": "https://www.financialjuice.com/News/9739205/US-Commerce-Secretary-Lutnick-expects-Canada-to-want-to-talk-after-separatist-votes.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:56:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루트닉 미국 상무장관은 분리주의자 투표가 끝난 후 캐나다가 대화를 원할 것으로 내다보고 있다."
+  },
+  {
+    "guid": "9739204",
+    "title": "FinancialJuice: US Commerce Secretary Lutnick: Canada's PM Carney walked from trade talks for political reasons.",
+    "link": "https://www.financialjuice.com/News/9739204/US-Commerce-Secretary-Lutnick-Canadas-PM-Carney-walked-from-trade-talks-for-political-reasons.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:56:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루트닉 미국 상무장관: 캐나다의 카니 총리가 정치적 이유로 무역 협상에서 자리를 떴다."
+  },
+  {
+    "guid": "9739197",
+    "title": "FinancialJuice: White House spurns a return to June deal with Iran - WSJ",
+    "link": "https://www.financialjuice.com/News/9739197/White-House-spurns-a-return-to-June-deal-with-Iran---WSJ.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:44:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 이란과의 6월 합의 복귀 거부 - WSJ"
+  },
+  {
+    "guid": "9739191",
+    "title": "FinancialJuice: Trump ends remarks at the White House",
+    "link": "https://www.financialjuice.com/News/9739191/Trump-ends-remarks-at-the-White-House.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:34:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 백악관에서 연설을 마쳤다"
+  },
+  {
+    "guid": "9739190",
+    "title": "FinancialJuice: Trump: Millions of barrels of oil are coming through Hormuz daily.",
+    "link": "https://www.financialjuice.com/News/9739190/Trump-Millions-of-barrels-of-oil-are-coming-through-Hormuz-daily.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:34:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “매일 수백만 배럴의 원유가 호르무즈 해협을 통과하고 있다.”"
+  },
+  {
+    "guid": "9739189",
+    "title": "FinancialJuice: Trump on punishing Putin for Iran business: Who says I'm not",
+    "link": "https://www.financialjuice.com/News/9739189/Trump-on-punishing-Putin-for-Iran-business-Who-says-Im-not.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:33:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 사업과 관련해 푸틴을 처벌하겠다는 트럼프: 누가 내가 안 한다고 했나"
+  },
+  {
+    "guid": "9739188",
+    "title": "FinancialJuice: Trump: Russia has behaved quite well with the Strait of Hormuz.",
+    "link": "https://www.financialjuice.com/News/9739188/Trump-Russia-has-behaved-quite-well-with-the-Strait-of-Hormuz.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:32:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “러시아는 호르무즈 해협 문제에서 꽤 잘 행동해 왔다.”"
+  },
+  {
+    "guid": "9739187",
+    "title": "FinancialJuice: Trump on Iran: They're in big trouble.",
+    "link": "https://www.financialjuice.com/News/9739187/Trump-on-Iran-Theyre-in-big-trouble.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:31:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 이란에 대해 “그들은 큰 곤경에 처해 있다”고 말했다."
+  },
+  {
+    "guid": "9739175",
+    "title": "FinancialJuice: Trump: has had good talks with Putin.",
+    "link": "https://www.financialjuice.com/News/9739175/Trump-has-had-good-talks-with-Putin.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:29:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 푸틴과 좋은 대화를 나눴다."
+  },
+  {
+    "guid": "9739174",
+    "title": "FinancialJuice: Trump: Putin will not attack NATO territory.",
+    "link": "https://www.financialjuice.com/News/9739174/Trump-Putin-will-not-attack-NATO-territory.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:29:28 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프 “푸틴은 나토 영토를 공격하지 않을 것이다.”"
+  },
+  {
+    "guid": "9739173",
+    "title": "FinancialJuice: Trump: Canada is the worst to deal with on trade.",
+    "link": "https://www.financialjuice.com/News/9739173/Trump-Canada-is-the-worst-to-deal-with-on-trade.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:28:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “캐나다는 무역 협상 상대로서 최악이다.”"
+  },
+  {
+    "guid": "9739172",
+    "title": "FinancialJuice: Trump on Canada: Tariffs on their cars at a substantial level.",
+    "link": "https://www.financialjuice.com/News/9739172/Trump-on-Canada-Tariffs-on-their-cars-at-a-substantial-level.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:27:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 캐나다에 대해 “캐나다산 자동차에 상당한 수준의 관세를 부과하겠다”고 밝혔다."
+  },
+  {
+    "guid": "9739171",
+    "title": "FinancialJuice: Trump: We don't want Canada to make cars for the US.",
+    "link": "https://www.financialjuice.com/News/9739171/Trump-We-dont-want-Canada-to-make-cars-for-the-US.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:26:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 우리는 캐나다가 미국을 위해 자동차를 만드는 것을 원치 않는다."
+  },
+  {
+    "guid": "9739170",
+    "title": "FinancialJuice: Trump: Canada wants to be treated like state, but not a state.",
+    "link": "https://www.financialjuice.com/News/9739170/Trump-Canada-wants-to-be-treated-like-state-but-not-a-state.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:26:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “캐나다는 주(州)처럼 대우받기를 원하지만, 정작 주는 되고 싶어 하지 않는다.”"
+  },
+  {
+    "guid": "9739169",
+    "title": "FinancialJuice: Trump: Canada has been ripping US off on trade for a long time.",
+    "link": "https://www.financialjuice.com/News/9739169/Trump-Canada-has-been-ripping-US-off-on-trade-for-a-long-time.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:26:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “캐나다는 오랫동안 무역에서 미국을 속여 왔다.”"
+  },
+  {
+    "guid": "9739167",
+    "title": "FinancialJuice: Trump isn't concerned that Russia will attack NATO countries - Axios in a phone interview on Thursday",
+    "link": "https://www.financialjuice.com/News/9739167/Trump-isnt-concerned-that-Russia-will-attack-NATO-countries---Axios-in-a-phone-interview-on-Thursday.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:18:58 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프, 러시아가 나토 회원국을 공격할 가능성에 대해 우려하지 않는다 - 목요일 Axios와의 전화 인터뷰에서"
+  },
+  {
+    "guid": "9739148",
+    "title": "FinancialJuice: Fed's Hammack: Next year inflation might ease to around 2.5% at best.",
+    "link": "https://www.financialjuice.com/News/9739148/Feds-Hammack-Next-year-inflation-might-ease-to-around-25-at-best.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:13:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 내년에는 인플레이션이 기껏해야 2.5% 수준으로 완화될 수 있다."
+  },
+  {
+    "guid": "9739147",
+    "title": "FinancialJuice: Fed's Hammack: I expect slow progress on inflation, should end year around 3%.",
+    "link": "https://www.financialjuice.com/News/9739147/Feds-Hammack-I-expect-slow-progress-on-inflation-should-end-year-around-3.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:13:10 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 인플레이션은 완만한 개선세를 보일 것으로 예상되며, 연말에는 3% 수준에서 마무리될 것으로 보인다."
+  },
+  {
+    "guid": "9739146",
+    "title": "FinancialJuice: Fed's Hammack: It's time to act; we need restrictiveness in policy.",
+    "link": "https://www.financialjuice.com/News/9739146/Feds-Hammack-Its-time-to-act-we-need-restrictiveness-in-policy.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:13:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 이제 행동에 나설 때다; 통화정책을 긴축적으로 전환해야 한다."
+  },
+  {
+    "guid": "9739145",
+    "title": "FinancialJuice: Fed's Hammack: The job market is broadly in balance - Fox Business",
+    "link": "https://www.financialjuice.com/News/9739145/Feds-Hammack-The-job-market-is-broadly-in-balance---Fox-Business.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:11:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “고용 시장은 전반적으로 균형을 이루고 있다” - 폭스 비즈니스"
+  },
+  {
+    "guid": "9739144",
+    "title": "FinancialJuice: Microsoft & Humain report long-term pact. $MSFT",
+    "link": "https://www.financialjuice.com/News/9739144/Microsoft--Humain-report-long-term-pact-MSFT.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:07:04 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 마이크로소프트와 휴메인, 장기 협력 계약 체결. $MSFT"
+  },
+  {
+    "guid": "9739143",
+    "title": "FinancialJuice: Trump administration is in talks with Venezuela's interim government about taking an ownership stake in South American country's enormous oil resources - Axios",
+    "link": "https://www.financialjuice.com/News/9739143/Trump-administration-is-in-talks-with-Venezuelas-interim-government-about-taking-an-ownership-stake-in-South-American-countrys-enormous-oil-resources---Axios.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:05:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 행정부가 베네수엘라 과도 정부와 이 남미 국가의 막대한 석유 자원에 대한 지분 확보를 놓고 협의 중 - Axios"
+  },
+  {
+    "guid": "9739142",
+    "title": "FinancialJuice: US 7 Yr Note Auction",
+    "link": "https://www.financialjuice.com/News/9739142/US-7-Yr-Note-Auction.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:03:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 7년물 국채 입찰"
+  },
+  {
+    "guid": "9739141",
+    "title": "FinancialJuice: US 7-Year Bid-to-Cover Actual 2.500 (Forecast -, Previous 2.490)",
+    "link": "https://www.financialjuice.com/News/9739141/US-7-Year-Bid-to-Cover-Actual-2500-Forecast---Previous-2490.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:03:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 7년물 입찰 경쟁률 실제 2.500 (예상 -, 이전 2.490)"
+  },
+  {
+    "guid": "9739140",
+    "title": "FinancialJuice: US 7-Year High Yield Actual 4.512% (Forecast -, Previous 4.473%)",
+    "link": "https://www.financialjuice.com/News/9739140/US-7-Year-High-Yield-Actual-4512-Forecast---Previous-4473.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:02:04 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 7년물 고수익 채권 실질 수익률 4.512% (예상 -, 이전 4.473%)"
+  },
+  {
+    "guid": "9739131",
+    "title": "FinancialJuice: Major tech companies call for defensive surge to defeat Al-driven hacks.",
+    "link": "https://www.financialjuice.com/News/9739131/Major-tech-companies-call-for-defensive-surge-to-defeat-Al-driven-hacks.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:00:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 주요 기술 기업들, AI 기반 해킹을 막기 위해 방어 체계를 대폭 강화할 것을 촉구."
+  },
+  {
+    "guid": "9739129",
+    "title": "FinancialJuice: Treasury WI 7 Yr yield 4.512% before $44 bln auction",
+    "link": "https://www.financialjuice.com/News/9739129/Treasury-WI-7-Yr-yield-4512-before-44-bln-auction.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 17:00:23 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 440억 달러 규모 국채 입찰 전, 7년물 국채 수익률 4.512%"
+  },
+  {
+    "guid": "9739126",
+    "title": "FinancialJuice: Poland's Defense Minister: US to scout for military base locations in country.",
+    "link": "https://www.financialjuice.com/News/9739126/Polands-Defense-Minister-US-to-scout-for-military-base-locations-in-country.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 16:48:24 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 폴란드 국방장관, “미국이 폴란드 내 군사기지 부지 물색에 나설 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9739101",
+    "title": "FinancialJuice: SK Hynix CEO: SK Hynix is considering locations around the world that could provide new business opportunities for customers.",
+    "link": "https://www.financialjuice.com/News/9739101/SK-Hynix-CEO-SK-Hynix-is-considering-locations-around-the-world-that-could-provide-new-business-opportunities-for-customers.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 16:31:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: SK하이닉스 CEO: SK하이닉스는 고객사에 새로운 사업 기회를 제공할 수 있는 전 세계 여러 지역을 검토하고 있다."
+  },
+  {
+    "guid": "9739099",
+    "title": "FinancialJuice: SK Hynix CEO: Not seeing any significant signals of a memory downturn. $SKHY",
+    "link": "https://www.financialjuice.com/News/9739099/SK-Hynix-CEO-Not-seeing-any-significant-signals-of-a-memory-downturn-SKHY.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 16:20:46 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: SK하이닉스 CEO: 메모리 시장 침체에 대한 뚜렷한 신호는 보이지 않는다. $SKHY"
+  },
+  {
+    "guid": "9739098",
+    "title": "FinancialJuice: SK Hynix CEO: Expects memory shortage to continue through the end of 2030. $SKHY",
+    "link": "https://www.financialjuice.com/News/9739098/SK-Hynix-CEO-Expects-memory-shortage-to-continue-through-the-end-of-2030-SKHY.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 16:20:30 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: SK하이닉스 CEO, “메모리 부족 현상이 2030년 말까지 이어질 것으로 전망한다.” $SKHY"
+  },
+  {
+    "guid": "9739086",
+    "title": "FinancialJuice: Trump administration executive order for new AI regulator stalls - The Information",
+    "link": "https://www.financialjuice.com/News/9739086/Trump-administration-executive-order-for-new-AI-regulator-stalls---The-Information.aspx?xy=rss",
+    "pubDate": "Thu, 27 Aug 2026 16:14:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 행정부의 새로운 AI 규제 기관 설립을 위한 행정명령이 지연되고 있다 - The Information"
+  },
+  {
     "guid": "9739081",
     "title": "FinancialJuice: Canada adds 50% tariffs to US copper wire and wood charcoal",
     "link": "https://www.financialjuice.com/News/9739081/Canada-adds-50-tariffs-to-US-copper-wire-and-wood-charcoal.aspx?xy=rss",
