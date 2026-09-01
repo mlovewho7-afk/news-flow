@@ -1,5 +1,565 @@
 [
   {
+    "guid": "9744250",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9744250/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:10:59 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9744249",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9744249/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:10:44 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9744248",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9744248/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:10:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9744247",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9744247/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:10:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9744246",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9744246/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:09:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9744245",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9744245/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:09:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9744244",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9744244/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:09:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB) 금리 결정 가능성"
+  },
+  {
+    "guid": "9744243",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9744243/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:08:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9744242",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9744242/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:08:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9744241",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9744241/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:08:01 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시장 내재 변동성"
+  },
+  {
+    "guid": "9744240",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9744240/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:07:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9744239",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9744239/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:07:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 내 주요 종목의 내재 변동성"
+  },
+  {
+    "guid": "9744238",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9744238/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:06:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9744237",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9744237/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:06:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9744236",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9744236/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:06:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9744235",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9744235/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:05:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9744220",
+    "title": "FinancialJuice: UK Nationwide House Price MoM Actual 0.2% (Forecast 0.1%, Previous 0.1%)",
+    "link": "https://www.financialjuice.com/News/9744220/UK-Nationwide-House-Price-MoM-Actual-02-Forecast-01-Previous-01.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:00:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 전국 주택 가격 전월 대비 실제 0.2% (예상 0.1%, 전월 0.1%)"
+  },
+  {
+    "guid": "9744219",
+    "title": "FinancialJuice: UK Nationwide House Price YoY Actual 1.6% (Forecast 2.1%, Previous 1.8%)",
+    "link": "https://www.financialjuice.com/News/9744219/UK-Nationwide-House-Price-YoY-Actual-16-Forecast-21-Previous-18.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:00:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 전국 주택 가격 전년 동기 대비 실제 1.6% (예상 2.1%, 이전 1.8%)"
+  },
+  {
+    "guid": "9744218",
+    "title": "FinancialJuice: German Real Retail Sales YoY Actual -2.5% (Forecast -, Previous 0.0%)",
+    "link": "https://www.financialjuice.com/News/9744218/German-Real-Retail-Sales-YoY-Actual--25-Forecast---Previous-00.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:00:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 실질 소매판매 전년 동기 대비 실제 -2.5% (예상 -, 이전 0.0%)"
+  },
+  {
+    "guid": "9744217",
+    "title": "FinancialJuice: German Real Retail Sales MoM Actual -3.4% (Forecast 0.5%, Previous -0.7%)",
+    "link": "https://www.financialjuice.com/News/9744217/German-Real-Retail-Sales-MoM-Actual--34-Forecast-05-Previous--07.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 06:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 실질 소매판매 전월 대비 실제 -3.4% (예상 0.5%, 전월 -0.7%)"
+  },
+  {
+    "guid": "9744166",
+    "title": "FinancialJuice: Iran President Pezeshkian at SCO Summit: As soon as the US returns to its commitments under the June MOU, Iran will immediately reciprocate - ISNA.",
+    "link": "https://www.financialjuice.com/News/9744166/Iran-President-Pezeshkian-at-SCO-Summit-As-soon-as-the-US-returns-to-its-commitments-under-the-June-MOU-Iran-will-immediately-reciprocate---ISNA.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 05:20:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: SCO 정상회의에서 페제스키안 이란 대통령, “미국이 6월 양해각서(MOU)에 따른 약속을 이행하는 즉시, 이란도 즉시 이에 상응하는 조치를 취할 것”이라고 밝혔다 - ISNA."
+  },
+  {
+    "guid": "9744184",
+    "title": "FinancialJuice: Dutch Retail Sales YoY Actual 3.5% (Forecast -, Previous 4.3% ,Revision 4.4%)",
+    "link": "https://www.financialjuice.com/News/9744184/Dutch-Retail-Sales-YoY-Actual-35-Forecast---Previous-43-Revision-44.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 05:14:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 네덜란드 소매판매 전년 동기 대비 실제 3.5% (예상 -, 이전 4.3%, 수정치 4.4%)"
+  },
+  {
+    "guid": "9744167",
+    "title": "FinancialJuice: Japanese Consumer Confidence Actual 35.5 (Forecast 35.3, Previous 34.9)",
+    "link": "https://www.financialjuice.com/News/9744167/Japanese-Consumer-Confidence-Actual-355-Forecast-353-Previous-349.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 05:00:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 소비자 신뢰지수 실제치 35.5 (예상치 35.3, 이전치 34.9)"
+  },
+  {
+    "guid": "9744165",
+    "title": "FinancialJuice: Netherlands s&p global august manufacturing pmi at 53.8 vs 54.4 in july",
+    "link": "https://www.financialjuice.com/News/9744165/Netherlands-sp-global-august-manufacturing-pmi-at-538-vs-544-in-july.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 05:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 네덜란드 S&P 글로벌 8월 제조업 PMI, 53.8 기록… 7월 54.4 대비 하락"
+  },
+  {
+    "guid": "9744164",
+    "title": "FinancialJuice: Russia strikes military and energy sites in Kyiv and surrounding region, also in Odesa overnight: Russian defense ministry",
+    "link": "https://www.financialjuice.com/News/9744164/Russia-strikes-military-and-energy-sites-in-Kyiv-and-surrounding-region-also-in-Odesa-overnight-Russian-defense-ministry.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 04:55:39 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아, 지난밤 키예프 및 인근 지역과 오데사의 군사·에너지 시설에 공습 가해: 러시아 국방부"
+  },
+  {
+    "guid": "9744154",
+    "title": "FinancialJuice: Russian ballistic missile strike kills seven in Ukraine's Kyiv: CEO of state rail group Ukrzaliznytsia",
+    "link": "https://www.financialjuice.com/News/9744154/Russian-ballistic-missile-strike-kills-seven-in-Ukraines-Kyiv-CEO-of-state-rail-group-Ukrzaliznytsia.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 04:39:44 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아의 탄도 미사일 공격으로 우크라이나 키예프에서 7명 사망: 국영 철도 그룹 ‘우크르잘리즈니차’ CEO"
+  },
+  {
+    "guid": "9744134",
+    "title": "FinancialJuice: Drones strike Novokuibyshevsk in Russia's Samara region: Russian newswires cite governor",
+    "link": "https://www.financialjuice.com/News/9744134/Drones-strike-Novokuibyshevsk-in-Russias-Samara-region-Russian-newswires-cite-governor.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 04:20:09 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아 사마라 주 노보쿠이비셰프스크에 드론 공격 발생… 러시아 뉴스통신사, 주지사 발언 인용"
+  },
+  {
+    "guid": "9744105",
+    "title": "FinancialJuice: ‘Conflict of attrition’ in Iran could keep inflation high, ECB official Rehn warns - FT",
+    "link": "https://www.financialjuice.com/News/9744105/Conflict-of-attrition-in-Iran-could-keep-inflation-high-ECB-official-Rehn-warns---FT.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 04:10:44 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 이란의 ‘소모전’으로 인해 인플레이션이 고공행진을 이어갈 수 있다고 ECB의 레른 위원장이 경고했다 - FT"
+  },
+  {
+    "guid": "9744069",
+    "title": "FinancialJuice: Estonian foreign minister on X on overnight drone alerts: NATO responded swiftly and precisely as planned, NATO remains alert and prepared to defend allied territory",
+    "link": "https://www.financialjuice.com/News/9744069/Estonian-foreign-minister-on-X-on-overnight-drone-alerts-NATO-responded-swiftly-and-precisely-as-planned-NATO-remains-alert-and-prepared-to-defend-allied-territory.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 03:17:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 에스토니아 외무장관, X를 통해 밤사이 발생한 드론 경보에 대해 “나토는 계획대로 신속하고 정확하게 대응했으며, 나토는 여전히 경계 태세를 유지하며 동맹국 영토를 방어할 준비가 되어 있다”고 밝혔다"
+  },
+  {
+    "guid": "9744066",
+    "title": "FinancialJuice: Russia assaults border infrastructure in Ukraine's Izmail area, border crossing to Romania halted: Ukraine officials",
+    "link": "https://www.financialjuice.com/News/9744066/Russia-assaults-border-infrastructure-in-Ukraines-Izmail-area-border-crossing-to-Romania-halted-Ukraine-officials.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 03:03:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아, 우크라이나 이즈마일 지역 국경 시설 공격…루마니아로 향하는 국경 통행 중단: 우크라이나 당국"
+  },
+  {
+    "guid": "9744022",
+    "title": "FinancialJuice: Strait of Hormuz commodity ship passages steady on Monday, stay in single digits - data",
+    "link": "https://www.financialjuice.com/News/9744022/Strait-of-Hormuz-commodity-ship-passages-steady-on-Monday-stay-in-single-digits---data.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:44:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 월요일 호르무즈 해협을 통과한 원자재 선박 수, 안정세를 보이며 한 자릿수 유지 - 통계 자료"
+  },
+  {
+    "guid": "9744021",
+    "title": "FinancialJuice: Senior Japan MoF official: no talks on U.S. bond repurchase at bilateral meeting",
+    "link": "https://www.financialjuice.com/News/9744021/Senior-Japan-MoF-official-no-talks-on-US-bond-repurchase-at-bilateral-meeting.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:43:32 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 일본 재무부 고위 관계자 “양자 회담에서 미국 국채 매입에 관한 논의는 없었다”"
+  },
+  {
+    "guid": "9744020",
+    "title": "FinancialJuice: Senior Japan MoF official: Finmin Katayama detailed conditions for U.S.-Japan joint intervention, factors behind decision to G7 counterparts",
+    "link": "https://www.financialjuice.com/News/9744020/Senior-Japan-MoF-official-Finmin-Katayama-detailed-conditions-for-US-Japan-joint-intervention-factors-behind-decision-to-G7-counterparts.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:42:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 재무성 고위 관계자: 카타야마 재무장관이 G7 각국 재무장관들에게 미·일 공동 외환 개입의 구체적인 조건과 결정 배경을 설명했다"
+  },
+  {
+    "guid": "9744019",
+    "title": "FinancialJuice: Japan's top FX diplomat Mimura: FinMin Katayama, US Bessent had constructive talks on need for further FX cooperation",
+    "link": "https://www.financialjuice.com/News/9744019/Japans-top-FX-diplomat-Mimura-FinMin-Katayama-US-Bessent-had-constructive-talks-on-need-for-further-FX-cooperation.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:41:24 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 일본의 최고 외환 담당 외교관 미무라: 카타야마 재무장관과 미국의 베센트 장관이 향후 외환 협력의 필요성에 대해 건설적인 논의를 가졌다"
+  },
+  {
+    "guid": "9744018",
+    "title": "FinancialJuice: Senior Japan MOF official: Japan's fiscal policy, latest joint FX intervention among key topics in Katayama, Bessent meeting",
+    "link": "https://www.financialjuice.com/News/9744018/Senior-Japan-MOF-official-Japans-fiscal-policy-latest-joint-FX-intervention-among-key-topics-in-Katayama-Bessent-meeting.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:37:34 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 일본 재무성 고위 관계자: 카타야마·베센트 회담의 주요 의제로는 일본의 재정 정책과 최근의 공동 외환 개입 등이 다뤄질 전망"
+  },
+  {
+    "guid": "9744017",
+    "title": "FinancialJuice: Senior Japan MOF official: Katayama, Bessent talked fx intervention in bilateral meeting, among other issues",
+    "link": "https://www.financialjuice.com/News/9744017/Senior-Japan-MOF-official-Katayama-Bessent-talked-fx-intervention-in-bilateral-meeting-among-other-issues.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:36:29 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 일본 재무성 고위 관계자: 카타야마와 베센트가 양자 회담에서 외환 개입 등을 논의했다"
+  },
+  {
+    "guid": "9744016",
+    "title": "FinancialJuice: Senior Japan MOF Official: expects BoJ to steer monetary policy aligned with economy, not influenced by U.S.",
+    "link": "https://www.financialjuice.com/News/9744016/Senior-Japan-MOF-Official-expects-BoJ-to-steer-monetary-policy-aligned-with-economy-not-influenced-by-US.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:32:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 재무성 고위 관계자: 일본은행이 미국의 영향력을 받지 않고 경제 상황에 맞춰 통화 정책을 운영할 것으로 전망"
+  },
+  {
+    "guid": "9744015",
+    "title": "FinancialJuice: Senior Japan MoF official: declines to comment on recent forex shifts",
+    "link": "https://www.financialjuice.com/News/9744015/Senior-Japan-MoF-official-declines-to-comment-on-recent-forex-shifts.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:30:58 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 일본 재무성 고위 관계자, 최근 외환 시장 변동에 대해 논평을 거부"
+  },
+  {
+    "guid": "9744014",
+    "title": "FinancialJuice: Fire erupts in port area of Russia's Ust-Luga, governor says",
+    "link": "https://www.financialjuice.com/News/9744014/Fire-erupts-in-port-area-of-Russias-Ust-Luga-governor-says.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:15:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 우스트루가 항구 지역에서 화재 발생, 주지사 발표"
+  },
+  {
+    "guid": "9744013",
+    "title": "FinancialJuice: Japan finmin Katayama: fx shifts should mirror fundamentals but often don’t",
+    "link": "https://www.financialjuice.com/News/9744013/Japan-finmin-Katayama-fx-shifts-should-mirror-fundamentals-but-often-dont.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:15:10 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무상 “외환 시장 변동은 기초 경제 여건을 반영해야 하지만, 실제로는 그렇지 않은 경우가 많다”"
+  },
+  {
+    "guid": "9744012",
+    "title": "FinancialJuice: Drone strike damages port zone in Russia's Ust-Luga, governor says",
+    "link": "https://www.financialjuice.com/News/9744012/Drone-strike-damages-port-zone-in-Russias-Ust-Luga-governor-says.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:14:41 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아 우스트루가 주지사는 드론 공격으로 항만 구역이 피해를 입었다고 밝혔다"
+  },
+  {
+    "guid": "9744011",
+    "title": "FinancialJuice: Japan finmin Katayama: speculative forex moves detached from fundamentals have been increasing",
+    "link": "https://www.financialjuice.com/News/9744011/Japan-finmin-Katayama-speculative-forex-moves-detached-from-fundamentals-have-been-increasing.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:14:28 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무상 “실물 경제와 동떨어진 투기적 외환 거래가 증가하고 있다”"
+  },
+  {
+    "guid": "9744010",
+    "title": "FinancialJuice: Japan finmin Katayama: no change in stance on readiness to act against disorderly FX movements",
+    "link": "https://www.financialjuice.com/News/9744010/Japan-finmin-Katayama-no-change-in-stance-on-readiness-to-act-against-disorderly-FX-movements.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:13:17 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무장관, “무질서한 외환 변동에 대응할 준비 태세에 변함 없다”"
+  },
+  {
+    "guid": "9744009",
+    "title": "FinancialJuice: Japan finance minister Katayama: unable to comment on current JGB yield levels",
+    "link": "https://www.financialjuice.com/News/9744009/Japan-finance-minister-Katayama-unable-to-comment-on-current-JGB-yield-levels.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:09:43 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 가타야마 일본 재무상, 현재 일본 국채 수익률 수준에 대해서는 언급할 수 없다"
+  },
+  {
+    "guid": "9744008",
+    "title": "FinancialJuice: Japan finmin Katayama: confirmed with Bessent that joint efforts with US continue to support global financial market stability",
+    "link": "https://www.financialjuice.com/News/9744008/Japan-finmin-Katayama-confirmed-with-Bessent-that-joint-efforts-with-US-continue-to-support-global-financial-market-stability.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:08:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 가타야마 일본 재무상, 베센트 장관과 미일 양국이 글로벌 금융 시장 안정을 위해 계속 협력해 나가기로 확인"
+  },
+  {
+    "guid": "9744007",
+    "title": "FinancialJuice: Japan finmin Katayama: difficult to say how particular elements might impact fx fluctuations after yen moves questioned on orderliness",
+    "link": "https://www.financialjuice.com/News/9744007/Japan-finmin-Katayama-difficult-to-say-how-particular-elements-might-impact-fx-fluctuations-after-yen-moves-questioned-on-orderliness.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:08:15 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무상, 엔화 움직임의 ‘질서성’에 대한 의문이 제기된 가운데, 특정 요인들이 외환 변동성에 어떤 영향을 미칠지 단정하기 어렵다고 밝혀"
+  },
+  {
+    "guid": "9744006",
+    "title": "FinancialJuice: Japan Finance Minister Katayama: Confirmed with Bessent Continued, Coordinated Measures on FX Needed",
+    "link": "https://www.financialjuice.com/News/9744006/Japan-Finance-Minister-Katayama-Confirmed-with-Bessent-Continued-Coordinated-Measures-on-FX-Needed.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:07:50 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 일본 가타야마 재무장관, 베센트 장관과 외환 시장에 대한 지속적인 협조적 조치 필요성 재확인"
+  },
+  {
+    "guid": "9744005",
+    "title": "FinancialJuice: Japan finmin Katayama: can't comment on FX rates when asked if current yen levels are appropriate",
+    "link": "https://www.financialjuice.com/News/9744005/Japan-finmin-Katayama-cant-comment-on-FX-rates-when-asked-if-current-yen-levels-are-appropriate.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:07:15 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무장관, “현재 엔화 환율이 적절한지”에 대한 질문에 “환율에 대해서는 언급할 수 없다”고 밝혀"
+  },
+  {
+    "guid": "9744004",
+    "title": "FinancialJuice: Japan finmin Katayama: shared understanding with Bessent on importance of joint FX intervention",
+    "link": "https://www.financialjuice.com/News/9744004/Japan-finmin-Katayama-shared-understanding-with-Bessent-on-importance-of-joint-FX-intervention.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:05:57 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무상, 베센트과 공동 외환 개입의 중요성에 대해 공감대 형성"
+  },
+  {
+    "guid": "9744003",
+    "title": "FinancialJuice: Japan finmin Katayama: specific monetary policies are BOJ's decision",
+    "link": "https://www.financialjuice.com/News/9744003/Japan-finmin-Katayama-specific-monetary-policies-are-BOJs-decision.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:03:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 가타야마 일본 재무상 “구체적인 통화 정책은 일본은행의 결정 사항”"
+  },
+  {
+    "guid": "9744002",
+    "title": "FinancialJuice: Japan finmin Katayama: assured Bessent Japan will secure robust economy, sustainable finances",
+    "link": "https://www.financialjuice.com/News/9744002/Japan-finmin-Katayama-assured-Bessent-Japan-will-secure-robust-economy-sustainable-finances.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:02:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무상, 베센트에게 일본이 견고한 경제와 지속 가능한 재정 상태를 확보할 것이라고 확신시켜 줌"
+  },
+  {
+    "guid": "9743899",
+    "title": "FinancialJuice: Japan finmin Katayama: confirmed with Bessent that stable currency rates key for global market stability",
+    "link": "https://www.financialjuice.com/News/9743899/Japan-finmin-Katayama-confirmed-with-Bessent-that-stable-currency-rates-key-for-global-market-stability.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 02:00:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무상, 베센트와 “안정적인 환율이 세계 시장 안정의 핵심”이라는 점에 의견을 같이했다"
+  },
+  {
+    "guid": "9743898",
+    "title": "FinancialJuice: Japan finmin Katayama: discussed how smooth forex moves crucial for U.S., global markets, need for cooperation between two countries",
+    "link": "https://www.financialjuice.com/News/9743898/Japan-finmin-Katayama-discussed-how-smooth-forex-moves-crucial-for-US-global-markets-need-for-cooperation-between-two-countries.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:59:30 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무상: 외환 시장의 원활한 흐름이 미국 및 세계 시장에 얼마나 중요한지 논의했으며, 양국 간 협력이 필요하다고 밝혔다"
+  },
+  {
+    "guid": "9743897",
+    "title": "FinancialJuice: Japan Finmin Katayama: attended G7 meeting discussing global economy, AI, and Ukraine",
+    "link": "https://www.financialjuice.com/News/9743897/Japan-Finmin-Katayama-attended-G7-meeting-discussing-global-economy-AI-and-Ukraine.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:57:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무상, 세계 경제·AI·우크라이나 문제를 논의한 G7 회의에 참석"
+  },
+  {
+    "guid": "9743896",
+    "title": "FinancialJuice: Japan finmin Katayama: told G20 arbitrary export curbs harmful for economy, must be eliminated",
+    "link": "https://www.financialjuice.com/News/9743896/Japan-finmin-Katayama-told-G20-arbitrary-export-curbs-harmful-for-economy-must-be-eliminated.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:56:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무장관, G20에서 “임의적인 수출 제한은 경제에 해로우므로 철폐되어야 한다”고 밝혔다"
+  },
+  {
+    "guid": "9743895",
+    "title": "FinancialJuice: Japan finmin katayama: told G20 Japan is investing in key sectors to spur economic growth",
+    "link": "https://www.financialjuice.com/News/9743895/Japan-finmin-katayama-told-G20-Japan-is-investing-in-key-sectors-to-spur-economic-growth.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:56:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무장관: G20에서 일본이 경제 성장을 촉진하기 위해 핵심 분야에 투자하고 있다고 밝혔다"
+  },
+  {
+    "guid": "9743894",
+    "title": "FinancialJuice: Japan finmin Katayama: held bilateral meeting with U.S. Treasury secretary Bessent",
+    "link": "https://www.financialjuice.com/News/9743894/Japan-finmin-Katayama-held-bilateral-meeting-with-US-Treasury-secretary-Bessent.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:55:33 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무상, 베센트 미국 재무장관과 양자 회담 개최"
+  },
+  {
+    "guid": "9743893",
+    "title": "FinancialJuice: Ukraine air attack damages civilian infrastructure in Russia's Samara region: governor",
+    "link": "https://www.financialjuice.com/News/9743893/Ukraine-air-attack-damages-civilian-infrastructure-in-Russias-Samara-region-governor.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:48:25 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 우크라이나의 공습으로 러시아 사마라 주의 민간 인프라가 피해를 입었다: 주지사"
+  },
+  {
+    "guid": "9743874",
+    "title": "FinancialJuice: Ratingdog China general manufacturing PMI at 51.5 in August, beats forecast 51.0",
+    "link": "https://www.financialjuice.com/News/9743874/Ratingdog-China-general-manufacturing-PMI-at-515-in-August-beats-forecast-510.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:45:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Ratingdog, 8월 중국 종합 제조업 PMI가 51.5를 기록하며 예상치 51.0을 상회"
+  },
+  {
+    "guid": "9743873",
+    "title": "FinancialJuice: Chinese Manufacturing  PMI Actual 51.5 (Forecast 51, Previous 50.9)",
+    "link": "https://www.financialjuice.com/News/9743873/Chinese-Manufacturing--PMI-Actual-515-Forecast-51-Previous-509.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 제조업 PMI 실제치 51.5 (예상치 51, 전월치 50.9)"
+  },
+  {
+    "guid": "9743872",
+    "title": "FinancialJuice: Mech-Mind Robotics shares drop to HK$98.3 in Hong Kong debut vs HK$101.70 offer price",
+    "link": "https://www.financialjuice.com/News/9743872/Mech-Mind-Robotics-shares-drop-to-HK983-in-Hong-Kong-debut-vs-HK10170-offer-price.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:40:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 메크-마인드 로보틱스, 홍콩 증시 상장 첫날 주가가 공모가 101.70 홍콩달러 대비 98.3 홍콩달러로 하락"
+  },
+  {
+    "guid": "9743871",
+    "title": "FinancialJuice: South Korea budget minister: 2027 budget set at 821 trillion won",
+    "link": "https://www.financialjuice.com/News/9743871/South-Korea-budget-minister-2027-budget-set-at-821-trillion-won.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:40:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 기획재정부 장관, “2027년 예산 821조 원으로 책정”"
+  },
+  {
+    "guid": "9743870",
+    "title": "FinancialJuice: Russian air strikes kill three, injure five in Ukraine's Kyiv: city authorities",
+    "link": "https://www.financialjuice.com/News/9743870/Russian-air-strikes-kill-three-injure-five-in-Ukraines-Kyiv-city-authorities.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:33:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 우크라이나 키예프에서 러시아의 공습으로 3명 사망, 5명 부상…시 당국 발표"
+  },
+  {
+    "guid": "9743860",
+    "title": "FinancialJuice: Australian Current Account Balance Actual -27.2B (Forecast -, Previous -27.1B)",
+    "link": "https://www.financialjuice.com/News/9743860/Australian-Current-Account-Balance-Actual--272B-Forecast---Previous--271B.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:30:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 경상수지 실제 -27.2B (예상 -, 이전 -27.1B)"
+  },
+  {
+    "guid": "9743859",
+    "title": "FinancialJuice: Australian Private House Approvals Actual -4.2% (Forecast -, Previous 0.4%)",
+    "link": "https://www.financialjuice.com/News/9743859/Australian-Private-House-Approvals-Actual--42-Forecast---Previous-04.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:30:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 민간 주택 건축 허가 건수, 실제 -4.2% (예상 -, 이전 0.4%)"
+  },
+  {
+    "guid": "9743864",
+    "title": "FinancialJuice: Australia net exports contribution to Q2 GDP +0.1 percentage points: poll 0.0 percentage points",
+    "link": "https://www.financialjuice.com/News/9743864/Australia-net-exports-contribution-to-Q2-GDP-01-percentage-points-poll-00-percentage-points.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:30:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 2분기 GDP에서 순수출이 기여한 비중 +0.1%포인트: 설문조사 결과 0.0%포인트"
+  },
+  {
+    "guid": "9743863",
+    "title": "FinancialJuice: Australia July private sector home approvals fall 4.2% month on month seasonally adjusted",
+    "link": "https://www.financialjuice.com/News/9743863/Australia-July-private-sector-home-approvals-fall-42-month-on-month-seasonally-adjusted.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 7월 민간 부문 주택 건축 허가 건수, 계절 조정 기준 전월 대비 4.2% 감소"
+  },
+  {
+    "guid": "9743862",
+    "title": "FinancialJuice: Australia Q2 current account deficit A$27.2 billion, seasonally adjusted (Poll: deficit A$30.0 billion)",
+    "link": "https://www.financialjuice.com/News/9743862/Australia-Q2-current-account-deficit-A272-billion-seasonally-adjusted-Poll-deficit-A300-billion.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주의 2분기 경상수지 적자, 계절 조정 기준 272억 호주달러 (설문조사: 적자 300억 호주달러)"
+  },
+  {
+    "guid": "9743861",
+    "title": "FinancialJuice: Australia July building approvals fall 3.6% month on month, seasonally adjusted",
+    "link": "https://www.financialjuice.com/News/9743861/Australia-July-building-approvals-fall-36-month-on-month-seasonally-adjusted.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주의 7월 건축 허가 건수, 계절 조정 기준 전월 대비 3.6% 감소"
+  },
+  {
+    "guid": "9743858",
+    "title": "FinancialJuice: Australian Building Approvals Actual -3.6% (Forecast -5%, Previous 7.2%)",
+    "link": "https://www.financialjuice.com/News/9743858/Australian-Building-Approvals-Actual--36-Forecast--5-Previous-72.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 01:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 건축 허가 건수, 실제 -3.6% (예상 -5%, 전월 7.2%)"
+  },
+  {
     "guid": "9743857",
     "title": "FinancialJuice: Mech-Mind Robotics shares to commence trading at HK$101.7 in Hong Kong debut versus offer price of HK$101.70 each",
     "link": "https://www.financialjuice.com/News/9743857/Mech-Mind-Robotics-shares-to-commence-trading-at-HK1017-in-Hong-Kong-debut-versus-offer-price-of-HK10170-each.aspx",
