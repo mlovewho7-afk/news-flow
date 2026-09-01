@@ -1,5 +1,693 @@
 [
   {
+    "guid": "9745068",
+    "title": "FinancialJuice: US 52-Week Bill Auction",
+    "link": "https://www.financialjuice.com/News/9745068/US-52-Week-Bill-Auction.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:33:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 52주 만기 국채 입찰"
+  },
+  {
+    "guid": "9745067",
+    "title": "FinancialJuice: US 52-Week Bill Bid-to-Cover Actual 3.610 (Forecast -, Previous 3.620)",
+    "link": "https://www.financialjuice.com/News/9745067/US-52-Week-Bill-Bid-to-Cover-Actual-3610-Forecast---Previous-3620.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:32:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 52주 만기 단기국채 입찰 경쟁률 실제 3.610 (예상 -, 전회 3.620)"
+  },
+  {
+    "guid": "9745066",
+    "title": "FinancialJuice: US 52-Week Bill High Yield Actual 3.98% (Forecast -, Previous 3.880%)",
+    "link": "https://www.financialjuice.com/News/9745066/US-52-Week-Bill-High-Yield-Actual-398-Forecast---Previous-3880.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:32:05 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 52주 만기 국채 최고 수익률, 실제 3.98% (예상 -, 이전 3.880%)"
+  },
+  {
+    "guid": "9745061",
+    "title": "FinancialJuice: BoE's Mann: I want to avoid inflation embedding into pay next year.",
+    "link": "https://www.financialjuice.com/News/9745061/BoEs-Mann-I-want-to-avoid-inflation-embedding-into-pay-next-year.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:26:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 만: “내년에는 인플레이션이 임금에 반영되는 것을 피하고 싶다.”"
+  },
+  {
+    "guid": "9745060",
+    "title": "FinancialJuice: BoE's Mann: Wage negotiation in Q1 is based on inflation in previous quarter.",
+    "link": "https://www.financialjuice.com/News/9745060/BoEs-Mann-Wage-negotiation-in-Q1-is-based-on-inflation-in-previous-quarter.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:25:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 만: 1분기 임금 협상은 전 분기 인플레이션 수치를 바탕으로 이루어진다."
+  },
+  {
+    "guid": "9745049",
+    "title": "FinancialJuice: BoE's Mann: From the last MPC meeting to this one, we've seen somewhat stronger economic activity.",
+    "link": "https://www.financialjuice.com/News/9745049/BoEs-Mann-From-the-last-MPC-meeting-to-this-one-weve-seen-somewhat-stronger-economic-activity.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:14:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 만 위원: 지난 통화정책위원회(MPC) 회의 이후 이번 회의에 이르기까지 경제 활동이 다소 강화되는 모습을 보였습니다."
+  },
+  {
+    "guid": "9745048",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Several low-income nations may need debt restructuring.\n",
+    "link": "https://www.financialjuice.com/News/9745048/US-Treasury-Secretary-Bessent-Several-low-income-nations-may-need-debt-restructuring.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:13:03 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 일부 저소득 국가들은 채무 재조정이 필요할 수 있다.\n"
+  },
+  {
+    "guid": "9745047",
+    "title": "FinancialJuice: BoE's Mann: It’s better for interest rates to be a little bit too high, and then of course, correct if necessary.",
+    "link": "https://www.financialjuice.com/News/9745047/BoEs-Mann-Its-better-for-interest-rates-to-be-a-little-bit-too-high-and-then-of-course-correct-if-necessary.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:04:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 맨: 금리를 다소 높게 설정해 두는 편이 낫고, 물론 필요하다면 조정하면 된다."
+  },
+  {
+    "guid": "9745046",
+    "title": "FinancialJuice: US Treasury Secretary Bessent ends gaggle with reporters.",
+    "link": "https://www.financialjuice.com/News/9745046/US-Treasury-Secretary-Bessent-ends-gaggle-with-reporters.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:02:19 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관이 기자들과의 비공식 브리핑을 마쳤다."
+  },
+  {
+    "guid": "9745045",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: China imbalances is a problem for G7-plus.",
+    "link": "https://www.financialjuice.com/News/9745045/US-Treasury-Secretary-Bessent-China-imbalances-is-a-problem-for-G7-plus.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:01:51 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 중국의 불균형 문제는 G7+에 대한 과제다."
+  },
+  {
+    "guid": "9745043",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: I am seeing non-market economies sucking growth from others.",
+    "link": "https://www.financialjuice.com/News/9745043/US-Treasury-Secretary-Bessent-I-am-seeing-non-market-economies-sucking-growth-from-others.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:01:24 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 비시장 경제 국가들이 다른 국가들의 성장 동력을 빨아들이는 것을 목격하고 있다."
+  },
+  {
+    "guid": "9745040",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: The rest of the world needs to take steps to protect trade and factory jobs from China's exports.",
+    "link": "https://www.financialjuice.com/News/9745040/US-Treasury-Secretary-Bessent-The-rest-of-the-world-needs-to-take-steps-to-protect-trade-and-factory-jobs-from-Chinas-exports.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:01:08 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 전 세계는 중국의 수출로부터 무역과 제조업 일자리를 보호하기 위한 조치를 취해야 한다."
+  },
+  {
+    "guid": "9745039",
+    "title": "FinancialJuice: US to sell $90 bln 4-week bills on September 3rd, to settle on September 8th.\n",
+    "link": "https://www.financialjuice.com/News/9745039/US-to-sell-90-bln-4-week-bills-on-September-3rd-to-settle-on-September-8th.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:00:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국이 9월 3일에 900억 달러 규모의 4주 만기 국채를 발행하며, 결제일은 9월 8일이다.\n"
+  },
+  {
+    "guid": "9745035",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: We will have a fulsome US fiscal package.",
+    "link": "https://www.financialjuice.com/News/9745035/US-Treasury-Secretary-Bessent-We-will-have-a-fulsome-US-fiscal-package.aspx",
+    "pubDate": "Tue, 01 Sep 2026 15:00:18 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 미국은 포괄적인 재정 지원 패키지를 마련할 것이다."
+  },
+  {
+    "guid": "9745034",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Imbalances created by some countries are reducing growth elsewhere. I have been talking about imbalances at the G20.",
+    "link": "https://www.financialjuice.com/News/9745034/US-Treasury-Secretary-Bessent-Imbalances-created-by-some-countries-are-reducing-growth-elsewhere-I-have-been-talking-about-imbalances-at-the-G20.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:59:49 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 일부 국가들이 초래한 불균형이 다른 지역의 성장을 저해하고 있다. 나는 G20에서 이 불균형 문제에 대해 계속 언급해 왔다."
+  },
+  {
+    "guid": "9745032",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: It is unclear whether G20 ministers will take the steps necessary to achieve higher growth.",
+    "link": "https://www.financialjuice.com/News/9745032/US-Treasury-Secretary-Bessent-It-is-unclear-whether-G20-ministers-will-take-the-steps-necessary-to-achieve-higher-growth.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:59:02 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: G20 재무장관들이 더 높은 성장을 달성하기 위해 필요한 조치를 취할지는 불분명하다."
+  },
+  {
+    "guid": "9745031",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: I expect everyone to come along with us on Iran.",
+    "link": "https://www.financialjuice.com/News/9745031/US-Treasury-Secretary-Bessent-I-expect-everyone-to-come-along-with-us-on-Iran.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:58:25 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 이란 문제에 대해서는 모든 국가가 우리와 뜻을 같이해 주기를 기대한다."
+  },
+  {
+    "guid": "9745030",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: I think that that Japan is taking right steps for the economy.",
+    "link": "https://www.financialjuice.com/News/9745030/US-Treasury-Secretary-Bessent-I-think-that-that-Japan-is-taking-right-steps-for-the-economy.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:57:49 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 일본이 경제를 위해 올바른 조치를 취하고 있다고 생각합니다."
+  },
+  {
+    "guid": "9745029",
+    "title": "FinancialJuice: UK's PM Burnham's 10-year plan is going to set out public control of services - Statement.",
+    "link": "https://www.financialjuice.com/News/9745029/UKs-PM-Burnhams-10-year-plan-is-going-to-set-out-public-control-of-services---Statement.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:57:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 번햄 총리의 10개년 계획, 공공 서비스에 대한 공공 통제를 명시할 예정 - 성명."
+  },
+  {
+    "guid": "9745027",
+    "title": "FinancialJuice: UK's PM Burnham: Fiscal responsibility will be bedrock of the UK's approach.",
+    "link": "https://www.financialjuice.com/News/9745027/UKs-PM-Burnham-Fiscal-responsibility-will-be-bedrock-of-the-UKs-approach.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:48:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 버넘 영국 총리: 재정적 책임감이 영국 정책의 초석이 될 것이다."
+  },
+  {
+    "guid": "9745026",
+    "title": "FinancialJuice: Canadian Finance Minister Champagne: I will meet with US Treasury Secretary Bessent this afternoon.",
+    "link": "https://www.financialjuice.com/News/9745026/Canadian-Finance-Minister-Champagne-I-will-meet-with-US-Treasury-Secretary-Bessent-this-afternoon.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:47:43 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 샴페인 캐나다 재무장관: 오늘 오후 베센트 미국 재무장관과 회동할 예정이다."
+  },
+  {
+    "guid": "9745017",
+    "title": "FinancialJuice: Canada's PM Carney: There is still a mutually beneficial deal to be done with the US, but talks can't resume while US Officials are insulting Canada. ",
+    "link": "https://www.financialjuice.com/News/9745017/Canadas-PM-Carney-There-is-still-a-mutually-beneficial-deal-to-be-done-with-the-US-but-talks-cant-resume-while-US-Officials-are-insulting-Canada-.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:32:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다의 카니 총리: 미국과는 여전히 상호 이익이 되는 합의를 도출할 여지가 있지만, 미국 관리들이 캐나다를 모욕하는 한 협상은 재개될 수 없다. "
+  },
+  {
+    "guid": "9744998",
+    "title": "FinancialJuice: Canada's PM Carney: We never thought we had a full trade deal with US during the talks that Canada walked away from.",
+    "link": "https://www.financialjuice.com/News/9744998/Canadas-PM-Carney-We-never-thought-we-had-a-full-trade-deal-with-US-during-the-talks-that-Canada-walked-away-from.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:30:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다의 카니 총리: “캐나다가 협상에서 철수했을 당시, 우리가 미국과 완전한 무역 협정을 맺었다고 생각한 적은 한 번도 없었다.”"
+  },
+  {
+    "guid": "9744997",
+    "title": "FinancialJuice: Canada's PM Carney: The US terms in trade talks meant Canadian industries either would become US subsidiaries or be wound down.",
+    "link": "https://www.financialjuice.com/News/9744997/Canadas-PM-Carney-The-US-terms-in-trade-talks-meant-Canadian-industries-either-would-become-US-subsidiaries-or-be-wound-down.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:29:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다의 카니 총리: 무역 협상에서 미국이 제시한 조건에 따르면, 캐나다 산업들은 미국의 자회사가 되거나 폐쇄될 수밖에 없었다."
+  },
+  {
+    "guid": "9744996",
+    "title": "FinancialJuice: Canada: We can start having trade discussions with the US when Americans stop doing memes, stop throwing shade, stop trying to be tough, and start being serious.",
+    "link": "https://www.financialjuice.com/News/9744996/Canada-We-can-start-having-trade-discussions-with-the-US-when-Americans-stop-doing-memes-stop-throwing-shade-stop-trying-to-be-tough-and-start-being-serious.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:26:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다: 미국인들이 밈을 올리는 것을 멈추고, 비아냥거리는 것을 그만두고, 겉으로만 강해 보이려는 시도를 멈추고, 진지하게 임하기 시작할 때 비로소 미국과의 무역 협상을 시작할 수 있을 것이다."
+  },
+  {
+    "guid": "9744995",
+    "title": "FinancialJuice: Iran's Galibaf: If the US siege is intensified, we will definitely respond militarily - Iranian media",
+    "link": "https://www.financialjuice.com/News/9744995/Irans-Galibaf-If-the-US-siege-is-intensified-we-will-definitely-respond-militarily---Iranian-media.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:25:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 갈리바프 “미국의 포위가 강화된다면, 우리는 반드시 군사적으로 대응할 것” - 이란 언론"
+  },
+  {
+    "guid": "9744994",
+    "title": "FinancialJuice: Crypto Fear & Greed Index: 69/100 - Greed",
+    "link": "https://www.financialjuice.com/News/9744994/Crypto-Fear--Greed-Index-69100---Greed.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:18:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 암호화폐 공포·탐욕 지수: 69/100 - 탐욕"
+  },
+  {
+    "guid": "9744993",
+    "title": "FinancialJuice: Fear & Greed Index: 45/100 - CNN ",
+    "link": "https://www.financialjuice.com/News/9744993/Fear--Greed-Index-45100---CNN-.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:17:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 공포와 탐욕 지수: 45/100 - CNN "
+  },
+  {
+    "guid": "9744952",
+    "title": "FinancialJuice: US ISM Manufacturing PMI Actual 54.6 (Forecast 55.2, Previous 55.6)",
+    "link": "https://www.financialjuice.com/News/9744952/US-ISM-Manufacturing-PMI-Actual-546-Forecast-552-Previous-556.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:00:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ISM 제조업 PMI 실제치 54.6 (예상치 55.2, 이전치 55.6)"
+  },
+  {
+    "guid": "9744951",
+    "title": "FinancialJuice: US ISM Mfg. Prices Paid Actual 71.1 (Forecast 70.8, Previous 71.1)",
+    "link": "https://www.financialjuice.com/News/9744951/US-ISM-Mfg-Prices-Paid-Actual-711-Forecast-708-Previous-711.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:00:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ISM 제조업 구매 가격 지수 실제치 71.1 (예상치 70.8, 전월치 71.1)"
+  },
+  {
+    "guid": "9744949",
+    "title": "FinancialJuice: US Construction Spending MoM Actual -0.5% (Forecast 0%, Previous -0.1%)",
+    "link": "https://www.financialjuice.com/News/9744949/US-Construction-Spending-MoM-Actual--05-Forecast-0-Previous--01.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:00:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 건설 지출 전월 대비 실제 -0.5% (예상 0%, 전월 -0.1%)"
+  },
+  {
+    "guid": "9744953",
+    "title": "FinancialJuice: US JOLTS Job Openings Actual 7.271M (Forecast 7.313M, Previous 7.359M, Revised 7.182M)",
+    "link": "https://www.financialjuice.com/News/9744953/US-JOLTS-Job-Openings-Actual-7271M-Forecast-7313M-Previous-7359M-Revised-7182M.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 JOLTS 구인 건수 실제치 727만1천 건 (예상치 731만3천 건, 전월치 735만9천 건, 수정치 718만2천 건)"
+  },
+  {
+    "guid": "9744950",
+    "title": "FinancialJuice: US ISM Mfg. New Orders Index Actual 53.7 (Forecast 56.8, Previous 56.7)",
+    "link": "https://www.financialjuice.com/News/9744950/US-ISM-Mfg-New-Orders-Index-Actual-537-Forecast-568-Previous-567.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ISM 제조업 신규 수주 지수, 실제 53.7 (예상 56.8, 전월 56.7)"
+  },
+  {
+    "guid": "9744948",
+    "title": "FinancialJuice: US ISM Mfg. Employment Index Actual 51.2 (Forecast 52.5, Previous 52.8)",
+    "link": "https://www.financialjuice.com/News/9744948/US-ISM-Mfg-Employment-Index-Actual-512-Forecast-525-Previous-528.aspx",
+    "pubDate": "Tue, 01 Sep 2026 14:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ISM 제조업 고용 지수 실제치 51.2 (예상치 52.5, 전월치 52.8)"
+  },
+  {
+    "guid": "9744947",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Iran's protective shield had to be taken out.",
+    "link": "https://www.financialjuice.com/News/9744947/US-Treasury-Secretary-Bessent-Irans-protective-shield-had-to-be-taken-out.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:53:28 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 이란의 방어막을 무너뜨려야만 했다."
+  },
+  {
+    "guid": "9744946",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on Iran: have had private discussions with China. We're discussing cooperation with China on Iran",
+    "link": "https://www.financialjuice.com/News/9744946/US-Treasury-Secretary-Bessent-on-Iran-have-had-private-discussions-with-China-Were-discussing-cooperation-with-China-on-Iran.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:51:12 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관, 이란 문제에 대해 “중국과 비공개 논의를 가졌다. 이란 문제와 관련해 중국과의 협력 방안을 논의 중”이라고 밝혔다."
+  },
+  {
+    "guid": "9744945",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Iran sanctions could be on airline leasing companies.",
+    "link": "https://www.financialjuice.com/News/9744945/US-Treasury-Secretary-Bessent-Iran-sanctions-could-be-on-airline-leasing-companies.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:49:16 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 이란 제재 대상이 항공기 리스 회사로 확대될 수 있다."
+  },
+  {
+    "guid": "9744944",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on Iran Sanctions: We have great support from the EU, ECB, UK, UAE, and Bahrain.",
+    "link": "https://www.financialjuice.com/News/9744944/US-Treasury-Secretary-Bessent-on-Iran-Sanctions-We-have-great-support-from-the-EU-ECB-UK-UAE-and-Bahrain.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:48:46 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관, 이란 제재와 관련해 “우리는 EU, ECB, 영국, 아랍에미리트(UAE), 바레인으로부터 큰 지지를 받고 있다”고 밝혔다."
+  },
+  {
+    "guid": "9744943",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on Iran sanctions: Sanctions plus blockade on Iran will work. We are probably going to announce bank sanction this week and next week.",
+    "link": "https://www.financialjuice.com/News/9744943/US-Treasury-Secretary-Bessent-on-Iran-sanctions-Sanctions-plus-blockade-on-Iran-will-work-We-are-probably-going-to-announce-bank-sanction-this-week-and-next-week.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:48:21 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관, 이란 제재 관련 발언: “이란에 대한 제재와 봉쇄 조치가 효과를 볼 것이다. 아마도 이번 주와 다음 주에 은행 제재 조치를 발표할 예정이다.”"
+  },
+  {
+    "guid": "9744942",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Iran probably has world's 3rd-greatest energy resource.",
+    "link": "https://www.financialjuice.com/News/9744942/US-Treasury-Secretary-Bessent-Iran-probably-has-worlds-3rd-greatest-energy-resource.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:47:14 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 이란은 아마도 세계 3위의 에너지 자원을 보유하고 있을 것이다."
+  },
+  {
+    "guid": "9744936",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: 85%-90% of Iran factories have the ability to rebuild.",
+    "link": "https://www.financialjuice.com/News/9744936/US-Treasury-Secretary-Bessent-85-90-of-Iran-factories-have-the-ability-to-rebuild.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:46:19 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 이란 공장의 85%~90%가 재건 능력을 갖추고 있다."
+  },
+  {
+    "guid": "9744917",
+    "title": "FinancialJuice: US S&P Manufacturing PMI Final Actual 53.9 (Forecast 53.4, Previous 53.2)",
+    "link": "https://www.financialjuice.com/News/9744917/US-SP-Manufacturing-PMI-Final-Actual-539-Forecast-534-Previous-532.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 S&P 제조업 PMI 최종치 53.9 (예상치 53.4, 전월치 53.2)"
+  },
+  {
+    "guid": "9744916",
+    "title": "FinancialJuice: Musk: AI is going to increase the global economy 20%-30% - CNBC.",
+    "link": "https://www.financialjuice.com/News/9744916/Musk-AI-is-going-to-increase-the-global-economy-20-30---CNBC.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:44:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 머스크 “AI가 세계 경제를 20~30% 성장시킬 것” - CNBC."
+  },
+  {
+    "guid": "9744915",
+    "title": "FinancialJuice: Musk: Seeing significant productivity gains from AI - CNBC",
+    "link": "https://www.financialjuice.com/News/9744915/Musk-Seeing-significant-productivity-gains-from-AI---CNBC.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:42:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 머스크 “AI 덕분에 생산성이 크게 향상되고 있다” - CNBC"
+  },
+  {
+    "guid": "9744914",
+    "title": "FinancialJuice: Fed's Barr: AI has a lots of potential, and lots of risk.",
+    "link": "https://www.financialjuice.com/News/9744914/Feds-Barr-AI-has-a-lots-of-potential-and-lots-of-risk.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:42:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바르: AI는 큰 잠재력을 지니고 있지만, 위험도 크다."
+  },
+  {
+    "guid": "9744913",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Oil will be going on land pipelines, not via Hormuz.",
+    "link": "https://www.financialjuice.com/News/9744913/US-Treasury-Secretary-Bessent-Oil-will-be-going-on-land-pipelines-not-via-Hormuz.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:42:10 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 원유는 호르무즈 해협을 거치지 않고 육상 파이프라인을 통해 수송될 것이다."
+  },
+  {
+    "guid": "9744912",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: The Strait of Hormuz will be bypassed in 2 years, and will become a worthless piece of water.",
+    "link": "https://www.financialjuice.com/News/9744912/US-Treasury-Secretary-Bessent-The-Strait-of-Hormuz-will-be-bypassed-in-2-years-and-will-become-a-worthless-piece-of-water.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:41:53 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 호르무즈 해협은 2년 안에 우회될 것이며, 무가치한 물길로 전락할 것이다."
+  },
+  {
+    "guid": "9744911",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on Trade: We do not want to pull apart from China, we have to de-risk.",
+    "link": "https://www.financialjuice.com/News/9744911/US-Treasury-Secretary-Bessent-on-Trade-We-do-not-want-to-pull-apart-from-China-we-have-to-de-risk.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:41:19 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관의 무역 관련 발언: “우리는 중국과 결별하고 싶지 않다. 다만 리스크를 줄여야 한다.”"
+  },
+  {
+    "guid": "9744910",
+    "title": "FinancialJuice: Ukraine hit Russia's Novatek oil complex in Leningrad region - Military Intelligence.",
+    "link": "https://www.financialjuice.com/News/9744910/Ukraine-hit-Russias-Novatek-oil-complex-in-Leningrad-region---Military-Intelligence.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:39:14 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 우크라이나, 레닌그라드 지역의 러시아 노바텍 석유 단지를 공격했다 - 군사 정보국."
+  },
+  {
+    "guid": "9744909",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Abenomics was reflationary, Japan can sit back & enjoy.",
+    "link": "https://www.financialjuice.com/News/9744909/US-Treasury-Secretary-Bessent-Abenomics-was-reflationary-Japan-can-sit-back--enjoy.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:37:41 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 아베노믹스는 재인플레이션 정책이었으며, 일본은 편안히 앉아 그 성과를 누리면 된다."
+  },
+  {
+    "guid": "9744908",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: We're up 1.6m or 2.2m barrels day since Trump came in.",
+    "link": "https://www.financialjuice.com/News/9744908/US-Treasury-Secretary-Bessent-Were-up-16m-or-22m-barrels-day-since-Trump-came-in.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:33:41 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 트럼프 대통령 취임 이후 일일 원유 생산량이 160만 배럴에서 220만 배럴 증가했습니다."
+  },
+  {
+    "guid": "9744907",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: My 3-3-3 program for energy was for Crude equivalents.",
+    "link": "https://www.financialjuice.com/News/9744907/US-Treasury-Secretary-Bessent-My-3-3-3-program-for-energy-was-for-Crude-equivalents.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:32:54 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 제가 제안한 에너지 분야 ‘3-3-3’ 프로그램은 원유 환산량을 기준으로 한 것이었습니다."
+  },
+  {
+    "guid": "9744894",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9744894/MOO-Imbalance.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:30:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOO 불균형"
+  },
+  {
+    "guid": "9744888",
+    "title": "FinancialJuice: Canadian Manufacturing PMI Actual 53.0 (Forecast -, Previous 53.5)",
+    "link": "https://www.financialjuice.com/News/9744888/Canadian-Manufacturing-PMI-Actual-530-Forecast---Previous-535.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:30:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 제조업 PMI 실제치 53.0 (예상치 -, 전월치 53.5)"
+  },
+  {
+    "guid": "9744887",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on Bond Yields: They're showing inflation expectations as flat to down.",
+    "link": "https://www.financialjuice.com/News/9744887/US-Treasury-Secretary-Bessent-on-Bond-Yields-Theyre-showing-inflation-expectations-as-flat-to-down.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:26:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관, 채권 수익률에 대해 “인플레이션 기대치가 정체되거나 하락하는 양상을 보이고 있다”고 밝혔다."
+  },
+  {
+    "guid": "9744886",
+    "title": "FinancialJuice: ECB's Simkus: New projections are likely to move the rate path up a bit.",
+    "link": "https://www.financialjuice.com/News/9744886/ECBs-Simkus-New-projections-are-likely-to-move-the-rate-path-up-a-bit.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:17:25 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB의 심쿠스: 새로운 전망치에 따라 금리 경로가 다소 상향 조정될 가능성이 있다."
+  },
+  {
+    "guid": "9744879",
+    "title": "FinancialJuice: ECB's Simkus: It is clear that we should hike rates in September.",
+    "link": "https://www.financialjuice.com/News/9744879/ECBs-Simkus-It-is-clear-that-we-should-hike-rates-in-September.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:16:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 심쿠스: 9월에 금리를 인상해야 한다는 점은 분명하다."
+  },
+  {
+    "guid": "9744857",
+    "title": "FinancialJuice: Fed's Barr: The persistence of inflation above target creates risks.",
+    "link": "https://www.financialjuice.com/News/9744857/Feds-Barr-The-persistence-of-inflation-above-target-creates-risks.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:06:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바르: 목표치를 상회하는 인플레이션이 지속되면서 위험 요인이 발생하고 있다."
+  },
+  {
+    "guid": "9744856",
+    "title": "FinancialJuice: Fed's Barr: If inflation doesn't moderate soon, it will be time for an interest rate hike.",
+    "link": "https://www.financialjuice.com/News/9744856/Feds-Barr-If-inflation-doesnt-moderate-soon-it-will-be-time-for-an-interest-rate-hike.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:06:08 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바르: 인플레이션이 조만간 진정되지 않으면 금리 인상을 단행해야 할 시점이 될 것이다."
+  },
+  {
+    "guid": "9744855",
+    "title": "FinancialJuice: Fed's Barr: The economy is growing solidly, boosted by artificial intelligence investment.",
+    "link": "https://www.financialjuice.com/News/9744855/Feds-Barr-The-economy-is-growing-solidly-boosted-by-artificial-intelligence-investment.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:05:59 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바르: 인공지능 투자에 힘입어 경제가 견조하게 성장하고 있다."
+  },
+  {
+    "guid": "9744854",
+    "title": "FinancialJuice: Fed's Barr: The labor market is stable with low unemployment.",
+    "link": "https://www.financialjuice.com/News/9744854/Feds-Barr-The-labor-market-is-stable-with-low-unemployment.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:05:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바르: 실업률이 낮은 가운데 노동 시장은 안정적인 상태다."
+  },
+  {
+    "guid": "9744853",
+    "title": "FinancialJuice: Fed's Barr: I favour steady rates if confident inflation is moderating.",
+    "link": "https://www.financialjuice.com/News/9744853/Feds-Barr-I-favour-steady-rates-if-confident-inflation-is-moderating.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:05:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바르, “인플레이션이 완화되고 있다고 확신한다면 금리 동결을 선호한다.”"
+  },
+  {
+    "guid": "9744852",
+    "title": "FinancialJuice: Fed's Barr: Inflation remains too high.",
+    "link": "https://www.financialjuice.com/News/9744852/Feds-Barr-Inflation-remains-too-high.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:05:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바르: 인플레이션은 여전히 너무 높다."
+  },
+  {
+    "guid": "9744848",
+    "title": "FinancialJuice: ECB: Forex reserves rose €500 mln to €349.8 bln.",
+    "link": "https://www.financialjuice.com/News/9744848/ECB-Forex-reserves-rose-500-mln-to-3498-bln.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:01:27 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB): 외환보유고가 5억 유로 증가해 3,498억 유로를 기록했다."
+  },
+  {
+    "guid": "9744828",
+    "title": "FinancialJuice: ECB settled €217.2 bln corporate bond purchases.",
+    "link": "https://www.financialjuice.com/News/9744828/ECB-settled-2172-bln-corporate-bond-purchases.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:00:51 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)이 2,172억 유로 규모의 기업채 매입을 완료했다."
+  },
+  {
+    "guid": "9744826",
+    "title": "FinancialJuice: ECB settled €1,669.2 bln public-sector bond purchases.",
+    "link": "https://www.financialjuice.com/News/9744826/ECB-settled-16692-bln-public-sector-bond-purchases.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:00:41 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)이 1조 6,692억 유로 규모의 공공 부문 채권 매입을 완료했다."
+  },
+  {
+    "guid": "9744823",
+    "title": "FinancialJuice: ECB bond holdings under PEPP €1.28 tln as of last week.",
+    "link": "https://www.financialjuice.com/News/9744823/ECB-bond-holdings-under-PEPP-128-tln-as-of-last-week.aspx",
+    "pubDate": "Tue, 01 Sep 2026 13:00:29 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 지난주 기준 PEPP를 통해 ECB가 보유한 채권 규모는 1.28조 유로이다."
+  },
+  {
+    "guid": "9744815",
+    "title": "FinancialJuice: Effective Fed funds rate 3.63% August 31st vs 3.63% August 28th.",
+    "link": "https://www.financialjuice.com/News/9744815/Effective-Fed-funds-rate-363-August-31st-vs-363-August-28th.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:59:47 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 8월 31일 기준 연방기금 실효 금리 3.63% (8월 28일 기준 3.63%와 동일)."
+  },
+  {
+    "guid": "9744813",
+    "title": "FinancialJuice: US Redbook YoY Actual 9.6% (Forecast -, Previous 9.1%)",
+    "link": "https://www.financialjuice.com/News/9744813/US-Redbook-YoY-Actual-96-Forecast---Previous-91.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:55:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 레드북 지수 전년 동기 대비 실제 9.6% (예상 -, 이전 9.1%)"
+  },
+  {
+    "guid": "9744812",
+    "title": "FinancialJuice: UniCredit: Fed-Treasury Tension Could Become a Medium-Term USD Headwind - FJElite",
+    "link": "https://www.financialjuice.com/News/9744812/UniCredit-Fed-Treasury-Tension-Could-Become-a-Medium-Term-USD-Headwind---FJElite.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:54:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유니크레딧: 연준과 재무부 간의 갈등이 중기적으로 달러 약세의 요인이 될 수 있다 - FJElite"
+  },
+  {
+    "guid": "9744811",
+    "title": "FinancialJuice: Russia's Seaborne crude oil exports from its Western ports set to decline 5% in September from August - Traders.",
+    "link": "https://www.financialjuice.com/News/9744811/Russias-Seaborne-crude-oil-exports-from-its-Western-ports-set-to-decline-5-in-September-from-August---Traders.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:54:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 서부 항구를 통한 해상 원유 수출량이 9월에 8월 대비 5% 감소할 전망 - 트레이더들."
+  },
+  {
+    "guid": "9744810",
+    "title": "FinancialJuice: Goldman Sachs Tariff Tracker: US Import Flows Remain Firm, but West Coast Trucking Has Softened - FJElite",
+    "link": "https://www.financialjuice.com/News/9744810/Goldman-Sachs-Tariff-Tracker-US-Import-Flows-Remain-Firm-but-West-Coast-Trucking-Has-Softened---FJElite.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:51:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 골드만삭스 관세 추적 보고서: 미국 수입 흐름은 여전히 견조하지만, 서부 해안 지역 트럭 운송은 주춤 - FJElite"
+  },
+  {
+    "guid": "9744809",
+    "title": "FinancialJuice: ECB's Nagel: Euro use in US/Japan interventions was discussed at the G20.",
+    "link": "https://www.financialjuice.com/News/9744809/ECBs-Nagel-Euro-use-in-USJapan-interventions-was-discussed-at-the-G20.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:48:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 나겔 총재: G20 회의에서 미국 및 일본에 대한 외환 개입 시 유로화 사용 문제가 논의되었다."
+  },
+  {
+    "guid": "9744808",
+    "title": "FinancialJuice: ECB's Nagel: I would have welcomed coordination on yen intervention.",
+    "link": "https://www.financialjuice.com/News/9744808/ECBs-Nagel-I-would-have-welcomed-coordination-on-yen-intervention.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:47:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 나겔: 엔화 개입에 대한 협력이 있었다면 환영했을 것이다."
+  },
+  {
+    "guid": "9744807",
+    "title": "FinancialJuice: Deutsche Bank August Review: August Risk Rally Accompanied by a Sharp Rise in Long-Term Yields - FJElite",
+    "link": "https://www.financialjuice.com/News/9744807/Deutsche-Bank-August-Review-August-Risk-Rally-Accompanied-by-a-Sharp-Rise-in-Long-Term-Yields---FJElite.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:47:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 도이체방크 8월 리뷰: 8월 리스크 랠리와 함께 장기 금리가 급등 - FJElite"
+  },
+  {
+    "guid": "9744796",
+    "title": "FinancialJuice: ECB's Nagel: Easing in core and services inflation is good news, I am not seeing second-round effects on inflation.",
+    "link": "https://www.financialjuice.com/News/9744796/ECBs-Nagel-Easing-in-core-and-services-inflation-is-good-news-I-am-not-seeing-second-round-effects-on-inflation.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:39:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB의 나겔: 핵심 물가와 서비스 물가의 완화는 긍정적인 소식이며, 물가에 대한 2차 파급 효과는 보이지 않는다."
+  },
+  {
+    "guid": "9744795",
+    "title": "FinancialJuice: ECB's Nagel: The global economy is on a growth path, despite the Middle East crisis.",
+    "link": "https://www.financialjuice.com/News/9744795/ECBs-Nagel-The-global-economy-is-on-a-growth-path-despite-the-Middle-East-crisis.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:36:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 나겔 총재, “중동 위기에도 불구하고 세계 경제는 성장 궤도에 올라 있다.”"
+  },
+  {
+    "guid": "9744794",
+    "title": "FinancialJuice: US Sentiment: September off to a Rocky Start - FJElite",
+    "link": "https://www.financialjuice.com/News/9744794/US-Sentiment-September-off-to-a-Rocky-Start---FJElite.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:33:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 9월, 불안한 출발 - FJElite"
+  },
+  {
+    "guid": "9744768",
+    "title": "FinancialJuice: Fitch Ratings: An extended US-Iran conflict could put some GCC credit ratings at risk.",
+    "link": "https://www.financialjuice.com/News/9744768/Fitch-Ratings-An-extended-US-Iran-conflict-could-put-some-GCC-credit-ratings-at-risk.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:24:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 피치 레이팅스: 미국과 이란 간의 갈등이 장기화될 경우 일부 GCC 국가의 신용등급이 위험에 처할 수 있다."
+  },
+  {
+    "guid": "9744747",
+    "title": "FinancialJuice: Iran: The reason is that the US side violated the agreement.",
+    "link": "https://www.financialjuice.com/News/9744747/Iran-The-reason-is-that-the-US-side-violated-the-agreement.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:10:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란: 그 이유는 미국 측이 합의를 위반했기 때문이다."
+  },
+  {
+    "guid": "9744746",
+    "title": "FinancialJuice: Iran: The situation doesn't allow for a return to the MOU with the US.",
+    "link": "https://www.financialjuice.com/News/9744746/Iran-The-situation-doesnt-allow-for-a-return-to-the-MOU-with-the-US.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:09:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란: 현재 상황으로는 미국과의 양해각서(MOU)로 되돌아갈 수 없다."
+  },
+  {
+    "guid": "9744745",
+    "title": "FinancialJuice: Iran's pezeshkian tells Russia's Putin: The US has no right to impose sanctions and violate international law.",
+    "link": "https://www.financialjuice.com/News/9744745/Irans-pezeshkian-tells-Russias-Putin-The-US-has-no-right-to-impose-sanctions-and-violate-international-law.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:06:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 페제스키안, 러시아의 푸틴에게 “미국은 제재를 가하거나 국제법을 위반할 권리가 없다”고 말했다."
+  },
+  {
+    "guid": "9744744",
+    "title": "FinancialJuice: Iran's Pezeshkian tells Russia's Putin: We thank you for Russia's position regarding war and sanctions; we can resist US unilateralism.",
+    "link": "https://www.financialjuice.com/News/9744744/Irans-Pezeshkian-tells-Russias-Putin-We-thank-you-for-Russias-position-regarding-war-and-sanctions-we-can-resist-US-unilateralism.aspx",
+    "pubDate": "Tue, 01 Sep 2026 12:06:06 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이란의 페제스키안, 러시아의 푸틴에게 “전쟁과 제재에 관한 러시아의 입장에 감사드리며, 우리는 미국의 일방주의에 맞서 싸울 수 있다”고 밝혔다."
+  },
+  {
+    "guid": "9744722",
+    "title": "FinancialJuice: Secured overnight financing rate 3.68% August 31st vs 3.65% August 28th.",
+    "link": "https://www.financialjuice.com/News/9744722/Secured-overnight-financing-rate-368-August-31st-vs-365-August-28th.aspx",
+    "pubDate": "Tue, 01 Sep 2026 11:59:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 8월 31일 담보부 일일 자금 조달 금리는 3.68%로, 8월 28일의 3.65%에 비해 상승했다."
+  },
+  {
+    "guid": "9744721",
+    "title": "FinancialJuice: Putin: Russia and Iran maintain their economic and trade relationship despite the current military and political environment.",
+    "link": "https://www.financialjuice.com/News/9744721/Putin-Russia-and-Iran-maintain-their-economic-and-trade-relationship-despite-the-current-military-and-political-environment.aspx",
+    "pubDate": "Tue, 01 Sep 2026 11:59:08 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 푸틴 “현재의 군사적·정치적 상황에도 불구하고 러시아와 이란은 경제·무역 관계를 유지하고 있다.”"
+  },
+  {
+    "guid": "9744720",
+    "title": "FinancialJuice: Putin tells Iran's Pezeshkian: The Russian people are in solidarity with the people of Iran in fighting for their interests.",
+    "link": "https://www.financialjuice.com/News/9744720/Putin-tells-Irans-Pezeshkian-The-Russian-people-are-in-solidarity-with-the-people-of-Iran-in-fighting-for-their-interests.aspx",
+    "pubDate": "Tue, 01 Sep 2026 11:57:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 푸틴, 이란의 페제스키안에게 “러시아 국민은 이란 국민이 자국의 이익을 위해 투쟁하는 데 연대하고 있다”고 밝혔다."
+  },
+  {
     "guid": "9744719",
     "title": "FinancialJuice: Russia's Putin meet with Iran's Pezeshkian - Tass.",
     "link": "https://www.financialjuice.com/News/9744719/Russias-Putin-meet-with-Irans-Pezeshkian---Tass.aspx?xy=rss",
