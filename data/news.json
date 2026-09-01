@@ -1,5 +1,349 @@
 [
   {
+    "guid": "9745344",
+    "title": "FinancialJuice: Brent crude futures settle at $94.65/bbl, up $4.16, 4.6%.",
+    "link": "https://www.financialjuice.com/News/9745344/Brent-crude-futures-settle-at-9465bbl-up-416-46.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:48:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브렌트 원유 선물 가격이 배럴당 94.65달러로 마감하며, 4.16달러(4.6%) 상승했다."
+  },
+  {
+    "guid": "9745343",
+    "title": "FinancialJuice: Russia: Germany's claim that Moscow was behind the attempted drone attack at Leipzig airport is baseless and absurd - Embassy",
+    "link": "https://www.financialjuice.com/News/9745343/Russia-Germanys-claim-that-Moscow-was-behind-the-attempted-drone-attack-at-Leipzig-airport-is-baseless-and-absurd---Embassy.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:48:16 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아: 라이프치히 공항에서 발생한 드론 공격 미수 사건의 배후에 모스크바가 있다는 독일의 주장은 근거가 없으며 터무니없다 - 대사관"
+  },
+  {
+    "guid": "9745342",
+    "title": "FinancialJuice: UK Treasury's Reynolds: We believe, as a general principle, that free trade is better than putting up barriers.",
+    "link": "https://www.financialjuice.com/News/9745342/UK-Treasurys-Reynolds-We-believe-as-a-general-principle-that-free-trade-is-better-than-putting-up-barriers.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:47:28 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 영국 재무부의 레이놀즈: 우리는 원칙적으로 자유 무역이 장벽을 세우는 것보다 낫다고 믿습니다."
+  },
+  {
+    "guid": "9745341",
+    "title": "FinancialJuice: UK Treasury's Reynolds: Reducing global imbalances is a sensitive issue; Britain will navigate it.",
+    "link": "https://www.financialjuice.com/News/9745341/UK-Treasurys-Reynolds-Reducing-global-imbalances-is-a-sensitive-issue-Britain-will-navigate-it.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:47:13 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 영국 재무부의 레이놀즈: 글로벌 불균형 해소는 민감한 사안이지만, 영국은 이를 잘 헤쳐나갈 것이다."
+  },
+  {
+    "guid": "9745340",
+    "title": "FinancialJuice: UK Deputy Finance Minister Reynolds: Britain will maintain a pragmatic relationship with China on trade.",
+    "link": "https://www.financialjuice.com/News/9745340/UK-Deputy-Finance-Minister-Reynolds-Britain-will-maintain-a-pragmatic-relationship-with-China-on-trade.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:46:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 레이놀즈 영국 재무부 차관: 영국은 무역 분야에서 중국과 실용적인 관계를 유지할 것이다."
+  },
+  {
+    "guid": "9745326",
+    "title": "FinancialJuice: NYMEX Natural Gas October futures settle at $2.9040/MMBTU.\n",
+    "link": "https://www.financialjuice.com/News/9745326/NYMEX-Natural-Gas-October-futures-settle-at-29040MMBTU.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:32:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 천연가스 10월물 선물이 MMBTU당 2.9040달러에 마감했다.\n"
+  },
+  {
+    "guid": "9745325",
+    "title": "FinancialJuice: NYMEX Diesel October futures settle at $4.6773 a gallon.",
+    "link": "https://www.financialjuice.com/News/9745325/NYMEX-Diesel-October-futures-settle-at-46773-a-gallon.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:32:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 10월물 디젤 선물 가격이 갤런당 4.6773달러로 마감했다."
+  },
+  {
+    "guid": "9745324",
+    "title": "FinancialJuice: NYMEX Gasoline October futures settle at $3.1351 a gallon.",
+    "link": "https://www.financialjuice.com/News/9745324/NYMEX-Gasoline-October-futures-settle-at-31351-a-gallon.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:31:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 10월 인도분 휘발유 선물 가격이 갤런당 3.1351달러에 마감했다."
+  },
+  {
+    "guid": "9745323",
+    "title": "FinancialJuice: NYMEX WTI crude October futures settle at $90.22 a barrel, up $4.46, 5.20%.",
+    "link": "https://www.financialjuice.com/News/9745323/NYMEX-WTI-crude-October-futures-settle-at-9022-a-barrel-up-446-520.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:31:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX WTI 원유 10월물 선물 가격이 배럴당 90.22달러로 마감했으며, 이는 4.46달러(5.20%) 상승한 수치다."
+  },
+  {
+    "guid": "9745305",
+    "title": "FinancialJuice: Trump: New US strikes targeted Iran's radar system - Fox News",
+    "link": "https://www.financialjuice.com/News/9745305/Trump-New-US-strikes-targeted-Irans-radar-system---Fox-News.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:27:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “미국의 새로운 공습, 이란의 레이더 시스템을 겨냥했다” - 폭스 뉴스"
+  },
+  {
+    "guid": "9745304",
+    "title": "FinancialJuice: META's Zuckerberg: Countries should not restrict open-weight AI models at G20 tech meeting. $META\n",
+    "link": "https://www.financialjuice.com/News/9745304/METAs-Zuckerberg-Countries-should-not-restrict-open-weight-AI-models-at-G20-tech-meeting-META.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:27:14 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 메타(META)의 저커버그, G20 기술 회의에서 “각국은 오픈-웨이트 AI 모델을 제한해서는 안 된다”고 밝혔다. $META\n"
+  },
+  {
+    "guid": "9745302",
+    "title": "FinancialJuice: Iranian missiles and drones fired toward enemy positions - Fars",
+    "link": "https://www.financialjuice.com/News/9745302/Iranian-missiles-and-drones-fired-toward-enemy-positions---Fars.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:24:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란, 적군 진지를 향해 미사일과 드론 발사 - 파르스 통신"
+  },
+  {
+    "guid": "9745285",
+    "title": "FinancialJuice: US targets Jiroft Airport in southeastern Iran - IRIB",
+    "link": "https://www.financialjuice.com/News/9745285/US-targets-Jiroft-Airport-in-southeastern-Iran---IRIB.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:13:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국, 이란 남동부의 지로프트 공항을 타격 - IRIB"
+  },
+  {
+    "guid": "9745284",
+    "title": "FinancialJuice: Ukraine’s President Zelenskiy: Ukraine to take into account future talks in Moscow.",
+    "link": "https://www.financialjuice.com/News/9745284/Ukraines-President-Zelenskiy-Ukraine-to-take-into-account-future-talks-in-Moscow.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:09:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 우크라이나 젤렌스키 대통령: 우크라이나, 향후 모스크바에서 열릴 회담을 고려할 것."
+  },
+  {
+    "guid": "9745283",
+    "title": "FinancialJuice: Ukraine’s President Zelenskiy: Ready to pause drone strikes on Russia if allies ask.",
+    "link": "https://www.financialjuice.com/News/9745283/Ukraines-President-Zelenskiy-Ready-to-pause-drone-strikes-on-Russia-if-allies-ask.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:09:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 우크라이나 젤렌스키 대통령, 동맹국들이 요청할 경우 러시아에 대한 드론 공격을 중단할 준비가 되어 있다."
+  },
+  {
+    "guid": "9745282",
+    "title": "FinancialJuice: Trump to Fox News: Agreement with Iran not worth the paper it's written on; gave Iran a lot of chances.",
+    "link": "https://www.financialjuice.com/News/9745282/Trump-to-Fox-News-Agreement-with-Iran-not-worth-the-paper-its-written-on-gave-Iran-a-lot-of-chances.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:04:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 폭스 뉴스에 “이란과의 합의는 종이 조각에 불과하다; 이란에 많은 기회를 줬다.”"
+  },
+  {
+    "guid": "9745281",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: G20 ministers recognize that it is the common interest of both surplus and deficit economies to address excessive and persistent imbalance.",
+    "link": "https://www.financialjuice.com/News/9745281/US-Treasury-Secretary-Bessent-G20-ministers-recognize-that-it-is-the-common-interest-of-both-surplus-and-deficit-economies-to-address-excessive-and-persistent-imbalance.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:01:26 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: G20 재무장관들은 과도하고 지속적인 불균형을 해소하는 것이 흑자국과 적자국 모두의 공동 이익이라는 점을 인식하고 있다."
+  },
+  {
+    "guid": "9745272",
+    "title": "FinancialJuice: US Treasury's Bessent: Excessive and persistent trade imbalances inhibit growth, deepen economic vulnerabilities, hurt prosperity.",
+    "link": "https://www.financialjuice.com/News/9745272/US-Treasurys-Bessent-Excessive-and-persistent-trade-imbalances-inhibit-growth-deepen-economic-vulnerabilities-hurt-prosperity.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:01:07 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 재무부의 베센트: 과도하고 지속적인 무역 불균형은 성장을 저해하고, 경제적 취약성을 심화시키며, 번영을 해친다."
+  },
+  {
+    "guid": "9745269",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Durable growth requires the world's economies to compete fairly, not on distortive policies that push excess production into global markets.",
+    "link": "https://www.financialjuice.com/News/9745269/US-Treasury-Secretary-Bessent-Durable-growth-requires-the-worlds-economies-to-compete-fairly-not-on-distortive-policies-that-push-excess-production-into-global-markets.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 18:00:44 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 지속 가능한 성장을 위해서는 세계 각국 경제가 과도한 생산물을 세계 시장에 쏟아붓는 시장 왜곡 정책에 의존하는 것이 아니라 공정하게 경쟁해야 한다."
+  },
+  {
+    "guid": "9745265",
+    "title": "FinancialJuice: The US House bill providing stopgap federal funding through December 11 gets enough votes for passage; voting continues",
+    "link": "https://www.financialjuice.com/News/9745265/The-US-House-bill-providing-stopgap-federal-funding-through-December-11-gets-enough-votes-for-passage-voting-continues.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:56:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 12월 11일까지 연방 정부에 임시 자금을 지원하는 미국 하원 법안이 통과에 필요한 표수를 확보했으며, 투표는 계속되고 있다"
+  },
+  {
+    "guid": "9745264",
+    "title": "FinancialJuice: The US targeted a factory, pier, and port tower in southern Iran - Mehr",
+    "link": "https://www.financialjuice.com/News/9745264/The-US-targeted-a-factory-pier-and-port-tower-in-southern-Iran---Mehr.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:49:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국, 이란 남부의 공장, 부두, 항만 관제탑을 공격 - 메흐르"
+  },
+  {
+    "guid": "9745247",
+    "title": "FinancialJuice: US oil tops $90 a barrel for the first time since late July.",
+    "link": "https://www.financialjuice.com/News/9745247/US-oil-tops-90-a-barrel-for-the-first-time-since-late-July.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:41:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 원유 가격이 7월 말 이후 처음으로 배럴당 90달러를 넘어섰다."
+  },
+  {
+    "guid": "9745246",
+    "title": "FinancialJuice: Iran's IRGC: Severe punishment awaits the US - IRIB",
+    "link": "https://www.financialjuice.com/News/9745246/Irans-IRGC-Severe-punishment-awaits-the-US---IRIB.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:38:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대(IRGC), “미국에 엄중한 처벌이 기다리고 있다” - IRIB"
+  },
+  {
+    "guid": "9745245",
+    "title": "FinancialJuice: Iran will respond to US attacks with a response 'several times larger and US bases and interests in the region will be targeted - Tasnim cites senior Iranian Military Source.",
+    "link": "https://www.financialjuice.com/News/9745245/Iran-will-respond-to-US-attacks-with-a-response-several-times-larger-and-US-bases-and-interests-in-the-region-will-be-targeted---Tasnim-cites-senior-Iranian-Military-Source.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:37:47 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이란은 미국의 공격에 대해 ‘수 배 더 강력한’ 보복 조치를 취할 것이며, 이 지역의 미국 기지와 이해관계가 표적이 될 것이라고 타스님 통신이 이란 군 고위 관계자의 말을 인용해 보도했다."
+  },
+  {
+    "guid": "9745244",
+    "title": "FinancialJuice: Iran to deliver a greater response to US strikes - Tasnim",
+    "link": "https://www.financialjuice.com/News/9745244/Iran-to-deliver-a-greater-response-to-US-strikes---Tasnim.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:33:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란, 미국의 공습에 더 강력한 대응을 펼칠 것 - 타스님"
+  },
+  {
+    "guid": "9745227",
+    "title": "FinancialJuice: Trump: Iranians shot 8 missiles at our military base in Jordan.",
+    "link": "https://www.financialjuice.com/News/9745227/Trump-Iranians-shot-8-missiles-at-our-military-base-in-Jordan.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:29:05 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프: 이란이 요르단에 있는 우리 군사 기지에 미사일 8발을 발사했다."
+  },
+  {
+    "guid": "9745226",
+    "title": "FinancialJuice: Apple’s CEO teases future products and ‘phenomenal’ iPhone launch in first memo sent to employees. $AAPL",
+    "link": "https://www.financialjuice.com/News/9745226/Apples-CEO-teases-future-products-and-phenomenal-iPhone-launch-in-first-memo-sent-to-employees-AAPL.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:28:31 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 애플 CEO, 직원들에게 보낸 첫 메모에서 향후 출시될 제품과 ‘경이로운’ 아이폰 출시를 암시. $AAPL"
+  },
+  {
+    "guid": "9745225",
+    "title": "FinancialJuice: Trump: Strikes in retaliation for the Iranians sea mines.",
+    "link": "https://www.financialjuice.com/News/9745225/Trump-Strikes-in-retaliation-for-the-Iranians-sea-mines.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:27:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 이란의 해저 지뢰 설치에 대한 보복으로 공습을 단행했다."
+  },
+  {
+    "guid": "9745224",
+    "title": "FinancialJuice: Trump: If Iran retaliates for this very justified attack, they will be hit again at a much harder and higher level - Truth Social ",
+    "link": "https://www.financialjuice.com/News/9745224/Trump-If-Iran-retaliates-for-this-very-justified-attack-they-will-be-hit-again-at-a-much-harder-and-higher-level---Truth-Social-.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:26:50 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프 “이란이 이 지극히 정당한 공격에 보복한다면, 훨씬 더 강력하고 대규모의 보복을 당할 것” - Truth Social "
+  },
+  {
+    "guid": "9745223",
+    "title": "FinancialJuice: Trump: US striking Iranian targets near the Strait of Hormuz. - Truth Social ",
+    "link": "https://www.financialjuice.com/News/9745223/Trump-US-striking-Iranian-targets-near-the-Strait-of-Hormuz---Truth-Social-.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:26:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “미국, 호르무즈 해협 인근 이란 목표물을 공습 중” - Truth Social "
+  },
+  {
+    "guid": "9745222",
+    "title": "FinancialJuice: Russia's Putin, China's Xi, and US Trump may hold trilateral Talks at the APEC summit - Vesti",
+    "link": "https://www.financialjuice.com/News/9745222/Russias-Putin-Chinas-Xi-and-US-Trump-may-hold-trilateral-Talks-at-the-APEC-summit---Vesti.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:19:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아의 푸틴, 중국의 시진핑, 미국의 트럼프가 APEC 정상회의에서 3자 회담을 가질 전망 - Vesti"
+  },
+  {
+    "guid": "9745205",
+    "title": "FinancialJuice: Four projectiles struck areas in southeastern Chabahar and Konarak; assessments of possible damage are underway - Iran's IRNA cites Provincial Security Official",
+    "link": "https://www.financialjuice.com/News/9745205/Four-projectiles-struck-areas-in-southeastern-Chabahar-and-Konarak-assessments-of-possible-damage-are-underway---Irans-IRNA-cites-Provincial-Security-Official.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:03:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 차바하르 남동부와 코나라크 일대에 4발의 발사체가 떨어졌으며, 피해 규모 파악이 진행 중이라고 이란 국영 IRNA 통신이 지역 보안 당국자를 인용해 보도했다."
+  },
+  {
+    "guid": "9745201",
+    "title": "FinancialJuice: The US embassy in Israel warns American citizens in the Middle East of a possible escalation - Sky News Arabia.",
+    "link": "https://www.financialjuice.com/News/9745201/The-US-embassy-in-Israel-warns-American-citizens-in-the-Middle-East-of-a-possible-escalation---Sky-News-Arabia.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:02:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘 주재 미국 대사관이 중동에 체류 중인 미국 시민들에게 사태가 악화될 가능성이 있다고 경고했다 - 스카이 뉴스 아라비아."
+  },
+  {
+    "guid": "9745188",
+    "title": "FinancialJuice: IAEA: The missing Iranian uranium is a proliferation concern.",
+    "link": "https://www.financialjuice.com/News/9745188/IAEA-The-missing-Iranian-uranium-is-a-proliferation-concern.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:01:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IAEA, “실종된 이란산 우라늄은 핵확산 우려 사항이다.”"
+  },
+  {
+    "guid": "9745181",
+    "title": "FinancialJuice: IAEA Report shows IAEA estimates of Iran's enriched uranium stocks up to June 13th, 2025, are unchanged from previous reports.",
+    "link": "https://www.financialjuice.com/News/9745181/IAEA-Report-shows-IAEA-estimates-of-Irans-enriched-uranium-stocks-up-to-June-13th-2025-are-unchanged-from-previous-reports.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 17:00:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IAEA 보고서에 따르면, 2025년 6월 13일까지의 이란 농축 우라늄 보유량에 대한 IAEA의 추산치는 이전 보고서와 변함이 없는 것으로 나타났다."
+  },
+  {
+    "guid": "9745148",
+    "title": "FinancialJuice: US CENTCOM: The US military launched fresh strikes on Iranian targets.",
+    "link": "https://www.financialjuice.com/News/9745148/US-CENTCOM-The-US-military-launched-fresh-strikes-on-Iranian-targets.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 16:35:25 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 미 중부사령부(CENTCOM): 미군이 이란 내 목표물을 대상으로 새로운 공습을 감행했다."
+  },
+  {
+    "guid": "9745133",
+    "title": "FinancialJuice: US Official: US strikes Iranian targets in the Strait of Hormuz area in response to Iranian attacks on ships - N12 News' Ravid.",
+    "link": "https://www.financialjuice.com/News/9745133/US-Official-US-strikes-Iranian-targets-in-the-Strait-of-Hormuz-area-in-response-to-Iranian-attacks-on-ships---N12-News-Ravid.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 16:28:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 당국자: 이란의 선박 공격에 대응해 미국이 호르무즈 해협 일대의 이란 목표물을 타격했다 - N12 뉴스의 라비드."
+  },
+  {
+    "guid": "9745119",
+    "title": "FinancialJuice: Russian Foreign Minister on the German accusations that Russia was behind attempted airport drone attack: Russia will respond to all anti-Russian actions - IFX.",
+    "link": "https://www.financialjuice.com/News/9745119/Russian-Foreign-Minister-on-the-German-accusations-that-Russia-was-behind-attempted-airport-drone-attack-Russia-will-respond-to-all-anti-Russian-actions---IFX.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 16:08:39 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 독일 측이 러시아가 공항 드론 공격 미수 사건의 배후라고 비난한 데 대해 러시아 외무장관은 “러시아는 모든 반러시아적 행위에 대응할 것”이라고 밝혔다 - IFX."
+  },
+  {
+    "guid": "9745100",
+    "title": "FinancialJuice: NATO Sec. Gen. Rutte: NATO stands in full solidarity with Germany after the Russian Hybrid Attack in Leipzig on the 14th August. NATO will continue to strengthen our ability to deter and defend all allies against any threat.",
+    "link": "https://www.financialjuice.com/News/9745100/NATO-Sec-Gen-Rutte-NATO-stands-in-full-solidarity-with-Germany-after-the-Russian-Hybrid-Attack-in-Leipzig-on-the-14th-August-NATO-will-continue-to-strengthen-our-ability-to-deter-and-defend-all-allies-against-any-threat.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 15:48:15 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 루테 나토 사무총장: 8월 14일 라이프치히에서 발생한 러시아의 하이브리드 공격 이후, 나토는 독일과 전폭적인 연대를 표명한다. 나토는 모든 동맹국을 대상으로 어떠한 위협에 대해서도 억제하고 방어할 수 있는 역량을 지속적으로 강화해 나갈 것이다."
+  },
+  {
+    "guid": "9745072",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: I told the BoJ Governor to avoid excess FX rate volatility.",
+    "link": "https://www.financialjuice.com/News/9745072/US-Treasury-Secretary-Bessent-I-told-the-BoJ-Governor-to-avoid-excess-FX-rate-volatility.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 15:45:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: “일본은행 총재에게 환율 변동성이 과도해지지 않도록 주의하라고 당부했다.”"
+  },
+  {
+    "guid": "9745071",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: I expressed strong support for Japan's decisive market and monetary steps to address the substantial undervaluation of the yen.",
+    "link": "https://www.financialjuice.com/News/9745071/US-Treasury-Secretary-Bessent-I-expressed-strong-support-for-Japans-decisive-market-and-monetary-steps-to-address-the-substantial-undervaluation-of-the-yen.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 15:43:55 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 저는 엔화의 상당한 저평가 문제를 해결하기 위해 일본이 취한 단호한 시장 및 통화 정책 조치에 대해 강력한 지지를 표명했습니다."
+  },
+  {
+    "guid": "9745070",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: I emphasized the importance of sound formulation and communication of monetary policy to anchor inflation expectations in meeting with the Bank of Japan Governor.",
+    "link": "https://www.financialjuice.com/News/9745070/US-Treasury-Secretary-Bessent-I-emphasized-the-importance-of-sound-formulation-and-communication-of-monetary-policy-to-anchor-inflation-expectations-in-meeting-with-the-Bank-of-Japan-Governor.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 15:43:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: “일본은행 총재와의 회동에서 인플레이션 기대치를 안정시키기 위해 통화정책을 건전하게 수립하고 이를 효과적으로 전달하는 것이 중요하다는 점을 강조했다.”"
+  },
+  {
+    "guid": "9745069",
+    "title": "FinancialJuice: EC Pres. von der Leyen: We're going to discuss Leipzig attack with NATO's Rutte.",
+    "link": "https://www.financialjuice.com/News/9745069/EC-Pres-von-der-Leyen-Were-going-to-discuss-Leipzig-attack-with-NATOs-Rutte.aspx?xy=rss",
+    "pubDate": "Tue, 01 Sep 2026 15:42:20 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 폰 데어 라이엔 유럽집행위원회 위원장: 라이프치히 테러 사건에 대해 나토의 루테 총리와 논의할 예정이다."
+  },
+  {
     "guid": "9745068",
     "title": "FinancialJuice: US 52-Week Bill Auction",
     "link": "https://www.financialjuice.com/News/9745068/US-52-Week-Bill-Auction.aspx",
