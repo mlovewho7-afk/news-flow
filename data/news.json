@@ -1,5 +1,253 @@
 [
   {
+    "guid": "9747383",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9747383/MOC-Imbalance.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 19:50:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOC 불균형"
+  },
+  {
+    "guid": "9747347",
+    "title": "FinancialJuice: US NFP Prep: Will the Weak Jobs Trend Continue? - FJElite",
+    "link": "https://www.financialjuice.com/News/9747347/US-NFP-Prep-Will-the-Weak-Jobs-Trend-Continue---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 19:24:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 비농업 고용지표(NFP) 전망: 부진한 고용 추세가 이어질까? - FJElite"
+  },
+  {
+    "guid": "9747346",
+    "title": "FinancialJuice: US August Employment Situation Crib Sheet - FJElite",
+    "link": "https://www.financialjuice.com/News/9747346/US-August-Employment-Situation-Crib-Sheet---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 19:24:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 8월 고용 동향 요약 자료 - FJElite"
+  },
+  {
+    "guid": "9747345",
+    "title": "FinancialJuice: Thursday FX Options Expiries ",
+    "link": "https://www.financialjuice.com/News/9747345/Thursday-FX-Options-Expiries-.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 19:22:22 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 목요일 외환 옵션 만기일 "
+  },
+  {
+    "guid": "9747328",
+    "title": "FinancialJuice: Meta rolls out Muse Spark 1.3 in Muse Code and the Meta model API. $META",
+    "link": "https://www.financialjuice.com/News/9747328/Meta-rolls-out-Muse-Spark-13-in-Muse-Code-and-the-Meta-model-API-META.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 19:00:43 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 메타, Muse Code 및 메타 모델 API에 Muse Spark 1.3을 출시했습니다. $META"
+  },
+  {
+    "guid": "9747327",
+    "title": "FinancialJuice: Brent crude futures settle at $95.63/bbl, up 98 cents, 1.04%.",
+    "link": "https://www.financialjuice.com/News/9747327/Brent-crude-futures-settle-at-9563bbl-up-98-cents-104.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:48:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브렌트 원유 선물 가격이 배럴당 95.63달러로 마감하며, 98센트(1.04%) 상승했다."
+  },
+  {
+    "guid": "9747312",
+    "title": "FinancialJuice: Trump ends remarks at the White House.",
+    "link": "https://www.financialjuice.com/News/9747312/Trump-ends-remarks-at-the-White-House.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:38:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 백악관에서 연설을 마쳤다."
+  },
+  {
+    "guid": "9747311",
+    "title": "FinancialJuice: NYMEX Natural Gas October futures settle at $2.9560/MMBTU.\n",
+    "link": "https://www.financialjuice.com/News/9747311/NYMEX-Natural-Gas-October-futures-settle-at-29560MMBTU.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:33:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 천연가스 10월물 선물이 MMBTU당 2.9560달러에 마감했다.\n"
+  },
+  {
+    "guid": "9747310",
+    "title": "FinancialJuice: NYMEX Diesel October futures settle at $4.6822 a gallon.",
+    "link": "https://www.financialjuice.com/News/9747310/NYMEX-Diesel-October-futures-settle-at-46822-a-gallon.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:32:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 10월물 디젤 선물 가격이 갤런당 4.6822달러로 마감했다."
+  },
+  {
+    "guid": "9747309",
+    "title": "FinancialJuice: NYMEX Gasoline October futures settle at $3.1038 a gallon.",
+    "link": "https://www.financialjuice.com/News/9747309/NYMEX-Gasoline-October-futures-settle-at-31038-a-gallon.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:32:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 10월물 휘발유 선물 가격이 갤런당 3.1038달러에 마감했다."
+  },
+  {
+    "guid": "9747308",
+    "title": "FinancialJuice: NYMEX WTI crude October futures settle at $91.01 a barrel, up 79 cents, 0.88%.",
+    "link": "https://www.financialjuice.com/News/9747308/NYMEX-WTI-crude-October-futures-settle-at-9101-a-barrel-up-79-cents-088.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:31:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX WTI 원유 10월물 선물 가격이 배럴당 91.01달러로 마감되며, 79센트(0.88%) 상승했다."
+  },
+  {
+    "guid": "9747283",
+    "title": "FinancialJuice: Trump: Want to do a Putin summit when we're ready for a peace deal.",
+    "link": "https://www.financialjuice.com/News/9747283/Trump-Want-to-do-a-Putin-summit-when-were-ready-for-a-peace-deal.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:26:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 평화 협정 체결 준비가 되면 푸틴과 정상회담을 갖고 싶다."
+  },
+  {
+    "guid": "9747282",
+    "title": "FinancialJuice: Trump on Russia's war in Ukraine: They have to stop that war.",
+    "link": "https://www.financialjuice.com/News/9747282/Trump-on-Russias-war-in-Ukraine-They-have-to-stop-that-war.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:25:57 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프, 러시아의 우크라이나 침공에 대해 “그들은 그 전쟁을 멈춰야 한다”고 말했다."
+  },
+  {
+    "guid": "9747281",
+    "title": "FinancialJuice: Trump: Want retail gasoline prices to come down.",
+    "link": "https://www.financialjuice.com/News/9747281/Trump-Want-retail-gasoline-prices-to-come-down.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:24:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “소매 휘발유 가격이 내려가길 바란다.”"
+  },
+  {
+    "guid": "9747280",
+    "title": "FinancialJuice: Trump: brought up price gouging to oil execs yesterday.",
+    "link": "https://www.financialjuice.com/News/9747280/Trump-brought-up-price-gouging-to-oil-execs-yesterday.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:23:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 어제 석유 업계 경영진들에게 가격 폭리 문제를 제기했다."
+  },
+  {
+    "guid": "9747279",
+    "title": "FinancialJuice: Trump on Iran war: Don't think it'll be much longer.",
+    "link": "https://www.financialjuice.com/News/9747279/Trump-on-Iran-war-Dont-think-itll-be-much-longer.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:22:47 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프, 이란 전쟁에 대해 “더 이상 오래 걸리지는 않을 것 같다”고 말했다."
+  },
+  {
+    "guid": "9747278",
+    "title": "FinancialJuice: Trump: Prepared to do another attack on Iran.",
+    "link": "https://www.financialjuice.com/News/9747278/Trump-Prepared-to-do-another-attack-on-Iran.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:21:27 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프, 이란에 대한 추가 공격 준비 완료."
+  },
+  {
+    "guid": "9747277",
+    "title": "FinancialJuice: Trump on Iran: Iran was trying to rebuild radar and missile systems; we took it out.",
+    "link": "https://www.financialjuice.com/News/9747277/Trump-on-Iran-Iran-was-trying-to-rebuild-radar-and-missile-systems-we-took-it-out.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:20:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프의 이란 관련 발언: 이란은 레이더와 미사일 시스템을 재건하려 했으나, 우리가 이를 무력화시켰다."
+  },
+  {
+    "guid": "9747276",
+    "title": "FinancialJuice: Trump: controlling the Hormuz Strait.",
+    "link": "https://www.financialjuice.com/News/9747276/Trump-controlling-the-Hormuz-Strait.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:19:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 호르무즈 해협 장악."
+  },
+  {
+    "guid": "9747275",
+    "title": "FinancialJuice: Trump on Iran: Renewed campaign against Iran won't continue for too long.",
+    "link": "https://www.financialjuice.com/News/9747275/Trump-on-Iran-Renewed-campaign-against-Iran-wont-continue-for-too-long.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:19:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프의 이란 관련 발언: 이란을 상대로 한 재개된 공세는 그리 오래 지속되지 않을 것이다."
+  },
+  {
+    "guid": "9747274",
+    "title": "FinancialJuice: Trump: Oil prices will come down.",
+    "link": "https://www.financialjuice.com/News/9747274/Trump-Oil-prices-will-come-down.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:19:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “유가는 떨어질 것이다.”"
+  },
+  {
+    "guid": "9747270",
+    "title": "FinancialJuice: Trump: Canada is tougher to deal with than China or Vietnam.",
+    "link": "https://www.financialjuice.com/News/9747270/Trump-Canada-is-tougher-to-deal-with-than-China-or-Vietnam.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:16:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “캐나다는 중국이나 베트남보다 상대하기 더 어렵다.”"
+  },
+  {
+    "guid": "9747262",
+    "title": "FinancialJuice: Trump: Canada has felt emboldened.",
+    "link": "https://www.financialjuice.com/News/9747262/Trump-Canada-has-felt-emboldened.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:16:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “캐나다는 기세를 얻었다.”"
+  },
+  {
+    "guid": "9747257",
+    "title": "FinancialJuice: Trump on Canada: Has been ripping us off for decades",
+    "link": "https://www.financialjuice.com/News/9747257/Trump-on-Canada-Has-been-ripping-us-off-for-decades.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:13:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 캐나다에 대해 “수십 년 동안 우리를 속여 왔다”"
+  },
+  {
+    "guid": "9747256",
+    "title": "FinancialJuice: Trump on Iran: Regime getting weaker by the day.",
+    "link": "https://www.financialjuice.com/News/9747256/Trump-on-Iran-Regime-getting-weaker-by-the-day.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:11:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 이란에 대해 “정권이 날이 갈수록 약해지고 있다.”"
+  },
+  {
+    "guid": "9747255",
+    "title": "FinancialJuice: Trump: Have very productive things to talk about with Xi.",
+    "link": "https://www.financialjuice.com/News/9747255/Trump-Have-very-productive-things-to-talk-about-with-Xi.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:06:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “시 주석과 논의할 매우 생산적인 안건들이 있다.”"
+  },
+  {
+    "guid": "9747244",
+    "title": "FinancialJuice: Fed Beige Book: Prices increased moderately in eight districts, with two districts reporting modest increases, one slight increase, and one robust increase.",
+    "link": "https://www.financialjuice.com/News/9747244/Fed-Beige-Book-Prices-increased-moderately-in-eight-districts-with-two-districts-reporting-modest-increases-one-slight-increase-and-one-robust-increase.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:01:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 베이지북: 8개 지역에서 물가가 완만하게 상승했으며, 이 중 2개 지역은 소폭 상승, 1개 지역은 미미한 상승, 1개 지역은 견조한 상승을 기록한 것으로 나타났다."
+  },
+  {
+    "guid": "9747242",
+    "title": "FinancialJuice: Fed Beige Book: Employment rose very slightly overall, with three districts showing modest gains in employment, four reporting slight gains, and five districts experiencing no change.",
+    "link": "https://www.financialjuice.com/News/9747242/Fed-Beige-Book-Employment-rose-very-slightly-overall-with-three-districts-showing-modest-gains-in-employment-four-reporting-slight-gains-and-five-districts-experiencing-no-change.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:00:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 베이지북: 고용은 전반적으로 아주 소폭 증가했으며, 3개 지역에서는 고용이 소폭 증가한 것으로 나타났고, 4개 지역은 소폭 증가를 기록했으며, 5개 지역은 변동이 없었다."
+  },
+  {
+    "guid": "9747241",
+    "title": "FinancialJuice: Fed Beige Book: The general outlook for the coming months was positive, but sentiment was mixed across sectors, with contacts reporting heightened uncertainty surrounding the effects of higher energy prices.",
+    "link": "https://www.financialjuice.com/News/9747241/Fed-Beige-Book-The-general-outlook-for-the-coming-months-was-positive-but-sentiment-was-mixed-across-sectors-with-contacts-reporting-heightened-uncertainty-surrounding-the-effects-of-higher-energy-prices.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:00:47 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 베이지북: 향후 몇 달간의 전반적인 전망은 긍정적이었으나, 업종별 분위기는 엇갈렸으며, 응답자들은 에너지 가격 상승의 영향에 대한 불확실성이 커졌다고 전했다."
+  },
+  {
+    "guid": "9747240",
+    "title": "FinancialJuice: Fed Beige Book: Economic activity increased modestly since early July.",
+    "link": "https://www.financialjuice.com/News/9747240/Fed-Beige-Book-Economic-activity-increased-modestly-since-early-July.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 18:00:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 베이지북: 7월 초 이후 경제 활동이 소폭 증가했다."
+  },
+  {
+    "guid": "9747235",
+    "title": "FinancialJuice: US Treasury Secretary Bessent concludes Q&A at Charlotte Economics Club.",
+    "link": "https://www.financialjuice.com/News/9747235/US-Treasury-Secretary-Bessent-concludes-QA-at-Charlotte-Economics-Club.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 17:55:22 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관이 샬럿 경제 클럽에서 열린 질의응답 세션을 마쳤다."
+  },
+  {
     "guid": "9747234",
     "title": "FinancialJuice: US Commerce Secretary Lutnick ends remarks on Bloomberg TV.",
     "link": "https://www.financialjuice.com/News/9747234/US-Commerce-Secretary-Lutnick-ends-remarks-on-Bloomberg-TV.aspx",
