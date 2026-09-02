@@ -1,5 +1,693 @@
 [
   {
+    "guid": "9746188",
+    "title": "FinancialJuice: ECB's Nagel: Markets see >95% probability of a September rate hike",
+    "link": "https://www.financialjuice.com/News/9746188/ECBs-Nagel-Markets-see-95-probability-of-a-September-rate-hike.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:43:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB의 나겔, “시장은 9월 금리 인상 가능성을 95% 이상으로 보고 있다”"
+  },
+  {
+    "guid": "9746176",
+    "title": "FinancialJuice: BoJ's Takata: Rate hike pace should be assessed at every meeting. Generally speaking, consecutive rate hikes could be a possibility",
+    "link": "https://www.financialjuice.com/News/9746176/BoJs-Takata-Rate-hike-pace-should-be-assessed-at-every-meeting-Generally-speaking-consecutive-rate-hikes-could-be-a-possibility.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:29:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BoJ)의 타카타: 금리 인상 속도는 매 회의마다 검토해야 한다. 일반적으로 볼 때, 연속적인 금리 인상이 가능할 수도 있다."
+  },
+  {
+    "guid": "9746175",
+    "title": "FinancialJuice: BoJ's Takata: It's not a foregone conclusion that the next hike will be 0.25%",
+    "link": "https://www.financialjuice.com/News/9746175/BoJs-Takata-Its-not-a-foregone-conclusion-that-the-next-hike-will-be-025.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:28:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행 타카타: 다음 금리 인상이 0.25%가 될 것이라는 것은 아직 확정된 바가 아니다"
+  },
+  {
+    "guid": "9746174",
+    "title": "FinancialJuice: BoJ's Takata: We will monitor bond market situations carefully, though we don't believe Japan is an exceptional case",
+    "link": "https://www.financialjuice.com/News/9746174/BoJs-Takata-We-will-monitor-bond-market-situations-carefully-though-we-dont-believe-Japan-is-an-exceptional-case.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:24:10 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 일본은행(BoJ)의 타카타: 일본이 예외적인 사례라고 보지는 않지만, 채권 시장 상황을 주의 깊게 지켜볼 것이다"
+  },
+  {
+    "guid": "9746173",
+    "title": "FinancialJuice: BoJ's Takata: As a central bank, won't comment on benchmark JGB yield hitting 3%",
+    "link": "https://www.financialjuice.com/News/9746173/BoJs-Takata-As-a-central-bank-wont-comment-on-benchmark-JGB-yield-hitting-3.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:20:58 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 타카타: 중앙은행으로서 기준 일본 국채 수익률이 3%에 도달한 것에 대해서는 논평하지 않겠다"
+  },
+  {
+    "guid": "9746172",
+    "title": "FinancialJuice: Iran's IRGC: Attacked US assets in Kuwait, Bahrain, Jordan, and Iraq's Erbil",
+    "link": "https://www.financialjuice.com/News/9746172/Irans-IRGC-Attacked-US-assets-in-Kuwait-Bahrain-Jordan-and-Iraqs-Erbil.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:17:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대(IRGC), 쿠웨이트·바레인·요르단 및 이라크 아르빌에 있는 미국 자산 공격"
+  },
+  {
+    "guid": "9746171",
+    "title": "FinancialJuice: BoJ's Takata: Neutral rates could diverse from levels calculated based on conventional analysis.",
+    "link": "https://www.financialjuice.com/News/9746171/BoJs-Takata-Neutral-rates-could-diverse-from-levels-calculated-based-on-conventional-analysis.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:17:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행의 타카타: 중립 금리는 기존 분석에 기반해 산출된 수준과는 차이가 있을 수 있다."
+  },
+  {
+    "guid": "9746161",
+    "title": "FinancialJuice: BoJ's Takata: Need a more nimble approach with rate hikes",
+    "link": "https://www.financialjuice.com/News/9746161/BoJs-Takata-Need-a-more-nimble-approach-with-rate-hikes.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:15:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 타카타 총재 “금리 인상에는 더 유연한 접근이 필요하다”"
+  },
+  {
+    "guid": "9746159",
+    "title": "FinancialJuice: BoJ's Takata: BoJ needs to consider a broad range of options, not just a 0.25% rate hike each time",
+    "link": "https://www.financialjuice.com/News/9746159/BoJs-Takata-BoJ-needs-to-consider-a-broad-range-of-options-not-just-a-025-rate-hike-each-time.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:15:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BoJ)의 타카타: 일본은행은 매번 0.25% 금리 인상만 고집할 것이 아니라 폭넓은 선택지를 고려해야 한다"
+  },
+  {
+    "guid": "9746158",
+    "title": "FinancialJuice: BoJ's Takata: BoJ needs a different response from the conventional semiannual rate hike pace",
+    "link": "https://www.financialjuice.com/News/9746158/BoJs-Takata-BoJ-needs-a-different-response-from-the-conventional-semiannual-rate-hike-pace.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:14:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 타카타: 일본은행은 기존의 반기별 금리 인상 속도와는 다른 대응이 필요하다"
+  },
+  {
+    "guid": "9746156",
+    "title": "FinancialJuice: BoJ board member Takata: 2026 marks a regime change, needs a different response as rate hikes are becoming a global trend on the back of economic growth, as well as AI-linked investment",
+    "link": "https://www.financialjuice.com/News/9746156/BoJ-board-member-Takata-2026-marks-a-regime-change-needs-a-different-response-as-rate-hikes-are-becoming-a-global-trend-on-the-back-of-economic-growth-as-well-as-AI-linked-investment.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:13:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BoJ) 이사 타카타: 2026년은 새로운 국면의 시작이며, 경제 성장과 AI 관련 투자를 배경으로 금리 인상이 전 세계적인 추세가 되고 있는 만큼 다른 대응책이 필요하다"
+  },
+  {
+    "guid": "9746154",
+    "title": "FinancialJuice: Japan oil refinery operating rate 82.6% in week to August 29.",
+    "link": "https://www.financialjuice.com/News/9746154/Japan-oil-refinery-operating-rate-826-in-week-to-August-29.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 05:08:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 8월 29일까지의 주간 일본 정유소 가동률은 82.6%를 기록했다."
+  },
+  {
+    "guid": "9746142",
+    "title": "FinancialJuice: Bahrain Defence Force says air defences intercepted and destroyed multiple Iranian aerial attacks",
+    "link": "https://www.financialjuice.com/News/9746142/Bahrain-Defence-Force-says-air-defences-intercepted-and-destroyed-multiple-Iranian-aerial-attacks.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 04:59:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 바레인 국방군, 이란의 여러 차례 공중 공격을 방공 체계가 요격해 격추했다고 밝혔다"
+  },
+  {
+    "guid": "9746133",
+    "title": "FinancialJuice: Explosion heard in Ukraine's Kyiv: source witness",
+    "link": "https://www.financialjuice.com/News/9746133/Explosion-heard-in-Ukraines-Kyiv-source-witness.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 04:41:46 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 우크라이나 키예프에서 폭발음 들렸다… 목격자 전언"
+  },
+  {
+    "guid": "9746132",
+    "title": "FinancialJuice: New Zealand dollar extends decline, falls 1.03% to $0.5831",
+    "link": "https://www.financialjuice.com/News/9746132/New-Zealand-dollar-extends-decline-falls-103-to-05831.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 04:35:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 달러 하락세 이어가며 1.03% 하락한 0.5831달러 기록"
+  },
+  {
+    "guid": "9746099",
+    "title": "FinancialJuice: European Commission drafting plans to dismantle EU diplomatic service and integrate segments into bloc’s executive, FT",
+    "link": "https://www.financialjuice.com/News/9746099/European-Commission-drafting-plans-to-dismantle-EU-diplomatic-service-and-integrate-segments-into-blocs-executive-FT.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 04:02:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽집행위원회, EU 외교부를 해체하고 일부 부서를 EU 집행부로 통합하는 방안 마련 중 — FT"
+  },
+  {
+    "guid": "9746098",
+    "title": "FinancialJuice: ECB must be ready to raise interest rates further: top policymaker Gabriel Makhlouf - FT",
+    "link": "https://www.financialjuice.com/News/9746098/ECB-must-be-ready-to-raise-interest-rates-further-top-policymaker-Gabriel-Makhlouf---FT.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 04:02:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB, 추가 금리 인상 준비해야 한다: 가브리엘 마클루프 고위 정책 담당자 - FT"
+  },
+  {
+    "guid": "9746097",
+    "title": "FinancialJuice: EU speeds up plans to split diplomatic service - FT",
+    "link": "https://www.financialjuice.com/News/9746097/EU-speeds-up-plans-to-split-diplomatic-service---FT.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 04:02:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU, 외교부 분할 계획 가속화 - FT"
+  },
+  {
+    "guid": "9746082",
+    "title": "FinancialJuice: China finance ministry offers 6-month bills at 1.2227% yield: traders",
+    "link": "https://www.financialjuice.com/News/9746082/China-finance-ministry-offers-6-month-bills-at-12227-yield-traders.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:37:44 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 중국 재무부, 수익률 1.2227%의 6개월 만기 국채 발행…거래원들"
+  },
+  {
+    "guid": "9746081",
+    "title": "FinancialJuice: China finance ministry auctions 30-year ultra-long special treasury bonds at 2.1405% yield: traders",
+    "link": "https://www.financialjuice.com/News/9746081/China-finance-ministry-auctions-30-year-ultra-long-special-treasury-bonds-at-21405-yield-traders.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:36:27 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 중국 재무부, 30년 만기 초장기 특별 국채를 수익률 2.1405%에 경매 실시: 트레이더들"
+  },
+  {
+    "guid": "9746068",
+    "title": "FinancialJuice: Russia's Siluanov: dialogue with U.S. should continue - Interfax",
+    "link": "https://www.financialjuice.com/News/9746068/Russias-Siluanov-dialogue-with-US-should-continue---Interfax.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:26:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 실루아노프, “미국과의 대화는 계속되어야 한다” - 인터팩스"
+  },
+  {
+    "guid": "9746067",
+    "title": "FinancialJuice: Russian finance minister Siluanov: grounds to expand financial ties with U.S. despite current complications - Interfax",
+    "link": "https://www.financialjuice.com/News/9746067/Russian-finance-minister-Siluanov-grounds-to-expand-financial-ties-with-US-despite-current-complications---Interfax.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:26:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 실루아노프 러시아 재무장관, “현재의 난관에도 불구하고 미국과의 금융 관계 확대 근거 있다” - 인터팩스"
+  },
+  {
+    "guid": "9746066",
+    "title": "FinancialJuice: RBNZ Governor Breman: export sector has been significantly stronger than anticipated",
+    "link": "https://www.financialjuice.com/News/9746066/RBNZ-Governor-Breman-export-sector-has-been-significantly-stronger-than-anticipated.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:25:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브레만 뉴질랜드 중앙은행 총재: 수출 부문이 예상보다 훨씬 더 견조한 모습을 보이고 있다"
+  },
+  {
+    "guid": "9746035",
+    "title": "FinancialJuice: RBNZ Governor Breman: further OCR increase likely, will evaluate impact of previous hikes",
+    "link": "https://www.financialjuice.com/News/9746035/RBNZ-Governor-Breman-further-OCR-increase-likely-will-evaluate-impact-of-previous-hikes.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:15:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: RBNZ 브레만 총재, “추가 기준금리 인상 가능성 높으며, 이전 인상 조치의 영향을 평가할 것”"
+  },
+  {
+    "guid": "9746034",
+    "title": "FinancialJuice: RBNZ Governor Breman: election won't influence policy decisions",
+    "link": "https://www.financialjuice.com/News/9746034/RBNZ-Governor-Breman-election-wont-influence-policy-decisions.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:14:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브레만 뉴질랜드 중앙은행 총재, “선거가 정책 결정에 영향을 미치지 않을 것”"
+  },
+  {
+    "guid": "9746033",
+    "title": "FinancialJuice: RBNZ Governor Breman: stressing no fixed path, timing of rate hike remains uncertain",
+    "link": "https://www.financialjuice.com/News/9746033/RBNZ-Governor-Breman-stressing-no-fixed-path-timing-of-rate-hike-remains-uncertain.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:13:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 브레만 뉴질랜드 중앙은행(RBNZ) 총재, “정해진 경로는 없다”고 강조… 금리 인상 시기는 여전히 불확실"
+  },
+  {
+    "guid": "9746032",
+    "title": "FinancialJuice: RBNZ Governor Breman: may need more time to evaluate policy stance",
+    "link": "https://www.financialjuice.com/News/9746032/RBNZ-Governor-Breman-may-need-more-time-to-evaluate-policy-stance.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:13:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브레만 뉴질랜드 중앙은행 총재, “정책 기조 평가에 더 많은 시간이 필요할 수도 있다”"
+  },
+  {
+    "guid": "9746031",
+    "title": "FinancialJuice: RBNZ Governor Breman: shifting OCR closer to neutral, still accommodative",
+    "link": "https://www.financialjuice.com/News/9746031/RBNZ-Governor-Breman-shifting-OCR-closer-to-neutral-still-accommodative.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:12:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브레만 뉴질랜드 중앙은행 총재: 기준금리(OCR)를 중립 수준에 더 가깝게 조정 중이지만, 여전히 완화적 기조 유지"
+  },
+  {
+    "guid": "9746030",
+    "title": "FinancialJuice: RBNZ Governor Breman: inflation can be reduced while backing economy",
+    "link": "https://www.financialjuice.com/News/9746030/RBNZ-Governor-Breman-inflation-can-be-reduced-while-backing-economy.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:11:59 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 브레만 뉴질랜드 중앙은행(RBNZ) 총재: 경제를 뒷받침하면서도 인플레이션을 낮출 수 있다"
+  },
+  {
+    "guid": "9746029",
+    "title": "FinancialJuice: RBNZ Governor Breman: OCR path closely resembles May projection",
+    "link": "https://www.financialjuice.com/News/9746029/RBNZ-Governor-Breman-OCR-path-closely-resembles-May-projection.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:10:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: RBNZ 브레만 총재, “OCR 경로는 5월 전망치와 매우 유사하다”"
+  },
+  {
+    "guid": "9746028",
+    "title": "FinancialJuice: Reserve Bank of New Zealand Gov Breman: Key question is whether economic recovery expands as expected",
+    "link": "https://www.financialjuice.com/News/9746028/Reserve-Bank-of-New-Zealand-Gov-Breman-Key-question-is-whether-economic-recovery-expands-as-expected.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 03:09:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행 브레만 총재 “핵심 쟁점은 경제 회복세가 예상대로 확대될지 여부”"
+  },
+  {
+    "guid": "9745999",
+    "title": "FinancialJuice: U.S. dollar gains 0.20% against Swiss franc to 0.8134",
+    "link": "https://www.financialjuice.com/News/9745999/US-dollar-gains-020-against-Swiss-franc-to-08134.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:26:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 달러, 스위스 프랑 대비 0.20% 상승해 0.8134 기록"
+  },
+  {
+    "guid": "9745981",
+    "title": "FinancialJuice: Rbnz minutes: all members agreed downside risks to activity were substantial and recovery may stay uneven",
+    "link": "https://www.financialjuice.com/News/9745981/Rbnz-minutes-all-members-agreed-downside-risks-to-activity-were-substantial-and-recovery-may-stay-uneven.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:04:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 모든 위원들은 경제 활동에 대한 하방 리스크가 상당하며, 회복세가 여전히 고르지 않을 수 있다는 데 의견을 모았다"
+  },
+  {
+    "guid": "9745980",
+    "title": "FinancialJuice: RBNZ minutes: Paul Conway and Carl Hansen viewed inflation risks as balanced",
+    "link": "https://www.financialjuice.com/News/9745980/RBNZ-minutes-Paul-Conway-and-Carl-Hansen-viewed-inflation-risks-as-balanced.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:04:10 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 폴 콘웨이와 칼 한센은 인플레이션 위험이 균형을 이루고 있다고 판단했다"
+  },
+  {
+    "guid": "9745979",
+    "title": "FinancialJuice: RBNZ minutes: Hayley Gourley, Karen Silk, Prasanna Gai and Anna Breman note upside risks to inflation versus central projection",
+    "link": "https://www.financialjuice.com/News/9745979/RBNZ-minutes-Hayley-Gourley-Karen-Silk-Prasanna-Gai-and-Anna-Breman-note-upside-risks-to-inflation-versus-central-projection.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:04:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 헤일리 구얼리, 카렌 실크, 프라산나 가이, 안나 브레만은 중앙은행의 전망치에 비해 인플레이션이 상승할 위험이 있다고 지적했다."
+  },
+  {
+    "guid": "9745978",
+    "title": "FinancialJuice: RBNZ minutes: committee concludes spare capacity persists in economy, especially labor market",
+    "link": "https://www.financialjuice.com/News/9745978/RBNZ-minutes-committee-concludes-spare-capacity-persists-in-economy-especially-labor-market.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:03:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 위원회, 경제 전반, 특히 노동시장에 여력이 여전히 존재한다고 결론지음"
+  },
+  {
+    "guid": "9745977",
+    "title": "FinancialJuice: RBNZ minutes: on central economic outlook, members see OCR possibly needing further increase",
+    "link": "https://www.financialjuice.com/News/9745977/RBNZ-minutes-on-central-economic-outlook-members-see-OCR-possibly-needing-further-increase.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:03:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 주요 경제 전망과 관련해, 위원들은 기준금리(OCR)를 추가로 인상해야 할 가능성이 있다고 보고 있다"
+  },
+  {
+    "guid": "9745976",
+    "title": "FinancialJuice: RBNZ minutes: all members concur that central projection for OCR is suitable",
+    "link": "https://www.financialjuice.com/News/9745976/RBNZ-minutes-all-members-concur-that-central-projection-for-OCR-is-suitable.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:03:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 모든 위원, 기준금리(OCR)에 대한 중앙 전망치가 적절하다는 데 동의"
+  },
+  {
+    "guid": "9745975",
+    "title": "FinancialJuice: RBNZ minutes: signs of medium-term inflation align with return to target",
+    "link": "https://www.financialjuice.com/News/9745975/RBNZ-minutes-signs-of-medium-term-inflation-align-with-return-to-target.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:03:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 중기 인플레이션 동향이 목표치 회복과 일치"
+  },
+  {
+    "guid": "9745974",
+    "title": "FinancialJuice: RBNZ minutes: future OCR trajectory is not fixed",
+    "link": "https://www.financialjuice.com/News/9745974/RBNZ-minutes-future-OCR-trajectory-is-not-fixed.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:03:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 향후 공식 금리(OCR)의 추이는 확정되지 않았다"
+  },
+  {
+    "guid": "9745973",
+    "title": "FinancialJuice: RBNZ minutes: committee judged raising OCR to 2.75% appropriate to sustainably return inflation to 2% target midpoint",
+    "link": "https://www.financialjuice.com/News/9745973/RBNZ-minutes-committee-judged-raising-OCR-to-275-appropriate-to-sustainably-return-inflation-to-2-target-midpoint.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:02:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 위원회는 인플레이션을 2% 목표치 중간 수준으로 지속 가능하게 되돌리기 위해 기준금리(OCR)를 2.75%로 인상하는 것이 적절하다고 판단했다."
+  },
+  {
+    "guid": "9745972",
+    "title": "FinancialJuice: RBNZ minutes: labour market conditions expected to improve as recovery accelerates",
+    "link": "https://www.financialjuice.com/News/9745972/RBNZ-minutes-labour-market-conditions-expected-to-improve-as-recovery-accelerates.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:02:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 경기 회복이 가속화됨에 따라 노동 시장 상황이 개선될 것으로 전망"
+  },
+  {
+    "guid": "9745971",
+    "title": "FinancialJuice: RBNZ minutes: recovery likely to strengthen and broaden",
+    "link": "https://www.financialjuice.com/News/9745971/RBNZ-minutes-recovery-likely-to-strengthen-and-broaden.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:02:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 경기 회복세가 더욱 탄력을 받고 폭도 넓어질 전망"
+  },
+  {
+    "guid": "9745970",
+    "title": "FinancialJuice: RBNZ minutes: future policy to hinge on committee’s assessment of medium-term inflation risks",
+    "link": "https://www.financialjuice.com/News/9745970/RBNZ-minutes-future-policy-to-hinge-on-committees-assessment-of-medium-term-inflation-risks.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:02:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 향후 정책은 위원회의 중기 인플레이션 리스크 평가에 따라 결정될 전망"
+  },
+  {
+    "guid": "9745969",
+    "title": "FinancialJuice: RBNZ minutes: After weak growth in June quarter, New Zealand's economic recovery likely resumed but remains uneven",
+    "link": "https://www.financialjuice.com/News/9745969/RBNZ-minutes-After-weak-growth-in-June-quarter-New-Zealands-economic-recovery-likely-resumed-but-remains-uneven.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:02:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 6월 분기 저조한 성장세 이후, 뉴질랜드 경제 회복세가 재개된 것으로 보이지만 여전히 고르지 못한 양상을 보이고 있다"
+  },
+  {
+    "guid": "9745968",
+    "title": "FinancialJuice: RBNZ minutes: committee agrees to raise OCR by 25 basis points to 2.75%",
+    "link": "https://www.financialjuice.com/News/9745968/RBNZ-minutes-committee-agrees-to-raise-OCR-by-25-basis-points-to-275.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:02:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 위원회, 기준금리(OCR)를 25 베이시스 포인트 인상해 2.75%로 결정"
+  },
+  {
+    "guid": "9745967",
+    "title": "FinancialJuice: RBNZ minutes: Monetary policy committee agrees to raise OCR by 25 basis points to 2.75%",
+    "link": "https://www.financialjuice.com/News/9745967/RBNZ-minutes-Monetary-policy-committee-agrees-to-raise-OCR-by-25-basis-points-to-275.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:02:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 회의록: 통화정책위원회, 기준금리(OCR)를 25 베이시스 포인트 인상해 2.75%로 결정"
+  },
+  {
+    "guid": "9745966",
+    "title": "FinancialJuice: New Zealand dollar dips 0.53% to $0.5860",
+    "link": "https://www.financialjuice.com/News/9745966/New-Zealand-dollar-dips-053-to-05860.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:02:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 달러, 0.53% 하락해 0.5860달러 기록"
+  },
+  {
+    "guid": "9745965",
+    "title": "FinancialJuice: RBNZ statement: labour market conditions expected to improve",
+    "link": "https://www.financialjuice.com/News/9745965/RBNZ-statement-labour-market-conditions-expected-to-improve.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:01:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 성명: 노동 시장 여건이 개선될 것으로 전망"
+  },
+  {
+    "guid": "9745964",
+    "title": "FinancialJuice: RBNZ statement: committee anticipates New Zealand's export sector to stay resilient and household spending to slowly rise",
+    "link": "https://www.financialjuice.com/News/9745964/RBNZ-statement-committee-anticipates-New-Zealands-export-sector-to-stay-resilient-and-household-spending-to-slowly-rise.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:01:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 성명: 위원회는 뉴질랜드 수출 부문이 탄탄한 회복세를 유지할 것으로 전망하며, 가계 소비는 서서히 증가할 것으로 내다봤다"
+  },
+  {
+    "guid": "9745921",
+    "title": "FinancialJuice: RBNZ statement: recovery forecast to gain strength and expand",
+    "link": "https://www.financialjuice.com/News/9745921/RBNZ-statement-recovery-forecast-to-gain-strength-and-expand.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:01:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 성명: 경기 회복세가 더욱 탄력을 받아 확대될 전망"
+  },
+  {
+    "guid": "9745883",
+    "title": "FinancialJuice: RBNZ: Committee stays alert, will act to ensure inflation returns sustainably to 2 percent target midpoint over medium term",
+    "link": "https://www.financialjuice.com/News/9745883/RBNZ-Committee-stays-alert-will-act-to-ensure-inflation-returns-sustainably-to-2-percent-target-midpoint-over-medium-term.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ): 위원회는 경계를 늦추지 않고, 중기적으로 인플레이션이 2% 목표치의 중간 수준으로 지속 가능하게 회복되도록 조치를 취할 것"
+  },
+  {
+    "guid": "9745882",
+    "title": "FinancialJuice: RBNZ: New Zealand’s economic rebound probably resumed but stays uneven",
+    "link": "https://www.financialjuice.com/News/9745882/RBNZ-New-Zealands-economic-rebound-probably-resumed-but-stays-uneven.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ): 뉴질랜드 경제 회복세가 재개된 것으로 보이지만, 여전히 고르지 않은 양상을 보이고 있다"
+  },
+  {
+    "guid": "9745881",
+    "title": "FinancialJuice: RBNZ: decision lowers risk of larger OCR hikes, future policy to rely on committee’s judgment of medium-term inflation risks",
+    "link": "https://www.financialjuice.com/News/9745881/RBNZ-decision-lowers-risk-of-larger-OCR-hikes-future-policy-to-rely-on-committees-judgment-of-medium-term-inflation-risks.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ): 이번 결정으로 기준금리(OCR)의 대폭 인상 가능성은 낮아졌으며, 향후 정책은 위원회의 중기 인플레이션 위험에 대한 판단에 따라 결정될 전망"
+  },
+  {
+    "guid": "9745880",
+    "title": "FinancialJuice: RBNZ: Committee decides gradual withdrawal of monetary stimulus suits goal of returning inflation to 2% midpoint while backing growth and jobs",
+    "link": "https://www.financialjuice.com/News/9745880/RBNZ-Committee-decides-gradual-withdrawal-of-monetary-stimulus-suits-goal-of-returning-inflation-to-2-midpoint-while-backing-growth-and-jobs.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ): 위원회, 성장과 고용을 뒷받침하는 동시에 인플레이션을 2% 목표치 중간 수준으로 되돌리는 데는 통화 부양책의 점진적 철회가 적합하다고 결정"
+  },
+  {
+    "guid": "9745856",
+    "title": "FinancialJuice: Four commodity vessels pass Strait of Hormuz on Tuesday, data shows, compared with 10-day average of around 13",
+    "link": "https://www.financialjuice.com/News/9745856/Four-commodity-vessels-pass-Strait-of-Hormuz-on-Tuesday-data-shows-compared-with-10-day-average-of-around-13.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 데이터에 따르면 화요일 호르무즈 해협을 통과한 원자재 운반선은 4척으로, 이는 10일 평균인 약 13척에 비해 적은 수치다."
+  },
+  {
+    "guid": "9745833",
+    "title": "FinancialJuice: RBNZ projects official cash rate at 3.12% in September 2027, up from 3.11%",
+    "link": "https://www.financialjuice.com/News/9745833/RBNZ-projects-official-cash-rate-at-312-in-September-2027-up-from-311.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ), 2027년 9월 기준금리를 3.11%에서 3.12%로 인상할 것으로 전망"
+  },
+  {
+    "guid": "9745832",
+    "title": "FinancialJuice: RBNZ forecasts official cash rate of 3.28% in September 2029",
+    "link": "https://www.financialjuice.com/News/9745832/RBNZ-forecasts-official-cash-rate-of-328-in-September-2029.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ), 2029년 9월 기준금리를 3.28%로 전망"
+  },
+  {
+    "guid": "9745831",
+    "title": "FinancialJuice: RBNZ forecasts TWI NZD near 66.9% in September 2027 (previous 66.6%)",
+    "link": "https://www.financialjuice.com/News/9745831/RBNZ-forecasts-TWI-NZD-near-669-in-September-2027-previous-666.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ), 2027년 9월 TWI NZD가 66.9% 수준에 달할 것으로 전망 (이전 전망치 66.6%)"
+  },
+  {
+    "guid": "9745830",
+    "title": "FinancialJuice: RBNZ projects annual CPI at 2.4% by September 2027, previously 2.0%",
+    "link": "https://www.financialjuice.com/News/9745830/RBNZ-projects-annual-CPI-at-24-by-September-2027-previously-20.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ), 2027년 9월까지 연간 소비자물가상승률(CPI)이 2.4%에 달할 것으로 전망… 기존 전망치는 2.0%"
+  },
+  {
+    "guid": "9745829",
+    "title": "FinancialJuice: RBNZ expects official cash rate at 2.81% in December 2026, down from previous 2.84%",
+    "link": "https://www.financialjuice.com/News/9745829/RBNZ-expects-official-cash-rate-at-281-in-December-2026-down-from-previous-284.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ), 2026년 12월 기준금리를 기존 2.84%에서 2.81%로 인하할 것으로 전망"
+  },
+  {
+    "guid": "9745828",
+    "title": "FinancialJuice: New Zealand's Reserve Bank increases OCR to 2.75%",
+    "link": "https://www.financialjuice.com/News/9745828/New-Zealands-Reserve-Bank-increases-OCR-to-275.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행, 기준금리(OCR)를 2.75%로 인상"
+  },
+  {
+    "guid": "9745827",
+    "title": "FinancialJuice: Monetary policy committee today agrees to raise OCR by 25 basis points to 2.75%",
+    "link": "https://www.financialjuice.com/News/9745827/Monetary-policy-committee-today-agrees-to-raise-OCR-by-25-basis-points-to-275.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 통화정책위원회가 오늘 기준금리(OCR)를 25 베이시스 포인트 인상해 2.75%로 결정했다."
+  },
+  {
+    "guid": "9745826",
+    "title": "FinancialJuice: Reserve Bank of New Zealand sets official cash rate at 2.75%",
+    "link": "https://www.financialjuice.com/News/9745826/Reserve-Bank-of-New-Zealand-sets-official-cash-rate-at-275.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행, 공식 현금 금리를 2.75%로 책정"
+  },
+  {
+    "guid": "9745825",
+    "title": "FinancialJuice: OCR rises 25 basis points to 2.75%",
+    "link": "https://www.financialjuice.com/News/9745825/OCR-rises-25-basis-points-to-275.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OCR이 25 베이시스 포인트 상승해 2.75%를 기록했습니다."
+  },
+  {
+    "guid": "9745824",
+    "title": "FinancialJuice: New Zealand Cash Rate Actual 2.75% (Forecast 2.75%, Previous 2.50%)",
+    "link": "https://www.financialjuice.com/News/9745824/New-Zealand-Cash-Rate-Actual-275-Forecast-275-Previous-250.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 02:00:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 기준금리 실제 2.75% (예상 2.75%, 이전 2.50%)"
+  },
+  {
+    "guid": "9745818",
+    "title": "FinancialJuice: BoJ's Takata: rising energy costs risk pushing inflation beyond target",
+    "link": "https://www.financialjuice.com/News/9745818/BoJs-Takata-rising-energy-costs-risk-pushing-inflation-beyond-target.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:42:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행의 타카타 “에너지 비용 상승으로 인플레이션이 목표치를 넘어설 위험”"
+  },
+  {
+    "guid": "9745817",
+    "title": "FinancialJuice: BoJ's Takata: need to watch for rise in overseas interest rates pushing Japan's neutral rate above market expectations",
+    "link": "https://www.financialjuice.com/News/9745817/BoJs-Takata-need-to-watch-for-rise-in-overseas-interest-rates-pushing-Japans-neutral-rate-above-market-expectations.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:41:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BoJ)의 타카타: 해외 금리 상승으로 인해 일본의 중립 금리가 시장 예상치를 상회할 가능성에 주의를 기울여야 한다"
+  },
+  {
+    "guid": "9745816",
+    "title": "FinancialJuice: S. Korea central bank sells 1-year monetary stabilization bonds at yield of 3.430%",
+    "link": "https://www.financialjuice.com/News/9745816/S-Korea-central-bank-sells-1-year-monetary-stabilization-bonds-at-yield-of-3430.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:40:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국은행, 1년 만기 통화안정채를 수익률 3.430%에 발행"
+  },
+  {
+    "guid": "9745815",
+    "title": "FinancialJuice: BoJ's Takata: need to consider risk of Japan facing larger-than-expected price surges if external factors drive prices higher",
+    "link": "https://www.financialjuice.com/News/9745815/BoJs-Takata-need-to-consider-risk-of-Japan-facing-larger-than-expected-price-surges-if-external-factors-drive-prices-higher.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:38:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행의 타카타: 외부 요인으로 물가가 상승할 경우, 일본이 예상보다 큰 물가 급등에 직면할 위험을 고려해야 한다"
+  },
+  {
+    "guid": "9745814",
+    "title": "FinancialJuice: BoJ's Takata: smoothness of exit from monetary easing will shape its assessment",
+    "link": "https://www.financialjuice.com/News/9745814/BoJs-Takata-smoothness-of-exit-from-monetary-easing-will-shape-its-assessment.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:37:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행 타카타 “통화 완화 정책에서 벗어나는 과정의 원활함이 평가의 기준이 될 것”"
+  },
+  {
+    "guid": "9745813",
+    "title": "FinancialJuice: BoJ’s Takata: need to align policy interest rate closer to neutral rate ahead of second-round price rise effects",
+    "link": "https://www.financialjuice.com/News/9745813/BoJs-Takata-need-to-align-policy-interest-rate-closer-to-neutral-rate-ahead-of-second-round-price-rise-effects.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:36:28 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 타카타: 2차 물가 상승 효과가 나타나기 전에 정책 금리를 중립 금리에 더 가깝게 조정해야 한다"
+  },
+  {
+    "guid": "9745812",
+    "title": "FinancialJuice: BoJ's Takata: necessary to monitor long-term interest rate trends closely and maintain clear market communication",
+    "link": "https://www.financialjuice.com/News/9745812/BoJs-Takata-necessary-to-monitor-long-term-interest-rate-trends-closely-and-maintain-clear-market-communication.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:35:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BoJ)의 타카타: 장기 금리 추이를 면밀히 주시하고 시장에 대한 명확한 소통을 유지하는 것이 필요하다"
+  },
+  {
+    "guid": "9745811",
+    "title": "FinancialJuice: BoJ's Takata: important to closely watch risk of fx market volatility from divergence in monetary policies between Japan and other countries",
+    "link": "https://www.financialjuice.com/News/9745811/BoJs-Takata-important-to-closely-watch-risk-of-fx-market-volatility-from-divergence-in-monetary-policies-between-Japan-and-other-countries.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:34:30 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 일본은행 타카타: 일본과 타국 간의 통화 정책 차이로 인한 외환 시장 변동성 위험을 면밀히 주시하는 것이 중요하다"
+  },
+  {
+    "guid": "9745810",
+    "title": "FinancialJuice: BoJ's Takata : 2026 marks start of new phase with flexible pace for rate hikes",
+    "link": "https://www.financialjuice.com/News/9745810/BoJs-Takata--2026-marks-start-of-new-phase-with-flexible-pace-for-rate-hikes.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:33:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 타카타 총재 “2026년은 금리 인상 속도를 유연하게 조절하는 새로운 단계의 시작”"
+  },
+  {
+    "guid": "9745809",
+    "title": "FinancialJuice: BoJ's Takata: essential for bank to change current approach of supporting rise in core inflation and show resolve to curb price surges",
+    "link": "https://www.financialjuice.com/News/9745809/BoJs-Takata-essential-for-bank-to-change-current-approach-of-supporting-rise-in-core-inflation-and-show-resolve-to-curb-price-surges.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:32:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BoJ)의 타카타: 은행은 핵심 인플레이션 상승을 뒷받침해 온 현재의 접근 방식을 바꾸고, 물가 급등을 억제하겠다는 결의를 보여주는 것이 필수적이다"
+  },
+  {
+    "guid": "9745808",
+    "title": "FinancialJuice: Bank of Japan board member Takata: BoJ must conduct rate hikes nimbly after assessing accommodation in domestic financial conditions and developments",
+    "link": "https://www.financialjuice.com/News/9745808/Bank-of-Japan-board-member-Takata-BoJ-must-conduct-rate-hikes-nimbly-after-assessing-accommodation-in-domestic-financial-conditions-and-developments.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:31:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 타카타 일본은행 이사 “일본은행은 국내 금융 여건과 동향을 종합적으로 평가한 뒤 유연한 금리 인상을 단행해야 한다”"
+  },
+  {
+    "guid": "9745796",
+    "title": "FinancialJuice: Australia Q2 chain price index declines 0.6%",
+    "link": "https://www.financialjuice.com/News/9745796/Australia-Q2-chain-price-index-declines-06.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:30:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 2분기 체인 물가 지수 0.6% 하락"
+  },
+  {
+    "guid": "9745795",
+    "title": "FinancialJuice: Australia Q2 real GDP rises 2.1% year/year, seasonally adjusted (poll 1.8%)",
+    "link": "https://www.financialjuice.com/News/9745795/Australia-Q2-real-GDP-rises-21-yearyear-seasonally-adjusted-poll-18.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주의 2분기 실질 GDP, 계절 조정 기준 전년 동기 대비 2.1% 상승 (예상치 1.8%)"
+  },
+  {
+    "guid": "9745794",
+    "title": "FinancialJuice: Australia Q2 final consumption expenditure rises 0.5%, seasonally adjusted",
+    "link": "https://www.financialjuice.com/News/9745794/Australia-Q2-final-consumption-expenditure-rises-05-seasonally-adjusted.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:30:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 2분기 최종 소비 지출, 계절 조정 기준 0.5% 증가"
+  },
+  {
+    "guid": "9745793",
+    "title": "FinancialJuice: Australia Q2 gross fixed capital spending slips 0.3% seasonally adjusted",
+    "link": "https://www.financialjuice.com/News/9745793/Australia-Q2-gross-fixed-capital-spending-slips-03-seasonally-adjusted.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:30:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주의 2분기 계절 조정 기준 총고정자본지출이 0.3% 감소"
+  },
+  {
+    "guid": "9745792",
+    "title": "FinancialJuice: Australia Q2 real GDP rises 0.4% q/q, seasonally adjusted (Poll: 0.3%)",
+    "link": "https://www.financialjuice.com/News/9745792/Australia-Q2-real-GDP-rises-04-qq-seasonally-adjusted-Poll-03.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:30:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주의 2분기 실질 GDP, 계절 조정 기준 전분기 대비 0.4% 상승 (예상치: 0.3%)"
+  },
+  {
+    "guid": "9745791",
+    "title": "FinancialJuice: Australian Real GDP YoY Actual 2.1% (Forecast 1.8%, Previous 2.5%)",
+    "link": "https://www.financialjuice.com/News/9745791/Australian-Real-GDP-YoY-Actual-21-Forecast-18-Previous-25.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:30:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 실질 GDP 전년 동기 대비 실제치 2.1% (예상치 1.8%, 전월치 2.5%)"
+  },
+  {
+    "guid": "9745790",
+    "title": "FinancialJuice: Australian Real GDP QoQ Actual 0.4% (Forecast 0.3%, Previous 0.3%)",
+    "link": "https://www.financialjuice.com/News/9745790/Australian-Real-GDP-QoQ-Actual-04-Forecast-03-Previous-03.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:30:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 실질 GDP 전분기 대비 실제치 0.4% (예상치 0.3%, 이전치 0.3%)"
+  },
+  {
+    "guid": "9745789",
+    "title": "FinancialJuice: Israeli military: sirens warn of hostile aircraft infiltration in Kfar Yuval",
+    "link": "https://www.financialjuice.com/News/9745789/Israeli-military-sirens-warn-of-hostile-aircraft-infiltration-in-Kfar-Yuval.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:28:35 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이스라엘 군 당국: 크파르 유발 지역에 적 항공기 침투를 알리는 경보 사이렌이 울렸다"
+  },
+  {
+    "guid": "9745788",
+    "title": "FinancialJuice: China c.bank: 7-day reverse repo volume at zero Wednesday on primary dealers' demand - statement",
+    "link": "https://www.financialjuice.com/News/9745788/China-cbank-7-day-reverse-repo-volume-at-zero-Wednesday-on-primary-dealers-demand---statement.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 01:21:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 수요일 7일물 역레포 거래 규모 0 기록… 주요 딜러들의 수요 때문 - 성명"
+  },
+  {
     "guid": "9745772",
     "title": "FinancialJuice: Dollar/yen hits 160.295, weakest yen since July 31",
     "link": "https://www.financialjuice.com/News/9745772/Dollaryen-hits-160295-weakest-yen-since-July-31.aspx",
