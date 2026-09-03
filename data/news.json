@@ -1,5 +1,133 @@
 [
   {
+    "guid": "9747632",
+    "title": "FinancialJuice: Japan S&P Global August services PMI at 52.5 (vs flash 52.3)",
+    "link": "https://www.financialjuice.com/News/9747632/Japan-SP-Global-August-services-PMI-at-525-vs-flash-523.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 00:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 S&P 글로벌 8월 서비스업 PMI, 52.5 기록 (초안치 52.3 대비)"
+  },
+  {
+    "guid": "9747631",
+    "title": "FinancialJuice: Hong Kong S&P Global August PMI falls to 49.5 from 51.0 in July",
+    "link": "https://www.financialjuice.com/News/9747631/Hong-Kong-SP-Global-August-PMI-falls-to-495-from-510-in-July.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 00:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 홍콩 S&P 글로벌 8월 PMI, 7월 51.0에서 49.5로 하락"
+  },
+  {
+    "guid": "9747630",
+    "title": "FinancialJuice: Japanese Composite PMI Final Actual 53.5 (Forecast -, Previous 53.4)",
+    "link": "https://www.financialjuice.com/News/9747630/Japanese-Composite-PMI-Final-Actual-535-Forecast---Previous-534.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 00:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 종합 PMI 최종 실적 53.5 (예상 -, 이전 53.4)"
+  },
+  {
+    "guid": "9747629",
+    "title": "FinancialJuice: Japanese Services PMI Actual 52.5 (Forecast -, Previous 52.3)",
+    "link": "https://www.financialjuice.com/News/9747629/Japanese-Services-PMI-Actual-525-Forecast---Previous-523.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 00:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 서비스업 PMI 실제치 52.5 (예상치 -, 전월치 52.3)"
+  },
+  {
+    "guid": "9747628",
+    "title": "FinancialJuice: China PBOC seen setting yuan midpoint at 6.7167 per dollar: estimate",
+    "link": "https://www.financialjuice.com/News/9747628/China-PBOC-seen-setting-yuan-midpoint-at-67167-per-dollar-estimate.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 00:20:23 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 인민은행, 위안화 중간 환율을 1달러당 6.7167로 책정할 것으로 전망: 추정"
+  },
+  {
+    "guid": "9747605",
+    "title": "FinancialJuice: Ireland S&P Global August services PMI at 55.4 vs 55.2 in July",
+    "link": "https://www.financialjuice.com/News/9747605/Ireland-SP-Global-August-services-PMI-at-554-vs-552-in-July.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 00:01:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아일랜드 S&P 글로벌 8월 서비스업 PMI, 55.4로 집계… 7월 55.2 대비 소폭 상승"
+  },
+  {
+    "guid": "9747604",
+    "title": "FinancialJuice: Foreign Investment Japanese Bonds Actual 509.1B (Forecast -, Previous 435.2B)",
+    "link": "https://www.financialjuice.com/News/9747604/Foreign-Investment-Japanese-Bonds-Actual-5091B-Forecast---Previous-4352B.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 23:50:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 국채에 대한 외국인 투자액, 실제 5,091억 (예상 -, 이전 4,352억)"
+  },
+  {
+    "guid": "9747603",
+    "title": "FinancialJuice: Japanese Foreign Stock Investment Actual 35.8B (Forecast -, Previous -869.0B)",
+    "link": "https://www.financialjuice.com/News/9747603/Japanese-Foreign-Stock-Investment-Actual-358B-Forecast---Previous--8690B.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 23:50:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본의 해외 주식 투자 실적이 358억을 기록함 (예상 -, 전월 -8,690억)"
+  },
+  {
+    "guid": "9747602",
+    "title": "FinancialJuice: Foreign Investment Japanese Stocks Actual 35.8B (Forecast -, Previous -764.1B)",
+    "link": "https://www.financialjuice.com/News/9747602/Foreign-Investment-Japanese-Stocks-Actual-358B-Forecast---Previous--7641B.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 23:50:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 주식에 대한 외국인 투자, 실제 358억 (예상 -, 이전 -7,641억)"
+  },
+  {
+    "guid": "9747601",
+    "title": "FinancialJuice: Japanese Foreign Bond Investment Actual -824.0B (Forecast -, Previous -1,978.4B)",
+    "link": "https://www.financialjuice.com/News/9747601/Japanese-Foreign-Bond-Investment-Actual--8240B-Forecast---Previous--19784B.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 23:50:11 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 일본 해외 채권 투자 실적 -824.0B (예상 -, 이전 -1,978.4B)"
+  },
+  {
+    "guid": "9747557",
+    "title": "FinancialJuice: Australian Services PMI Final Actual 53.2 (Forecast -, Previous 52.9)",
+    "link": "https://www.financialjuice.com/News/9747557/Australian-Services-PMI-Final-Actual-532-Forecast---Previous-529.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 23:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 서비스업 PMI 최종치 53.2 (예상치 -, 전월치 52.9)"
+  },
+  {
+    "guid": "9747556",
+    "title": "FinancialJuice: Australian Composite PMI Final Actual 52.7 (Forecast -, Previous 52.5)",
+    "link": "https://www.financialjuice.com/News/9747556/Australian-Composite-PMI-Final-Actual-527-Forecast---Previous-525.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 23:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 종합 PMI 최종 실적 52.7 (예상 -, 전월 52.5)"
+  },
+  {
+    "guid": "9747551",
+    "title": "FinancialJuice: NZ Q2 terms of trade index drops 9.0% vs prior quarter, poll forecasted 3.9% decline",
+    "link": "https://www.financialjuice.com/News/9747551/NZ-Q2-terms-of-trade-index-drops-90-vs-prior-quarter-poll-forecasted-39-decline.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 22:45:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 2분기 교역조건 지수, 전분기 대비 9.0% 하락…설문조사에서는 3.9% 하락 전망"
+  },
+  {
+    "guid": "9747550",
+    "title": "FinancialJuice: NZ Q2 seasonally adjusted import prices rise 13.8% on previous quarter (Poll: 6.8%)",
+    "link": "https://www.financialjuice.com/News/9747550/NZ-Q2-seasonally-adjusted-import-prices-rise-138-on-previous-quarter-Poll-68.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 22:45:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 2분기 계절 조정 수입물가, 전분기 대비 13.8% 상승 (설문조사: 6.8%)"
+  },
+  {
+    "guid": "9747549",
+    "title": "FinancialJuice: NZ Q2 seasonally adjusted export volumes rise 6.4% from previous quarter",
+    "link": "https://www.financialjuice.com/News/9747549/NZ-Q2-seasonally-adjusted-export-volumes-rise-64-from-previous-quarter.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 22:45:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 2분기 계절 조정 수출 물량이 전분기 대비 6.4% 증가"
+  },
+  {
+    "guid": "9747548",
+    "title": "FinancialJuice: Russian air strike damages multi-story residential building in Ukraine's Odesa, official says",
+    "link": "https://www.financialjuice.com/News/9747548/Russian-air-strike-damages-multi-story-residential-building-in-Ukraines-Odesa-official-says.aspx?xy=rss",
+    "pubDate": "Wed, 02 Sep 2026 22:42:54 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아의 공습으로 우크라이나 오데사의 다층 주거용 건물이 피해를 입었다고 당국자가 밝혔다"
+  },
+  {
     "guid": "9747519",
     "title": "FinancialJuice: Another contender in the mix to replace Driscoll as army secretary is Florida GOP Rep. Brian Mast: Semafor",
     "link": "https://www.financialjuice.com/News/9747519/Another-contender-in-the-mix-to-replace-Driscoll-as-army-secretary-is-Florida-GOP-Rep-Brian-Mast-Semafor.aspx?xy=rss",
