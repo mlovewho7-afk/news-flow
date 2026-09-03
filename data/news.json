@@ -1,5 +1,805 @@
 [
   {
+    "guid": "9748733",
+    "title": "FinancialJuice: Fitch affirms ASML at 'A+'; outlook stable",
+    "link": "https://www.financialjuice.com/News/9748733/Fitch-affirms-ASML-at-A-outlook-stable.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:47:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 피치, ASML 신용등급 ‘A+’ 유지…전망 ‘안정적’"
+  },
+  {
+    "guid": "9748720",
+    "title": "FinancialJuice: US S&P Composite PMI Final Actual 56 (Forecast 56.1, Previous 56.0)",
+    "link": "https://www.financialjuice.com/News/9748720/US-SP-Composite-PMI-Final-Actual-56-Forecast-561-Previous-560.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:45:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 S&P 종합 PMI 최종 실적 56 (예상치 56.1, 이전치 56.0)"
+  },
+  {
+    "guid": "9748719",
+    "title": "FinancialJuice: US S&P Services PMI Final Actual 56.5 (Forecast 56.8, Previous 56.8)",
+    "link": "https://www.financialjuice.com/News/9748719/US-SP-Services-PMI-Final-Actual-565-Forecast-568-Previous-568.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 S&P 서비스업 PMI 최종치 56.5 (예상치 56.8, 전월치 56.8)"
+  },
+  {
+    "guid": "9748718",
+    "title": "FinancialJuice: China to deepen investment cooperation with Russia - Xinhua",
+    "link": "https://www.financialjuice.com/News/9748718/China-to-deepen-investment-cooperation-with-Russia---Xinhua.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:41:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국, 러시아와 투자 협력 강화할 전망 - 신화통신"
+  },
+  {
+    "guid": "9748717",
+    "title": "FinancialJuice: BofA Global Research cuts Broadcom's price objective to $460 from $530. $AVGO\n",
+    "link": "https://www.financialjuice.com/News/9748717/BofA-Global-Research-cuts-Broadcoms-price-objective-to-460-from-530-AVGO.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:39:44 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: BofA 글로벌 리서치가 브로드컴의 목표 주가를 530달러에서 460달러로 하향 조정했다. $AVGO\n"
+  },
+  {
+    "guid": "9748716",
+    "title": "FinancialJuice: OpenAI President Brockman is expected to make an announcement about expanding access to the company's tools to critical infrastructure - Axios",
+    "link": "https://www.financialjuice.com/News/9748716/OpenAI-President-Brockman-is-expected-to-make-an-announcement-about-expanding-access-to-the-companys-tools-to-critical-infrastructure---Axios.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:33:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI의 브록맨 사장이 핵심 인프라에 대한 자사 도구 접근권 확대와 관련해 발표할 것으로 예상된다 - Axios"
+  },
+  {
+    "guid": "9748715",
+    "title": "FinancialJuice: OpenAI convening security leaders ahead of cyber announcement - Axios",
+    "link": "https://www.financialjuice.com/News/9748715/OpenAI-convening-security-leaders-ahead-of-cyber-announcement---Axios.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:31:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI, 사이버 보안 관련 발표를 앞두고 보안 분야 리더들을 소집 - Axios"
+  },
+  {
+    "guid": "9748704",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9748704/MOO-Imbalance.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:30:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOO 불균형"
+  },
+  {
+    "guid": "9748686",
+    "title": "FinancialJuice: Fed's Waller event ends.",
+    "link": "https://www.financialjuice.com/News/9748686/Feds-Waller-event-ends.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:15:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연방준비제도(Fed)의 월러 행사 종료."
+  },
+  {
+    "guid": "9748685",
+    "title": "FinancialJuice: Fed's Waller: Inflation task force could be the most interesting.",
+    "link": "https://www.financialjuice.com/News/9748685/Feds-Waller-Inflation-task-force-could-be-the-most-interesting.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:14:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 인플레이션 태스크포스가 가장 주목할 만한 부분이 될 수 있다."
+  },
+  {
+    "guid": "9748684",
+    "title": "FinancialJuice: Fed's Waller on data task force: We must be wary about trust problem, need to use data people can verify.",
+    "link": "https://www.financialjuice.com/News/9748684/Feds-Waller-on-data-task-force-We-must-be-wary-about-trust-problem-need-to-use-data-people-can-verify.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:14:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러, 데이터 태스크포스에 대해 “신뢰 문제에 주의해야 하며, 사람들이 검증할 수 있는 데이터를 활용해야 한다”고 밝혔다."
+  },
+  {
+    "guid": "9748683",
+    "title": "FinancialJuice: Fed's Waller on balance sheet task force: I will be against any recommendation to go to scarce reserves.",
+    "link": "https://www.financialjuice.com/News/9748683/Feds-Waller-on-balance-sheet-task-force-I-will-be-against-any-recommendation-to-go-to-scarce-reserves.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:14:28 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러, 대차대조표 태스크포스 관련 발언: “희소한 준비금을 활용하자는 어떤 권고안에도 반대할 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9748682",
+    "title": "FinancialJuice: Fed's Waller: Not sure a whole lot will come out of communications task force.",
+    "link": "https://www.financialjuice.com/News/9748682/Feds-Waller-Not-sure-a-whole-lot-will-come-out-of-communications-task-force.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:14:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 커뮤니케이션 태스크포스에서 큰 성과가 나올지는 확실치 않다."
+  },
+  {
+    "guid": "9748681",
+    "title": "FinancialJuice: Fed's Waller: Pushback again scenarios views last year was strong.",
+    "link": "https://www.financialjuice.com/News/9748681/Feds-Waller-Pushback-again-scenarios-views-last-year-was-strong.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:14:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 작년 시나리오에 대한 반발이 강했다."
+  },
+  {
+    "guid": "9748680",
+    "title": "FinancialJuice: Fed's Waller: People at Fed have very strong views on communications",
+    "link": "https://www.financialjuice.com/News/9748680/Feds-Waller-People-at-Fed-have-very-strong-views-on-communications.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:13:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 “연준 내부에서는 의사소통에 대해 매우 확고한 견해를 가지고 있다”"
+  },
+  {
+    "guid": "9748679",
+    "title": "FinancialJuice: Fed's Waller: Providing some insight on what's next is preferable",
+    "link": "https://www.financialjuice.com/News/9748679/Feds-Waller-Providing-some-insight-on-whats-next-is-preferable.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:12:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 향후 전망에 대한 일정한 단서를 제공하는 것이 바람직하다"
+  },
+  {
+    "guid": "9748678",
+    "title": "FinancialJuice: Fed’s Waller: ‘Never explain’ was outdated approach, not a good model",
+    "link": "https://www.financialjuice.com/News/9748678/Feds-Waller-Never-explain-was-outdated-approach-not-a-good-model.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:11:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, “‘절대 설명하지 않는다’는 접근 방식은 시대에 뒤떨어진 것이며, 좋은 모델이 아니다”"
+  },
+  {
+    "guid": "9748677",
+    "title": "FinancialJuice: Fed's Waller: providing some insight on what's coming helps investors decide",
+    "link": "https://www.financialjuice.com/News/9748677/Feds-Waller-providing-some-insight-on-whats-coming-helps-investors-decide.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:11:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, “앞으로의 전망에 대한 통찰력을 제공하면 투자자들이 결정을 내리는 데 도움이 된다”"
+  },
+  {
+    "guid": "9748676",
+    "title": "FinancialJuice: Waller: Warsh letting perfect be enemy of good",
+    "link": "https://www.financialjuice.com/News/9748676/Waller-Warsh-letting-perfect-be-enemy-of-good.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:11:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 월러: 워시가 ‘완벽함’을 핑계로 ‘좋은 결과’를 놓치고 있다"
+  },
+  {
+    "guid": "9748675",
+    "title": "FinancialJuice: Fed's Waller on Fed transparency: it doesn't do any good to surprise markets.",
+    "link": "https://www.financialjuice.com/News/9748675/Feds-Waller-on-Fed-transparency-it-doesnt-do-any-good-to-surprise-markets.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:10:55 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, 연준의 투명성에 대해 “시장을 놀라게 하는 것은 아무런 도움이 되지 않는다”고 밝혔다."
+  },
+  {
+    "guid": "9748674",
+    "title": "FinancialJuice: Fed's Waller: have a very different view on reaction function perfection than Warsh",
+    "link": "https://www.financialjuice.com/News/9748674/Feds-Waller-have-a-very-different-view-on-reaction-function-perfection-than-Warsh.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:09:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연방준비제도(Fed)의 월러 위원, 반응 함수의 완벽성에 대해 워시 위원과는 매우 다른 견해를 가지고 있다"
+  },
+  {
+    "guid": "9748673",
+    "title": "FinancialJuice: Fed's Waller: Exact levels of reaction function may have flaws, but its qualitative importance remains",
+    "link": "https://www.financialjuice.com/News/9748673/Feds-Waller-Exact-levels-of-reaction-function-may-have-flaws-but-its-qualitative-importance-remains.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:09:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 반응 함수의 정확한 수치에는 결함이 있을 수 있으나, 그 질적 중요성은 여전히 유효하다"
+  },
+  {
+    "guid": "9748672",
+    "title": "FinancialJuice: Figure & Nscale: To deploy Nvidia Vera Rubin, up to 100k GPUs. $NVDA",
+    "link": "https://www.financialjuice.com/News/9748672/Figure--Nscale-To-deploy-Nvidia-Vera-Rubin-up-to-100k-GPUs-NVDA.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:09:10 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: Figure & Nscale: 엔비디아 베라 루빈 배포를 위해 최대 10만 개의 GPU 투입. $NVDA"
+  },
+  {
+    "guid": "9748671",
+    "title": "FinancialJuice: Fed's Waller: that's just economics 101, not unusual advice",
+    "link": "https://www.financialjuice.com/News/9748671/Feds-Waller-thats-just-economics-101-not-unusual-advice.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:08:55 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원 “그건 그저 경제학 입문 수준의 상식일 뿐, 특별한 조언은 아니다”"
+  },
+  {
+    "guid": "9748670",
+    "title": "FinancialJuice: Fed's Waller: Need for consistent reaction function.",
+    "link": "https://www.financialjuice.com/News/9748670/Feds-Waller-Need-for-consistent-reaction-function.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:08:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, “일관된 반응 함수가 필요하다.”"
+  },
+  {
+    "guid": "9748669",
+    "title": "FinancialJuice: Fed's Waller: need rule for how Fed will respond or can't forecast",
+    "link": "https://www.financialjuice.com/News/9748669/Feds-Waller-need-rule-for-how-Fed-will-respond-or-cant-forecast.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:08:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 “연준의 대응 방식에 대한 규칙이 없으면 전망을 할 수 없다”"
+  },
+  {
+    "guid": "9748668",
+    "title": "FinancialJuice: Pentagon’s Michael: Anthropic remains flagged as supply chain risk",
+    "link": "https://www.financialjuice.com/News/9748668/Pentagons-Michael-Anthropic-remains-flagged-as-supply-chain-risk.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:07:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미 국방부의 마이클, “앤트로픽은 여전히 공급망 위험 요인으로 지목되고 있다”"
+  },
+  {
+    "guid": "9748667",
+    "title": "FinancialJuice: Fed’s Waller: ‘Don’t look at the mirror’",
+    "link": "https://www.financialjuice.com/News/9748667/Feds-Waller-Dont-look-at-the-mirror.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:07:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, “거울을 보지 마라”"
+  },
+  {
+    "guid": "9748666",
+    "title": "FinancialJuice: Fed's Waller: Our mandate is price stability, full employment, not financial conditions",
+    "link": "https://www.financialjuice.com/News/9748666/Feds-Waller-Our-mandate-is-price-stability-full-employment-not-financial-conditions.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:07:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원 “우리의 임무는 물가 안정과 완전 고용이지, 금융 여건이 아니다”"
+  },
+  {
+    "guid": "9748665",
+    "title": "FinancialJuice: Fed's Waller: Focus on the economy, not financial markets over 'hall of mirrors' issue",
+    "link": "https://www.financialjuice.com/News/9748665/Feds-Waller-Focus-on-the-economy-not-financial-markets-over-hall-of-mirrors-issue.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:07:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, ‘거울의 방’ 논란과 관련해 “금융 시장이 아닌 경제에 집중해야 한다”고 강조"
+  },
+  {
+    "guid": "9748664",
+    "title": "FinancialJuice: Tyson Foods now projects full-year revenue growth of 1.5% to 2%. $TSN",
+    "link": "https://www.financialjuice.com/News/9748664/Tyson-Foods-now-projects-full-year-revenue-growth-of-15-to-2-TSN.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:06:26 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 타이슨 푸드는 현재 연간 매출 성장률을 1.5%에서 2%로 전망하고 있다. $TSN"
+  },
+  {
+    "guid": "9748663",
+    "title": "FinancialJuice: Nscale targets initial GPU deployment starting H2 2027 in Barstow, Texas; deal for $3.5 billion of compute with intent to expand beyond $6 billion",
+    "link": "https://www.financialjuice.com/News/9748663/Nscale-targets-initial-GPU-deployment-starting-H2-2027-in-Barstow-Texas-deal-for-35-billion-of-compute-with-intent-to-expand-beyond-6-billion.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:06:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Nscale, 2027년 하반기부터 텍사스주 바스토우에서 GPU 초기 구축을 목표로 함; 35억 달러 규모의 컴퓨팅 계약 체결, 향후 60억 달러 이상으로 확대할 계획"
+  },
+  {
+    "guid": "9748662",
+    "title": "FinancialJuice: Fed's Waller: Short-run interventions don't do much, but it's Bessent's prerogative to do it.",
+    "link": "https://www.financialjuice.com/News/9748662/Feds-Waller-Short-run-interventions-dont-do-much-but-its-Bessents-prerogative-to-do-it.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:05:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 단기적인 개입은 별다른 효과가 없지만, 이를 시행하는 것은 베센트 위원장의 재량권이다."
+  },
+  {
+    "guid": "9748661",
+    "title": "FinancialJuice: Fed's Waller: What Treasury does is Treasury's business.",
+    "link": "https://www.financialjuice.com/News/9748661/Feds-Waller-What-Treasury-does-is-Treasurys-business.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:05:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연방준비제도(Fed)의 월러 위원: 재무부가 하는 일은 재무부의 소관이다."
+  },
+  {
+    "guid": "9748660",
+    "title": "FinancialJuice: Fed's Waller: That means investors are uncertain about world and dollar reserve currency status.",
+    "link": "https://www.financialjuice.com/News/9748660/Feds-Waller-That-means-investors-are-uncertain-about-world-and-dollar-reserve-currency-status.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:04:28 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 이는 투자자들이 세계 경제와 달러의 기축통화 지위에 대해 불확실성을 느끼고 있음을 의미한다."
+  },
+  {
+    "guid": "9748659",
+    "title": "FinancialJuice: Fed's Waller: Term premium is also rising.",
+    "link": "https://www.financialjuice.com/News/9748659/Feds-Waller-Term-premium-is-also-rising.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:04:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 기간 프리미엄도 상승하고 있다."
+  },
+  {
+    "guid": "9748658",
+    "title": "FinancialJuice: Fed's Waller: Convenience yield going away is a 'bad story' and raises yields.",
+    "link": "https://www.financialjuice.com/News/9748658/Feds-Waller-Convenience-yield-going-away-is-a-bad-story-and-raises-yields.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:03:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, “편의 수익률의 소멸은 ‘나쁜 소식’이며, 이는 수익률 상승을 초래한다.”"
+  },
+  {
+    "guid": "9748657",
+    "title": "FinancialJuice: Fed's Waller: Zero population growth brings down yields and real rates.",
+    "link": "https://www.financialjuice.com/News/9748657/Feds-Waller-Zero-population-growth-brings-down-yields-and-real-rates.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:03:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 인구 증가율 제로는 수익률과 실질 금리를 하락시킨다."
+  },
+  {
+    "guid": "9748632",
+    "title": "FinancialJuice: Fed's Waller: Premium for US government debt may be fading",
+    "link": "https://www.financialjuice.com/News/9748632/Feds-Waller-Premium-for-US-government-debt-may-be-fading.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:01:07 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, 미국 국채 프리미엄이 점차 사라질 수 있다고 전망"
+  },
+  {
+    "guid": "9748631",
+    "title": "FinancialJuice: Fed's Waller: Yields climbing partly due to debt and AI investment demand.",
+    "link": "https://www.financialjuice.com/News/9748631/Feds-Waller-Yields-climbing-partly-due-to-debt-and-AI-investment-demand.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:01:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, “채권 수익률 상승은 부분적으로 부채와 AI 투자 수요 때문”이라고 밝혔다."
+  },
+  {
+    "guid": "9748624",
+    "title": "FinancialJuice: Fed's Waller: that trend has led me to increase neutral rate estimate",
+    "link": "https://www.financialjuice.com/News/9748624/Feds-Waller-that-trend-has-led-me-to-increase-neutral-rate-estimate.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:00:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 이러한 추세로 인해 중립 금리 전망치를 상향 조정하게 되었다"
+  },
+  {
+    "guid": "9748621",
+    "title": "FinancialJuice: Effective fed funds rate: 3.63% September 2nd vs 3.63% September 1st.",
+    "link": "https://www.financialjuice.com/News/9748621/Effective-fed-funds-rate-363-September-2nd-vs-363-September-1st.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:00:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 실효 연방기금 금리: 9월 2일 3.63% (9월 1일 3.63% 대비)."
+  },
+  {
+    "guid": "9748620",
+    "title": "FinancialJuice: Fed’s Waller: Research indicates Treasury premium vanished, pushing yields higher",
+    "link": "https://www.financialjuice.com/News/9748620/Feds-Waller-Research-indicates-Treasury-premium-vanished-pushing-yields-higher.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 13:00:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 연구 결과에 따르면 국채 프리미엄이 사라지면서 수익률이 상승했다"
+  },
+  {
+    "guid": "9748619",
+    "title": "FinancialJuice: Fed's Waller: Maybe doesn't mean you walk off a cliff, but yields may go up.",
+    "link": "https://www.financialjuice.com/News/9748619/Feds-Waller-Maybe-doesnt-mean-you-walk-off-a-cliff-but-yields-may-go-up.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:59:44 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: “아마도 절벽에서 떨어지는 것은 아닐지 모르지만, 금리는 오를 수 있다.”"
+  },
+  {
+    "guid": "9748618",
+    "title": "FinancialJuice: Fed's Waller: Can't keep running a 3% structural deficit.",
+    "link": "https://www.financialjuice.com/News/9748618/Feds-Waller-Cant-keep-running-a-3-structural-deficit.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:59:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 “3%의 구조적 적자를 계속 유지할 수는 없다.”"
+  },
+  {
+    "guid": "9748617",
+    "title": "FinancialJuice: Fed's Waller: Current rate setting could get us back to 2% inflation.",
+    "link": "https://www.financialjuice.com/News/9748617/Feds-Waller-Current-rate-setting-could-get-us-back-to-2-inflation.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:58:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 현재의 금리 정책으로 인플레이션을 2% 수준으로 되돌릴 수 있을 것이다."
+  },
+  {
+    "guid": "9748616",
+    "title": "FinancialJuice: Fed's Waller: Main Street American not seeing loose conditions.",
+    "link": "https://www.financialjuice.com/News/9748616/Feds-Waller-Main-Street-American-not-seeing-loose-conditions.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:58:08 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, “일반 미국인들은 완화적인 금융 여건을 체감하지 못하고 있다.”"
+  },
+  {
+    "guid": "9748615",
+    "title": "FinancialJuice: Fed's Waller: Loose financial conditions driven by the stock market.",
+    "link": "https://www.financialjuice.com/News/9748615/Feds-Waller-Loose-financial-conditions-driven-by-the-stock-market.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:57:55 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 주식시장에 힘입어 금융 여건이 완화되고 있다."
+  },
+  {
+    "guid": "9748614",
+    "title": "FinancialJuice: Fed's Waller: loose financial conditions is really a reflection of stock prices.",
+    "link": "https://www.financialjuice.com/News/9748614/Feds-Waller-loose-financial-conditions-is-really-a-reflection-of-stock-prices.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:57:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 완화적인 금융 여건은 사실 주가를 반영한 것이다."
+  },
+  {
+    "guid": "9748613",
+    "title": "FinancialJuice: Fed's Waller: AI not yet showing up in firm profits.",
+    "link": "https://www.financialjuice.com/News/9748613/Feds-Waller-AI-not-yet-showing-up-in-firm-profits.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:57:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, “AI가 아직 기업 실적에 반영되지 않고 있다.”"
+  },
+  {
+    "guid": "9748612",
+    "title": "FinancialJuice: Fed's Waller: Mortgage rates and auto loan rates are not low.",
+    "link": "https://www.financialjuice.com/News/9748612/Feds-Waller-Mortgage-rates-and-auto-loan-rates-are-not-low.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:57:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 모기지 금리와 자동차 대출 금리는 낮은 수준이 아니다."
+  },
+  {
+    "guid": "9748611",
+    "title": "FinancialJuice: Fed's Waller: AI hasn't shown up yet in data.",
+    "link": "https://www.financialjuice.com/News/9748611/Feds-Waller-AI-hasnt-shown-up-yet-in-data.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:56:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 “데이터상으로는 아직 AI의 영향이 나타나지 않았다.”"
+  },
+  {
+    "guid": "9748610",
+    "title": "FinancialJuice: Fed's Waller: I think potential growth is rising.",
+    "link": "https://www.financialjuice.com/News/9748610/Feds-Waller-I-think-potential-growth-is-rising.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:55:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 잠재 성장률이 상승하고 있다고 본다."
+  },
+  {
+    "guid": "9748609",
+    "title": "FinancialJuice: Fed's Waller: Could see disinflation from AI; potential is rising.",
+    "link": "https://www.financialjuice.com/News/9748609/Feds-Waller-Could-see-disinflation-from-AI-potential-is-rising.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:55:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: AI로 인해 디스인플레이션이 나타날 수 있으며, 그 가능성은 높아지고 있다."
+  },
+  {
+    "guid": "9748608",
+    "title": "FinancialJuice: Fed's Waller: If increasing potential capacity, then increased output is not inflationary.",
+    "link": "https://www.financialjuice.com/News/9748608/Feds-Waller-If-increasing-potential-capacity-then-increased-output-is-not-inflationary.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:55:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 잠재 생산 능력을 확대한다면, 생산량 증가가 인플레이션을 유발하지는 않는다."
+  },
+  {
+    "guid": "9748607",
+    "title": "FinancialJuice: Fed's Waller: Maybe should push aside nonmarket prices.",
+    "link": "https://www.financialjuice.com/News/9748607/Feds-Waller-Maybe-should-push-aside-nonmarket-prices.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:54:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 비시장 가격을 일단 제쳐두어야 할지도 모른다."
+  },
+  {
+    "guid": "9748606",
+    "title": "FinancialJuice: Credit Agricole on NFP - FJElite",
+    "link": "https://www.financialjuice.com/News/9748606/Credit-Agricole-on-NFP---FJElite.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:54:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 크레디 아그리콜의 NFP 관련 분석 - FJElite"
+  },
+  {
+    "guid": "9748605",
+    "title": "FinancialJuice: Fed's Waller: Don't want to raise rates into disinflation.",
+    "link": "https://www.financialjuice.com/News/9748605/Feds-Waller-Dont-want-to-raise-rates-into-disinflation.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:53:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 디스인플레이션 국면에서 금리를 인상하고 싶지 않다."
+  },
+  {
+    "guid": "9748604",
+    "title": "FinancialJuice: Fed's Waller: But not taking big chances.",
+    "link": "https://www.financialjuice.com/News/9748604/Feds-Waller-But-not-taking-big-chances.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:53:28 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러: 하지만 큰 위험을 감수하지는 않을 것이다."
+  },
+  {
+    "guid": "9748603",
+    "title": "FinancialJuice: Fed's Waller: This is risk management.",
+    "link": "https://www.financialjuice.com/News/9748603/Feds-Waller-This-is-risk-management.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:53:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 “이는 리스크 관리입니다.”"
+  },
+  {
+    "guid": "9748602",
+    "title": "FinancialJuice: MUFG: USD/JPY Carry Index implies USD/JPY should be a lot lower - FJElite",
+    "link": "https://www.financialjuice.com/News/9748602/MUFG-USDJPY-Carry-Index-implies-USDJPY-should-be-a-lot-lower---FJElite.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:52:50 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: MUFG: USD/JPY 캐리 지수에 따르면 USD/JPY 환율은 현재보다 훨씬 더 낮아야 함 - FJElite"
+  },
+  {
+    "guid": "9748601",
+    "title": "FinancialJuice: Fed's Waller: Little cost to wait one meeting.",
+    "link": "https://www.financialjuice.com/News/9748601/Feds-Waller-Little-cost-to-wait-one-meeting.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:52:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, “한 번의 회의만 기다리는 데는 별다른 비용이 들지 않는다.”"
+  },
+  {
+    "guid": "9748600",
+    "title": "FinancialJuice: Fed's Waller: Give disinflation a chance; we can wait one meeting.",
+    "link": "https://www.financialjuice.com/News/9748600/Feds-Waller-Give-disinflation-a-chance-we-can-wait-one-meeting.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:52:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 디인플레이션에 기회를 주자; 한 번의 회의 정도는 기다릴 수 있다."
+  },
+  {
+    "guid": "9748599",
+    "title": "FinancialJuice: Fed's Waller: Might see a significant drop in core with revisions.",
+    "link": "https://www.financialjuice.com/News/9748599/Feds-Waller-Might-see-a-significant-drop-in-core-with-revisions.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:51:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 수정치 반영 시 핵심 물가 상승률이 크게 하락할 수도 있다."
+  },
+  {
+    "guid": "9748598",
+    "title": "FinancialJuice: Fed's Waller: Don't want to put a number on it, but if the 3-month number gets to 2.8, that's fine.",
+    "link": "https://www.financialjuice.com/News/9748598/Feds-Waller-Dont-want-to-put-a-number-on-it-but-if-the-3-month-number-gets-to-28-thats-fine.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:51:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 구체적인 수치를 제시하고 싶지는 않지만, 3개월물 금리가 2.8까지 오르면 괜찮다."
+  },
+  {
+    "guid": "9748597",
+    "title": "FinancialJuice: Fed's Waller: I'll let you define what hot is.",
+    "link": "https://www.financialjuice.com/News/9748597/Feds-Waller-Ill-let-you-define-what-hot-is.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:50:55 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러: ‘뜨겁다’는 게 무슨 뜻인지는 여러분이 정의하도록 하겠습니다."
+  },
+  {
+    "guid": "9748596",
+    "title": "FinancialJuice: Fed's Waller: If that reverses in august willing to pull trigger on rate hike.",
+    "link": "https://www.financialjuice.com/News/9748596/Feds-Waller-If-that-reverses-in-august-willing-to-pull-trigger-on-rate-hike.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:50:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 8월에 이러한 추세가 반전된다면 금리 인상을 단행할 용의가 있다."
+  },
+  {
+    "guid": "9748595",
+    "title": "FinancialJuice: Fed's Waller: Willing to sit and wait and be patient.",
+    "link": "https://www.financialjuice.com/News/9748595/Feds-Waller-Willing-to-sit-and-wait-and-be-patient.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:49:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 상황을 지켜보며 인내심을 갖고 기다릴 용의가 있다."
+  },
+  {
+    "guid": "9748594",
+    "title": "FinancialJuice: Fed's Waller: We should start to see some lower numbers on inflation, expect a reasonable CPI.",
+    "link": "https://www.financialjuice.com/News/9748594/Feds-Waller-We-should-start-to-see-some-lower-numbers-on-inflation-expect-a-reasonable-CPI.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:49:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 인플레이션 수치가 다소 하락하는 모습을 보이기 시작할 것이며, 소비자물가지수(CPI)는 적정 수준을 기록할 것으로 예상된다."
+  },
+  {
+    "guid": "9748593",
+    "title": "FinancialJuice: Fed's Waller: With CPI and PPI in hand, have a pretty accurate view of PCE inflation.",
+    "link": "https://www.financialjuice.com/News/9748593/Feds-Waller-With-CPI-and-PPI-in-hand-have-a-pretty-accurate-view-of-PCE-inflation.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:49:25 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: CPI와 PPI 데이터를 바탕으로 PCE 인플레이션에 대해 상당히 정확한 전망을 가지고 있다."
+  },
+  {
+    "guid": "9748592",
+    "title": "FinancialJuice: BofA: Equity Stress Decreased The Most Last Week - FJElite",
+    "link": "https://www.financialjuice.com/News/9748592/BofA-Equity-Stress-Decreased-The-Most-Last-Week---FJElite.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:47:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: BofA: 지난주 주식 시장의 스트레스 지표가 가장 크게 감소했다 - FJElite"
+  },
+  {
+    "guid": "9748563",
+    "title": "FinancialJuice: Fed's Waller inclined to support holding policy rate steady at Fed's September 15-16 meeting if August inflation data shows continued progress.",
+    "link": "https://www.financialjuice.com/News/9748563/Feds-Waller-inclined-to-support-holding-policy-rate-steady-at-Feds-September-15-16-meeting-if-August-inflation-data-shows-continued-progress.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:38:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 8월 물가 데이터에서 지속적인 개선세가 나타난다면, 월러 연준 위원은 9월 15~16일 연준 회의에서 정책 금리 동결을 지지할 것으로 보인다."
+  },
+  {
+    "guid": "9748562",
+    "title": "FinancialJuice: Fed's Waller: If August inflation data comes in hot, I would consider a September rate hike.\n",
+    "link": "https://www.financialjuice.com/News/9748562/Feds-Waller-If-August-inflation-data-comes-in-hot-I-would-consider-a-September-rate-hike.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:37:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 8월 물가 상승률이 예상보다 높게 나오면 9월 금리 인상을 고려할 것이다.\n"
+  },
+  {
+    "guid": "9748560",
+    "title": "FinancialJuice: Traders pare Fed hike bets after Fed's Waller points to disinflation. ",
+    "link": "https://www.financialjuice.com/News/9748560/Traders-pare-Fed-hike-bets-after-Feds-Waller-points-to-disinflation-.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:36:08 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원이 디인플레이션 가능성을 시사하자, 트레이더들이 연준의 금리 인상 전망을 하향 조정했다. "
+  },
+  {
+    "guid": "9748558",
+    "title": "FinancialJuice: Fed’s Waller: Rate decision in September hinges on August inflation.",
+    "link": "https://www.financialjuice.com/News/9748558/Feds-Waller-Rate-decision-in-September-hinges-on-August-inflation.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:33:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원, “9월 금리 결정은 8월 물가 상승률에 달려 있다.”"
+  },
+  {
+    "guid": "9748557",
+    "title": "FinancialJuice: US short-term interest rate futures jump after Waller says he'd support holding policy rate steady if August inflation data extends recent progress.",
+    "link": "https://www.financialjuice.com/News/9748557/US-short-term-interest-rate-futures-jump-after-Waller-says-hed-support-holding-policy-rate-steady-if-August-inflation-data-extends-recent-progress.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:32:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 월러가 8월 물가 데이터가 최근의 긍정적 흐름을 이어간다면 정책 금리 동결을 지지하겠다고 밝힌 후, 미국 단기 금리 선물이 급등했다."
+  },
+  {
+    "guid": "9748556",
+    "title": "FinancialJuice: Waller: Pending revisions to Commerce Department non-market price estimate could reduce 12-month PCE by a few tenths of a percentage point",
+    "link": "https://www.financialjuice.com/News/9748556/Waller-Pending-revisions-to-Commerce-Department-non-market-price-estimate-could-reduce-12-month-PCE-by-a-few-tenths-of-a-percentage-point.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:32:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 월러: 상무부의 비시장 가격 추정치에 대한 개정안이 확정될 경우, 12개월 PCE가 0.1%포인트 가량 감소할 수 있다"
+  },
+  {
+    "guid": "9748555",
+    "title": "FinancialJuice: Waller sees considerable improvement with encouraging pace in three-month core inflation",
+    "link": "https://www.financialjuice.com/News/9748555/Waller-sees-considerable-improvement-with-encouraging-pace-in-three-month-core-inflation.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:32:07 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 월러, 3개월간 핵심 물가 상승률이 고무적인 속도로 상당한 개선세를 보이고 있다고 평가"
+  },
+  {
+    "guid": "9748554",
+    "title": "FinancialJuice: Waller: personal consumption expenditures, core PCE not best indicator of inflation direction",
+    "link": "https://www.financialjuice.com/News/9748554/Waller-personal-consumption-expenditures-core-PCE-not-best-indicator-of-inflation-direction.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:32:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 월러: 개인소비지출(PCE)과 핵심 PCE는 인플레이션 추세를 가늠하는 최선의 지표가 아니다"
+  },
+  {
+    "guid": "9748553",
+    "title": "FinancialJuice: Waller signals some upside risk to inflation, though wage growth aligns with 2% target",
+    "link": "https://www.financialjuice.com/News/9748553/Waller-signals-some-upside-risk-to-inflation-though-wage-growth-aligns-with-2-target.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:32:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 월러, 인플레이션에 대한 상승 위험이 일부 존재함을 시사했으나, 임금 상승률은 2% 목표치와 부합"
+  },
+  {
+    "guid": "9748552",
+    "title": "FinancialJuice: Waller: Labor market also in good shape, expects similar August jobs report",
+    "link": "https://www.financialjuice.com/News/9748552/Waller-Labor-market-also-in-good-shape-expects-similar-August-jobs-report.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:32:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 월러: 노동 시장도 양호한 상태, 8월 고용 보고서도 비슷한 수준이 될 것으로 전망"
+  },
+  {
+    "guid": "9748551",
+    "title": "FinancialJuice: Waller: expect GDP to expand slightly above 2% this year",
+    "link": "https://www.financialjuice.com/News/9748551/Waller-expect-GDP-to-expand-slightly-above-2-this-year.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:32:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 월러: 올해 GDP 성장률이 2%를 약간 상회할 것으로 전망"
+  },
+  {
+    "guid": "9748550",
+    "title": "FinancialJuice: Fed's Walller: AI investment is legitimate' part of GDP. AI will 'reliably' raise productivity",
+    "link": "https://www.financialjuice.com/News/9748550/Feds-Walller-AI-investment-is-legitimate-part-of-GDP-AI-will-reliably-raise-productivity.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:31:48 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 “AI 투자는 GDP의 ‘정당한’ 구성 요소다. AI는 생산성을 ‘확실하게’ 높일 것”"
+  },
+  {
+    "guid": "9748559",
+    "title": "FinancialJuice: Fed's Waller: Finally seeing some signs of disinflation in recent data.",
+    "link": "https://www.financialjuice.com/News/9748559/Feds-Waller-Finally-seeing-some-signs-of-disinflation-in-recent-data.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:30:55 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러 위원: 최근 데이터에서 드디어 디스인플레이션의 조짐이 나타나고 있다."
+  },
+  {
+    "guid": "9748523",
+    "title": "FinancialJuice: US Initial Jobless Claims Actual 206k (Forecast 205k, Previous 203k, Revision 204K)",
+    "link": "https://www.financialjuice.com/News/9748523/US-Initial-Jobless-Claims-Actual-206k-Forecast-205k-Previous-203k-Revision-204K.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 신규 실업수당 청구 건수, 실제 20만 6천 건 (예상 20만 5천 건, 전월 20만 3천 건, 수정치 20만 4천 건)"
+  },
+  {
+    "guid": "9748522",
+    "title": "FinancialJuice: US Productivity Revised Actual 1.4% (Forecast 1.4%, Previous 1.4%)",
+    "link": "https://www.financialjuice.com/News/9748522/US-Productivity-Revised-Actual-14-Forecast-14-Previous-14.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 생산성 수정치 1.4% (예상치 1.4%, 이전치 1.4%)"
+  },
+  {
+    "guid": "9748521",
+    "title": "FinancialJuice: US Labor Costs Revised Actual 1.2% (Forecast 1.3%, Previous 1.3%)",
+    "link": "https://www.financialjuice.com/News/9748521/US-Labor-Costs-Revised-Actual-12-Forecast-13-Previous-13.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:30:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 인건비, 수정치 1.2% (예상 1.3%, 이전 1.3%)"
+  },
+  {
+    "guid": "9748520",
+    "title": "FinancialJuice: US Continued Jobless Claims Actual 1.779M (Forecast 1.7835M, Previous 1.778M, Revision 1.771M)",
+    "link": "https://www.financialjuice.com/News/9748520/US-Continued-Jobless-Claims-Actual-1779M-Forecast-17835M-Previous-1778M-Revision-1771M.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:30:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지속 실업수당 청구 건수, 실제 177만 9천 건 (예상 178만 3천 5백 건, 전월 177만 8천 건, 수정치 177만 1천 건)"
+  },
+  {
+    "guid": "9748519",
+    "title": "FinancialJuice: Canadian Labor Productivity Rate Actual 1% (Forecast -, Previous -0.5%)",
+    "link": "https://www.financialjuice.com/News/9748519/Canadian-Labor-Productivity-Rate-Actual-1-Forecast---Previous--05.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:30:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 노동 생산성 증가율, 실제 1% (예상 -, 이전 -0.5%)"
+  },
+  {
+    "guid": "9748518",
+    "title": "FinancialJuice: Canadian Trade Balance Actual 0.77B (Forecast 3.175B, Previous 3.86B, Revision 4.20B)",
+    "link": "https://www.financialjuice.com/News/9748518/Canadian-Trade-Balance-Actual-077B-Forecast-3175B-Previous-386B-Revision-420B.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 무역수지 실제치 0.77B (예상치 3.175B, 전월치 3.86B, 수정치 4.20B)"
+  },
+  {
+    "guid": "9748517",
+    "title": "FinancialJuice: US Trade Balance Actual -88.6B (Forecast -90.2B, Previous -73.3B, Revision -71.2B)",
+    "link": "https://www.financialjuice.com/News/9748517/US-Trade-Balance-Actual--886B-Forecast--902B-Previous--733B-Revision--712B.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 무역수지 실적이 -886억 (예상 -902억, 이전 -733억, 수정치 -712억)"
+  },
+  {
+    "guid": "9748516",
+    "title": "FinancialJuice: Fed's Waller Speaks Live in a moderated conversation ",
+    "link": "https://www.financialjuice.com/News/9748516/Feds-Waller-Speaks-Live-in-a-moderated-conversation-.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:26:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 월러, 사회자가 진행하는 대담에서 생중계로 발언 "
+  },
+  {
+    "guid": "9748515",
+    "title": "FinancialJuice: US Sentiment: Yen Powers On As Back-to-Back Rate Hike Expectations Rise - FJElite",
+    "link": "https://www.financialjuice.com/News/9748515/US-Sentiment-Yen-Powers-On-As-Back-to-Back-Rate-Hike-Expectations-Rise---FJElite.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:26:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 시장 심리지수: 연이은 금리 인상 기대감 고조로 엔화 강세 지속 - FJElite"
+  },
+  {
+    "guid": "9748493",
+    "title": "FinancialJuice: Nvidia and Hugging Face deal seen closing in the 1st half of 2027. $NVDA",
+    "link": "https://www.financialjuice.com/News/9748493/Nvidia-and-Hugging-Face-deal-seen-closing-in-the-1st-half-of-2027-NVDA.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:08:23 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 엔비디아와 허깅 페이스의 인수합병이 2027년 상반기에 마무리될 것으로 보인다. $NVDA"
+  },
+  {
+    "guid": "9748492",
+    "title": "FinancialJuice: Canadian dollar forecast to strengthen 1.8% to 1.36/usd in 12 months (vs 1.366 in August poll) - Poll",
+    "link": "https://www.financialjuice.com/News/9748492/Canadian-dollar-forecast-to-strengthen-18-to-136usd-in-12-months-vs-1366-in-August-poll---Poll.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:07:12 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 캐나다 달러, 12개월 내 1.8% 강세를 보여 1.36/USD에 도달할 전망 (8월 설문조사 결과 1.366 대비) - 설문조사"
+  },
+  {
+    "guid": "9748491",
+    "title": "FinancialJuice: Blackstone private credit fund to cap redemptions at 5% again. $BX\n",
+    "link": "https://www.financialjuice.com/News/9748491/Blackstone-private-credit-fund-to-cap-redemptions-at-5-again-BX.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:06:20 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 블랙스톤 사모 신용 펀드, 환매 한도를 다시 5%로 제한. $BX\n"
+  },
+  {
+    "guid": "9748490",
+    "title": "FinancialJuice: NVIDIA: Hugging Face will remain an open platform. $NVDA",
+    "link": "https://www.financialjuice.com/News/9748490/NVIDIA-Hugging-Face-will-remain-an-open-platform-NVDA.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:04:25 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: NVIDIA: Hugging Face는 앞으로도 개방형 플랫폼으로 남을 것이다. $NVDA"
+  },
+  {
+    "guid": "9748489",
+    "title": "FinancialJuice: Nvidia to buy Hugging Face for $12.93b $NVDA",
+    "link": "https://www.financialjuice.com/News/9748489/Nvidia-to-buy-Hugging-Face-for-1293b-NVDA.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:03:47 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 엔비디아, 허깅 페이스(Hugging Face)를 129억 3천만 달러에 인수 $NVDA"
+  },
+  {
+    "guid": "9748472",
+    "title": "FinancialJuice: Secured overnight financing rate 3.65% September 2nd vs 3.66% September 1st",
+    "link": "https://www.financialjuice.com/News/9748472/Secured-overnight-financing-rate-365-September-2nd-vs-366-September-1st.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 12:01:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 9월 2일 담보부 일물 자금 조달 금리 3.65% (9월 1일 3.66% 대비)"
+  },
+  {
+    "guid": "9748462",
+    "title": "FinancialJuice: US-based employers announced 52,881 job cuts in August, down 38% - Challenger Gray",
+    "link": "https://www.financialjuice.com/News/9748462/US-based-employers-announced-52881-job-cuts-in-August-down-38---Challenger-Gray.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 11:56:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 내 고용주들이 8월에 52,881명의 감원을 발표했으며, 이는 전년 동기 대비 38% 감소한 수치 - 챌린저 그레이"
+  },
+  {
     "guid": "9748257",
     "title": "FinancialJuice: Japan's Top Currency Diplomat Mimura: Ready to continue the battle on FX",
     "link": "https://www.financialjuice.com/News/9748257/Japans-Top-Currency-Diplomat-Mimura-Ready-to-continue-the-battle-on-FX.aspx?xy=rss",
