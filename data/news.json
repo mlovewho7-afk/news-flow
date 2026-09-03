@@ -1,5 +1,373 @@
 [
   {
+    "guid": "9748257",
+    "title": "FinancialJuice: Japan's Top Currency Diplomat Mimura: Ready to continue the battle on FX",
+    "link": "https://www.financialjuice.com/News/9748257/Japans-Top-Currency-Diplomat-Mimura-Ready-to-continue-the-battle-on-FX.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 09:10:14 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 일본의 최고 통화 외교관 미무라 “외환 시장에서 싸움을 계속할 준비가 되어 있다”"
+  },
+  {
+    "guid": "9748231",
+    "title": "FinancialJuice: Russian state's budget proceeds from oil and gas sales at 424 bln roubles in August, from 934 bln roubles in July - Finance ministry",
+    "link": "https://www.financialjuice.com/News/9748231/Russian-states-budget-proceeds-from-oil-and-gas-sales-at-424-bln-roubles-in-August-from-934-bln-roubles-in-July---Finance-ministry.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 09:03:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 재무부, 8월 석유·가스 판매로 인한 국가 예산 수입이 7월의 9,340억 루블에서 4,240억 루블로 감소했다고 밝혔다"
+  },
+  {
+    "guid": "9748216",
+    "title": "FinancialJuice: Eurozone PPI MoM Actual 1.6% (Forecast 1.3%, Previous -0.3%)",
+    "link": "https://www.financialjuice.com/News/9748216/Eurozone-PPI-MoM-Actual-16-Forecast-13-Previous--03.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 09:00:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유로존 생산자물가지수(PPI) 전월 대비 실제치 1.6% (예상치 1.3%, 이전치 -0.3%)"
+  },
+  {
+    "guid": "9748215",
+    "title": "FinancialJuice: Eurozone PPI YoY Actual 5.8% (Forecast 5.45%, Previous 4.6%)",
+    "link": "https://www.financialjuice.com/News/9748215/Eurozone-PPI-YoY-Actual-58-Forecast-545-Previous-46.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 09:00:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유로존 생산자물가지수(PPI) 전년 동기 대비 실제 5.8% (예상 5.45%, 이전 4.6%)"
+  },
+  {
+    "guid": "9748214",
+    "title": "FinancialJuice: French 15 Yr OAT Bid-to-Cover Actual 2.92 (Forecast -, Previous 2.1)",
+    "link": "https://www.financialjuice.com/News/9748214/French-15-Yr-OAT-Bid-to-Cover-Actual-292-Forecast---Previous-21.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:57:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 15년 만기 OAT 입찰 경쟁률 실제 2.92 (예상 -, 이전 2.1)"
+  },
+  {
+    "guid": "9748213",
+    "title": "FinancialJuice: French 15 Yr OAT Yield Actual 4.51% (Forecast -, Previous 4.03%)",
+    "link": "https://www.financialjuice.com/News/9748213/French-15-Yr-OAT-Yield-Actual-451-Forecast---Previous-403.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:57:24 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 프랑스 15년 만기 OAT 수익률, 실제 4.51% (예상 -, 전월 4.03%)"
+  },
+  {
+    "guid": "9748212",
+    "title": "FinancialJuice: French 10 Yr OAT Bid-to-Cover Actual 2.28 (Forecast -, Previous 2.33)",
+    "link": "https://www.financialjuice.com/News/9748212/French-10-Yr-OAT-Bid-to-Cover-Actual-228-Forecast---Previous-233.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:57:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 10년물 OAT 입찰 경쟁률 실제 2.28 (예상 -, 이전 2.33)"
+  },
+  {
+    "guid": "9748211",
+    "title": "FinancialJuice: French 20 Yr OAT Bid-to-Cover Actual 3.07 (Forecast -, Previous 2.78)",
+    "link": "https://www.financialjuice.com/News/9748211/French-20-Yr-OAT-Bid-to-Cover-Actual-307-Forecast---Previous-278.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:57:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 20년 만기 OAT 입찰 경쟁률 실제 3.07 (예상 -, 이전 2.78)"
+  },
+  {
+    "guid": "9748210",
+    "title": "FinancialJuice: French 20 Yr OAT Yield Actual 4.74% (Forecast -, Previous 4.27%)",
+    "link": "https://www.financialjuice.com/News/9748210/French-20-Yr-OAT-Yield-Actual-474-Forecast---Previous-427.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:57:08 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 프랑스 20년 만기 OAT 수익률, 실제 4.74% (예상 -, 이전 4.27%)"
+  },
+  {
+    "guid": "9748209",
+    "title": "FinancialJuice: French 10 Yr OAT Yield Actual 4.19% (Forecast -, Previous 3.9%)",
+    "link": "https://www.financialjuice.com/News/9748209/French-10-Yr-OAT-Yield-Actual-419-Forecast---Previous-39.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:57:08 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 프랑스 10년물 OAT 수익률, 실제 4.19% (예상 -, 전월 3.9%)"
+  },
+  {
+    "guid": "9748208",
+    "title": "FinancialJuice: Ukraine's PM: Energy infrastructure damaged in Russian overnight attack",
+    "link": "https://www.financialjuice.com/News/9748208/Ukraines-PM-Energy-infrastructure-damaged-in-Russian-overnight-attack.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:54:16 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 우크라이나 총리, “러시아의 야간 공격으로 에너지 인프라가 손상됐다”"
+  },
+  {
+    "guid": "9748207",
+    "title": "FinancialJuice: Japan Finance Minister Katayama: I have never received a direct request to do anything from Bessent",
+    "link": "https://www.financialjuice.com/News/9748207/Japan-Finance-Minister-Katayama-I-have-never-received-a-direct-request-to-do-anything-from-Bessent.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:50:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 가타야마 일본 재무장관: “베센트로부터 어떤 조치를 취해 달라는 직접적인 요청을 받은 적이 없다”"
+  },
+  {
+    "guid": "9748163",
+    "title": "FinancialJuice: UK Services PMI Final Actual 52.5 (Forecast 52.8, Previous 52.8)",
+    "link": "https://www.financialjuice.com/News/9748163/UK-Services-PMI-Final-Actual-525-Forecast-528-Previous-528.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 서비스업 PMI 최종치 52.5 (예상치 52.8, 전월치 52.8)"
+  },
+  {
+    "guid": "9748162",
+    "title": "FinancialJuice: UK Composite PMI Final Actual 52.5 (Forecast 52.5, Previous 52.5)",
+    "link": "https://www.financialjuice.com/News/9748162/UK-Composite-PMI-Final-Actual-525-Forecast-525-Previous-525.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 종합 PMI 최종치 52.5 (예상치 52.5, 전월치 52.5)"
+  },
+  {
+    "guid": "9748159",
+    "title": "FinancialJuice: South Korea Finance Minister to hold market review meeting on Friday",
+    "link": "https://www.financialjuice.com/News/9748159/South-Korea-Finance-Minister-to-hold-market-review-meeting-on-Friday.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:14:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 재무부 장관, 금요일 시장 점검 회의 개최 예정"
+  },
+  {
+    "guid": "9748158",
+    "title": "FinancialJuice: Putin: There are contacts with Ukraine",
+    "link": "https://www.financialjuice.com/News/9748158/Putin-There-are-contacts-with-Ukraine.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:06:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 푸틴 “우크라이나와 접촉 중”"
+  },
+  {
+    "guid": "9748157",
+    "title": "FinancialJuice: Putin: Trump is ready for positive and constructive work",
+    "link": "https://www.financialjuice.com/News/9748157/Putin-Trump-is-ready-for-positive-and-constructive-work.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:05:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 푸틴 “트럼프는 긍정적이고 건설적인 협력을 할 준비가 되어 있다”"
+  },
+  {
+    "guid": "9748156",
+    "title": "FinancialJuice: Putin: Contacts with Washington continue, we are in favour of the restoration of relations with the US",
+    "link": "https://www.financialjuice.com/News/9748156/Putin-Contacts-with-Washington-continue-we-are-in-favour-of-the-restoration-of-relations-with-the-US.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:05:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 푸틴 “워싱턴과의 접촉은 계속되고 있으며, 우리는 미국과의 관계 복원을 지지한다”"
+  },
+  {
+    "guid": "9748155",
+    "title": "FinancialJuice: Putin: China constantly urges us to reach a peaceful agreement",
+    "link": "https://www.financialjuice.com/News/9748155/Putin-China-constantly-urges-us-to-reach-a-peaceful-agreement.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:04:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 푸틴 “중국은 우리에게 평화적 합의를 도출할 것을 끊임없이 촉구하고 있다”"
+  },
+  {
+    "guid": "9748154",
+    "title": "FinancialJuice: Putin: There is a chance for constructive peace talks",
+    "link": "https://www.financialjuice.com/News/9748154/Putin-There-is-a-chance-for-constructive-peace-talks.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:04:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 푸틴 “건설적인 평화 회담의 가능성이 있다”"
+  },
+  {
+    "guid": "9748153",
+    "title": "FinancialJuice: Putin: There are chances on peace agreement",
+    "link": "https://www.financialjuice.com/News/9748153/Putin-There-are-chances-on-peace-agreement.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:04:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 푸틴 “평화 협정 체결 가능성이 있다”"
+  },
+  {
+    "guid": "9748152",
+    "title": "FinancialJuice: Putin: Russia and Ukraine must first agree between each other",
+    "link": "https://www.financialjuice.com/News/9748152/Putin-Russia-and-Ukraine-must-first-agree-between-each-other.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:03:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 푸틴 “러시아와 우크라이나는 먼저 양국 간에 합의해야 한다”"
+  },
+  {
+    "guid": "9748120",
+    "title": "FinancialJuice: Eurozone Services PMI Final Actual 51.6 (Forecast 51.7, Previous 51.7)",
+    "link": "https://www.financialjuice.com/News/9748120/Eurozone-Services-PMI-Final-Actual-516-Forecast-517-Previous-517.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 서비스업 PMI 최종치 51.6 (예상치 51.7, 전월치 51.7)"
+  },
+  {
+    "guid": "9748119",
+    "title": "FinancialJuice: Eurozone Composite Final PMI Actual 52 (Forecast 52.1, Previous 52.1)",
+    "link": "https://www.financialjuice.com/News/9748119/Eurozone-Composite-Final-PMI-Actual-52-Forecast-521-Previous-521.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 종합 최종 PMI 실제치 52 (예상치 52.1, 전월치 52.1)"
+  },
+  {
+    "guid": "9748118",
+    "title": "FinancialJuice: German Services PMI August 2026 Report",
+    "link": "https://www.financialjuice.com/News/9748118/German-Services-PMI-August-2026-Report.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:55:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 2026년 8월 독일 서비스업 PMI 보고서"
+  },
+  {
+    "guid": "9748117",
+    "title": "FinancialJuice: German Composite PMI Final Actual 51.8 (Forecast 51, Previous 51.0)",
+    "link": "https://www.financialjuice.com/News/9748117/German-Composite-PMI-Final-Actual-518-Forecast-51-Previous-510.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:55:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 종합 PMI 최종치 51.8 (예상치 51, 전월치 51.0)"
+  },
+  {
+    "guid": "9748116",
+    "title": "FinancialJuice: German Services PMI Final Actual 49.7 (Forecast 48.5, Previous 48.5)",
+    "link": "https://www.financialjuice.com/News/9748116/German-Services-PMI-Final-Actual-497-Forecast-485-Previous-485.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:55:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 서비스업 PMI 최종치 49.7 (예상 48.5, 전월 48.5)"
+  },
+  {
+    "guid": "9748114",
+    "title": "FinancialJuice: French Services PMI Actual 48 (Forecast 48.4, Previous 48.4)",
+    "link": "https://www.financialjuice.com/News/9748114/French-Services-PMI-Actual-48-Forecast-484-Previous-484.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:50:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 서비스업 PMI 실제치 48 (예상치 48.4, 전월치 48.4)"
+  },
+  {
+    "guid": "9748113",
+    "title": "FinancialJuice: French Composite PMI Actual 48.5 (Forecast 48.8, Previous 48.8)",
+    "link": "https://www.financialjuice.com/News/9748113/French-Composite-PMI-Actual-485-Forecast-488-Previous-488.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:50:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 종합 PMI 실제치 48.5 (예상치 48.8, 전월치 48.8)"
+  },
+  {
+    "guid": "9748098",
+    "title": "FinancialJuice: Italian Composite PMI Actual 53.6 (Forecast 53.1, Previous 52.5)",
+    "link": "https://www.financialjuice.com/News/9748098/Italian-Composite-PMI-Actual-536-Forecast-531-Previous-525.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:45:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이탈리아 종합 PMI 실제치 53.6 (예상치 53.1, 전월치 52.5)"
+  },
+  {
+    "guid": "9748097",
+    "title": "FinancialJuice: Italian Services PMI Actual 55.2 (Forecast 53.4, Previous 52.5)",
+    "link": "https://www.financialjuice.com/News/9748097/Italian-Services-PMI-Actual-552-Forecast-534-Previous-525.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이탈리아 서비스업 PMI 실제치 55.2 (예상치 53.4, 전월치 52.5)"
+  },
+  {
+    "guid": "9748076",
+    "title": "FinancialJuice: US average diesel price gains to highest since 2022 - AAA data",
+    "link": "https://www.financialjuice.com/News/9748076/US-average-diesel-price-gains-to-highest-since-2022---AAA-data.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:25:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 평균 디젤유 가격, 2022년 이후 최고치로 상승 - AAA 자료"
+  },
+  {
+    "guid": "9748075",
+    "title": "FinancialJuice: Japan chief cabinet secretary Kihara: No change to Takaichi govt's policy of attaining both a strong economy and fiscal sustainability",
+    "link": "https://www.financialjuice.com/News/9748075/Japan-chief-cabinet-secretary-Kihara-No-change-to-Takaichi-govts-policy-of-attaining-both-a-strong-economy-and-fiscal-sustainability.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:12:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 기하라 일본 관방장관: 타카이치 내각의 ‘경제 강세와 재정 건전성 동시 달성’ 정책에 변함 없음"
+  },
+  {
+    "guid": "9748074",
+    "title": "FinancialJuice: Russian defence ministry: Russian forces hit two Ukrainian cargo vessels in black sea - IFX",
+    "link": "https://www.financialjuice.com/News/9748074/Russian-defence-ministry-Russian-forces-hit-two-Ukrainian-cargo-vessels-in-black-sea---IFX.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:09:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 국방부, “러시아군이 흑해에서 우크라이나 화물선 2척을 공격했다” - IFX"
+  },
+  {
+    "guid": "9748054",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: JPY, CHF, EUR, CAD, NZD, GBP, USD, AUD - Weakest",
+    "link": "https://www.financialjuice.com/News/9748054/Currency-Strength-Chart-Strongest-JPY-CHF-EUR-CAD-NZD-GBP-USD-AUD---Weakest.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:01:29 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: JPY, CHF, EUR, CAD, NZD, GBP, USD, AUD - 가장 약한 통화"
+  },
+  {
+    "guid": "9748046",
+    "title": "FinancialJuice: Turkish CPI MoM Actual 1.84% (Forecast 1.92%, Previous 1.78%)",
+    "link": "https://www.financialjuice.com/News/9748046/Turkish-CPI-MoM-Actual-184-Forecast-192-Previous-178.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:00:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 터키 소비자물가지수(CPI) 전월 대비 실제치 1.84% (예상 1.92%, 이전 1.78%)"
+  },
+  {
+    "guid": "9748045",
+    "title": "FinancialJuice: Turkish CPI YoY Actual 31.51% (Forecast 31.6%, Previous 31.75%)",
+    "link": "https://www.financialjuice.com/News/9748045/Turkish-CPI-YoY-Actual-3151-Forecast-316-Previous-3175.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:00:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 터키 소비자물가지수(CPI) 전년 동기 대비 실제치 31.51% (예상치 31.6%, 전월치 31.75%)"
+  },
+  {
+    "guid": "9748042",
+    "title": "FinancialJuice: Swiss GDP YoY Actual 2.8% (Forecast 2.2%, Previous 0.5%)",
+    "link": "https://www.financialjuice.com/News/9748042/Swiss-GDP-YoY-Actual-28-Forecast-22-Previous-05.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 GDP 전년 동기 대비 실질 성장률 2.8% (예상치 2.2%, 전분기 0.5%)"
+  },
+  {
+    "guid": "9748041",
+    "title": "FinancialJuice: Swiss GDP QoQ Actual 1.9% (Forecast 1.7%, Previous 0.7%)",
+    "link": "https://www.financialjuice.com/News/9748041/Swiss-GDP-QoQ-Actual-19-Forecast-17-Previous-07.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 GDP 전분기 대비 실제치 1.9% (예상치 1.7%, 전분기 0.7%)"
+  },
+  {
+    "guid": "9747992",
+    "title": "FinancialJuice: Russia’s Deputy PM Novak: Russia's oil output drop this year is temporary - Tass",
+    "link": "https://www.financialjuice.com/News/9747992/Russias-Deputy-PM-Novak-Russias-oil-output-drop-this-year-is-temporary---Tass.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 06:53:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 노박 러시아 부총리, “올해 러시아 석유 생산량 감소는 일시적” - 타스"
+  },
+  {
+    "guid": "9748004",
+    "title": "FinancialJuice: Swiss CPI YoY Actual 0.8% (Forecast 0.5%, Previous 0.4%)",
+    "link": "https://www.financialjuice.com/News/9748004/Swiss-CPI-YoY-Actual-08-Forecast-05-Previous-04.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 06:30:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 소비자물가지수(CPI) 전년 동기 대비 실제치 0.8% (예상치 0.5%, 전월치 0.4%)"
+  },
+  {
+    "guid": "9748003",
+    "title": "FinancialJuice: Swiss CPI MoM Actual 0.4% (Forecast 0%, Previous -0.1%)",
+    "link": "https://www.financialjuice.com/News/9748003/Swiss-CPI-MoM-Actual-04-Forecast-0-Previous--01.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 06:30:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 소비자물가지수(CPI) 전월 대비 실제치 0.4% (예상치 0%, 이전치 -0.1%)"
+  },
+  {
+    "guid": "9748002",
+    "title": "FinancialJuice: Swiss Core CPI YoY Actual 0.4% (Forecast 0.3%, Previous 0.3%)",
+    "link": "https://www.financialjuice.com/News/9748002/Swiss-Core-CPI-YoY-Actual-04-Forecast-03-Previous-03.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 06:30:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 핵심 소비자물가지수(CPI) 전년 동기 대비 실제 0.4% (예상 0.3%, 이전 0.3%)"
+  },
+  {
+    "guid": "9747994",
+    "title": "FinancialJuice: UAE President and Trump discuss Middle East developments and bilateral cooperation in phone call - UAE State News Agency",
+    "link": "https://www.financialjuice.com/News/9747994/UAE-President-and-Trump-discuss-Middle-East-developments-and-bilateral-cooperation-in-phone-call---UAE-State-News-Agency.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 06:00:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아랍에미리트(UAE) 대통령과 트럼프, 전화 통화에서 중동 정세 및 양국 간 협력 논의 - UAE 국영 통신사"
+  },
+  {
+    "guid": "9747993",
+    "title": "FinancialJuice: UAE president and Trump discussed cooperation in a phone call - WAM",
+    "link": "https://www.financialjuice.com/News/9747993/UAE-president-and-Trump-discussed-cooperation-in-a-phone-call---WAM.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 05:53:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아랍에미리트 대통령과 트럼프, 전화 통화에서 협력 논의 - WAM"
+  },
+  {
+    "guid": "9747991",
+    "title": "FinancialJuice: Russia’s Deputy PM Novak: Russia to slightly cut oil output in 2026 - Tass",
+    "link": "https://www.financialjuice.com/News/9747991/Russias-Deputy-PM-Novak-Russia-to-slightly-cut-oil-output-in-2026---Tass.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 05:51:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 노박 러시아 부총리, “러시아, 2026년 원유 생산량을 소폭 감산할 예정” - 타스"
+  },
+  {
     "guid": "9747941",
     "title": "FinancialJuice: India HSBC and S&P Global August final services PMI at 54.1 vs flash 54.5",
     "link": "https://www.financialjuice.com/News/9747941/India-HSBC-and-SP-Global-August-final-services-PMI-at-541-vs-flash-545.aspx?xy=rss",
