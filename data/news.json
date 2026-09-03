@@ -1,5 +1,413 @@
 [
   {
+    "guid": "9749226",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9749226/MOC-Imbalance.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 19:50:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOC 불균형"
+  },
+  {
+    "guid": "9749224",
+    "title": "FinancialJuice: Altman: I assume we will go public.",
+    "link": "https://www.financialjuice.com/News/9749224/Altman-I-assume-we-will-go-public.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 19:47:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 알트먼: 아마도 상장하게 될 것으로 예상합니다."
+  },
+  {
+    "guid": "9749213",
+    "title": "FinancialJuice: OpenAI's Altman: Astra model took longer to release than hoped for.",
+    "link": "https://www.financialjuice.com/News/9749213/OpenAIs-Altman-Astra-model-took-longer-to-release-than-hoped-for.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 19:41:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI의 알트먼, “아스트라 모델 출시가 예상보다 더 오래 걸렸다.”"
+  },
+  {
+    "guid": "9749212",
+    "title": "FinancialJuice: SpaceXAI: Grok issues after outage at Memphis Compute Center; all systems restored, functioning normally.",
+    "link": "https://www.financialjuice.com/News/9749212/SpaceXAI-Grok-issues-after-outage-at-Memphis-Compute-Center-all-systems-restored-functioning-normally.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 19:40:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: SpaceXAI: 멤피스 컴퓨트 센터의 서비스 중단 이후 Grok에 문제가 발생했으나, 모든 시스템이 복구되어 정상적으로 작동 중입니다."
+  },
+  {
+    "guid": "9749211",
+    "title": "FinancialJuice: Patrick De Haan of GasBuddy on X: US average diesel prices hit a new record of $5.820/gallon",
+    "link": "https://www.financialjuice.com/News/9749211/Patrick-De-Haan-of-GasBuddy-on-X-US-average-diesel-prices-hit-a-new-record-of-5820gallon.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 19:39:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: GasBuddy의 패트릭 드 하안(Patrick De Haan)이 X에 게시한 내용: 미국 평균 디젤 가격이 갤런당 5.820달러로 사상 최고치를 경신했다"
+  },
+  {
+    "guid": "9749189",
+    "title": "FinancialJuice: Friday FX Options Expiries ",
+    "link": "https://www.financialjuice.com/News/9749189/Friday-FX-Options-Expiries-.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 19:23:06 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 금요일 외환 옵션 만기일 "
+  },
+  {
+    "guid": "9749188",
+    "title": "FinancialJuice: Iran's Minister of Oil: Started drilling more than 30 wells in the South Pars gas field. Some have yielded positive results.",
+    "link": "https://www.financialjuice.com/News/9749188/Irans-Minister-of-Oil-Started-drilling-more-than-30-wells-in-the-South-Pars-gas-field-Some-have-yielded-positive-results.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 19:16:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 석유부 장관: 사우스 파르스 가스전에서 30개 이상의 유정 시추를 시작했다. 일부 유정에서는 긍정적인 결과가 나왔다."
+  },
+  {
+    "guid": "9749172",
+    "title": "FinancialJuice: US money-market fund assets hit a record $7.98 trillion at ICI.\n",
+    "link": "https://www.financialjuice.com/News/9749172/US-money-market-fund-assets-hit-a-record-798-trillion-at-ICI.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 19:14:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ICI에 따르면 미국 머니마켓 펀드 자산 규모가 7조 9,800억 달러로 사상 최고치를 기록했다.\n"
+  },
+  {
+    "guid": "9749170",
+    "title": "FinancialJuice: Crusoe signs roughly $13 billion AI cloud deal with Jane Street.\n",
+    "link": "https://www.financialjuice.com/News/9749170/Crusoe-signs-roughly-13-billion-AI-cloud-deal-with-Jane-Street.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 19:01:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 크루소(Crusoe), 제인 스트리트(Jane Street)와 약 130억 달러 규모의 AI 클라우드 계약을 체결했다.\n"
+  },
+  {
+    "guid": "9749152",
+    "title": "FinancialJuice: Trump interview with GB News ends.",
+    "link": "https://www.financialjuice.com/News/9749152/Trump-interview-with-GB-News-ends.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:48:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: GB News와의 트럼프 인터뷰가 끝났다."
+  },
+  {
+    "guid": "9749151",
+    "title": "FinancialJuice: Iraq's losses since the Iran war are nearly $80b - SOMO ",
+    "link": "https://www.financialjuice.com/News/9749151/Iraqs-losses-since-the-Iran-war-are-nearly-80b---SOMO-.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:47:51 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이란-이라크 전쟁 이후 이라크의 손실액은 약 800억 달러에 달한다 - SOMO "
+  },
+  {
+    "guid": "9749149",
+    "title": "FinancialJuice: Brent crude futures settle at $95.52/bbl, down 11 cents, 0.12%.",
+    "link": "https://www.financialjuice.com/News/9749149/Brent-crude-futures-settle-at-9552bbl-down-11-cents-012.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:46:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브렌트유 선물은 배럴당 95.52달러에 마감하며, 11센트(0.12%) 하락했다."
+  },
+  {
+    "guid": "9749148",
+    "title": "FinancialJuice: Trump on Social Media: Companies can do more to protect kids.",
+    "link": "https://www.financialjuice.com/News/9749148/Trump-on-Social-Media-Companies-can-do-more-to-protect-kids.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:46:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 소셜 미디어 관련 발언: 기업들은 어린이들을 보호하기 위해 더 많은 노력을 기울여야 한다."
+  },
+  {
+    "guid": "9749144",
+    "title": "FinancialJuice: Vice President JD Vance ends White House press briefing.",
+    "link": "https://www.financialjuice.com/News/9749144/Vice-President-JD-Vance-ends-White-House-press-briefing.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:41:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: JD 밴스 부통령이 백악관 브리핑을 마쳤다."
+  },
+  {
+    "guid": "9749142",
+    "title": "FinancialJuice: Trump: Data centers are fabulous.",
+    "link": "https://www.financialjuice.com/News/9749142/Trump-Data-centers-are-fabulous.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:38:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 데이터 센터는 정말 대단하다."
+  },
+  {
+    "guid": "9749141",
+    "title": "FinancialJuice: Trump: AI has some negatives, those will be straightened out.",
+    "link": "https://www.financialjuice.com/News/9749141/Trump-AI-has-some-negatives-those-will-be-straightened-out.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:38:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “AI에는 몇 가지 단점이 있지만, 그 문제들은 해결될 것이다.”"
+  },
+  {
+    "guid": "9749140",
+    "title": "FinancialJuice: US VP Vance: China is willing to be more responsible regarding Iran.",
+    "link": "https://www.financialjuice.com/News/9749140/US-VP-Vance-China-is-willing-to-be-more-responsible-regarding-Iran.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:37:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: 중국은 이란 문제에 대해 더 큰 책임을 지려는 의지를 보이고 있다."
+  },
+  {
+    "guid": "9749139",
+    "title": "FinancialJuice: Zuckerberg told Trump opposed to a national AI regulator - Insider $META",
+    "link": "https://www.financialjuice.com/News/9749139/Zuckerberg-told-Trump-opposed-to-a-national-AI-regulator---Insider-META.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:36:52 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 저커버그, 트럼프에게 국가 차원의 AI 규제 기관 설립에 반대한다고 밝혔다 - Insider $META"
+  },
+  {
+    "guid": "9749138",
+    "title": "FinancialJuice: Iraq's oil revenues in August stood at around $4.5b - SOMO",
+    "link": "https://www.financialjuice.com/News/9749138/Iraqs-oil-revenues-in-August-stood-at-around-45b---SOMO.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:35:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 8월 이라크의 석유 수입은 약 45억 달러를 기록했다 - SOMO"
+  },
+  {
+    "guid": "9749137",
+    "title": "FinancialJuice: Iraq's August oil exports 73m bbl, highest in the Iran war - SOMO",
+    "link": "https://www.financialjuice.com/News/9749137/Iraqs-August-oil-exports-73m-bbl-highest-in-the-Iran-war---SOMO.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:35:22 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이라크의 8월 원유 수출량 7,300만 배럴, 이란 전쟁 이후 최고치 - SOMO"
+  },
+  {
+    "guid": "9749136",
+    "title": "FinancialJuice: Nymex Natural Gas October futures settle at $2.9130/MMBTU.\n",
+    "link": "https://www.financialjuice.com/News/9749136/Nymex-Natural-Gas-October-futures-settle-at-29130MMBTU.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:32:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴욕상품거래소(Nymex) 천연가스 10월물 선물이 MMBTU당 2.9130달러에 마감했다.\n"
+  },
+  {
+    "guid": "9749134",
+    "title": "FinancialJuice: NYMEX Gasoline October futures settle at $3.1349 a gallon.",
+    "link": "https://www.financialjuice.com/News/9749134/NYMEX-Gasoline-October-futures-settle-at-31349-a-gallon.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:32:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 10월 인도분 휘발유 선물 가격이 갤런당 3.1349달러에 마감했다."
+  },
+  {
+    "guid": "9749133",
+    "title": "FinancialJuice: NYMEX Diesel October futures settle at $4.5936 a gallon.",
+    "link": "https://www.financialjuice.com/News/9749133/NYMEX-Diesel-October-futures-settle-at-45936-a-gallon.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:31:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 10월물 디젤 선물 가격이 갤런당 4.5936달러에 마감했다."
+  },
+  {
+    "guid": "9749130",
+    "title": "FinancialJuice: NYMEX WTI Crude October futures settle at $91.30 a barrel,  up 29 cents, 0.32%.",
+    "link": "https://www.financialjuice.com/News/9749130/NYMEX-WTI-Crude-October-futures-settle-at-9130-a-barrel--up-29-cents-032.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:31:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX WTI 원유 10월물 선물은 배럴당 91.30달러에 마감했으며, 29센트(0.32%) 상승했다."
+  },
+  {
+    "guid": "9749114",
+    "title": "FinancialJuice: US VP Vance: China has been responsive to some of our requests.",
+    "link": "https://www.financialjuice.com/News/9749114/US-VP-Vance-China-has-been-responsive-to-some-of-our-requests.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:28:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: 중국은 우리의 요청 중 일부에 대해 긍정적인 반응을 보여왔다."
+  },
+  {
+    "guid": "9749113",
+    "title": "FinancialJuice: US VP Vance on Iran attempted cyberattack: Confident homeland is safe.",
+    "link": "https://www.financialjuice.com/News/9749113/US-VP-Vance-on-Iran-attempted-cyberattack-Confident-homeland-is-safe.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:26:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 사이버 공격 시도에 대한 밴스 미국 부통령의 발언: “미국 본토는 안전하다고 확신한다.”"
+  },
+  {
+    "guid": "9749112",
+    "title": "FinancialJuice: Trump: I just want the war ended in Ukraine",
+    "link": "https://www.financialjuice.com/News/9749112/Trump-I-just-want-the-war-ended-in-Ukraine.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:25:21 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프 “저는 그저 우크라이나 전쟁이 끝나기만을 바랄 뿐입니다”"
+  },
+  {
+    "guid": "9749111",
+    "title": "FinancialJuice: Trump: I did the right thing on Iran.",
+    "link": "https://www.financialjuice.com/News/9749111/Trump-I-did-the-right-thing-on-Iran.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:23:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “이란 문제에 대해 나는 옳은 일을 했다.”"
+  },
+  {
+    "guid": "9749110",
+    "title": "FinancialJuice: US VP Vance: It's proper and responsible for the Fed to lower rates.",
+    "link": "https://www.financialjuice.com/News/9749110/US-VP-Vance-Its-proper-and-responsible-for-the-Fed-to-lower-rates.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:23:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: 연준이 금리를 인하하는 것은 타당하고 책임감 있는 조치다."
+  },
+  {
+    "guid": "9749109",
+    "title": "FinancialJuice: Trump: 30 to 40 boats nightly coming through Hormuz Strait.",
+    "link": "https://www.financialjuice.com/News/9749109/Trump-30-to-40-boats-nightly-coming-through-Hormuz-Strait.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:23:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “매일 밤 30~40척의 선박이 호르무즈 해협을 통과하고 있다.”"
+  },
+  {
+    "guid": "9749108",
+    "title": "FinancialJuice: US VP Vance: We believe the Fed should be lowering interest rates.",
+    "link": "https://www.financialjuice.com/News/9749108/US-VP-Vance-We-believe-the-Fed-should-be-lowering-interest-rates.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:22:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: “연준은 금리를 인하해야 한다고 생각합니다.”"
+  },
+  {
+    "guid": "9749107",
+    "title": "FinancialJuice: US VP Vance: Won't set an artificial timeline for the end of the war in Iran.",
+    "link": "https://www.financialjuice.com/News/9749107/US-VP-Vance-Wont-set-an-artificial-timeline-for-the-end-of-the-war-in-Iran.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:21:49 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: 이란 전쟁 종결을 위한 인위적인 시한을 정하지 않겠다."
+  },
+  {
+    "guid": "9749106",
+    "title": "FinancialJuice: US VP Vance: Would not call it a war in Iran.",
+    "link": "https://www.financialjuice.com/News/9749106/US-VP-Vance-Would-not-call-it-a-war-in-Iran.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:19:13 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: 이란에서의 상황을 ‘전쟁’이라고 부르지는 않겠다."
+  },
+  {
+    "guid": "9749105",
+    "title": "FinancialJuice: US Secretary of State Rubio to visit Colombia next week",
+    "link": "https://www.financialjuice.com/News/9749105/US-Secretary-of-State-Rubio-to-visit-Colombia-next-week.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:17:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루비오 미국 국무장관, 다음 주 콜롬비아 방문 예정"
+  },
+  {
+    "guid": "9749089",
+    "title": "FinancialJuice: US VP Vance: We're not talking to Iran unless they stop shooting at ships.",
+    "link": "https://www.financialjuice.com/News/9749089/US-VP-Vance-Were-not-talking-to-Iran-unless-they-stop-shooting-at-ships.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:12:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: “이란이 선박에 대한 공격을 중단하지 않는 한, 우리는 이란과 대화하지 않을 것이다.”"
+  },
+  {
+    "guid": "9749088",
+    "title": "FinancialJuice: US VP Vance: Major combat operations are not currently ongoing.",
+    "link": "https://www.financialjuice.com/News/9749088/US-VP-Vance-Major-combat-operations-are-not-currently-ongoing.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:12:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: 현재 주요 전투 작전은 진행되고 있지 않다."
+  },
+  {
+    "guid": "9749087",
+    "title": "FinancialJuice: US VP Vance reiterates that the US has a set of tools to use against Iran.",
+    "link": "https://www.financialjuice.com/News/9749087/US-VP-Vance-reiterates-that-the-US-has-a-set-of-tools-to-use-against-Iran.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:08:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령은 미국이 이란에 대응할 수 있는 일련의 수단을 보유하고 있음을 재차 강조했다."
+  },
+  {
+    "guid": "9749086",
+    "title": "FinancialJuice: Trump Speaks On GB News",
+    "link": "https://www.financialjuice.com/News/9749086/Trump-Speaks-On-GB-News.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:06:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, GB 뉴스에서 발언"
+  },
+  {
+    "guid": "9749085",
+    "title": "FinancialJuice: Trump: Reiterates Spain doesn't pay what they should in NATO.",
+    "link": "https://www.financialjuice.com/News/9749085/Trump-Reiterates-Spain-doesnt-pay-what-they-should-in-NATO.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:05:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 스페인이 나토 분담금을 제대로 내지 않고 있다고 재차 강조."
+  },
+  {
+    "guid": "9749084",
+    "title": "FinancialJuice: US Treasury Debt Buyback",
+    "link": "https://www.financialjuice.com/News/9749084/US-Treasury-Debt-Buyback.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:02:31 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 재무부 채권 매입"
+  },
+  {
+    "guid": "9749072",
+    "title": "FinancialJuice: OpenAI rolls out GPT-6 Astra model with added cyber guardrails.\n",
+    "link": "https://www.financialjuice.com/News/9749072/OpenAI-rolls-out-GPT-6-Astra-model-with-added-cyber-guardrails.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:01:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI, 사이버 안전 장치가 추가된 GPT-6 Astra 모델 출시.\n"
+  },
+  {
+    "guid": "9749069",
+    "title": "FinancialJuice: US VP Vance: I won't make promises on the timing of lower gasoline prices.",
+    "link": "https://www.financialjuice.com/News/9749069/US-VP-Vance-I-wont-make-promises-on-the-timing-of-lower-gasoline-prices.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 18:00:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: 휘발유 가격 하락 시기에 대해서는 약속하지 않겠다."
+  },
+  {
+    "guid": "9749068",
+    "title": "FinancialJuice: US Vice President Vance: About 15 million barrels out of the Strait of Hormuz yesterday.",
+    "link": "https://www.financialjuice.com/News/9749068/US-Vice-President-Vance-About-15-million-barrels-out-of-the-Strait-of-Hormuz-yesterday.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 17:58:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: 어제 호르무즈 해협을 통과한 원유는 약 1,500만 배럴이다."
+  },
+  {
+    "guid": "9749066",
+    "title": "FinancialJuice: US VP Vance on Gasoline prices: They're high because Iran is shooting at ships.",
+    "link": "https://www.financialjuice.com/News/9749066/US-VP-Vance-on-Gasoline-prices-Theyre-high-because-Iran-is-shooting-at-ships.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 17:58:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령, 휘발유 가격에 대해 “이란이 선박을 공격하고 있어서 가격이 비싼 것”이라고 말했다."
+  },
+  {
+    "guid": "9749065",
+    "title": "FinancialJuice: NFP Past Market Reactions & Deviations - FJElite",
+    "link": "https://www.financialjuice.com/News/9749065/NFP-Past-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 17:55:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NFP 발표 시 과거 시장 반응 및 편차 - FJElite"
+  },
+  {
+    "guid": "9749064",
+    "title": "FinancialJuice: US VP Vance: Inflation problem wasn't created in a day.",
+    "link": "https://www.financialjuice.com/News/9749064/US-VP-Vance-Inflation-problem-wasnt-created-in-a-day.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 17:54:58 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: 인플레이션 문제는 하루아침에 생긴 것이 아니다."
+  },
+  {
+    "guid": "9749063",
+    "title": "FinancialJuice: US VP Vance: Doing everything we can to bring down prices.",
+    "link": "https://www.financialjuice.com/News/9749063/US-VP-Vance-Doing-everything-we-can-to-bring-down-prices.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 17:54:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: 물가 안정화를 위해 최선을 다하고 있다."
+  },
+  {
+    "guid": "9749061",
+    "title": "FinancialJuice: US VP Vance: US taxpayers to also win with Venezuela oil deal.",
+    "link": "https://www.financialjuice.com/News/9749061/US-VP-Vance-US-taxpayers-to-also-win-with-Venezuela-oil-deal.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 17:47:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령, “베네수엘라 석유 협정으로 미국 납세자들도 이익을 볼 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9749060",
+    "title": "FinancialJuice: Iran's attacks didn't impact facilities with US forces - CBS",
+    "link": "https://www.financialjuice.com/News/9749060/Irans-attacks-didnt-impact-facilities-with-US-forces---CBS.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 17:47:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 공격은 미군이 주둔한 시설에는 영향을 미치지 않았다 - CBS"
+  },
+  {
+    "guid": "9749053",
+    "title": "FinancialJuice: Thinking Machines Lab is in talks for around a $40b valuation - the information\n",
+    "link": "https://www.financialjuice.com/News/9749053/Thinking-Machines-Lab-is-in-talks-for-around-a-40b-valuation---the-information.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 17:44:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 싱킹 머신즈 랩, 약 400억 달러의 기업 가치를 바탕으로 인수 협상을 진행 중 - 관련 정보\n"
+  },
+  {
+    "guid": "9749043",
+    "title": "FinancialJuice: Iran's Minister of Oil: A significant portion of the damage to energy facilities during the two recent wars has been repaired.",
+    "link": "https://www.financialjuice.com/News/9749043/Irans-Minister-of-Oil-A-significant-portion-of-the-damage-to-energy-facilities-during-the-two-recent-wars-has-been-repaired.aspx?xy=rss",
+    "pubDate": "Thu, 03 Sep 2026 17:19:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 석유부 장관: 최근 두 차례의 전쟁 동안 에너지 시설에 발생한 피해의 상당 부분이 복구되었다."
+  },
+  {
     "guid": "9749019",
     "title": "FinancialJuice: Subaru and other Japanese suppliers to team on delivery as Boeing raises output - Nikkei\n",
     "link": "https://www.financialjuice.com/News/9749019/Subaru-and-other-Japanese-suppliers-to-team-on-delivery-as-Boeing-raises-output---Nikkei.aspx?xy=rss",
