@@ -1,5 +1,189 @@
 [
   {
+    "guid": "9750930",
+    "title": "FinancialJuice: US official comments on report of AI dialogue in September",
+    "link": "https://www.financialjuice.com/News/9750930/US-official-comments-on-report-of-AI-dialogue-in-September.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 20:19:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 당국자, 9월 AI 대화 관련 보도에 대해 논평"
+  },
+  {
+    "guid": "9750927",
+    "title": "FinancialJuice: White House not expecting Chinese CEO delegation: US official",
+    "link": "https://www.financialjuice.com/News/9750927/White-House-not-expecting-Chinese-CEO-delegation-US-official.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 20:19:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 중국 CEO 대표단 방문 예상하지 않아: 미국 관리"
+  },
+  {
+    "guid": "9750926",
+    "title": "FinancialJuice: White House not planning AI talks in mid-September: US official",
+    "link": "https://www.financialjuice.com/News/9750926/White-House-not-planning-AI-talks-in-mid-September-US-official.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 20:19:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관, 9월 중순 AI 회담 계획 없어… 미국 관리"
+  },
+  {
+    "guid": "9750887",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9750887/MOC-Imbalance.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:50:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOC 불균형"
+  },
+  {
+    "guid": "9750885",
+    "title": "FinancialJuice: Anthropic nears tapping Morgan Stanley and Goldman for IPO - FT. $MS $GS",
+    "link": "https://www.financialjuice.com/News/9750885/Anthropic-nears-tapping-Morgan-Stanley-and-Goldman-for-IPO---FT-MS-GS.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:48:53 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 앤트로픽, 기업공개(IPO)를 위해 모건 스탠리와 골드만삭스를 선정할 예정 - FT. $MS $GS"
+  },
+  {
+    "guid": "9750870",
+    "title": "FinancialJuice: ZN CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750870/ZN-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:43:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 주간 ZN CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750869",
+    "title": "FinancialJuice: VIX CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750869/VIX-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:42:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 주간 VIX CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750868",
+    "title": "FinancialJuice: NQ CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750868/NQ-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:41:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 기준 NQ CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750867",
+    "title": "FinancialJuice: ES CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750867/ES-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:41:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 주간 ES CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750866",
+    "title": "FinancialJuice: WTI CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750866/WTI-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:40:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 주간 WTI CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750863",
+    "title": "FinancialJuice: Copper CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750863/Copper-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:39:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 주간 구리 CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750862",
+    "title": "FinancialJuice: USD CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750862/USD-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:38:16 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 9월 1일 주간 미국 CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750861",
+    "title": "FinancialJuice: EUR CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750861/EUR-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:37:59 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 9월 1일 주간 유로 CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750860",
+    "title": "FinancialJuice: AUD CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750860/AUD-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:37:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 주간 AUD CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750859",
+    "title": "FinancialJuice: JPY CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750859/JPY-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:37:24 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 9월 1일 주간 엔화 CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750858",
+    "title": "FinancialJuice: GBP CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750858/GBP-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:37:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 주간 GBP CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750857",
+    "title": "FinancialJuice: CHF CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750857/CHF-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:36:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 주간 CHF CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750856",
+    "title": "FinancialJuice: NZD CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750856/NZD-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:36:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 주간 NZD CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750855",
+    "title": "FinancialJuice: CAD CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750855/CAD-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:36:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 주간 캐나다 달러(CAD) CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750853",
+    "title": "FinancialJuice: ZT CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750853/ZT-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:34:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 주간 ZT CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750848",
+    "title": "FinancialJuice: Gold CFTC Positions Week September 1st - FJElite",
+    "link": "https://www.financialjuice.com/News/9750848/Gold-CFTC-Positions-Week-September-1st---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:32:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 주간 금 CFTC 포지션 - FJElite"
+  },
+  {
+    "guid": "9750836",
+    "title": "FinancialJuice: CFTC Positions in the Week Ended September 1st",
+    "link": "https://www.financialjuice.com/News/9750836/CFTC-Positions-in-the-Week-Ended-September-1st.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:30:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 1일 종료된 주의 CFTC 포지션 현황"
+  },
+  {
+    "guid": "9750834",
+    "title": "FinancialJuice: Monday FX Options Expiries",
+    "link": "https://www.financialjuice.com/News/9750834/Monday-FX-Options-Expiries.aspx?xy=rss",
+    "pubDate": "Fri, 04 Sep 2026 19:21:52 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 월요일 외환 옵션 만기일"
+  },
+  {
     "guid": "9750820",
     "title": "FinancialJuice: Trump concludes remarks",
     "link": "https://www.financialjuice.com/News/9750820/Trump-concludes-remarks.aspx?xy=rss",
