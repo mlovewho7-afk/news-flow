@@ -1,5 +1,309 @@
 [
   {
+    "guid": "9753051",
+    "title": "FinancialJuice: Australia September Westpac-MI consumer confidence index falls 5.2% to 84.4",
+    "link": "https://www.financialjuice.com/News/9753051/Australia-September-Westpac-MI-consumer-confidence-index-falls-52-to-844.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 00:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 9월 웨스트팩-MI 소비자 신뢰 지수, 5.2% 하락한 84.4 기록"
+  },
+  {
+    "guid": "9753050",
+    "title": "FinancialJuice: Australian Consumer Sentiment Actual -5.2% (Forecast -, Previous 6.0%)",
+    "link": "https://www.financialjuice.com/News/9753050/Australian-Consumer-Sentiment-Actual--52-Forecast---Previous-60.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 00:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 소비자 심리 지수 실제 -5.2% (예상 -, 전월 6.0%)"
+  },
+  {
+    "guid": "9753049",
+    "title": "FinancialJuice: China PBOC likely to set yuan midpoint at 6.7104 per dollar: estimate",
+    "link": "https://www.financialjuice.com/News/9753049/China-PBOC-likely-to-set-yuan-midpoint-at-67104-per-dollar-estimate.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 00:20:22 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 인민은행, 위안화 중간 환율을 1달러당 6.7104로 책정할 전망: 추정"
+  },
+  {
+    "guid": "9753027",
+    "title": "FinancialJuice: Japanese Bank Lending YoY Actual 5.4% (Forecast -, Previous 5.4%)",
+    "link": "https://www.financialjuice.com/News/9753027/Japanese-Bank-Lending-YoY-Actual-54-Forecast---Previous-54.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 은행 대출, 전년 동기 대비 실제 5.4% (예상 -, 이전 5.4%)"
+  },
+  {
+    "guid": "9753029",
+    "title": "FinancialJuice: Japan Q2 revised domestic demand contribution -0.1 percentage point, prelim -0.2 percentage point",
+    "link": "https://www.financialjuice.com/News/9753029/Japan-Q2-revised-domestic-demand-contribution--01-percentage-point-prelim--02-percentage-point.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 2분기 수정치 내수 기여도 -0.1%포인트, 잠정치 -0.2%포인트"
+  },
+  {
+    "guid": "9753028",
+    "title": "FinancialJuice: Japan Aug outstanding bank loans rise 5.4% yr/yr: BoJ",
+    "link": "https://www.financialjuice.com/News/9753028/Japan-Aug-outstanding-bank-loans-rise-54-yryr-BoJ.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 8월 은행 대출 잔액, 전년 동기 대비 5.4% 증가: 일본은행"
+  },
+  {
+    "guid": "9753026",
+    "title": "FinancialJuice: Japan Q2 revised external demand contribution to GDP 0.5 percentage point (prelim 0.5 percentage point)",
+    "link": "https://www.financialjuice.com/News/9753026/Japan-Q2-revised-external-demand-contribution-to-GDP-05-percentage-point-prelim-05-percentage-point.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본 2분기 GDP에 대한 대외수요 기여도 수정치 0.5%포인트 (초안 0.5%포인트)"
+  },
+  {
+    "guid": "9753025",
+    "title": "FinancialJuice: Japan Q2 revised private consumption unchanged quarter on quarter (prelim 0.0%)",
+    "link": "https://www.financialjuice.com/News/9753025/Japan-Q2-revised-private-consumption-unchanged-quarter-on-quarter-prelim-00.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 2분기 수정 민간 소비, 전분기 대비 변동 없음 (초안 0.0%)"
+  },
+  {
+    "guid": "9753024",
+    "title": "FinancialJuice: Japanese GDP Deflator Final YoY Actual 2.6% (Forecast 2.6%, Previous 2.6%)",
+    "link": "https://www.financialjuice.com/News/9753024/Japanese-GDP-Deflator-Final-YoY-Actual-26-Forecast-26-Previous-26.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본 GDP 디플레이터, 최종 전년 동기 대비 실제 2.6% (예상 2.6%, 이전 2.6%)"
+  },
+  {
+    "guid": "9753023",
+    "title": "FinancialJuice: Japan Q2 revised capex down 0.9% quarter on quarter (prelim -1.2%, poll -0.8%)",
+    "link": "https://www.financialjuice.com/News/9753023/Japan-Q2-revised-capex-down-09-quarter-on-quarter-prelim--12-poll--08.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 2분기 수정 자본지출, 전분기 대비 0.9% 감소 (잠정치 -1.2%, 예상치 -0.8%)"
+  },
+  {
+    "guid": "9753022",
+    "title": "FinancialJuice: Japan Q2 revised real GDP rises 0.4% quarter on quarter (prelim 0.3%, poll 0.4%)",
+    "link": "https://www.financialjuice.com/News/9753022/Japan-Q2-revised-real-GDP-rises-04-quarter-on-quarter-prelim-03-poll-04.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:08 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본 2분기 수정 실질 GDP, 전분기 대비 0.4% 증가 (초안 0.3%, 예상 0.4%)"
+  },
+  {
+    "guid": "9753021",
+    "title": "FinancialJuice: Japanese GDP Revised QoQ Actual 0.4% (Forecast 0.4%, Previous 0.3%)",
+    "link": "https://www.financialjuice.com/News/9753021/Japanese-GDP-Revised-QoQ-Actual-04-Forecast-04-Previous-03.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:07 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본 GDP 분기 대비 수정치 0.4% (예상 0.4%, 이전 0.3%)"
+  },
+  {
+    "guid": "9753020",
+    "title": "FinancialJuice: Japan q2 revised real gdp annualized rises 1.4% (preliminary 1.1%, poll 1.6%)",
+    "link": "https://www.financialjuice.com/News/9753020/Japan-q2-revised-real-gdp-annualized-rises-14-preliminary-11-poll-16.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본 2분기 수정 실질 GDP 연율 기준 1.4% 상승 (초안 1.1%, 설문조사 1.6%)"
+  },
+  {
+    "guid": "9753019",
+    "title": "FinancialJuice: Japan July unadjusted current account surplus 2,988.9 billion yen, Ministry of Finance poll was 2,869.8 billion yen",
+    "link": "https://www.financialjuice.com/News/9753019/Japan-July-unadjusted-current-account-surplus-29889-billion-yen-Ministry-of-Finance-poll-was-28698-billion-yen.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본의 7월 미조정 경상수지 흑자 규모는 2,988.9조 엔으로, 재무부의 예상치인 2,869.8조 엔을 상회했다."
+  },
+  {
+    "guid": "9753018",
+    "title": "FinancialJuice: Japanese GDP Rev QoQ Annualised Actual 1.4% (Forecast 1.8%, Previous 1.1%)",
+    "link": "https://www.financialjuice.com/News/9753018/Japanese-GDP-Rev-QoQ-Annualised-Actual-14-Forecast-18-Previous-11.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본 GDP 분기 대비 연율 환산 실적을 1.4%로 발표 (예상 1.8%, 전분기 1.1%)"
+  },
+  {
+    "guid": "9753017",
+    "title": "FinancialJuice: Japanese Current Account NSA Yen Actual 2988.9B (Forecast 2849.5B, Previous -92.3B)",
+    "link": "https://www.financialjuice.com/News/9753017/Japanese-Current-Account-NSA-Yen-Actual-29889B-Forecast-28495B-Previous--923B.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:50:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 경상수지(비계절조정, 엔화 기준) 실제치 2,988.9B (예상치 2,849.5B, 전월치 -92.3B)"
+  },
+  {
+    "guid": "9753004",
+    "title": "FinancialJuice: Japanese Overtime Pay Actual 3.1% (Forecast -, Previous 2.8% ,Revision 3.4%)",
+    "link": "https://www.financialjuice.com/News/9753004/Japanese-Overtime-Pay-Actual-31-Forecast---Previous-28-Revision-34.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:30:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 초과근무 수당 증가율, 실제 3.1% (예상 -, 이전 2.8%, 수정치 3.4%)"
+  },
+  {
+    "guid": "9753007",
+    "title": "FinancialJuice: Japan July inflation-adjusted real wages rise 2.4% yr/yr: govt",
+    "link": "https://www.financialjuice.com/News/9753007/Japan-July-inflation-adjusted-real-wages-rise-24-yryr-govt.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:30:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본 7월 물가 상승률을 반영한 실질 임금, 전년 동기 대비 2.4% 상승: 정부 발표"
+  },
+  {
+    "guid": "9753006",
+    "title": "FinancialJuice: Japan July total cash earnings rise 4.7% year on year: govt",
+    "link": "https://www.financialjuice.com/News/9753006/Japan-July-total-cash-earnings-rise-47-year-on-year-govt.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:30:04 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 일본 7월 총 현금 소득, 전년 동기 대비 4.7% 증가: 정부 발표"
+  },
+  {
+    "guid": "9753005",
+    "title": "FinancialJuice: Japan July overtime pay rises 3.1% year-on-year: government",
+    "link": "https://www.financialjuice.com/News/9753005/Japan-July-overtime-pay-rises-31-year-on-year-government.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 7월 초과근무수당, 전년 동기 대비 3.1% 증가…정부 발표"
+  },
+  {
+    "guid": "9753003",
+    "title": "FinancialJuice: Japanese Average Cash Earnings YoY Actual 4.7% (Forecast 3.8%, Previous 3.4%4.0%)",
+    "link": "https://www.financialjuice.com/News/9753003/Japanese-Average-Cash-Earnings-YoY-Actual-47-Forecast-38-Previous-3440.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:30:00 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 일본 평균 현금 소득 전년 동기 대비 실제 4.7% (예상 3.8%, 이전 3.4%~4.0%)"
+  },
+  {
+    "guid": "9753002",
+    "title": "FinancialJuice: Argentina to file criminal charges against Navitas Oil and executives for operating in Falkland Islands: statement",
+    "link": "https://www.financialjuice.com/News/9753002/Argentina-to-file-criminal-charges-against-Navitas-Oil-and-executives-for-operating-in-Falkland-Islands-statement.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:28:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아르헨티나, 포클랜드 제도에서 영업한 나비타스 오일 및 임원진을 상대로 형사 고발할 예정: 성명"
+  },
+  {
+    "guid": "9752988",
+    "title": "FinancialJuice: British Retail Consortium August like-for-like sales rise 0.5% yy vs July 1.0% yy",
+    "link": "https://www.financialjuice.com/News/9752988/British-Retail-Consortium-August-like-for-like-sales-rise-05-yy-vs-July-10-yy.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:01:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 소매업 협회(British Retail Consortium) 발표에 따르면, 8월 동일 매장 매출이 전년 동기 대비 0.5% 증가했으며, 이는 7월의 전년 동기 대비 1.0% 증가에 비해 둔화된 수치다."
+  },
+  {
+    "guid": "9752987",
+    "title": "FinancialJuice: Barclays uk consumer confidence 26% in august vs 21-month peak of 30% in july",
+    "link": "https://www.financialjuice.com/News/9752987/Barclays-uk-consumer-confidence-26-in-august-vs-21-month-peak-of-30-in-july.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:01:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 바클레이즈, 8월 영국 소비자 신뢰지수 26%… 7월 21개월 만에 최고치인 30% 대비 하락"
+  },
+  {
+    "guid": "9752986",
+    "title": "FinancialJuice: British Retail Consortium August total sales rise 0.7% year on year, slowest growth since April after July's 1.3% increase",
+    "link": "https://www.financialjuice.com/News/9752986/British-Retail-Consortium-August-total-sales-rise-07-year-on-year-slowest-growth-since-April-after-Julys-13-increase.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:01:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 소매업 협회(British Retail Consortium)에 따르면 8월 총 매출이 전년 동기 대비 0.7% 증가했으나, 이는 7월 1.3% 증가에 이어 4월 이후 가장 낮은 성장률이다."
+  },
+  {
+    "guid": "9752985",
+    "title": "FinancialJuice: Barclays: UK August consumer spending rises 2.1% year-on-year versus 2.0% in July",
+    "link": "https://www.financialjuice.com/News/9752985/Barclays-UK-August-consumer-spending-rises-21-year-on-year-versus-20-in-July.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:01:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 바클레이즈: 영국 8월 소비자 지출이 전년 동기 대비 2.1% 증가해, 7월의 2.0%를 상회했다"
+  },
+  {
+    "guid": "9752983",
+    "title": "FinancialJuice: UK BRC Retail Sales YoY Actual 0.5% (Forecast -, Previous 1.0%)",
+    "link": "https://www.financialjuice.com/News/9752983/UK-BRC-Retail-Sales-YoY-Actual-05-Forecast---Previous-10.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:01:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 BRC 소매 판매 전년 동기 대비 실제 0.5% (예상 -, 이전 1.0%)"
+  },
+  {
+    "guid": "9752980",
+    "title": "FinancialJuice: Colombia's annual inflation reached 6.24% through last month: government statistics agency",
+    "link": "https://www.financialjuice.com/News/9752980/Colombias-annual-inflation-reached-624-through-last-month-government-statistics-agency.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:00:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 콜롬비아의 연간 물가상승률이 지난달 기준 6.24%를 기록했다: 정부 통계청"
+  },
+  {
+    "guid": "9752979",
+    "title": "FinancialJuice: S.Korea revised Q2 GDP growth 0.6% quarter on quarter vs 0.6% estimated earlier: central bank",
+    "link": "https://www.financialjuice.com/News/9752979/SKorea-revised-Q2-GDP-growth-06-quarter-on-quarter-vs-06-estimated-earlier-central-bank.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:00:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국, 2분기 GDP 성장률 분기 대비 0.6%로 수정…이전 추정치 0.6%와 동일: 한국은행"
+  },
+  {
+    "guid": "9752978",
+    "title": "FinancialJuice: Colombia inflation rose 0.39% last month: government statistics agency",
+    "link": "https://www.financialjuice.com/News/9752978/Colombia-inflation-rose-039-last-month-government-statistics-agency.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:00:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 콜롬비아 지난달 물가 상승률 0.39% 기록: 정부 통계청"
+  },
+  {
+    "guid": "9752977",
+    "title": "FinancialJuice: S. Korea revises Q2 facilities investment to +0.2% q/q vs +0.2% estimated earlier: c.bank",
+    "link": "https://www.financialjuice.com/News/9752977/S-Korea-revises-Q2-facilities-investment-to-02-qq-vs-02-estimated-earlier-cbank.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국, 2분기 설비투자 증가율을 전분기 대비 +0.2%로 수정… 이전 예상치는 +0.2%: 한국은행"
+  },
+  {
+    "guid": "9752976",
+    "title": "FinancialJuice: S.Korea revises Q2 construction investment to -0.1% q/q from earlier -0.2%: central bank",
+    "link": "https://www.financialjuice.com/News/9752976/SKorea-revises-Q2-construction-investment-to--01-qq-from-earlier--02-central-bank.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:00:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국, 2분기 건설 투자 증가율을 기존 -0.2%에서 -0.1%(전분기 대비)로 수정: 한국은행"
+  },
+  {
+    "guid": "9752975",
+    "title": "FinancialJuice: S. Korea revised Q2 private consumption 0.4% q/q vs 0.4% estimated earlier: central bank",
+    "link": "https://www.financialjuice.com/News/9752975/S-Korea-revised-Q2-private-consumption-04-qq-vs-04-estimated-earlier-central-bank.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:00:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국, 2분기 민간소비 전분기 대비 0.4% 증가로 수정…이전 예상치 0.4%와 동일: 한국은행"
+  },
+  {
+    "guid": "9752974",
+    "title": "FinancialJuice: S.Korea revised Q2 GDP to 3.7% y/y vs 3.7% estimated earlier: central bank",
+    "link": "https://www.financialjuice.com/News/9752974/SKorea-revised-Q2-GDP-to-37-yy-vs-37-estimated-earlier-central-bank.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:00:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국, 2분기 GDP 성장률을 전년 동기 대비 3.7%로 수정…이전 추정치는 3.7%: 한국은행"
+  },
+  {
+    "guid": "9752973",
+    "title": "FinancialJuice: S. Korean GDP QoQ Revised Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
+    "link": "https://www.financialjuice.com/News/9752973/S-Korean-GDP-QoQ-Revised-Actual-06-Forecast-06-Previous-06.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국 GDP 전분기 대비 수정치 0.6% (예상 0.6%, 이전 0.6%)"
+  },
+  {
+    "guid": "9752972",
+    "title": "FinancialJuice: S. Korean GDP YoY Revised Actual 3.7% (Forecast 3.7%, Previous 3.7%)",
+    "link": "https://www.financialjuice.com/News/9752972/S-Korean-GDP-YoY-Revised-Actual-37-Forecast-37-Previous-37.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 23:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국 GDP 전년 동기 대비 수정치 3.7% (예상치 3.7%, 이전치 3.7%)"
+  },
+  {
+    "guid": "9752969",
+    "title": "FinancialJuice: New Zealand 2-year swap-adjusted manufacturing sales volumes rise 0.8% on previous quarter",
+    "link": "https://www.financialjuice.com/News/9752969/New-Zealand-2-year-swap-adjusted-manufacturing-sales-volumes-rise-08-on-previous-quarter.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 22:45:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 2년물 스왑 조정 제조업 판매량이 전분기 대비 0.8% 증가했다"
+  },
+  {
+    "guid": "9752968",
+    "title": "FinancialJuice: New Zealand Manufacturing Sales Actual 0.8% (Forecast -, Previous 3.6%)",
+    "link": "https://www.financialjuice.com/News/9752968/New-Zealand-Manufacturing-Sales-Actual-08-Forecast---Previous-36.aspx?xy=rss",
+    "pubDate": "Mon, 07 Sep 2026 22:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 제조업 매출, 실제 0.8% (예상 -, 이전 3.6%)"
+  },
+  {
     "guid": "9752885",
     "title": "FinancialJuice: Nvidia's CEO Huang is on the UK King Charles' AI meeting guest list - Politico $NVDA",
     "link": "https://www.financialjuice.com/News/9752885/Nvidias-CEO-Huang-is-on-the-UK-King-Charles-AI-meeting-guest-list---Politico-NVDA.aspx?xy=rss",
