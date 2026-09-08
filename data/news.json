@@ -1,5 +1,477 @@
 [
   {
+    "guid": "9754080",
+    "title": "FinancialJuice: BoE Gov. Bailey: I want to dispel idea that we have secret plan to raise rates, unconditionally.",
+    "link": "https://www.financialjuice.com/News/9754080/BoE-Gov-Bailey-I-want-to-dispel-idea-that-we-have-secret-plan-to-raise-rates-unconditionally.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:45:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 베일리 영란은행 총재: “우리가 무조건적으로 금리를 인상할 비밀 계획이 있다는 인식을 불식시키고 싶다.”"
+  },
+  {
+    "guid": "9754074",
+    "title": "FinancialJuice: BoE Gov. Bailey: The market's BoE rate curve reflects investors' concern about further energy price rises.",
+    "link": "https://www.financialjuice.com/News/9754074/BoE-Gov-Bailey-The-markets-BoE-rate-curve-reflects-investors-concern-about-further-energy-price-rises.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:45:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 베일리 영국 중앙은행(BoE) 총재: 시장의 영국 중앙은행 금리 곡선은 에너지 가격의 추가 상승에 대한 투자자들의 우려를 반영하고 있다."
+  },
+  {
+    "guid": "9754073",
+    "title": "FinancialJuice: BoE Gov. Bailey: Risks to inflation are to the upside.",
+    "link": "https://www.financialjuice.com/News/9754073/BoE-Gov-Bailey-Risks-to-inflation-are-to-the-upside.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:43:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 베일리 영란은행 총재: 인플레이션에 대한 위험 요인은 상승 쪽으로 작용하고 있다."
+  },
+  {
+    "guid": "9754072",
+    "title": "FinancialJuice: BoE’s Greene: There different views on the MPC about inflation path pre-war.",
+    "link": "https://www.financialjuice.com/News/9754072/BoEs-Greene-There-different-views-on-the-MPC-about-inflation-path-pre-war.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:43:28 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 그린: 전쟁 전 인플레이션 추이에 대해 통화정책위원회(MPC) 내에서는 다양한 견해가 있었다."
+  },
+  {
+    "guid": "9754071",
+    "title": "FinancialJuice: BoE Gov. Bailey: The rise in UK mortgage rates is larger than almost anywhere in the G7.",
+    "link": "https://www.financialjuice.com/News/9754071/BoE-Gov-Bailey-The-rise-in-UK-mortgage-rates-is-larger-than-almost-anywhere-in-the-G7.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:38:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 베일리 영란은행 총재: 영국의 모기지 금리 상승폭은 G7 국가 중 거의 어느 곳보다 크다."
+  },
+  {
+    "guid": "9754070",
+    "title": "FinancialJuice: BoE's Ramsden: I am comfortable with policy but I am very conscious of upside risk.",
+    "link": "https://www.financialjuice.com/News/9754070/BoEs-Ramsden-I-am-comfortable-with-policy-but-I-am-very-conscious-of-upside-risk.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:36:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 램스덴: “현재 정책 방향에는 만족하지만, 상방 리스크를 매우 염두에 두고 있다.”"
+  },
+  {
+    "guid": "9754069",
+    "title": "FinancialJuice: BoE's Ramsden: Global inflationary picture is much more of upside inflation risk.",
+    "link": "https://www.financialjuice.com/News/9754069/BoEs-Ramsden-Global-inflationary-picture-is-much-more-of-upside-inflation-risk.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:34:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 램스덴: 전 세계 인플레이션 상황은 인플레이션 상승 위험이 훨씬 더 큰 양상이다."
+  },
+  {
+    "guid": "9754068",
+    "title": "FinancialJuice: BoE's Ramsden: UK wages have come in below what we expected before conflict.",
+    "link": "https://www.financialjuice.com/News/9754068/BoEs-Ramsden-UK-wages-have-come-in-below-what-we-expected-before-conflict.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:33:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 램스덴: 영국의 임금 상승률은 분쟁 이전 우리가 예상했던 수준보다 낮게 나타났다."
+  },
+  {
+    "guid": "9754067",
+    "title": "FinancialJuice: BoE's Ramsden: I get reassurance on inflation from the labour market.",
+    "link": "https://www.financialjuice.com/News/9754067/BoEs-Ramsden-I-get-reassurance-on-inflation-from-the-labour-market.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:33:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 램스덴 “노동시장에서 인플레이션에 대한 안도감을 얻고 있다.”"
+  },
+  {
+    "guid": "9754061",
+    "title": "FinancialJuice: US Defense Official: We must be prepared for a protracted conflict in Ukraine.",
+    "link": "https://www.financialjuice.com/News/9754061/US-Defense-Official-We-must-be-prepared-for-a-protracted-conflict-in-Ukraine.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:32:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 국방 당국자: 우크라이나에서 장기화된 분쟁에 대비해야 한다."
+  },
+  {
+    "guid": "9754060",
+    "title": "FinancialJuice: BoE's Ramsden: The domestic inflation position is relatively benign.",
+    "link": "https://www.financialjuice.com/News/9754060/BoEs-Ramsden-The-domestic-inflation-position-is-relatively-benign.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:32:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 램스덴: 국내 인플레이션 상황은 비교적 양호하다."
+  },
+  {
+    "guid": "9754044",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9754044/MOO-Imbalance.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:30:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOO 불균형"
+  },
+  {
+    "guid": "9754039",
+    "title": "FinancialJuice: BoE’s Greene: The length of time that oil prices have been high worries me about 2nd round effects down the line.",
+    "link": "https://www.financialjuice.com/News/9754039/BoEs-Greene-The-length-of-time-that-oil-prices-have-been-high-worries-me-about-2nd-round-effects-down-the-line.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:29:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 그린: 유가가 오랫동안 높은 수준을 유지하고 있는 점이 향후 2차 파급 효과에 대한 우려를 불러일으키고 있다."
+  },
+  {
+    "guid": "9754038",
+    "title": "FinancialJuice: NATO Sec. Gen. Rutte: Nations have no choice but to dig deeper to support Ukraine.",
+    "link": "https://www.financialjuice.com/News/9754038/NATO-Sec-Gen-Rutte-Nations-have-no-choice-but-to-dig-deeper-to-support-Ukraine.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:28:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 나토(NATO) 루테 사무총장: 각국은 우크라이나를 지원하기 위해 더 많은 노력을 기울일 수밖에 없다."
+  },
+  {
+    "guid": "9754037",
+    "title": "FinancialJuice: BoE Gov. Bailey: The Ukrainian attacks on Russian refineries are pushing up cost of refined oil products.",
+    "link": "https://www.financialjuice.com/News/9754037/BoE-Gov-Bailey-The-Ukrainian-attacks-on-Russian-refineries-are-pushing-up-cost-of-refined-oil-products.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:25:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 베일리 영란은행 총재: 우크라이나의 러시아 정유소 공격으로 인해 정유 제품 가격이 상승하고 있다."
+  },
+  {
+    "guid": "9754036",
+    "title": "FinancialJuice: BoE Gov. Bailey: The US-Iran war has led to high energy prices, they could be higher still.",
+    "link": "https://www.financialjuice.com/News/9754036/BoE-Gov-Bailey-The-US-Iran-war-has-led-to-high-energy-prices-they-could-be-higher-still.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:23:24 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 베일리 영국 중앙은행 총재: 미국과 이란 간의 전쟁으로 에너지 가격이 치솟았으며, 앞으로 더 오를 수도 있다."
+  },
+  {
+    "guid": "9754020",
+    "title": "FinancialJuice: German Economy Ministry: German gas storage levels in range of 60-70% at the start of winter, with import options sufficient to meet expected winter demand - Document.",
+    "link": "https://www.financialjuice.com/News/9754020/German-Economy-Ministry-German-gas-storage-levels-in-range-of-60-70-at-the-start-of-winter-with-import-options-sufficient-to-meet-expected-winter-demand---Document.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:15:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 경제부: 독일의 가스 비축량이 겨울 시작 시점에 60~70% 수준을 기록했으며, 예상되는 겨울철 수요를 충족시키기에 충분한 수입 여력이 있는 것으로 나타났다 - 문서."
+  },
+  {
+    "guid": "9754019",
+    "title": "FinancialJuice: Bank of America: If Middle East skirmishes continue into year end, brent could trade in a $95-120/bbl range.\n",
+    "link": "https://www.financialjuice.com/News/9754019/Bank-of-America-If-Middle-East-skirmishes-continue-into-year-end-brent-could-trade-in-a-95-120bbl-range.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:09:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뱅크 오브 아메리카: 중동 지역의 소규모 충돌이 연말까지 지속될 경우, 브렌트유 가격은 배럴당 95~120달러 범위에서 거래될 수 있다.\n"
+  },
+  {
+    "guid": "9754018",
+    "title": "FinancialJuice: Qualcomm: 3.75m shares of warrant to vest upon issuance. $QCOM\n",
+    "link": "https://www.financialjuice.com/News/9754018/Qualcomm-375m-shares-of-warrant-to-vest-upon-issuance-QCOM.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:07:58 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 퀄컴: 신주인수권 375만 주가 발행 시 행사 가능. $QCOM\n"
+  },
+  {
+    "guid": "9754017",
+    "title": "FinancialJuice: Bank of England Governor Andrew Bailey & MPC members Speak at the UK Treasury Committee - WATCH LIVE",
+    "link": "https://www.financialjuice.com/News/9754017/Bank-of-England-Governor-Andrew-Bailey--MPC-members-Speak-at-the-UK-Treasury-Committee---WATCH-LIVE.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:07:04 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 앤드루 베일리 영란은행 총재 및 통화정책위원회(MPC) 위원들, 영국 재무위원회에서 발언 - 생중계 시청하기"
+  },
+  {
+    "guid": "9754016",
+    "title": "FinancialJuice: Iran's State Media citing Army: US drone downed over Bandar Abbas. No US confirmation.",
+    "link": "https://www.financialjuice.com/News/9754016/Irans-State-Media-citing-Army-US-drone-downed-over-Bandar-Abbas-No-US-confirmation.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:06:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 국영 매체, 군 당국 인용: 반다르압바스 상공에서 미국 무인기 격추. 미국 측의 확인은 아직 없다."
+  },
+  {
+    "guid": "9754015",
+    "title": "FinancialJuice: ING: Don't Call it a Dollar Comeback - FJElite",
+    "link": "https://www.financialjuice.com/News/9754015/ING-Dont-Call-it-a-Dollar-Comeback---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:05:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ING: 이를 ‘달러 반등’이라고 부르지 마라 - FJElite"
+  },
+  {
+    "guid": "9754014",
+    "title": "FinancialJuice: Goldman Sachs: Yen Strength, Energy Risk and AI Momentum Drive Markets - FJElite",
+    "link": "https://www.financialjuice.com/News/9754014/Goldman-Sachs-Yen-Strength-Energy-Risk-and-AI-Momentum-Drive-Markets---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:04:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 골드만삭스: 엔화 강세, 에너지 리스크, AI 상승세가 시장을 주도 - FJElite"
+  },
+  {
+    "guid": "9754013",
+    "title": "FinancialJuice: Qualcomm issues a warrant to Amazon for up to 25M shares, the warrant priced at $161.26/share, expires 2036. $AMZN $QCOM\n",
+    "link": "https://www.financialjuice.com/News/9754013/Qualcomm-issues-a-warrant-to-Amazon-for-up-to-25M-shares-the-warrant-priced-at-16126share-expires-2036-AMZN-QCOM.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:02:44 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 퀄컴이 아마존에 최대 2,500만 주에 대한 신주인수권을 발행했다. 이 신주인수권의 행사가격은 주당 161.26달러이며, 만기일은 2036년이다. $AMZN $QCOM\n"
+  },
+  {
+    "guid": "9754010",
+    "title": "FinancialJuice: Germany's Wadephul: The growing China trade deficit is alarming.",
+    "link": "https://www.financialjuice.com/News/9754010/Germanys-Wadephul-The-growing-China-trade-deficit-is-alarming.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:01:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일의 바데풀, “점점 커지는 대중 무역 적자는 우려스럽다.”"
+  },
+  {
+    "guid": "9754009",
+    "title": "FinancialJuice: ECB bond holdings under PEPP €1.28 tln as of last week.",
+    "link": "https://www.financialjuice.com/News/9754009/ECB-bond-holdings-under-PEPP-128-tln-as-of-last-week.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:01:21 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 지난주 기준 PEPP를 통해 ECB가 보유한 채권 규모는 1.28조 유로이다."
+  },
+  {
+    "guid": "9753994",
+    "title": "FinancialJuice: ECB settled €216.7 bln corporate bond purchases.",
+    "link": "https://www.financialjuice.com/News/9753994/ECB-settled-2167-bln-corporate-bond-purchases.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:01:08 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)이 2,167억 유로 규모의 기업채 매입을 완료했다."
+  },
+  {
+    "guid": "9753991",
+    "title": "FinancialJuice: ECB Settled €1,667.7 bln public-sector bond purchases.",
+    "link": "https://www.financialjuice.com/News/9753991/ECB-Settled-16677-bln-public-sector-bond-purchases.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:00:56 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB), 1조 6,677억 유로 규모의 공공 부문 채권 매입을 완료했다."
+  },
+  {
+    "guid": "9753990",
+    "title": "FinancialJuice: Effective Fed funds rate 3.63% September 4rg vs 3.63% September 3rd.",
+    "link": "https://www.financialjuice.com/News/9753990/Effective-Fed-funds-rate-363-September-4rg-vs-363-September-3rd.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 13:00:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 9월 4일 기준 연방기금 실효 금리 3.63% (9월 3일 대비 동일)."
+  },
+  {
+    "guid": "9753986",
+    "title": "FinancialJuice: Qualcomm reports a multi-generational product pact with Amazon. $QCOM $AMZN",
+    "link": "https://www.financialjuice.com/News/9753986/Qualcomm-reports-a-multi-generational-product-pact-with-Amazon-QCOM-AMZN.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 12:59:46 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 퀄컴, 아마존과 여러 세대에 걸친 제품 협력 계약을 체결했다고 발표했다. $QCOM $AMZN"
+  },
+  {
+    "guid": "9753985",
+    "title": "FinancialJuice: Credit Agricole: EU-China Trade Imbalance and Strategic Dependence Are Deepening - FJElite",
+    "link": "https://www.financialjuice.com/News/9753985/Credit-Agricole-EU-China-Trade-Imbalance-and-Strategic-Dependence-Are-Deepening---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 12:57:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 크레디 아그리콜: EU-중국 간 무역 불균형과 전략적 의존도가 심화되고 있다 - FJElite"
+  },
+  {
+    "guid": "9753968",
+    "title": "FinancialJuice: EU's Trade Chief Sefcovic: Current situation with China is unsustainable.",
+    "link": "https://www.financialjuice.com/News/9753968/EUs-Trade-Chief-Sefcovic-Current-situation-with-China-is-unsustainable.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 12:45:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU 무역 담당 수석 세프코비치, “현재 중국과의 상황은 지속 불가능하다.”"
+  },
+  {
+    "guid": "9753963",
+    "title": "FinancialJuice: US Sentiment: Holiday-Shortened Trading Week Starts off Cautiously - FJElite",
+    "link": "https://www.financialjuice.com/News/9753963/US-Sentiment-Holiday-Shortened-Trading-Week-Starts-off-Cautiously---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 12:44:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 휴일로 인해 거래일이 줄어든 한 주, 신중한 출발 - FJElite"
+  },
+  {
+    "guid": "9753962",
+    "title": "FinancialJuice: Medians show Bank of England to hold bank rate at 3.75% until Q2 2027 - Poll",
+    "link": "https://www.financialjuice.com/News/9753962/Medians-show-Bank-of-England-to-hold-bank-rate-at-375-until-Q2-2027---Poll.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 12:36:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 설문조사 결과, 영국 중앙은행이 2027년 2분기까지 기준금리를 3.75%로 유지할 것으로 전망 - 설문조사"
+  },
+  {
+    "guid": "9753961",
+    "title": "FinancialJuice: Bank of England to hold bank rate at 3.75% in September, said all 65 economists surveyed - Poll",
+    "link": "https://www.financialjuice.com/News/9753961/Bank-of-England-to-hold-bank-rate-at-375-in-September-said-all-65-economists-surveyed---Poll.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 12:36:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 설문조사에 참여한 경제학자 65명 전원이 “영란은행이 9월 기준금리를 3.75%로 동결할 것”이라고 전망했다 - 설문조사"
+  },
+  {
+    "guid": "9753940",
+    "title": "FinancialJuice: South Korea's Defence Ministry: Will dispatch an investigation team to assess the situation in the Strait of Hormuz- Yonhap",
+    "link": "https://www.financialjuice.com/News/9753940/South-Koreas-Defence-Ministry-Will-dispatch-an-investigation-team-to-assess-the-situation-in-the-Strait-of-Hormuz--Yonhap.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 12:20:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 국방부, 호르무즈 해협 상황 파악 위해 조사단 파견 예정 - 연합뉴스"
+  },
+  {
+    "guid": "9753928",
+    "title": "FinancialJuice: Accenture and Google Cloud deploy FDES on-site for AI buildout - WSJ $GOOGL",
+    "link": "https://www.financialjuice.com/News/9753928/Accenture-and-Google-Cloud-deploy-FDES-on-site-for-AI-buildout---WSJ-GOOGL.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 12:04:14 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 액센츄어와 구글 클라우드, AI 구축을 위해 FDES를 현장에 도입 - WSJ $GOOGL"
+  },
+  {
+    "guid": "9753926",
+    "title": "FinancialJuice: Google Cloud to train up to 1,000 Accenture FDES - WSJ $GOOGL",
+    "link": "https://www.financialjuice.com/News/9753926/Google-Cloud-to-train-up-to-1000-Accenture-FDES---WSJ-GOOGL.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 12:02:45 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글 클라우드, 액센츄어 FDES 직원 최대 1,000명 양성 예정 - WSJ $GOOGL"
+  },
+  {
+    "guid": "9753897",
+    "title": "FinancialJuice: Secured overnight financing rate 3.65% September 4th vs 3.66% September 3rd.",
+    "link": "https://www.financialjuice.com/News/9753897/Secured-overnight-financing-rate-365-September-4th-vs-366-September-3rd.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 12:00:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 9월 4일 담보부 일일 자금 조달 금리 3.65% (9월 3일 3.66% 대비)."
+  },
+  {
+    "guid": "9753890",
+    "title": "FinancialJuice: Russia’s Deputy PM Novak proposes pre-set fuel import volumes to Russia - IFX",
+    "link": "https://www.financialjuice.com/News/9753890/Russias-Deputy-PM-Novak-proposes-pre-set-fuel-import-volumes-to-Russia---IFX.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 11:45:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 노박 러시아 부총리, 러시아로의 연료 수입 물량 사전 설정 제안 - IFX"
+  },
+  {
+    "guid": "9753864",
+    "title": "FinancialJuice: Quantum Cyber buys NVIDIA A100 AI compute cluster.",
+    "link": "https://www.financialjuice.com/News/9753864/Quantum-Cyber-buys-NVIDIA-A100-AI-compute-cluster.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 11:30:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 퀀텀 사이버, 엔비디아 A100 AI 컴퓨팅 클러스터 도입."
+  },
+  {
+    "guid": "9753859",
+    "title": "FinancialJuice: Commerce Department reaches $100m deal with D-wave under chips act.",
+    "link": "https://www.financialjuice.com/News/9753859/Commerce-Department-reaches-100m-deal-with-D-wave-under-chips-act.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 11:22:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 상무부, ‘칩 법안’에 따라 D-Wave와 1억 달러 규모 계약 체결."
+  },
+  {
+    "guid": "9753858",
+    "title": "FinancialJuice: US seeks more access to Venezuela's minerals.",
+    "link": "https://www.financialjuice.com/News/9753858/US-seeks-more-access-to-Venezuelas-minerals.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 11:18:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국, 베네수엘라 광물 자원 접근권 확대 모색."
+  },
+  {
+    "guid": "9753805",
+    "title": "FinancialJuice: UK's Chancellor Healey: UK growth still fragile, borrowing still too high.",
+    "link": "https://www.financialjuice.com/News/9753805/UKs-Chancellor-Healey-UK-growth-still-fragile-borrowing-still-too-high.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 10:45:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 헤일리 재무장관, “영국 경제 성장세는 여전히 취약하며, 부채 수준은 여전히 너무 높다.”"
+  },
+  {
+    "guid": "9753801",
+    "title": "FinancialJuice: BNP Paribas expects BoE to hike interest rates by 25 bp in November 2026 vs prior forecast of a hike in September this year.",
+    "link": "https://www.financialjuice.com/News/9753801/BNP-Paribas-expects-BoE-to-hike-interest-rates-by-25-bp-in-November-2026-vs-prior-forecast-of-a-hike-in-September-this-year.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 10:45:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: BNP 파리바는 영국 중앙은행(BoE)이 올해 9월에 금리를 인상할 것이라는 기존 전망과 달리, 2026년 11월에 25bp의 금리 인상을 단행할 것으로 전망하고 있다."
+  },
+  {
+    "guid": "9753800",
+    "title": "FinancialJuice: UK's Chancellor Healey: Starting to see UK economy turn a corner.",
+    "link": "https://www.financialjuice.com/News/9753800/UKs-Chancellor-Healey-Starting-to-see-UK-economy-turn-a-corner.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 10:44:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 헤일리 재무장관: 영국 경제가 회복 국면에 접어들기 시작했다."
+  },
+  {
+    "guid": "9753780",
+    "title": "FinancialJuice: UK Government: The legislation will further expand our powers to sanction ships.",
+    "link": "https://www.financialjuice.com/News/9753780/UK-Government-The-legislation-will-further-expand-our-powers-to-sanction-ships.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 10:23:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 정부: 이번 법안은 선박에 대한 제재 권한을 더욱 확대할 것이다."
+  },
+  {
+    "guid": "9753779",
+    "title": "FinancialJuice: UK Government: To lay legislation which will tackle Iranian nuclear activity and other hostile Iranian activity.",
+    "link": "https://www.financialjuice.com/News/9753779/UK-Government-To-lay-legislation-which-will-tackle-Iranian-nuclear-activity-and-other-hostile-Iranian-activity.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 10:22:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 정부: 이란의 핵 활동 및 기타 적대적 행위에 대응하기 위한 법안을 제출할 예정이다."
+  },
+  {
+    "guid": "9753778",
+    "title": "FinancialJuice: Qatar is working with its regional partners and China to resume talks between US and Iran - Foreign Ministry.",
+    "link": "https://www.financialjuice.com/News/9753778/Qatar-is-working-with-its-regional-partners-and-China-to-resume-talks-between-US-and-Iran---Foreign-Ministry.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 10:20:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르, 미국과 이란 간 대화 재개를 위해 지역 파트너국 및 중국과 협력 중 - 외무부."
+  },
+  {
+    "guid": "9753750",
+    "title": "FinancialJuice: US NFIB Business Optimism Index Actual 98.7 (Forecast 99.3, Previous 99.80)",
+    "link": "https://www.financialjuice.com/News/9753750/US-NFIB-Business-Optimism-Index-Actual-987-Forecast-993-Previous-9980.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 10:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 NFIB 기업 경기 낙관지수 실제치 98.7 (예상치 99.3, 전월치 99.80)"
+  },
+  {
+    "guid": "9753749",
+    "title": "FinancialJuice: RBA's Hauser: We have not arrived at point where we have to raise rates sharply.",
+    "link": "https://www.financialjuice.com/News/9753749/RBAs-Hauser-We-have-not-arrived-at-point-where-we-have-to-raise-rates-sharply.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 09:52:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA)의 하우저 총재: 아직 금리를 급격히 인상해야 할 단계에는 이르지 않았다."
+  },
+  {
+    "guid": "9753735",
+    "title": "FinancialJuice: RBA's Hauser: House prices do not play that big a role in economy, not the main game.",
+    "link": "https://www.financialjuice.com/News/9753735/RBAs-Hauser-House-prices-do-not-play-that-big-a-role-in-economy-not-the-main-game.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 09:45:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA)의 하우저 총재: 주택 가격은 경제에서 그리 큰 역할을 하지 않으며, 핵심 요소도 아니다."
+  },
+  {
+    "guid": "9753733",
+    "title": "FinancialJuice: RBA's Hauser: board will debate a hike this month, outcome not guaranteed",
+    "link": "https://www.financialjuice.com/News/9753733/RBAs-Hauser-board-will-debate-a-hike-this-month-outcome-not-guaranteed.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 09:42:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: RBA의 하우저 총재, “이사회는 이번 달 금리 인상을 논의할 예정이지만 결과가 보장되지는 않는다”"
+  },
+  {
+    "guid": "9753732",
+    "title": "FinancialJuice: RBA's Hauser: balanced outlook but focused on upside inflation risks.",
+    "link": "https://www.financialjuice.com/News/9753732/RBAs-Hauser-balanced-outlook-but-focused-on-upside-inflation-risks.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 09:41:44 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: RBA의 하우저 총재: 균형 잡힌 전망이지만 인플레이션 상승 위험에 주목하고 있다."
+  },
+  {
+    "guid": "9753731",
+    "title": "FinancialJuice: RBA's Hauser: July CPI edged up slightly more than expected.",
+    "link": "https://www.financialjuice.com/News/9753731/RBAs-Hauser-July-CPI-edged-up-slightly-more-than-expected.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 09:41:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: RBA의 하우저 총재: 7월 소비자물가지수(CPI)가 예상보다 약간 더 상승했다."
+  },
+  {
+    "guid": "9753730",
+    "title": "FinancialJuice: RBA’s Hauser: Question for us is whether we have done enough on rates or need to do more.",
+    "link": "https://www.financialjuice.com/News/9753730/RBAs-Hauser-Question-for-us-is-whether-we-have-done-enough-on-rates-or-need-to-do-more.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 09:40:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 하우저 총재: “우리에게 주어진 과제는 금리 인하 조치가 충분한지, 아니면 더 많은 조치가 필요한지 판단하는 것이다.”"
+  },
+  {
+    "guid": "9753729",
+    "title": "FinancialJuice: RBA's Hauser: Much to like about economy, but inflation is a major issue.",
+    "link": "https://www.financialjuice.com/News/9753729/RBAs-Hauser-Much-to-like-about-economy-but-inflation-is-a-major-issue.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 09:40:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: RBA의 하우저 총재: 경제 상황은 긍정적 요소가 많지만, 인플레이션이 주요 문제다."
+  },
+  {
+    "guid": "9753728",
+    "title": "FinancialJuice: China foreign minister to Qatar PM on Middle East situation: pressure through guns and cannons not the way out, dialogue and negotiation the right path - statement",
+    "link": "https://www.financialjuice.com/News/9753728/China-foreign-minister-to-Qatar-PM-on-Middle-East-situation-pressure-through-guns-and-cannons-not-the-way-out-dialogue-and-negotiation-the-right-path---statement.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 09:39:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 외교부 장관, 카타르 총리에게 중동 정세에 대해 “총과 대포를 통한 압박은 해결책이 아니며, 대화와 협상이 올바른 길”이라고 밝혔다 - 성명"
+  },
+  {
+    "guid": "9753727",
+    "title": "FinancialJuice: Bank of Japan to hike key interest rates 0.25 percentage point in September meeting - Kyodo",
+    "link": "https://www.financialjuice.com/News/9753727/Bank-of-Japan-to-hike-key-interest-rates-025-percentage-point-in-September-meeting---Kyodo.aspx?xy=rss",
+    "pubDate": "Tue, 08 Sep 2026 09:37:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행, 9월 회의에서 기준금리 0.25%포인트 인상 예정 - 교도통신"
+  },
+  {
     "guid": "9753701",
     "title": "FinancialJuice: Saudi Arabia Foreign Minister tells Russia's Lavrov: Our cooperation in OPEC+ allows to balance oil supply and demand, we are interested in further partnership between our countries.",
     "link": "https://www.financialjuice.com/News/9753701/Saudi-Arabia-Foreign-Minister-tells-Russias-Lavrov-Our-cooperation-in-OPEC-allows-to-balance-oil-supply-and-demand-we-are-interested-in-further-partnership-between-our-countries.aspx?xy=rss",
