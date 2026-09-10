@@ -1,5 +1,469 @@
 [
   {
+    "guid": "9758099",
+    "title": "FinancialJuice: Antropic: Moonshot diverted queries to its chatbots, without letting users know, rather than processing them through the Kimi model.",
+    "link": "https://www.financialjuice.com/News/9758099/Antropic-Moonshot-diverted-queries-to-its-chatbots-without-letting-users-know-rather-than-processing-them-through-the-Kimi-model.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:04:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Antropic: Moonshot은 사용자에게 알리지 않은 채 쿼리를 Kimi 모델을 통해 처리하는 대신 자사의 챗봇으로 우회시켰다."
+  },
+  {
+    "guid": "9758098",
+    "title": "FinancialJuice: Anthropic: Spotted nearly 300,000 customer requests that moonshot sent primarily to Anthropic’s Opus AI model",
+    "link": "https://www.financialjuice.com/News/9758098/Anthropic-Spotted-nearly-300000-customer-requests-that-moonshot-sent-primarily-to-Anthropics-Opus-AI-model.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:04:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트로픽(Anthropic): ‘문샷(moonshot)’이 주로 앤트로픽의 오푸스(Opus) AI 모델로 전송한 고객 요청 약 30만 건을 확인했다"
+  },
+  {
+    "guid": "9758097",
+    "title": "FinancialJuice: Moonshot secretly routed user requests through Claude and Anthropic.",
+    "link": "https://www.financialjuice.com/News/9758097/Moonshot-secretly-routed-user-requests-through-Claude-and-Anthropic.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:04:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Moonshot은 사용자 요청을 Claude와 Anthropic을 통해 비밀리에 우회시켰다."
+  },
+  {
+    "guid": "9758096",
+    "title": "FinancialJuice: US 30-Year Bond Auction",
+    "link": "https://www.financialjuice.com/News/9758096/US-30-Year-Bond-Auction.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:02:41 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 30년물 국채 입찰"
+  },
+  {
+    "guid": "9758095",
+    "title": "FinancialJuice: US 30-Year Bond Bid-to-Cover Actual 2.610 (Forecast -, Previous 2.390)",
+    "link": "https://www.financialjuice.com/News/9758095/US-30-Year-Bond-Bid-to-Cover-Actual-2610-Forecast---Previous-2390.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:02:06 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 30년물 국채 입찰 경쟁률, 실제 2.610 (예상 -, 이전 2.390)"
+  },
+  {
+    "guid": "9758094",
+    "title": "FinancialJuice: US 30-Year Bond High Yield Actual 5.308% (Forecast -, Previous 5.216%)",
+    "link": "https://www.financialjuice.com/News/9758094/US-30-Year-Bond-High-Yield-Actual-5308-Forecast---Previous-5216.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:02:03 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 30년물 국채 수익률, 실제 5.308% (예상 -, 이전 5.216%)"
+  },
+  {
+    "guid": "9758079",
+    "title": "FinancialJuice: Treasury WI 30-year yield 5.335% before $22 billion auction.",
+    "link": "https://www.financialjuice.com/News/9758079/Treasury-WI-30-year-yield-5335-before-22-billion-auction.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 17:00:20 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 220억 달러 규모 국채 입찰을 앞두고 30년물 국채 수익률이 5.335%를 기록했습니다."
+  },
+  {
+    "guid": "9758077",
+    "title": "FinancialJuice: Iran's IRGC: We hit a US unmanned vessel in the Strait of Hormuz - State Media.",
+    "link": "https://www.financialjuice.com/News/9758077/Irans-IRGC-We-hit-a-US-unmanned-vessel-in-the-Strait-of-Hormuz---State-Media.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:53:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대(IRGC), “호르무즈 해협에서 미국 무인 선박을 공격했다” - 국영 매체."
+  },
+  {
+    "guid": "9758076",
+    "title": "FinancialJuice: IRGC: Strait of Hormuz is blocked and under our intelligent control and information dominance, and any hostile presence in this strategic Strait will be targeted - IRIB.",
+    "link": "https://www.financialjuice.com/News/9758076/IRGC-Strait-of-Hormuz-is-blocked-and-under-our-intelligent-control-and-information-dominance-and-any-hostile-presence-in-this-strategic-Strait-will-be-targeted---IRIB.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:52:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대(IRGC): 호르무즈 해협은 봉쇄되었으며, 우리의 정교한 통제 및 정보 우위 하에 놓여 있다. 이 전략적 해협에 침입하는 모든 적대 세력은 표적이 될 것이다 - IRIB."
+  },
+  {
+    "guid": "9758068",
+    "title": "FinancialJuice: Arab and Israeli officials are bracing for continued fighting - WSJ.",
+    "link": "https://www.financialjuice.com/News/9758068/Arab-and-Israeli-officials-are-bracing-for-continued-fighting---WSJ.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:36:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아랍 및 이스라엘 당국자들이 전투가 지속될 것에 대비하고 있다 - WSJ."
+  },
+  {
+    "guid": "9758067",
+    "title": "FinancialJuice: US and Middle East Officials: Iran Has resumed producing ballistic missiles in underground facilities using stockpiled components - WSJ.",
+    "link": "https://www.financialjuice.com/News/9758067/US-and-Middle-East-Officials-Iran-Has-resumed-producing-ballistic-missiles-in-underground-facilities-using-stockpiled-components---WSJ.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:36:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 및 중동 관계자들: 이란이 비축해 둔 부품을 이용해 지하 시설에서 탄도 미사일 생산을 재개했다 - WSJ."
+  },
+  {
+    "guid": "9758065",
+    "title": "FinancialJuice: Iran has resumed producing ballistic missiles - US and Middle East Officials cited by the WSJ",
+    "link": "https://www.financialjuice.com/News/9758065/Iran-has-resumed-producing-ballistic-missiles---US-and-Middle-East-Officials-cited-by-the-WSJ.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:35:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란, 탄도미사일 생산 재개 - 월스트리트저널(WSJ)이 인용한 미국 및 중동 관계자들"
+  },
+  {
+    "guid": "9758048",
+    "title": "FinancialJuice: Nvidia's CEO Huang: Investments are not circular. $NVDA",
+    "link": "https://www.financialjuice.com/News/9758048/Nvidias-CEO-Huang-Investments-are-not-circular-NVDA.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:24:44 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 엔비디아 황 CEO “투자는 순환적인 것이 아니다.” $NVDA"
+  },
+  {
+    "guid": "9758019",
+    "title": "FinancialJuice: China halts new battery projects pending capacity review - Caixin.",
+    "link": "https://www.financialjuice.com/News/9758019/China-halts-new-battery-projects-pending-capacity-review---Caixin.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:11:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국, 생산 능력 검토 완료 전까지 신규 배터리 프로젝트 중단 - Caixin."
+  },
+  {
+    "guid": "9758018",
+    "title": "FinancialJuice: Nvidia's CEO Huang: Our share at Anthropic is growing very quickly. $NVDA",
+    "link": "https://www.financialjuice.com/News/9758018/Nvidias-CEO-Huang-Our-share-at-Anthropic-is-growing-very-quickly-NVDA.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:09:16 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 엔비디아의 황 CEO: 앤트로픽에 대한 당사의 지분율이 매우 빠르게 증가하고 있습니다. $NVDA"
+  },
+  {
+    "guid": "9758017",
+    "title": "FinancialJuice: ECB Sources: Further policy tightening is likely, and they may debate another hike as soon as October.",
+    "link": "https://www.financialjuice.com/News/9758017/ECB-Sources-Further-policy-tightening-is-likely-and-they-may-debate-another-hike-as-soon-as-October.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:08:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 소식통에 따르면, 추가적인 통화 긴축이 있을 가능성이 높으며, 빠르면 10월 중 또 한 차례 금리 인상을 논의할 수도 있다고 한다."
+  },
+  {
+    "guid": "9758016",
+    "title": "FinancialJuice: Google launches a Gemini app for Windows 10 and 11. $GOOGL",
+    "link": "https://www.financialjuice.com/News/9758016/Google-launches-a-Gemini-app-for-Windows-10-and-11-GOOGL.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:08:25 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글, 윈도우 10 및 11용 ‘제미니’ 앱 출시. $GOOGL"
+  },
+  {
+    "guid": "9758015",
+    "title": "FinancialJuice: Nvidia's CEO Huang: Shipments of Grace Blackwell up 27% month to month. $NVDA",
+    "link": "https://www.financialjuice.com/News/9758015/Nvidias-CEO-Huang-Shipments-of-Grace-Blackwell-up-27-month-to-month-NVDA.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:08:11 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 엔비디아 황 CEO, 그레이스 블랙웰 출하량이 전월 대비 27% 증가했다고 밝혔다. $NVDA"
+  },
+  {
+    "guid": "9758013",
+    "title": "FinancialJuice: Vantage Data Centres seeks $2b in loans from Pimco and PGIM - FT.",
+    "link": "https://www.financialjuice.com/News/9758013/Vantage-Data-Centres-seeks-2b-in-loans-from-Pimco-and-PGIM---FT.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:06:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴티지 데이터 센터스, 핌코와 PGIM으로부터 20억 달러 대출 유치 추진 - FT."
+  },
+  {
+    "guid": "9758012",
+    "title": "FinancialJuice: US 30-year fixed rate mortgages average 6.76% September 10th week, highest since June 2025, vs 6.71$ prior week - Freddie Mac.",
+    "link": "https://www.financialjuice.com/News/9758012/US-30-year-fixed-rate-mortgages-average-676-September-10th-week-highest-since-June-2025-vs-671-prior-week---Freddie-Mac.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:04:45 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 프레디 맥에 따르면, 9월 10일 주 미국 30년 만기 고정금리 모기지 평균 금리는 6.76%를 기록해 2025년 6월 이후 최고치를 나타냈으며, 이는 전주 6.71% 대비 상승한 수치다."
+  },
+  {
+    "guid": "9758011",
+    "title": "FinancialJuice: Nvidia CEO: Cybersecurity is the next major use case of AI. $NVDA",
+    "link": "https://www.financialjuice.com/News/9758011/Nvidia-CEO-Cybersecurity-is-the-next-major-use-case-of-AI-NVDA.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:03:36 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 엔비디아 CEO “사이버 보안은 AI의 차기 주요 활용 분야다.” $NVDA"
+  },
+  {
+    "guid": "9758010",
+    "title": "FinancialJuice: US weekly crude production hits new record near 14 mln b/d",
+    "link": "https://www.financialjuice.com/News/9758010/US-weekly-crude-production-hits-new-record-near-14-mln-bd.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:03:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 주간 원유 생산량, 일일 1,400만 배럴에 육박하며 사상 최고치 경신"
+  },
+  {
+    "guid": "9758008",
+    "title": "FinancialJuice: Microsoft shares safe participation framework for AI. $MSFT",
+    "link": "https://www.financialjuice.com/News/9758008/Microsoft-shares-safe-participation-framework-for-AI-MSFT.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:01:48 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 마이크로소프트, AI를 위한 안전한 참여 프레임워크 공개. $MSFT"
+  },
+  {
+    "guid": "9757997",
+    "title": "FinancialJuice: EIA Crude Cushing Inventories  Actual -0.684M (Forecast -, Previous 0.080M)",
+    "link": "https://www.financialjuice.com/News/9757997/EIA-Crude-Cushing-Inventories--Actual--0684M-Forecast---Previous-0080M.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:00:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EIA 쿠싱 원유 재고  실적 -0.684M (예상 -, 전월 0.080M)"
+  },
+  {
+    "guid": "9757996",
+    "title": "FinancialJuice: EIA Gasoline Inventories Actual 1.269M (Forecast -1.275M, Previous -1.173M)",
+    "link": "https://www.financialjuice.com/News/9757996/EIA-Gasoline-Inventories-Actual-1269M-Forecast--1275M-Previous--1173M.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EIA 휘발유 재고량, 실제 1.269M (예상 -1.275M, 전월 -1.173M)"
+  },
+  {
+    "guid": "9757995",
+    "title": "FinancialJuice: EIA Distillate Inventories Actual 2.087M (Forecast -0.7M, Previous 0.796M)",
+    "link": "https://www.financialjuice.com/News/9757995/EIA-Distillate-Inventories-Actual-2087M-Forecast--07M-Previous-0796M.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EIA 증류유 재고 실적이 2.087M로 집계됨 (예상치 -0.7M, 전월치 0.796M)"
+  },
+  {
+    "guid": "9757994",
+    "title": "FinancialJuice: EIA Crude Oil Inventories Actual -0.391M (Forecast -1.35M, Previous -4.450M)",
+    "link": "https://www.financialjuice.com/News/9757994/EIA-Crude-Oil-Inventories-Actual--0391M-Forecast--135M-Previous--4450M.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 16:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EIA 원유 재고 실적이 -0.391M (예상치 -1.35M, 전월치 -4.450M)"
+  },
+  {
+    "guid": "9757993",
+    "title": "FinancialJuice: The Trump Administration partners with OpenAI to use AI tools - Fox Business",
+    "link": "https://www.financialjuice.com/News/9757993/The-Trump-Administration-partners-with-OpenAI-to-use-AI-tools---Fox-Business.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 15:52:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 행정부, OpenAI와 협력해 AI 도구 활용 - 폭스 비즈니스"
+  },
+  {
+    "guid": "9757975",
+    "title": "FinancialJuice: US 4-Week Bill Auction",
+    "link": "https://www.financialjuice.com/News/9757975/US-4-Week-Bill-Auction.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 15:32:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 4주물 국채 입찰"
+  },
+  {
+    "guid": "9757974",
+    "title": "FinancialJuice: US 4-Week Bill High Yield Actual 3.775% (Forecast -, Previous 3.700%)",
+    "link": "https://www.financialjuice.com/News/9757974/US-4-Week-Bill-High-Yield-Actual-3775-Forecast---Previous-3700.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 15:32:05 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 4주물 국채 고수익률 실제 3.775% (예상 -, 이전 3.700%)"
+  },
+  {
+    "guid": "9757973",
+    "title": "FinancialJuice: US 4-Week Bill Bid-to-Cover Actual 2.81 (Forecast -, Previous 2.970)",
+    "link": "https://www.financialjuice.com/News/9757973/US-4-Week-Bill-Bid-to-Cover-Actual-281-Forecast---Previous-2970.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 15:32:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 4주 만기 국채 입찰 경쟁률 실제 2.81 (예상 -, 이전 2.970)"
+  },
+  {
+    "guid": "9757920",
+    "title": "FinancialJuice: ECB Officials expect more tightening with October in play.\n",
+    "link": "https://www.financialjuice.com/News/9757920/ECB-Officials-expect-more-tightening-with-October-in-play.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 15:13:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB 관계자들은 10월을 앞두고 추가 긴축이 있을 것으로 전망하고 있다.\n"
+  },
+  {
+    "guid": "9757919",
+    "title": "FinancialJuice: US Treasury Announces Bill and Bond Auction Sizes",
+    "link": "https://www.financialjuice.com/News/9757919/US-Treasury-Announces-Bill-and-Bond-Auction-Sizes.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 15:02:40 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 재무부, 단기채권 및 장기채권 입찰 규모 발표"
+  },
+  {
+    "guid": "9757894",
+    "title": "FinancialJuice: IMF: We are advising central bankers to remain focused on price stability mandates; encouraging fiscal authorities to have medium-term consolidation plans.",
+    "link": "https://www.financialjuice.com/News/9757894/IMF-We-are-advising-central-bankers-to-remain-focused-on-price-stability-mandates-encouraging-fiscal-authorities-to-have-medium-term-consolidation-plans.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 15:00:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IMF: 우리는 중앙은행 관계자들에게 물가 안정이라는 임무에 계속 집중할 것을 권고하고 있으며, 재정 당국에는 중기 재정 건전화 계획을 수립할 것을 장려하고 있다."
+  },
+  {
+    "guid": "9757890",
+    "title": "FinancialJuice: IMF: Energy shock from war in the Middle East is not over; global debt pressures are mounting, and the disinflation process has stalled.",
+    "link": "https://www.financialjuice.com/News/9757890/IMF-Energy-shock-from-war-in-the-Middle-East-is-not-over-global-debt-pressures-are-mounting-and-the-disinflation-process-has-stalled.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 15:00:46 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: IMF: 중동 전쟁으로 인한 에너지 충격은 아직 끝나지 않았으며, 전 세계적인 부채 압박이 가중되고 있고, 디플레이션 과정은 주춤하고 있다."
+  },
+  {
+    "guid": "9757888",
+    "title": "FinancialJuice: IMF: Global growth remains on track to reach about 3% in 2026, but risks remain high.",
+    "link": "https://www.financialjuice.com/News/9757888/IMF-Global-growth-remains-on-track-to-reach-about-3-in-2026-but-risks-remain-high.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 15:00:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IMF, “2026년 세계 경제 성장률이 약 3%를 기록할 전망이지만, 위험 요인은 여전히 크다.”"
+  },
+  {
+    "guid": "9757887",
+    "title": "FinancialJuice: IMF: Global inflation expectations have risen but remain well-anchored over the longer run.",
+    "link": "https://www.financialjuice.com/News/9757887/IMF-Global-inflation-expectations-have-risen-but-remain-well-anchored-over-the-longer-run.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 15:00:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: IMF: 전 세계적인 인플레이션 기대치는 상승했으나, 장기적으로는 여전히 안정적으로 유지되고 있다."
+  },
+  {
+    "guid": "9757868",
+    "title": "FinancialJuice: Yemen's Houthi-run Humanitarian Operations Coordination Centre: Red Sea navigation safe for all shipping companies except Saudi vessels.",
+    "link": "https://www.financialjuice.com/News/9757868/Yemens-Houthi-run-Humanitarian-Operations-Coordination-Centre-Red-Sea-navigation-safe-for-all-shipping-companies-except-Saudi-vessels.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:42:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 후티 반군이 운영하는 인도주의 활동 조정 센터: 사우디 선박을 제외한 모든 해운사에 대해 홍해 항해가 안전하다고 밝혔다."
+  },
+  {
+    "guid": "9757867",
+    "title": "FinancialJuice: Diesel futures top $5/gal for the first time since 2022.",
+    "link": "https://www.financialjuice.com/News/9757867/Diesel-futures-top-5gal-for-the-first-time-since-2022.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:42:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 디젤 선물 가격이 2022년 이후 처음으로 갤런당 5달러를 넘어섰다."
+  },
+  {
+    "guid": "9757841",
+    "title": "FinancialJuice: EIA Natural Gas Change BCF Actual 40B (Forecast 34B, Previous 30B)",
+    "link": "https://www.financialjuice.com/News/9757841/EIA-Natural-Gas-Change-BCF-Actual-40B-Forecast-34B-Previous-30B.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:30:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EIA 천연가스 재고 변동량(BCF) 실제 40B (예상 34B, 이전 30B)"
+  },
+  {
+    "guid": "9757840",
+    "title": "FinancialJuice: Head of Yemen's Supreme Political Council: Saudi-backed forces will be granted amnesty if they lay down their arms - IRIB News",
+    "link": "https://www.financialjuice.com/News/9757840/Head-of-Yemens-Supreme-Political-Council-Saudi-backed-forces-will-be-granted-amnesty-if-they-lay-down-their-arms---IRIB-News.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:29:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 최고정치위원회 위원장 “사우디 지원 세력은 무기를 내려놓으면 사면을 받게 될 것” - IRIB 뉴스"
+  },
+  {
+    "guid": "9757839",
+    "title": "FinancialJuice: Head of Yemen's Supreme Political Council announces stability in Taiz coastal areas - IRIB.",
+    "link": "https://www.financialjuice.com/News/9757839/Head-of-Yemens-Supreme-Political-Council-announces-stability-in-Taiz-coastal-areas---IRIB.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:28:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 최고정치위원회 위원장, 타이즈 해안 지역의 안정 선언 - IRIB."
+  },
+  {
+    "guid": "9757838",
+    "title": "FinancialJuice: Yemen's Houthis Spokesperson: Operations will stop when attacks on Yemen end and the blockade is lifted.",
+    "link": "https://www.financialjuice.com/News/9757838/Yemens-Houthis-Spokesperson-Operations-will-stop-when-attacks-on-Yemen-end-and-the-blockade-is-lifted.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:26:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 후티 반군 대변인: 예멘에 대한 공격이 중단되고 봉쇄 조치가 해제되면 작전을 중단할 것이다."
+  },
+  {
+    "guid": "9757837",
+    "title": "FinancialJuice: Iran-backed Yemen's Houthis Spokesperson: Current operations are limited to specified targets and are defensive.",
+    "link": "https://www.financialjuice.com/News/9757837/Iran-backed-Yemens-Houthis-Spokesperson-Current-operations-are-limited-to-specified-targets-and-are-defensive.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:26:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 지원을 받는 예멘 후티 반군 대변인: 현재 진행 중인 작전은 특정 표적에 국한되어 있으며 방어적 성격이다."
+  },
+  {
+    "guid": "9757836",
+    "title": "FinancialJuice: Iran-backed Yemen's Houthis spokesperson: Freedom of navigation and international trade in the Red Sea and Bab el-Mandeb Strait remain safe and uninterrupted.",
+    "link": "https://www.financialjuice.com/News/9757836/Iran-backed-Yemens-Houthis-spokesperson-Freedom-of-navigation-and-international-trade-in-the-Red-Sea-and-Bab-el-Mandeb-Strait-remain-safe-and-uninterrupted.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:24:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 지원을 받는 예멘 후티 반군 대변인: 홍해와 바브엘만데브 해협에서의 항행의 자유와 국제 무역은 여전히 안전하며 차질 없이 이루어지고 있다."
+  },
+  {
+    "guid": "9757835",
+    "title": "FinancialJuice: Fear & Greed Index: 36/100 - Fear",
+    "link": "https://www.financialjuice.com/News/9757835/Fear--Greed-Index-36100---Fear.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:17:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 공포와 탐욕 지수: 36/100 - 공포"
+  },
+  {
+    "guid": "9757834",
+    "title": "FinancialJuice: Crypto Fear and Greed Index: 69/100 = Greed",
+    "link": "https://www.financialjuice.com/News/9757834/Crypto-Fear-and-Greed-Index-69100--Greed.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:17:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 암호화폐 공포·탐욕 지수: 69/100 = 탐욕"
+  },
+  {
+    "guid": "9757827",
+    "title": "FinancialJuice: Traders fully price in three more ECB rate hikes by mid-2027.",
+    "link": "https://www.financialjuice.com/News/9757827/Traders-fully-price-in-three-more-ECB-rate-hikes-by-mid-2027.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:15:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 트레이더들은 2027년 중반까지 유럽중앙은행(ECB)이 세 차례 더 금리를 인상할 것이라는 전망을 완전히 반영하고 있다."
+  },
+  {
+    "guid": "9757817",
+    "title": "FinancialJuice: Poll: US 10-year Treasury yield to decline to 4.67% in three months, 4.65% in six, and 4.55% in a year (vs 4.50%, 4.50%, and 4.34%, respectively, in the August poll)",
+    "link": "https://www.financialjuice.com/News/9757817/Poll-US-10-year-Treasury-yield-to-decline-to-467-in-three-months-465-in-six-and-455-in-a-year-vs-450-450-and-434-respectively-in-the-August-poll.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:12:45 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 설문조사: 미국 10년물 국채 수익률이 3개월 후 4.67%, 6개월 후 4.65%, 1년 후 4.55%로 하락할 것으로 전망됨 (지난 8월 설문조사에서는 각각 4.50%, 4.50%, 4.34%로 예상됨)"
+  },
+  {
+    "guid": "9757816",
+    "title": "FinancialJuice: Poll: US 10-year Treasury yield likely to touch 5% within three months according to 55% bond strategists.",
+    "link": "https://www.financialjuice.com/News/9757816/Poll-US-10-year-Treasury-yield-likely-to-touch-5-within-three-months-according-to-55-bond-strategists.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:12:29 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 설문조사: 채권 전략가들의 55%가 미국 10년물 국채 수익률이 3개월 이내에 5%에 도달할 것으로 전망했다."
+  },
+  {
+    "guid": "9757814",
+    "title": "FinancialJuice: OpenAI discussed securing the grid in talks with power companies  - Politico.\n",
+    "link": "https://www.financialjuice.com/News/9757814/OpenAI-discussed-securing-the-grid-in-talks-with-power-companies----Politico.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:09:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI, 전력 회사들과의 회담에서 전력망 보안 문제 논의  - Politico.\n"
+  },
+  {
+    "guid": "9757787",
+    "title": "FinancialJuice: US Wholesale Sales MoM Actual 0.8% (Forecast -, Previous -3.0%, Revision -2.9%)",
+    "link": "https://www.financialjuice.com/News/9757787/US-Wholesale-Sales-MoM-Actual-08-Forecast---Previous--30-Revision--29.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 도매 판매 전월 대비 실제치 0.8% (예상치 -, 이전치 -3.0%, 수정치 -2.9%)"
+  },
+  {
+    "guid": "9757786",
+    "title": "FinancialJuice: US Wholesale Inventories MoM Revised Actual 1.3% (Forecast 1.3%, Previous 1.3%)",
+    "link": "https://www.financialjuice.com/News/9757786/US-Wholesale-Inventories-MoM-Revised-Actual-13-Forecast-13-Previous-13.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 도매 재고 전월 대비 수정치 1.3% (예상 1.3%, 이전 1.3%)"
+  },
+  {
+    "guid": "9757785",
+    "title": "FinancialJuice: US Existing Home Sales change Actual -2% (Forecast -1.7%, Previous -1.7%)",
+    "link": "https://www.financialjuice.com/News/9757785/US-Existing-Home-Sales-change-Actual--2-Forecast--17-Previous--17.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 기존 주택 판매량 변동률, 실제 -2% (예상 -1.7%, 전월 -1.7%)"
+  },
+  {
+    "guid": "9757784",
+    "title": "FinancialJuice: US Existing Home Sales Actual 3.98M (Forecast 3.98M, Previous 4.06M)",
+    "link": "https://www.financialjuice.com/News/9757784/US-Existing-Home-Sales-Actual-398M-Forecast-398M-Previous-406M.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 14:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 기존 주택 판매 실적 398만 건 (예상치 398만 건, 전월 406만 건)"
+  },
+  {
+    "guid": "9757783",
+    "title": "FinancialJuice: ECB projections assume oil price of $89.5/barrel in 2026, $74 in 2027, and $73.60 in 2028.",
+    "link": "https://www.financialjuice.com/News/9757783/ECB-projections-assume-oil-price-of-895barrel-in-2026-74-in-2027-and-7360-in-2028.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 13:48:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)의 전망에 따르면, 2026년 유가는 배럴당 89.5달러, 2027년은 74달러, 2028년은 73.60달러로 가정하고 있다."
+  },
+  {
+    "guid": "9757782",
+    "title": "FinancialJuice: ECB projections assume exchange rate of $1.16 in 2026-2028.",
+    "link": "https://www.financialjuice.com/News/9757782/ECB-projections-assume-exchange-rate-of-116-in-2026-2028.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 13:47:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)의 전망치는 2026~2028년 환율을 1.16달러로 가정하고 있다."
+  },
+  {
+    "guid": "9757753",
+    "title": "FinancialJuice: ECB's President Lagarde ends the ECB press conference.",
+    "link": "https://www.financialjuice.com/News/9757753/ECBs-President-Lagarde-ends-the-ECB-press-conference.aspx?xy=rss",
+    "pubDate": "Thu, 10 Sep 2026 13:38:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라가르드 유럽중앙은행(ECB) 총재가 ECB 기자회견을 마쳤습니다."
+  },
+  {
     "guid": "9757752",
     "title": "FinancialJuice: ECB's Nagel: Euro-sceptic parties will make investors reluctant to invest in Germany.",
     "link": "https://www.financialjuice.com/News/9757752/ECBs-Nagel-Euro-sceptic-parties-will-make-investors-reluctant-to-invest-in-Germany.aspx?xy=rss",
