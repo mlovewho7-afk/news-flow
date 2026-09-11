@@ -1,5 +1,557 @@
 [
   {
+    "guid": "9759257",
+    "title": "FinancialJuice: China to further enhance computing infrastructure - CCTV",
+    "link": "https://www.financialjuice.com/News/9759257/China-to-further-enhance-computing-infrastructure---CCTV.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 11:12:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국, 컴퓨팅 인프라를 한층 더 강화할 예정 - CCTV"
+  },
+  {
+    "guid": "9759238",
+    "title": "FinancialJuice: EU put on hold proposal for trade measure on aluminum scrap.",
+    "link": "https://www.financialjuice.com/News/9759238/EU-put-on-hold-proposal-for-trade-measure-on-aluminum-scrap.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 11:00:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU, 알루미늄 스크랩에 대한 무역 조치 제안 보류."
+  },
+  {
+    "guid": "9759213",
+    "title": "FinancialJuice: ECB's Makhlouf: Longer Iran war risks keeping inflation elevated.",
+    "link": "https://www.financialjuice.com/News/9759213/ECBs-Makhlouf-Longer-Iran-war-risks-keeping-inflation-elevated.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 10:32:54 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: ECB의 마클루프: 이란 전쟁이 장기화될 경우 인플레이션이 높은 수준을 유지할 위험이 있다."
+  },
+  {
+    "guid": "9759199",
+    "title": "FinancialJuice: Russian Interest Rate Decision Actual 14.00% (Forecast 14%, Previous 14.00%)",
+    "link": "https://www.financialjuice.com/News/9759199/Russian-Interest-Rate-Decision-Actual-1400-Forecast-14-Previous-1400.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 10:30:07 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 러시아 금리 결정, 실제 14.00% (예상 14%, 이전 14.00%)"
+  },
+  {
+    "guid": "9759198",
+    "title": "FinancialJuice: CentCom commander traveled to Saudi Arabia on Thursday - Axios",
+    "link": "https://www.financialjuice.com/News/9759198/CentCom-commander-traveled-to-Saudi-Arabia-on-Thursday---Axios.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 10:22:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중앙사령부 사령관이 목요일 사우디아라비아를 방문했다 - Axios"
+  },
+  {
+    "guid": "9759190",
+    "title": "FinancialJuice: SNB's Chairman Schlegel: Swiss debt break policy has been highly successful.",
+    "link": "https://www.financialjuice.com/News/9759190/SNBs-Chairman-Schlegel-Swiss-debt-break-policy-has-been-highly-successful.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 10:14:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스위스 중앙은행(SNB)의 슐레겔 총재: 스위스의 부채 한도 정책은 큰 성공을 거두었다."
+  },
+  {
+    "guid": "9759189",
+    "title": "FinancialJuice: No official confirmation from Saudi Arabia on incident near East West oil pipeline.",
+    "link": "https://www.financialjuice.com/News/9759189/No-official-confirmation-from-Saudi-Arabia-on-incident-near-East-West-oil-pipeline.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 10:02:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디아라비아 측, 이스트-웨스트 송유관 인근 사건에 대해 공식 확인을 하지 않았다."
+  },
+  {
+    "guid": "9759176",
+    "title": "FinancialJuice: SNB's Chairman Schlegel: Swiss Franc exchange rate a challenge for swiss economy, but real franc has been stable since 2020.",
+    "link": "https://www.financialjuice.com/News/9759176/SNBs-Chairman-Schlegel-Swiss-Franc-exchange-rate-a-challenge-for-swiss-economy-but-real-franc-has-been-stable-since-2020.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 09:57:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB)의 슐레겔 총재: 스위스 프랑 환율은 스위스 경제에 도전 과제이지만, 실질 프랑 가치는 2020년 이후 안정세를 유지해 왔다."
+  },
+  {
+    "guid": "9759141",
+    "title": "FinancialJuice: SNB's Chairman Schlegel: Inflation recently ticked up in Switzerland.",
+    "link": "https://www.financialjuice.com/News/9759141/SNBs-Chairman-Schlegel-Inflation-recently-ticked-up-in-Switzerland.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 09:21:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB)의 슐레겔 총재: 최근 스위스에서 인플레이션이 소폭 상승했다."
+  },
+  {
+    "guid": "9759126",
+    "title": "FinancialJuice: UAE revising AI data center plan after Iranian attacks.",
+    "link": "https://www.financialjuice.com/News/9759126/UAE-revising-AI-data-center-plan-after-Iranian-attacks.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 09:08:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: UAE, 이란의 공격 이후 AI 데이터센터 계획 수정 중."
+  },
+  {
+    "guid": "9759125",
+    "title": "FinancialJuice: ING: The GBP - FJElite",
+    "link": "https://www.financialjuice.com/News/9759125/ING-The-GBP---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 09:08:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ING: GBP - FJElite"
+  },
+  {
+    "guid": "9759124",
+    "title": "FinancialJuice: ING: The USD - FJElite",
+    "link": "https://www.financialjuice.com/News/9759124/ING-The-USD---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 09:07:26 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: ING: 미국 달러 - FJElite"
+  },
+  {
+    "guid": "9759123",
+    "title": "FinancialJuice: UniCredit: ECB Review - FJElite",
+    "link": "https://www.financialjuice.com/News/9759123/UniCredit-ECB-Review---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 09:06:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유니크레딧: ECB 리뷰 - FJElite"
+  },
+  {
+    "guid": "9759122",
+    "title": "FinancialJuice: Iran-backed Houthis reached strategic Yemeni island of Perim in Bab El-Mandeb strait early on Friday - Four Yemeni Government Sources.",
+    "link": "https://www.financialjuice.com/News/9759122/Iran-backed-Houthis-reached-strategic-Yemeni-island-of-Perim-in-Bab-El-Mandeb-strait-early-on-Friday---Four-Yemeni-Government-Sources.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 09:04:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 지원을 받는 후티 반군이 금요일 이른 아침 바브 엘 만데브 해협에 위치한 예멘의 전략적 요충지인 페림 섬에 도달했다고 예멘 정부 관계자 4명이 전했다."
+  },
+  {
+    "guid": "9759107",
+    "title": "FinancialJuice: Japan 2026 extraordinary diet session eyed 69 days - Kyodo",
+    "link": "https://www.financialjuice.com/News/9759107/Japan-2026-extraordinary-diet-session-eyed-69-days---Kyodo.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:54:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본, 2026년 임시 국회 69일간 열릴 전망 - 교도통신"
+  },
+  {
+    "guid": "9759089",
+    "title": "FinancialJuice: France Fin. Min. Lescure: We see 2026 inflation of 2.1%, 1.8% in 2027.",
+    "link": "https://www.financialjuice.com/News/9759089/France-Fin-Min-Lescure-We-see-2026-inflation-of-21-18-in-2027.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:44:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 프랑스 레스쿠르 재무장관: “2026년 인플레이션은 2.1%, 2027년은 1.8%가 될 것으로 전망합니다.”"
+  },
+  {
+    "guid": "9759088",
+    "title": "FinancialJuice: France Fin. Min. Lescure: 2027 growth forecast unrevised at 1.0%.",
+    "link": "https://www.financialjuice.com/News/9759088/France-Fin-Min-Lescure-2027-growth-forecast-unrevised-at-10.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:43:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 레스쿠르 재무장관, 2027년 성장률 전망치를 1.0%로 유지."
+  },
+  {
+    "guid": "9759087",
+    "title": "FinancialJuice: French Finance Minister Lescure: Debt service costs seen at 65 billion euros this year, an increase of 4.5 billion euros from what was planned due to geopolitical crisis.",
+    "link": "https://www.financialjuice.com/News/9759087/French-Finance-Minister-Lescure-Debt-service-costs-seen-at-65-billion-euros-this-year-an-increase-of-45-billion-euros-from-what-was-planned-due-to-geopolitical-crisis.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:41:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 레스쿠르 프랑스 재무장관: 올해 채무 상환 비용이 650억 유로로 예상되며, 지정학적 위기로 인해 당초 계획보다 45억 유로 증가할 전망이다."
+  },
+  {
+    "guid": "9759086",
+    "title": "FinancialJuice: France Fin. Min. Lescure: Economic uncertainties have never been so high.",
+    "link": "https://www.financialjuice.com/News/9759086/France-Fin-Min-Lescure-Economic-uncertainties-have-never-been-so-high.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:36:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 재무장관 레스쿠르: 경제 불확실성이 그 어느 때보다 높다."
+  },
+  {
+    "guid": "9759085",
+    "title": "FinancialJuice: Bank of England median one-year, two-year and five-year ahead expectations were 3.6%, 3.1% and 3.3% respectively.",
+    "link": "https://www.financialjuice.com/News/9759085/Bank-of-England-median-one-year-two-year-and-five-year-ahead-expectations-were-36-31-and-33-respectively.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:32:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 잉글랜드은행의 1년, 2년, 5년 후 기대치 중앙값은 각각 3.6%, 3.1%, 3.3%였다."
+  },
+  {
+    "guid": "9759065",
+    "title": "FinancialJuice: UK 1 Yr Inflation Expectations Actual 3.2% (Forecast -, Previous 4%)",
+    "link": "https://www.financialjuice.com/News/9759065/UK-1-Yr-Inflation-Expectations-Actual-32-Forecast---Previous-4.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:30:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 1년 인플레이션 기대치, 실제 3.2% (예상 -, 이전 4%)"
+  },
+  {
+    "guid": "9759056",
+    "title": "FinancialJuice: Microsoft plans to triple data center capacity to 38 Gigawatts.",
+    "link": "https://www.financialjuice.com/News/9759056/Microsoft-plans-to-triple-data-center-capacity-to-38-Gigawatts.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:27:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마이크로소프트가 데이터 센터 용량을 3배로 늘려 38 기가와트로 확대할 계획이다."
+  },
+  {
+    "guid": "9759055",
+    "title": "FinancialJuice: Japan trade delegation preparing China visit in September - Kyodo",
+    "link": "https://www.financialjuice.com/News/9759055/Japan-trade-delegation-preparing-China-visit-in-September---Kyodo.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:20:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 무역 대표단, 9월 중국 방문 준비 중 - 교도"
+  },
+  {
+    "guid": "9759045",
+    "title": "FinancialJuice: Yemen's Houthis complete takeover of Bab El-Mandeb strait - AFP.",
+    "link": "https://www.financialjuice.com/News/9759045/Yemens-Houthis-complete-takeover-of-Bab-El-Mandeb-strait---AFP.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:11:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 후티 반군, 바브 엘 만데브 해협 완전 장악 - AFP."
+  },
+  {
+    "guid": "9759044",
+    "title": "FinancialJuice: Yemen's Houthis take control of Mayyun Island in Red Sea - AFP",
+    "link": "https://www.financialjuice.com/News/9759044/Yemens-Houthis-take-control-of-Mayyun-Island-in-Red-Sea---AFP.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:10:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 후티 반군, 홍해의 마욘 섬 장악 - AFP"
+  },
+  {
+    "guid": "9759043",
+    "title": "FinancialJuice: ECB's Kocher: Too early to say anything about next ECB decision.",
+    "link": "https://www.financialjuice.com/News/9759043/ECBs-Kocher-Too-early-to-say-anything-about-next-ECB-decision.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:07:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 코처, “차기 ECB 결정에 대해 언급하기에는 아직 이르다.”"
+  },
+  {
+    "guid": "9759042",
+    "title": "FinancialJuice: Iran-backed Houthis reached Yemeni port city of Dhubab, along Bab El-Mandeb Strait - Two Yemeni Governmental Sources.",
+    "link": "https://www.financialjuice.com/News/9759042/Iran-backed-Houthis-reached-Yemeni-port-city-of-Dhubab-along-Bab-El-Mandeb-Strait---Two-Yemeni-Governmental-Sources.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:04:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 지원을 받는 후티 반군이 바브 엘-만데브 해협을 따라 예멘의 항구 도시 두바브에 도달했다 - 예멘 정부 소식통 2명."
+  },
+  {
+    "guid": "9759041",
+    "title": "FinancialJuice: French government will revise downward its 2026 growth forecast to 0.5% growth - Les Echos citing sources.",
+    "link": "https://www.financialjuice.com/News/9759041/French-government-will-revise-downward-its-2026-growth-forecast-to-05-growth---Les-Echos-citing-sources.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:02:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 정부가 2026년 성장률 전망치를 0.5%로 하향 조정할 예정이라고 ‘레 에코(Les Echos)’가 소식통을 인용해 보도했다."
+  },
+  {
+    "guid": "9759040",
+    "title": "FinancialJuice: IEA: Need for progress in resolving Middle East, Russia-Ukraine conflicts is greater than ever to avoid further oil market tightening.",
+    "link": "https://www.financialjuice.com/News/9759040/IEA-Need-for-progress-in-resolving-Middle-East-Russia-Ukraine-conflicts-is-greater-than-ever-to-avoid-further-oil-market-tightening.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:01:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 국제에너지기구(IEA): 석유 시장의 추가적인 공급 부족을 막기 위해서는 중동 및 러시아-우크라이나 분쟁 해결을 위한 진전이 그 어느 때보다 시급하다."
+  },
+  {
+    "guid": "9759039",
+    "title": "FinancialJuice: IE: Global observed oil inventories plunged by a further 95 million barrels in August.",
+    "link": "https://www.financialjuice.com/News/9759039/IE-Global-observed-oil-inventories-plunged-by-a-further-95-million-barrels-in-August.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:01:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IE: 8월 전 세계 확인 석유 재고가 9,500만 배럴 더 급감했다."
+  },
+  {
+    "guid": "9759036",
+    "title": "FinancialJuice: IEA: World oil supply to average 100.7 million bpd in 2026, down 5.7 million bpd from 2025 and 1.3 million bpd lower than prev. forecast.",
+    "link": "https://www.financialjuice.com/News/9759036/IEA-World-oil-supply-to-average-1007-million-bpd-in-2026-down-57-million-bpd-from-2025-and-13-million-bpd-lower-than-prev-forecast.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:01:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IEA: 2026년 세계 원유 공급량은 하루 평균 1억 70만 배럴로, 2025년 대비 하루 570만 배럴 감소하고 이전 전망치보다 하루 130만 배럴 낮을 전망이다."
+  },
+  {
+    "guid": "9759022",
+    "title": "FinancialJuice: IEA now sees full recovery in oil supplies from gulf producers deferred until 2027.",
+    "link": "https://www.financialjuice.com/News/9759022/IEA-now-sees-full-recovery-in-oil-supplies-from-gulf-producers-deferred-until-2027.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:01:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 국제에너지기구(IEA)는 걸프 지역 산유국들의 원유 공급이 완전히 회복되는 시기가 2027년까지 미뤄질 것으로 전망하고 있다."
+  },
+  {
+    "guid": "9759018",
+    "title": "FinancialJuice: IEA sees total world oil supply 1.74 million bpd lower than demand in 2026 (prev. forecast 1.27 million bpd lower).",
+    "link": "https://www.financialjuice.com/News/9759018/IEA-sees-total-world-oil-supply-174-million-bpd-lower-than-demand-in-2026-prev-forecast-127-million-bpd-lower.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:01:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IEA는 2026년 전 세계 원유 공급량이 수요보다 하루 174만 배럴 적을 것으로 전망했다(이전 전망치: 하루 127만 배럴 적음)."
+  },
+  {
+    "guid": "9759016",
+    "title": "FinancialJuice: IEA: 2026 world oil demand to drop by 2.5 million bpd (prev. forecast 1.6 million bpd drop), citing impasse in US-Iran talks on resolving their conflict.",
+    "link": "https://www.financialjuice.com/News/9759016/IEA-2026-world-oil-demand-to-drop-by-25-million-bpd-prev-forecast-16-million-bpd-drop-citing-impasse-in-US-Iran-talks-on-resolving-their-conflict.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 08:00:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IEA, 미국과 이란 간 갈등 해결을 위한 협상이 교착 상태에 빠진 것을 이유로 2026년 세계 석유 수요가 하루 250만 배럴 감소할 것이라고 전망했다(이전 전망치: 하루 160만 배럴 감소)."
+  },
+  {
+    "guid": "9758952",
+    "title": "FinancialJuice: China announces additional fuel price rise due to Iran war.",
+    "link": "https://www.financialjuice.com/News/9758952/China-announces-additional-fuel-price-rise-due-to-Iran-war.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 07:05:18 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 중국, 이란 전쟁으로 인한 추가 유가 인상 발표."
+  },
+  {
+    "guid": "9758951",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: NZD, AUD, JPY, GBP, USD, EUR, CHF, CAD - Weakest",
+    "link": "https://www.financialjuice.com/News/9758951/Currency-Strength-Chart-Strongest-NZD-AUD-JPY-GBP-USD-EUR-CHF-CAD---Weakest.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 07:01:22 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: NZD, AUD, JPY, GBP, USD, EUR, CHF, CAD - 가장 약한 통화"
+  },
+  {
+    "guid": "9758914",
+    "title": "FinancialJuice: ECB's Nagel: We might need to go into mildly restrictive territory.",
+    "link": "https://www.financialjuice.com/News/9758914/ECBs-Nagel-We-might-need-to-go-into-mildly-restrictive-territory.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:36:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 나겔: “약간의 긴축 기조로 전환해야 할 수도 있다.”"
+  },
+  {
+    "guid": "9758913",
+    "title": "FinancialJuice: ECB's Nagel: At upper bound of neutral territory.",
+    "link": "https://www.financialjuice.com/News/9758913/ECBs-Nagel-At-upper-bound-of-neutral-territory.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:36:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 나겔: 중립 구간의 상한선에 도달했다."
+  },
+  {
+    "guid": "9758912",
+    "title": "FinancialJuice: ECB's Nagel: Low gas storage level not a real concern.",
+    "link": "https://www.financialjuice.com/News/9758912/ECBs-Nagel-Low-gas-storage-level-not-a-real-concern.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:36:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 나겔, “낮은 가스 비축량은 큰 우려 사항이 아니다.”"
+  },
+  {
+    "guid": "9758911",
+    "title": "FinancialJuice: ECB's Nagel: Next ECB moves dependent on energy price development.",
+    "link": "https://www.financialjuice.com/News/9758911/ECBs-Nagel-Next-ECB-moves-dependent-on-energy-price-development.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:34:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 나겔, “ECB의 향후 조치, 에너지 가격 추이에 달려 있다.”"
+  },
+  {
+    "guid": "9758898",
+    "title": "FinancialJuice: ECB's Moulin: France needs to vote on budget by year-end.",
+    "link": "https://www.financialjuice.com/News/9758898/ECBs-Moulin-France-needs-to-vote-on-budget-by-year-end.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:25:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)의 물랭, “프랑스는 연말까지 예산안을 표결에 부쳐야 한다.”"
+  },
+  {
+    "guid": "9758897",
+    "title": "FinancialJuice: ECB's Moulin: France must be vigilant on debt costs.",
+    "link": "https://www.financialjuice.com/News/9758897/ECBs-Moulin-France-must-be-vigilant-on-debt-costs.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:24:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 물랭, “프랑스는 부채 비용에 대해 경계를 늦춰서는 안 된다.”"
+  },
+  {
+    "guid": "9758896",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9758896/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:22:56 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9758895",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9758895/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:22:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 전망"
+  },
+  {
+    "guid": "9758894",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9758894/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:22:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9758893",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9758893/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:21:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9758892",
+    "title": "FinancialJuice: ECB's Moulin: French economy is not catastrophic but we must act.",
+    "link": "https://www.financialjuice.com/News/9758892/ECBs-Moulin-French-economy-is-not-catastrophic-but-we-must-act.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:21:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 물랭, “프랑스 경제가 재앙적인 상황은 아니지만 조치를 취해야 한다.”"
+  },
+  {
+    "guid": "9758891",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9758891/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:21:07 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9758890",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9758890/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:20:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9758889",
+    "title": "FinancialJuice: ECB's Moulin: France's economy will restart at moderate pace.",
+    "link": "https://www.financialjuice.com/News/9758889/ECBs-Moulin-Frances-economy-will-restart-at-moderate-pace.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:20:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)의 물랭: 프랑스 경제는 완만한 속도로 회복될 것이다."
+  },
+  {
+    "guid": "9758888",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9758888/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:20:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9758887",
+    "title": "FinancialJuice: ECB's Moulin: Heatwaves cost France 0.1 percentage points of growth.",
+    "link": "https://www.financialjuice.com/News/9758887/ECBs-Moulin-Heatwaves-cost-France-01-percentage-points-of-growth.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:19:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 물랭: 폭염으로 인해 프랑스의 경제 성장률이 0.1%포인트 하락했다."
+  },
+  {
+    "guid": "9758886",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9758886/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:19:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9758885",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9758885/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:18:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9758884",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9758884/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:18:06 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9758883",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9758883/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:17:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9758881",
+    "title": "FinancialJuice: Bank of France's Moulin: France is not in economic danger.",
+    "link": "https://www.financialjuice.com/News/9758881/Bank-of-Frances-Moulin-France-is-not-in-economic-danger.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:17:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 중앙은행의 물랭: 프랑스는 경제적 위험에 처해 있지 않다."
+  },
+  {
+    "guid": "9758880",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9758880/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:16:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목 중 내재 변동성이 가장 높은 종목"
+  },
+  {
+    "guid": "9758861",
+    "title": "FinancialJuice: ECB's Kaasik: Eurozone growth could continue despite all these shocks.",
+    "link": "https://www.financialjuice.com/News/9758861/ECBs-Kaasik-Eurozone-growth-could-continue-despite-all-these-shocks.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:15:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 카아식: 이 모든 충격에도 불구하고 유로존의 성장은 지속될 수 있다."
+  },
+  {
+    "guid": "9758855",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9758855/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:15:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9758851",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9758851/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:15:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9758850",
+    "title": "FinancialJuice: Iran Foreign Minister, Pakistan Army Chief talks focused on US-Iran war, possibility of return to talks, Houthi attacks on Saudi Arabia - pakistan Source",
+    "link": "https://www.financialjuice.com/News/9758850/Iran-Foreign-Minister-Pakistan-Army-Chief-talks-focused-on-US-Iran-war-possibility-of-return-to-talks-Houthi-attacks-on-Saudi-Arabia---pakistan-Source.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:14:45 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이란 외무장관, 파키스탄 육군 참모총장 회담에서 미-이란 전쟁, 협상 재개 가능성, 사우디아라비아에 대한 후티 반군의 공격 등이 주요 의제로 다뤄졌다 - 파키스탄 소식"
+  },
+  {
+    "guid": "9758849",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9758849/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:14:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9758848",
+    "title": "FinancialJuice: Iran Foreign Minister, Pakistan Army Chief discussed finding ways to restore diplomatic efforts to de-escalate conflict on all fronts - Pakistan Source",
+    "link": "https://www.financialjuice.com/News/9758848/Iran-Foreign-Minister-Pakistan-Army-Chief-discussed-finding-ways-to-restore-diplomatic-efforts-to-de-escalate-conflict-on-all-fronts---Pakistan-Source.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:13:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 외무장관과 파키스탄 육군 참모총장이 모든 전선에서 갈등을 완화하기 위한 외교적 노력을 재개할 방안을 논의했다 - 파키스탄 소식"
+  },
+  {
+    "guid": "9758847",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9758847/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:13:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9758846",
+    "title": "FinancialJuice: ECB's Kaasik: Hard to say whether we will get back to 2% in few years.",
+    "link": "https://www.financialjuice.com/News/9758846/ECBs-Kaasik-Hard-to-say-whether-we-will-get-back-to-2-in-few-years.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:13:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 카아식: 향후 몇 년 내에 2%로 돌아갈 수 있을지는 단정하기 어렵다."
+  },
+  {
+    "guid": "9758845",
+    "title": "FinancialJuice: ECB's Kaasik: Current rate level doesn't restrict economy too much.",
+    "link": "https://www.financialjuice.com/News/9758845/ECBs-Kaasik-Current-rate-level-doesnt-restrict-economy-too-much.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:12:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB의 카아식: 현재 금리 수준은 경제에 큰 제약을 주지 않는다."
+  },
+  {
+    "guid": "9758844",
+    "title": "FinancialJuice: ECB' Kaasik: Markets expecting ECB rate cycle to continue.",
+    "link": "https://www.financialjuice.com/News/9758844/ECB-Kaasik-Markets-expecting-ECB-rate-cycle-to-continue.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:11:10 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB의 카아식, “시장에서는 ECB의 금리 인상 사이클이 지속될 것으로 예상하고 있다.”"
+  },
+  {
+    "guid": "9758843",
+    "title": "FinancialJuice: ECB's Kaasik: There's lots of uncertainty.",
+    "link": "https://www.financialjuice.com/News/9758843/ECBs-Kaasik-Theres-lots-of-uncertainty.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:10:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)의 카아식: 불확실성이 많다."
+  },
+  {
     "guid": "9758827",
     "title": "FinancialJuice: UK Goods Trade Balance Non-EU Actual -9.663B (Forecast -, Previous -10.448B)",
     "link": "https://www.financialjuice.com/News/9758827/UK-Goods-Trade-Balance-Non-EU-Actual--9663B-Forecast---Previous--10448B.aspx?xy=rss",
