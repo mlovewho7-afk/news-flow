@@ -1,5 +1,269 @@
 [
   {
+    "guid": "9758827",
+    "title": "FinancialJuice: UK Goods Trade Balance Non-EU Actual -9.663B (Forecast -, Previous -10.448B)",
+    "link": "https://www.financialjuice.com/News/9758827/UK-Goods-Trade-Balance-Non-EU-Actual--9663B-Forecast---Previous--10448B.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:00:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 상품 무역수지(비EU) 실제 -9.663B (예상 -, 이전 -10.448B)"
+  },
+  {
+    "guid": "9758825",
+    "title": "FinancialJuice: UK Manufacturing Production YoY Actual 2.6% (Forecast -, Previous 0.5%)",
+    "link": "https://www.financialjuice.com/News/9758825/UK-Manufacturing-Production-YoY-Actual-26-Forecast---Previous-05.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 제조업 생산량 전년 동기 대비 실제 2.6% (예상 -, 이전 0.5%)"
+  },
+  {
+    "guid": "9758823",
+    "title": "FinancialJuice: UK GDP Estimate YoY Actual 1.6% (Forecast 1.0%, Previous 1.1%)",
+    "link": "https://www.financialjuice.com/News/9758823/UK-GDP-Estimate-YoY-Actual-16-Forecast-10-Previous-11.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 GDP 추정치(전년 동기 대비) 실제 1.6% (예상 1.0%, 이전 1.1%)"
+  },
+  {
+    "guid": "9758826",
+    "title": "FinancialJuice: UK Goods Trade Balance Actual -20.965B (Forecast -22.4B, Previous -23.01B)",
+    "link": "https://www.financialjuice.com/News/9758826/UK-Goods-Trade-Balance-Actual--20965B-Forecast--224B-Previous--2301B.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 상품 수지 실제치 -209억 6,500만 (예상치 -224억, 전월치 -230억 1,000만)"
+  },
+  {
+    "guid": "9758821",
+    "title": "FinancialJuice: UK Industrial Production YoY Actual 0.6% (Forecast 0.2%, Previous -0.2%)",
+    "link": "https://www.financialjuice.com/News/9758821/UK-Industrial-Production-YoY-Actual-06-Forecast-02-Previous--02.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 산업생산 전년 동기 대비 실제 0.6% (예상 0.2%, 전월 -0.2%)"
+  },
+  {
+    "guid": "9758820",
+    "title": "FinancialJuice: UK Manufacturing Production MoM Actual 0.9% (Forecast 0.2%, Previous -0.5%)",
+    "link": "https://www.financialjuice.com/News/9758820/UK-Manufacturing-Production-MoM-Actual-09-Forecast-02-Previous--05.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 제조업 생산량 전월 대비 실제치 0.9% (예상치 0.2%, 전월치 -0.5%)"
+  },
+  {
+    "guid": "9758819",
+    "title": "FinancialJuice: UK Industrial Production MoM Actual 0.2% (Forecast -0.2%, Previous -0.2%)",
+    "link": "https://www.financialjuice.com/News/9758819/UK-Industrial-Production-MoM-Actual-02-Forecast--02-Previous--02.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 산업생산 전월 대비 실제치 0.2% (예상 -0.2%, 이전 -0.2%)"
+  },
+  {
+    "guid": "9758818",
+    "title": "FinancialJuice: UK Services MoM Actual 0.4% (Forecast 0%, Previous 0.4%)",
+    "link": "https://www.financialjuice.com/News/9758818/UK-Services-MoM-Actual-04-Forecast-0-Previous-04.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 서비스업 지수 전월 대비 실제치 0.4% (예상치 0%, 이전치 0.4%)"
+  },
+  {
+    "guid": "9758817",
+    "title": "FinancialJuice: UK GDP Estimate MoM Actual 0.4% (Forecast 0%, Previous 0.3%)",
+    "link": "https://www.financialjuice.com/News/9758817/UK-GDP-Estimate-MoM-Actual-04-Forecast-0-Previous-03.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:00:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 GDP 추정치(전월 대비) 실제 0.4% (예상 0%, 이전 0.3%)"
+  },
+  {
+    "guid": "9758816",
+    "title": "FinancialJuice: UK GDP Estimate 3M/3M Actual 0.4% (Forecast 0.3%, Previous 0.4%)",
+    "link": "https://www.financialjuice.com/News/9758816/UK-GDP-Estimate-3M3M-Actual-04-Forecast-03-Previous-04.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:00:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 GDP 3개월 대비 3개월 추정치 0.4% (예상 0.3%, 이전 0.4%)"
+  },
+  {
+    "guid": "9758815",
+    "title": "FinancialJuice: UK Construction Output MoM Actual 0.1% (Forecast 0.1%, Previous -0.1%)",
+    "link": "https://www.financialjuice.com/News/9758815/UK-Construction-Output-MoM-Actual-01-Forecast-01-Previous--01.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 06:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 건설 생산량 전월 대비 실제치 0.1% (예상치 0.1%, 전월치 -0.1%)"
+  },
+  {
+    "guid": "9758784",
+    "title": "FinancialJuice: Dutch Trade Balance Actual 10.912B (Forecast -, Previous 11.653B)",
+    "link": "https://www.financialjuice.com/News/9758784/Dutch-Trade-Balance-Actual-10912B-Forecast---Previous-11653B.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 05:10:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 네덜란드 무역수지 실적이 109억 1,200만 (예상 -, 이전 116억 5,300만)을 기록했습니다."
+  },
+  {
+    "guid": "9758775",
+    "title": "FinancialJuice: Finnish July current account deficit 0.2 billion euros: Statistics Finland",
+    "link": "https://www.financialjuice.com/News/9758775/Finnish-July-current-account-deficit-02-billion-euros-Statistics-Finland.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 05:00:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 핀란드 7월 경상수지 적자 0.2억 유로: 핀란드 통계청"
+  },
+  {
+    "guid": "9758774",
+    "title": "FinancialJuice: South Korea President Lee to lead Central Asia summit on September 16 - media",
+    "link": "https://www.financialjuice.com/News/9758774/South-Korea-President-Lee-to-lead-Central-Asia-summit-on-September-16---media.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 04:50:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이 대통령, 9월 16일 중앙아시아 정상회의 주재 예정 - 언론 보도"
+  },
+  {
+    "guid": "9758758",
+    "title": "FinancialJuice: New Zealand dollar rises 0.53% to $0.5829",
+    "link": "https://www.financialjuice.com/News/9758758/New-Zealand-dollar-rises-053-to-05829.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 04:30:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 달러, 0.53% 상승해 0.5829달러 기록"
+  },
+  {
+    "guid": "9758756",
+    "title": "FinancialJuice: Dutch July trade surplus 10.912 billion euros: CBS",
+    "link": "https://www.financialjuice.com/News/9758756/Dutch-July-trade-surplus-10912-billion-euros-CBS.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 04:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 네덜란드 7월 무역 흑자 109억 1,200만 유로: CBS"
+  },
+  {
+    "guid": "9758742",
+    "title": "FinancialJuice: Iran and Gulf states to convene in effort for Hormuz agreement: FT",
+    "link": "https://www.financialjuice.com/News/9758742/Iran-and-Gulf-states-to-convene-in-effort-for-Hormuz-agreement-FT.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 04:02:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란과 걸프 국가들, 호르무즈 협정 타결을 위해 회동 예정: FT"
+  },
+  {
+    "guid": "9758719",
+    "title": "FinancialJuice: Trump declined MBS, U.S. officials emphasize no direct intervention plans against Houthis for now - Axios",
+    "link": "https://www.financialjuice.com/News/9758719/Trump-declined-MBS-US-officials-emphasize-no-direct-intervention-plans-against-Houthis-for-now---Axios.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 03:58:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, MBS 제안 거절… 미국 당국자들, 당분간 후티 반군에 대한 직접 개입 계획 없음을 강조 - Axios"
+  },
+  {
+    "guid": "9758718",
+    "title": "FinancialJuice: Saudi crown prince MBS urged Trump to strike Houthis over Red Sea threat: Axios",
+    "link": "https://www.financialjuice.com/News/9758718/Saudi-crown-prince-MBS-urged-Trump-to-strike-Houthis-over-Red-Sea-threat-Axios.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 03:57:34 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 사우디 왕세자 MBS, 홍해 위협을 이유로 트럼프에게 후티 반군 공습 촉구: Axios"
+  },
+  {
+    "guid": "9758714",
+    "title": "FinancialJuice: Trump on whether he's worried AI will cause human extinction: no, I don't have any concerns",
+    "link": "https://www.financialjuice.com/News/9758714/Trump-on-whether-hes-worried-AI-will-cause-human-extinction-no-I-dont-have-any-concerns.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 03:44:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, AI가 인류의 멸종을 초래할까 봐 걱정되느냐는 질문에 “아니요, 전혀 걱정되지 않습니다”라고 답했다"
+  },
+  {
+    "guid": "9758713",
+    "title": "FinancialJuice: Trump says he fears US losing Alabama would leave it in tough spot",
+    "link": "https://www.financialjuice.com/News/9758713/Trump-says-he-fears-US-losing-Alabama-would-leave-it-in-tough-spot.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 03:44:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 미국이 앨라배마주를 잃게 되면 곤란한 처지에 놓일까 우려한다고 밝혀"
+  },
+  {
+    "guid": "9758712",
+    "title": "FinancialJuice: China finance ministry offers 5-year bonds at 1.38% yield: traders",
+    "link": "https://www.financialjuice.com/News/9758712/China-finance-ministry-offers-5-year-bonds-at-138-yield-traders.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 03:41:18 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 중국 재무부, 수익률 1.38%의 5년물 국채 발행…거래원들"
+  },
+  {
+    "guid": "9758700",
+    "title": "FinancialJuice: Barclays anticipates ECB to raise interest rates by 25 bp in December 2026",
+    "link": "https://www.financialjuice.com/News/9758700/Barclays-anticipates-ECB-to-raise-interest-rates-by-25-bp-in-December-2026.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 03:08:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 바클레이즈, ECB가 2026년 12월에 금리를 25bp 인상할 것으로 전망"
+  },
+  {
+    "guid": "9758697",
+    "title": "FinancialJuice: Missile debris damages industrial plant in Russia's Volgograd, officials say",
+    "link": "https://www.financialjuice.com/News/9758697/Missile-debris-damages-industrial-plant-in-Russias-Volgograd-officials-say.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 03:00:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 당국 발표에 따르면, 미사일 파편이 러시아 볼고그라드의 한 산업 시설에 피해를 입혔다"
+  },
+  {
+    "guid": "9758695",
+    "title": "FinancialJuice: BOJ may signal readiness to accelerate rate hikes: sources say, no fixed view on terminal rate or timing of further increases",
+    "link": "https://www.financialjuice.com/News/9758695/BOJ-may-signal-readiness-to-accelerate-rate-hikes-sources-say-no-fixed-view-on-terminal-rate-or-timing-of-further-increases.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 02:55:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BOJ), 금리 인상 속도 가속화 의지 시사할 가능성: 소식통에 따르면, 최종 금리나 추가 인상 시기에 대해서는 아직 확고한 입장이 없음"
+  },
+  {
+    "guid": "9758694",
+    "title": "FinancialJuice: BOJ set to increase interest rates most likely by 25 basis points at next week's policy meeting, sources say",
+    "link": "https://www.financialjuice.com/News/9758694/BOJ-set-to-increase-interest-rates-most-likely-by-25-basis-points-at-next-weeks-policy-meeting-sources-say.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 02:55:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소식통에 따르면 일본은행(BOJ)이 다음 주 통화정책 회의에서 금리를 25 베이시스 포인트 인상할 가능성이 가장 높은 것으로 보인다"
+  },
+  {
+    "guid": "9758683",
+    "title": "FinancialJuice: Strait of Hormuz commodity vessel crossings stay in single digits on Thursday, below 10-day average near 15, data shows",
+    "link": "https://www.financialjuice.com/News/9758683/Strait-of-Hormuz-commodity-vessel-crossings-stay-in-single-digits-on-Thursday-below-10-day-average-near-15-data-shows.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 02:45:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 데이터에 따르면 목요일 호르무즈 해협을 통과한 원자재 운반선 수는 한 자릿수에 머물렀으며, 이는 15척 수준인 10일 평균치를 밑도는 수치다."
+  },
+  {
+    "guid": "9758670",
+    "title": "FinancialJuice: Japan finmin katayama: receives backing from Bessent, JPMorgan's Dimon on Japan's economic strategy at G20",
+    "link": "https://www.financialjuice.com/News/9758670/Japan-finmin-katayama-receives-backing-from-Bessent-JPMorgans-Dimon-on-Japans-economic-strategy-at-G20.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 02:11:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무장관, G20에서 일본의 경제 전략에 대해 베센트와 JP모건의 다이먼으로부터 지지를 얻다"
+  },
+  {
+    "guid": "9758669",
+    "title": "FinancialJuice: Japan Finmin Katayama: will aim to ensure stable currency movements, will closely communicate with U.S.",
+    "link": "https://www.financialjuice.com/News/9758669/Japan-Finmin-Katayama-will-aim-to-ensure-stable-currency-movements-will-closely-communicate-with-US.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 02:10:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무장관: 통화 변동이 안정적으로 유지되도록 노력할 것이며, 미국과 긴밀히 소통할 것이라고 밝혔다."
+  },
+  {
+    "guid": "9758668",
+    "title": "FinancialJuice: Japan finmin Katayama: stance unchanged since US-Japan coordination",
+    "link": "https://www.financialjuice.com/News/9758668/Japan-finmin-Katayama-stance-unchanged-since-US-Japan-coordination.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 02:09:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타야마 일본 재무상, “미일 협의 이후 입장에 변함 없다”"
+  },
+  {
+    "guid": "9758667",
+    "title": "FinancialJuice: Japan finance minister Katayama: won't discuss specific currency levels",
+    "link": "https://www.financialjuice.com/News/9758667/Japan-finance-minister-Katayama-wont-discuss-specific-currency-levels.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 02:09:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 가타야마 일본 재무장관, 구체적인 환율 수준에 대해서는 논의하지 않겠다고 밝혀"
+  },
+  {
+    "guid": "9758569",
+    "title": "FinancialJuice: Taiwan stocks fall over 2%",
+    "link": "https://www.financialjuice.com/News/9758569/Taiwan-stocks-fall-over-2.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 01:47:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 대만 증시, 2% 이상 하락"
+  },
+  {
+    "guid": "9758562",
+    "title": "FinancialJuice: Ukraine drones strike Ozon logistics center in Russia's Saratov, trigger fire: Ozon",
+    "link": "https://www.financialjuice.com/News/9758562/Ukraine-drones-strike-Ozon-logistics-center-in-Russias-Saratov-trigger-fire-Ozon.aspx?xy=rss",
+    "pubDate": "Fri, 11 Sep 2026 01:38:28 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 우크라이나 드론이 러시아 사라토프에 있는 오존 물류센터를 공격해 화재 발생: 오존"
+  },
+  {
     "guid": "9758545",
     "title": "FinancialJuice: China c.bank injects 4 billion yuan through 7-day reverse repos at 1.40% vs prior 1.40%: statement",
     "link": "https://www.financialjuice.com/News/9758545/China-cbank-injects-4-billion-yuan-through-7-day-reverse-repos-at-140-vs-prior-140-statement.aspx?xy=rss",
