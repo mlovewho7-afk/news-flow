@@ -1,5 +1,109 @@
 [
   {
+    "guid": "9760418",
+    "title": "FinancialJuice: Trump on Iran: everything will resolve smoothly",
+    "link": "https://www.financialjuice.com/News/9760418/Trump-on-Iran-everything-will-resolve-smoothly.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 08:59:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 이란 문제에 대해 “모든 것이 순조롭게 해결될 것”"
+  },
+  {
+    "guid": "9760417",
+    "title": "FinancialJuice: Ukraine strikes Russia's top synthetic rubber maker in Togliatti in Samara region: Ukrainian military",
+    "link": "https://www.financialjuice.com/News/9760417/Ukraine-strikes-Russias-top-synthetic-rubber-maker-in-Togliatti-in-Samara-region-Ukrainian-military.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 08:36:11 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 우크라이나, 사마라 주 톨리아티에 위치한 러시아 최대 합성고무 제조업체를 공습: 우크라이나 군 당국"
+  },
+  {
+    "guid": "9760389",
+    "title": "FinancialJuice: Russian Defence Ministry: Russian forces also strike metallurgical plant in Ukraine's Zaporizhzhia region - RIA",
+    "link": "https://www.financialjuice.com/News/9760389/Russian-Defence-Ministry-Russian-forces-also-strike-metallurgical-plant-in-Ukraines-Zaporizhzhia-region---RIA.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:43:27 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아 국방부: 러시아군, 우크라이나 자포리자 지역의 야금 공장도 공격 - RIA"
+  },
+  {
+    "guid": "9760388",
+    "title": "FinancialJuice: Russian defence ministry: Russian troops strike two cargo ships in Ukrainian port of Chornomorsk",
+    "link": "https://www.financialjuice.com/News/9760388/Russian-defence-ministry-Russian-troops-strike-two-cargo-ships-in-Ukrainian-port-of-Chornomorsk.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:41:34 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 러시아 국방부: 러시아군이 우크라이나 초르노모르스크 항구에 정박 중이던 화물선 2척을 공격했다"
+  },
+  {
+    "guid": "9760387",
+    "title": "FinancialJuice: India's SEBI proposes to continue publishing indicative equilibrium price for stocks in closing auction session",
+    "link": "https://www.financialjuice.com/News/9760387/Indias-SEBI-proposes-to-continue-publishing-indicative-equilibrium-price-for-stocks-in-closing-auction-session.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:33:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인도 증권거래위원회(SEBI), 종가 경매 세션에서 주식의 기준 균형 가격 공시를 계속할 것을 제안"
+  },
+  {
+    "guid": "9760386",
+    "title": "FinancialJuice: India's Sebi proposes cutting post-closing auction window for derivatives segment to 5 minutes from 10 minutes",
+    "link": "https://www.financialjuice.com/News/9760386/Indias-Sebi-proposes-cutting-post-closing-auction-window-for-derivatives-segment-to-5-minutes-from-10-minutes.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:31:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인도 증권거래위원회(SEBI), 파생상품 부문의 장 마감 후 경매 시간을 10분에서 5분으로 단축할 것을 제안"
+  },
+  {
+    "guid": "9760385",
+    "title": "FinancialJuice: Saudi civil defense: early warning issued in Sharurah to signal potential danger",
+    "link": "https://www.financialjuice.com/News/9760385/Saudi-civil-defense-early-warning-issued-in-Sharurah-to-signal-potential-danger.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:31:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 민방위청: 샤루라 지역에 잠재적 위험을 알리는 조기 경보 발령"
+  },
+  {
+    "guid": "9760384",
+    "title": "FinancialJuice: India's Sebi proposes withholding indicative closing levels of index during closing auction session",
+    "link": "https://www.financialjuice.com/News/9760384/Indias-Sebi-proposes-withholding-indicative-closing-levels-of-index-during-closing-auction-session.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:31:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인도 증권거래위원회(SEBI), 종가 경매 세션 중 지수의 예상 종가 수준 공개를 유보할 것을 제안"
+  },
+  {
+    "guid": "9760383",
+    "title": "FinancialJuice: India's Sebi proposes using closing auction session and volume-weighted average price for index and single stock derivatives on expiry day",
+    "link": "https://www.financialjuice.com/News/9760383/Indias-Sebi-proposes-using-closing-auction-session-and-volume-weighted-average-price-for-index-and-single-stock-derivatives-on-expiry-day.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:31:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인도 증권거래위원회(SEBI), 만기일에 지수 및 개별 주식 파생상품에 대해 종가 경매 세션과 거래량 가중 평균 가격을 적용할 것을 제안"
+  },
+  {
+    "guid": "9760382",
+    "title": "FinancialJuice: India's SEBI: Closing auction orders outside 1% range will not be allowed to be canceled",
+    "link": "https://www.financialjuice.com/News/9760382/Indias-SEBI-Closing-auction-orders-outside-1-range-will-not-be-allowed-to-be-canceled.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:31:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인도 증권거래위원회(SEBI): 1% 변동폭을 벗어난 종가 경매 주문은 취소할 수 없다"
+  },
+  {
+    "guid": "9760381",
+    "title": "FinancialJuice: India's Sebi proposes adjustments to closing auction price band",
+    "link": "https://www.financialjuice.com/News/9760381/Indias-Sebi-proposes-adjustments-to-closing-auction-price-band.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:31:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인도 증권거래위원회(SEBI), 종가 경매 가격 변동폭 조정안 제안"
+  },
+  {
+    "guid": "9760380",
+    "title": "FinancialJuice: India's markets regulator proposes six steps to enhance derivatives settlement prices in closing auction session",
+    "link": "https://www.financialjuice.com/News/9760380/Indias-markets-regulator-proposes-six-steps-to-enhance-derivatives-settlement-prices-in-closing-auction-session.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:31:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인도 증권감독당국, 종가 경매 세션에서 파생상품 결산 가격의 신뢰성을 높이기 위한 6가지 방안을 제안"
+  },
+  {
+    "guid": "9760375",
+    "title": "FinancialJuice: China's Xi arrives in Delhi for BRICS summit - TV",
+    "link": "https://www.financialjuice.com/News/9760375/Chinas-Xi-arrives-in-Delhi-for-BRICS-summit---TV.aspx?xy=rss",
+    "pubDate": "Sat, 12 Sep 2026 06:10:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 시진핑 주석, 브릭스(BRICS) 정상회의를 위해 델리에 도착 - TV"
+  },
+  {
     "guid": "9760328",
     "title": "FinancialJuice: High oil prices could prompt ECB to increase rates further: top policymaker Martin Kocher - FT",
     "link": "https://www.financialjuice.com/News/9760328/High-oil-prices-could-prompt-ECB-to-increase-rates-further-top-policymaker-Martin-Kocher---FT.aspx?xy=rss",
