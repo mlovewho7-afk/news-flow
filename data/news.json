@@ -1,5 +1,557 @@
 [
   {
+    "guid": "9761936",
+    "title": "FinancialJuice: BofA introduces 12-month S&P 500 target of 7,800.",
+    "link": "https://www.financialjuice.com/News/9761936/BofA-introduces-12-month-SP-500-target-of-7800.aspx",
+    "pubDate": "Mon, 14 Sep 2026 13:07:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뱅크오브아메리카(BofA), S&P 500 지수의 12개월 목표치를 7,800으로 제시했다."
+  },
+  {
+    "guid": "9761935",
+    "title": "FinancialJuice: BofA raises S&P 500 year-end target to 7,400 from 7,100.",
+    "link": "https://www.financialjuice.com/News/9761935/BofA-raises-SP-500-year-end-target-to-7400-from-7100.aspx",
+    "pubDate": "Mon, 14 Sep 2026 13:07:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: BofA가 S&P 500 지수의 연말 목표치를 7,100에서 7,400으로 상향 조정했다."
+  },
+  {
+    "guid": "9761932",
+    "title": "FinancialJuice: Microsoft issues code of conduct to restrict AI models - CNBC $MSFT",
+    "link": "https://www.financialjuice.com/News/9761932/Microsoft-issues-code-of-conduct-to-restrict-AI-models---CNBC-MSFT.aspx",
+    "pubDate": "Mon, 14 Sep 2026 13:04:43 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 마이크로소프트, AI 모델 제한을 위한 행동 강령 발표 - CNBC $MSFT"
+  },
+  {
+    "guid": "9761931",
+    "title": "FinancialJuice: Microsoft sets limits for future AI models - CNBC $MSFT",
+    "link": "https://www.financialjuice.com/News/9761931/Microsoft-sets-limits-for-future-AI-models---CNBC-MSFT.aspx",
+    "pubDate": "Mon, 14 Sep 2026 13:03:32 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 마이크로소프트, 향후 AI 모델에 대한 제한 설정 - CNBC $MSFT"
+  },
+  {
+    "guid": "9761930",
+    "title": "FinancialJuice: Nvidia, Palantir and Booz Allen to limit Anthropic and OpenAI model use - The Information",
+    "link": "https://www.financialjuice.com/News/9761930/Nvidia-Palantir-and-Booz-Allen-to-limit-Anthropic-and-OpenAI-model-use---The-Information.aspx",
+    "pubDate": "Mon, 14 Sep 2026 13:03:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 엔비디아, 팔란티어, 부즈 앨런, 앤트로픽 및 오픈AI 모델 사용 제한 예정 - 더 인포메이션"
+  },
+  {
+    "guid": "9761929",
+    "title": "FinancialJuice: JPMorgan's FOMC SEP Expectations - FJElite",
+    "link": "https://www.financialjuice.com/News/9761929/JPMorgans-FOMC-SEP-Expectations---FJElite.aspx",
+    "pubDate": "Mon, 14 Sep 2026 13:03:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: JP모건의 9월 FOMC 전망 - FJElite"
+  },
+  {
+    "guid": "9761928",
+    "title": "FinancialJuice: Netflix, Amazon and Youtube launch new streaming coalition - Axios",
+    "link": "https://www.financialjuice.com/News/9761928/Netflix-Amazon-and-Youtube-launch-new-streaming-coalition---Axios.aspx",
+    "pubDate": "Mon, 14 Sep 2026 13:02:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 넷플릭스, 아마존, 유튜브, 새로운 스트리밍 연합 출범 - Axios"
+  },
+  {
+    "guid": "9761924",
+    "title": "FinancialJuice: JPMorgan's Jay's Scenarios for FOMC - FJElite",
+    "link": "https://www.financialjuice.com/News/9761924/JPMorgans-Jays-Scenarios-for-FOMC---FJElite.aspx",
+    "pubDate": "Mon, 14 Sep 2026 13:01:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: JP모건의 제이(Jay)가 제시한 FOMC 시나리오 - FJElite"
+  },
+  {
+    "guid": "9761909",
+    "title": "FinancialJuice: Nvidia expands the open-source CUDA-Q platform with CUDA-Q logical. $NVDA",
+    "link": "https://www.financialjuice.com/News/9761909/Nvidia-expands-the-open-source-CUDA-Q-platform-with-CUDA-Q-logical-NVDA.aspx",
+    "pubDate": "Mon, 14 Sep 2026 13:00:52 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 엔비디아, CUDA-Q logical을 통해 오픈소스 CUDA-Q 플랫폼을 확장. $NVDA"
+  },
+  {
+    "guid": "9761906",
+    "title": "FinancialJuice: Effective Fed Funds Rate 3.63% September 11 vs 3.63% September 10",
+    "link": "https://www.financialjuice.com/News/9761906/Effective-Fed-Funds-Rate-363-September-11-vs-363-September-10.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:59:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 9월 11일 실효 연방기금 금리 3.63% (9월 10일 3.63% 대비)"
+  },
+  {
+    "guid": "9761905",
+    "title": "FinancialJuice: Westpac on US CPI - FJElite",
+    "link": "https://www.financialjuice.com/News/9761905/Westpac-on-US-CPI---FJElite.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:53:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 웨스트팩, 미국 CPI 분석 - FJElite"
+  },
+  {
+    "guid": "9761904",
+    "title": "FinancialJuice: Goldman Sachs on BoE Rate Decision - FJElite",
+    "link": "https://www.financialjuice.com/News/9761904/Goldman-Sachs-on-BoE-Rate-Decision---FJElite.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:50:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 골드만삭스, 영란은행(BoE) 금리 결정에 대한 분석 - FJElite"
+  },
+  {
+    "guid": "9761880",
+    "title": "FinancialJuice: US Sentiment: Risk-Off Takes Hold as Saudi Pipeline Still Down - FJElite",
+    "link": "https://www.financialjuice.com/News/9761880/US-Sentiment-Risk-Off-Takes-Hold-as-Saudi-Pipeline-Still-Down---FJElite.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:46:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 사우디 송유관 가동 중단 지속 속 리스크 회피 기조 확산 - FJElite"
+  },
+  {
+    "guid": "9761873",
+    "title": "FinancialJuice: StatCan: Inflation data was delayed due to website issues.",
+    "link": "https://www.financialjuice.com/News/9761873/StatCan-Inflation-data-was-delayed-due-to-website-issues.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:36:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 통계청(StatCan): 웹사이트 문제로 인해 물가 상승률 데이터 발표가 지연되었습니다."
+  },
+  {
+    "guid": "9761874",
+    "title": "FinancialJuice: A crucial Saudi Oil pipeline that was hit in strikes will be mostly out of service for several weeks for repairs. Repairs at the Saudi pipeline could take 3 to 5 weeks – AP Cites Officials.",
+    "link": "https://www.financialjuice.com/News/9761874/A-crucial-Saudi-Oil-pipeline-that-was-hit-in-strikes-will-be-mostly-out-of-service-for-several-weeks-for-repairs-Repairs-at-the-Saudi-pipeline-could-take-3-to-5-weeks--AP-Cites-Officials.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:35:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 공격으로 피해를 입은 사우디의 주요 송유관이 수리 작업으로 인해 앞으로 몇 주 동안 대부분 가동 중단될 전망이다. AP 통신은 관계자들의 말을 인용해 사우디 송유관의 수리 작업에 3~5주가 소요될 수 있다고 보도했다."
+  },
+  {
+    "guid": "9761844",
+    "title": "FinancialJuice: Canadian CPI Common Actual 2.6% (Forecast -, Previous 2.7%)",
+    "link": "https://www.financialjuice.com/News/9761844/Canadian-CPI-Common-Actual-26-Forecast---Previous-27.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:30:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 소비자물가지수(CPI) 실질 2.6% (예상 -, 이전 2.7%)"
+  },
+  {
+    "guid": "9761843",
+    "title": "FinancialJuice: BoC Core CPI MoM Actual 0.1% (Forecast -, Previous 0.2%)",
+    "link": "https://www.financialjuice.com/News/9761843/BoC-Core-CPI-MoM-Actual-01-Forecast---Previous-02.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:30:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 핵심 소비자물가지수(CPI) 전월 대비 실제치 0.1% (예상치 -, 이전치 0.2%)"
+  },
+  {
+    "guid": "9761842",
+    "title": "FinancialJuice: Canadian Core CPI MoM Actual 0.2% (Forecast -, Previous 0.2%)",
+    "link": "https://www.financialjuice.com/News/9761842/Canadian-Core-CPI-MoM-Actual-02-Forecast---Previous-02.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:30:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 핵심 소비자물가지수(CPI) 전월 대비 실제치 0.2% (예상치 -, 이전치 0.2%)"
+  },
+  {
+    "guid": "9761841",
+    "title": "FinancialJuice: BoC Core CPI YoY Actual 2.4% (Forecast -, Previous 2.3%)",
+    "link": "https://www.financialjuice.com/News/9761841/BoC-Core-CPI-YoY-Actual-24-Forecast---Previous-23.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:30:45 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 핵심 소비자물가지수(CPI) 전년 동기 대비 실제치 2.4% (예상 -, 이전치 2.3%)"
+  },
+  {
+    "guid": "9761840",
+    "title": "FinancialJuice: Canadian CPI YoY Actual 3% (Forecast 3%, Previous 3.0%)",
+    "link": "https://www.financialjuice.com/News/9761840/Canadian-CPI-YoY-Actual-3-Forecast-3-Previous-30.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:30:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 소비자물가지수(CPI) 전년 동기 대비 실제 3% (예상 3%, 전월 3.0%)"
+  },
+  {
+    "guid": "9761839",
+    "title": "FinancialJuice: Canadian CPI MoM Actual -0.1% (Forecast -0.1%, Previous 0.5%)",
+    "link": "https://www.financialjuice.com/News/9761839/Canadian-CPI-MoM-Actual--01-Forecast--01-Previous-05.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:30:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 소비자물가지수(CPI) 전월 대비 실제치 -0.1% (예상치 -0.1%, 전월치 0.5%)"
+  },
+  {
+    "guid": "9761838",
+    "title": "FinancialJuice: Canadian CPI Trim Actual 1.9% (Forecast 1.9%, Previous 1.9%)",
+    "link": "https://www.financialjuice.com/News/9761838/Canadian-CPI-Trim-Actual-19-Forecast-19-Previous-19.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:30:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 소비자물가지수(CPI) 실제치 1.9% (예상치 1.9%, 전월치 1.9%)"
+  },
+  {
+    "guid": "9761837",
+    "title": "FinancialJuice: Canadian CPI Median Actual 2% (Forecast 2%, Previous 2.0%)",
+    "link": "https://www.financialjuice.com/News/9761837/Canadian-CPI-Median-Actual-2-Forecast-2-Previous-20.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:30:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 소비자물가지수(CPI) 중앙값, 실제 2% (예상 2%, 전월 2.0%)"
+  },
+  {
+    "guid": "9761832",
+    "title": "FinancialJuice: Canadian Manufacturing Sales MoM Actual -0.4% (Forecast -0.2%, Previous 0.1%)",
+    "link": "https://www.financialjuice.com/News/9761832/Canadian-Manufacturing-Sales-MoM-Actual--04-Forecast--02-Previous-01.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:30:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 제조업 매출 전월 대비 실제 -0.4% (예상 -0.2%, 이전 0.1%)"
+  },
+  {
+    "guid": "9761831",
+    "title": "FinancialJuice: US Energy Secretary Wright: The US will start refiling SPR in the next few months",
+    "link": "https://www.financialjuice.com/News/9761831/US-Energy-Secretary-Wright-The-US-will-start-refiling-SPR-in-the-next-few-months.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:25:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관: 미국은 향후 몇 달 안에 전략비축유(SPR) 재보충을 시작할 예정이다"
+  },
+  {
+    "guid": "9761830",
+    "title": "FinancialJuice: US Energy Secretary Wright: I am confident flows will increase in Hormuz in weeks ahead.",
+    "link": "https://www.financialjuice.com/News/9761830/US-Energy-Secretary-Wright-I-am-confident-flows-will-increase-in-Hormuz-in-weeks-ahead.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:24:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지 장관: 앞으로 몇 주 안에 호르무즈 해협을 통한 유류 수송량이 증가할 것이라고 확신한다."
+  },
+  {
+    "guid": "9761829",
+    "title": "FinancialJuice: US Energy Secretary Wright: US wants more refined products from the Middle East.",
+    "link": "https://www.financialjuice.com/News/9761829/US-Energy-Secretary-Wright-US-wants-more-refined-products-from-the-Middle-East.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:22:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관: 미국은 중동으로부터 더 많은 정제유 수입을 원한다."
+  },
+  {
+    "guid": "9761828",
+    "title": "FinancialJuice: US Energy Secretary Wright: Over 12m/b day went through hormuz last night.",
+    "link": "https://www.financialjuice.com/News/9761828/US-Energy-Secretary-Wright-Over-12mb-day-went-through-hormuz-last-night.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:20:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관: 어젯밤 호르무즈 해협을 통과한 원유량이 하루 1,200만 배럴을 넘어섰다."
+  },
+  {
+    "guid": "9761827",
+    "title": "FinancialJuice: US Energy Secretary Wright Speaks - WATCH LIVE",
+    "link": "https://www.financialjuice.com/News/9761827/US-Energy-Secretary-Wright-Speaks---WATCH-LIVE.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:20:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관 연설 - 생중계 시청하기"
+  },
+  {
+    "guid": "9761826",
+    "title": "FinancialJuice: US Energy Secretary Wright: We expect East-West pipeline to be running soon.",
+    "link": "https://www.financialjuice.com/News/9761826/US-Energy-Secretary-Wright-We-expect-East-West-pipeline-to-be-running-soon.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:19:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관: 동서 파이프라인이 조만간 가동될 것으로 예상한다."
+  },
+  {
+    "guid": "9761825",
+    "title": "FinancialJuice: US Energy Secretary Wright: The running average of oil coming out is 10 mln bpd.",
+    "link": "https://www.financialjuice.com/News/9761825/US-Energy-Secretary-Wright-The-running-average-of-oil-coming-out-is-10-mln-bpd.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:19:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관: 현재 원유 생산량의 이동 평균은 하루 1,000만 배럴이다."
+  },
+  {
+    "guid": "9761807",
+    "title": "FinancialJuice: Oil production in Kazakhstan fell by 8.4% in January-August, with 61.7 million tonnes produced - IFX",
+    "link": "https://www.financialjuice.com/News/9761807/Oil-production-in-Kazakhstan-fell-by-84-in-January-August-with-617-million-tonnes-produced---IFX.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:10:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카자흐스탄의 1~8월 원유 생산량이 8.4% 감소해 6,170만 톤을 기록했다 - IFX"
+  },
+  {
+    "guid": "9761783",
+    "title": "FinancialJuice: Secured overnight financing rate: 3.62% September 11th vs 3.62% September 10th",
+    "link": "https://www.financialjuice.com/News/9761783/Secured-overnight-financing-rate-362-September-11th-vs-362-September-10th.aspx",
+    "pubDate": "Mon, 14 Sep 2026 12:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 담보부 일일 자금 조달 금리: 9월 11일 3.62% (9월 10일 3.62% 대비)"
+  },
+  {
+    "guid": "9761782",
+    "title": "FinancialJuice: US Senate Minority Leader Schumer demands AI briefing from the Trump administration to the Senate",
+    "link": "https://www.financialjuice.com/News/9761782/US-Senate-Minority-Leader-Schumer-demands-AI-briefing-from-the-Trump-administration-to-the-Senate.aspx",
+    "pubDate": "Mon, 14 Sep 2026 11:47:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 상원 소수당 대표 슈머, 트럼프 행정부에 상원을 대상으로 한 AI 관련 브리핑을 요구"
+  },
+  {
+    "guid": "9761769",
+    "title": "FinancialJuice: UK's PM Spokesman Wells: Future AI measures will be evidence-based, risk-focused.",
+    "link": "https://www.financialjuice.com/News/9761769/UKs-PM-Spokesman-Wells-Future-AI-measures-will-be-evidence-based-risk-focused.aspx",
+    "pubDate": "Mon, 14 Sep 2026 11:31:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 웰스 영국 총리 대변인: 향후 AI 관련 조치는 증거에 기반하고 위험에 초점을 맞출 것이다."
+  },
+  {
+    "guid": "9761768",
+    "title": "FinancialJuice: UK's PM Starmer's Spokesman Wells: The PM thinks its good AI companies are being open about risks",
+    "link": "https://www.financialjuice.com/News/9761768/UKs-PM-Starmers-Spokesman-Wells-The-PM-thinks-its-good-AI-companies-are-being-open-about-risks.aspx",
+    "pubDate": "Mon, 14 Sep 2026 11:31:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 스타머 총리의 대변인 웰스: 총리는 AI 기업들이 위험 요소에 대해 솔직하게 밝히는 것이 좋다고 생각한다"
+  },
+  {
+    "guid": "9761754",
+    "title": "FinancialJuice: Intel-backed buildots raises $130M for AI in construction",
+    "link": "https://www.financialjuice.com/News/9761754/Intel-backed-buildots-raises-130M-for-AI-in-construction.aspx",
+    "pubDate": "Mon, 14 Sep 2026 11:30:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인텔이 지원하는 빌도츠(Buildots), 건설 분야 AI 개발을 위해 1억 3천만 달러 투자 유치"
+  },
+  {
+    "guid": "9761732",
+    "title": "FinancialJuice: US Energy Secretary Wright: No plans at all for enrichment in Saudi Arabia",
+    "link": "https://www.financialjuice.com/News/9761732/US-Energy-Secretary-Wright-No-plans-at-all-for-enrichment-in-Saudi-Arabia.aspx",
+    "pubDate": "Mon, 14 Sep 2026 11:01:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관, “사우디아라비아 내 우라늄 농축 계획은 전혀 없다”"
+  },
+  {
+    "guid": "9761730",
+    "title": "FinancialJuice: US Energy Secretary Wright: Oil refining capacity 'too tight right now'",
+    "link": "https://www.financialjuice.com/News/9761730/US-Energy-Secretary-Wright-Oil-refining-capacity-too-tight-right-now.aspx",
+    "pubDate": "Mon, 14 Sep 2026 11:01:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관, “현재 석유 정제 능력은 ‘너무 부족하다’”"
+  },
+  {
+    "guid": "9761694",
+    "title": "FinancialJuice: ECB's Stournaras: Timely ECB steps limit risk of painful hikes later",
+    "link": "https://www.financialjuice.com/News/9761694/ECBs-Stournaras-Timely-ECB-steps-limit-risk-of-painful-hikes-later.aspx",
+    "pubDate": "Mon, 14 Sep 2026 10:36:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 스토우르나라스 총재 “ECB의 적시 조치가 향후 고통스러운 금리 인상 위험을 제한한다”"
+  },
+  {
+    "guid": "9761685",
+    "title": "FinancialJuice: Reports of ammonia gas leak in Jordan's Aqaba industrial complex - State TV",
+    "link": "https://www.financialjuice.com/News/9761685/Reports-of-ammonia-gas-leak-in-Jordans-Aqaba-industrial-complex---State-TV.aspx",
+    "pubDate": "Mon, 14 Sep 2026 10:21:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 요르단 아카바 산업단지에서 암모니아 가스 누출 사고 발생 보도 - 국영 TV"
+  },
+  {
+    "guid": "9761665",
+    "title": "FinancialJuice: Japan cabinet approval rating unchanged at 53% - NHK Poll",
+    "link": "https://www.financialjuice.com/News/9761665/Japan-cabinet-approval-rating-unchanged-at-53---NHK-Poll.aspx",
+    "pubDate": "Mon, 14 Sep 2026 10:06:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 내각 지지율 53%로 변동 없음 - NHK 여론조사"
+  },
+  {
+    "guid": "9761652",
+    "title": "FinancialJuice: Kremlin welcomes Trump's call to stop striking refineries - IFX",
+    "link": "https://www.financialjuice.com/News/9761652/Kremlin-welcomes-Trumps-call-to-stop-striking-refineries---IFX.aspx",
+    "pubDate": "Mon, 14 Sep 2026 09:51:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 크렘린, 정유소 공격 중단을 촉구한 트럼프의 발언 환영 - IFX"
+  },
+  {
+    "guid": "9761651",
+    "title": "FinancialJuice: ECB's Schnabel: Recent energy-price developments are “quite concerning\"",
+    "link": "https://www.financialjuice.com/News/9761651/ECBs-Schnabel-Recent-energy-price-developments-are-quite-concerning.aspx",
+    "pubDate": "Mon, 14 Sep 2026 09:48:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 슈나벨, “최근 에너지 가격 동향은 상당히 우려스럽다”"
+  },
+  {
+    "guid": "9761650",
+    "title": "FinancialJuice: Poll: Fed to hike fed funds rate at least twice by the end of March 2027 - 37 of 70 economists (vs 21 of 82 economists in September 9th poll)",
+    "link": "https://www.financialjuice.com/News/9761650/Poll-Fed-to-hike-fed-funds-rate-at-least-twice-by-the-end-of-March-2027---37-of-70-economists-vs-21-of-82-economists-in-September-9th-poll.aspx",
+    "pubDate": "Mon, 14 Sep 2026 09:48:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 설문조사: 연준, 2027년 3월 말까지 연방기금 금리를 최소 두 차례 인상할 전망 - 경제학자 70명 중 37명 (9월 9일 설문조사에서는 82명 중 21명)"
+  },
+  {
+    "guid": "9761649",
+    "title": "FinancialJuice: Poll: Fed to hike Fed funds rate to 3.75%-4.00% on September 16th - 86 of 101 economists (vs 65 of 93 expecting a hold in the Sept 9th poll)",
+    "link": "https://www.financialjuice.com/News/9761649/Poll-Fed-to-hike-Fed-funds-rate-to-375-400-on-September-16th---86-of-101-economists-vs-65-of-93-expecting-a-hold-in-the-Sept-9th-poll.aspx",
+    "pubDate": "Mon, 14 Sep 2026 09:48:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 설문조사: 연준, 9월 16일 연방기금 금리를 3.75%~4.00%로 인상할 전망 - 경제학자 101명 중 86명 (9월 9일 설문조사에서는 93명 중 65명이 금리 동결을 예상했음)"
+  },
+  {
+    "guid": "9761627",
+    "title": "FinancialJuice: Japan and Yemen to work on Bab-el-Mandeb situation de-escalation",
+    "link": "https://www.financialjuice.com/News/9761627/Japan-and-Yemen-to-work-on-Bab-el-Mandeb-situation-de-escalation.aspx",
+    "pubDate": "Mon, 14 Sep 2026 09:40:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본과 예멘, 바브엘만데브 해협 사태의 긴장 완화 위해 협력하기로"
+  },
+  {
+    "guid": "9761626",
+    "title": "FinancialJuice: Japan and Yemen foreign ministers held a telephone call today - MofA",
+    "link": "https://www.financialjuice.com/News/9761626/Japan-and-Yemen-foreign-ministers-held-a-telephone-call-today---MofA.aspx",
+    "pubDate": "Mon, 14 Sep 2026 09:38:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본과 예멘 외무장관, 오늘 전화 회담 진행 - 외무성"
+  },
+  {
+    "guid": "9761616",
+    "title": "FinancialJuice: Iran updates list of Hormuz non-compliant vessels to 77",
+    "link": "https://www.financialjuice.com/News/9761616/Iran-updates-list-of-Hormuz-non-compliant-vessels-to-77.aspx",
+    "pubDate": "Mon, 14 Sep 2026 09:25:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란, 호르무즈 해협 규정 위반 선박 명단을 77척으로 업데이트"
+  },
+  {
+    "guid": "9761615",
+    "title": "FinancialJuice: Saudi Crown Prince and US CENTCOM chief discuss latest regional developments",
+    "link": "https://www.financialjuice.com/News/9761615/Saudi-Crown-Prince-and-US-CENTCOM-chief-discuss-latest-regional-developments.aspx",
+    "pubDate": "Mon, 14 Sep 2026 09:22:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 왕세자와 미 중부사령부 사령관, 최근 지역 정세에 대해 논의"
+  },
+  {
+    "guid": "9761614",
+    "title": "FinancialJuice: Iran's Persian Gulf Strait Authority: Vessels cooperating with the listed sanctioned vessels will be added to the list",
+    "link": "https://www.financialjuice.com/News/9761614/Irans-Persian-Gulf-Strait-Authority-Vessels-cooperating-with-the-listed-sanctioned-vessels-will-be-added-to-the-list.aspx",
+    "pubDate": "Mon, 14 Sep 2026 09:17:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 페르시아만 해협 관리청: 제재 목록에 등재된 선박과 협력하는 선박은 제재 목록에 추가될 예정"
+  },
+  {
+    "guid": "9761584",
+    "title": "FinancialJuice: Iran's Persian Gulf Strait Authority: Vessels will face restrictions on future passage, including fines, detention, or confiscation",
+    "link": "https://www.financialjuice.com/News/9761584/Irans-Persian-Gulf-Strait-Authority-Vessels-will-face-restrictions-on-future-passage-including-fines-detention-or-confiscation.aspx",
+    "pubDate": "Mon, 14 Sep 2026 09:10:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 페르시아만 해협 관리청: 향후 해당 해협을 통과하는 선박에 대해 벌금, 억류 또는 몰수 등의 제재가 부과될 예정"
+  },
+  {
+    "guid": "9761583",
+    "title": "FinancialJuice: Iran's Persian Gulf Strait Authority publishes an updated list of 77 vessels \"violating Iranian protocols for the Strait of Hormuz\"",
+    "link": "https://www.financialjuice.com/News/9761583/Irans-Persian-Gulf-Strait-Authority-publishes-an-updated-list-of-77-vessels-violating-Iranian-protocols-for-the-Strait-of-Hormuz.aspx",
+    "pubDate": "Mon, 14 Sep 2026 09:10:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 페르시아만 해협 관리청이 “호르무즈 해협에 관한 이란의 규정을 위반한” 선박 77척의 최신 명단을 발표했다."
+  },
+  {
+    "guid": "9761541",
+    "title": "FinancialJuice: ING: The JPY - FJElite",
+    "link": "https://www.financialjuice.com/News/9761541/ING-The-JPY---FJElite.aspx",
+    "pubDate": "Mon, 14 Sep 2026 08:34:18 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: ING: 엔화(JPY) - FJElite"
+  },
+  {
+    "guid": "9761540",
+    "title": "FinancialJuice: ING: The USD - FJElite",
+    "link": "https://www.financialjuice.com/News/9761540/ING-The-USD---FJElite.aspx",
+    "pubDate": "Mon, 14 Sep 2026 08:33:26 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: ING: 미국 달러 - FJElite"
+  },
+  {
+    "guid": "9761517",
+    "title": "FinancialJuice: Europe Sentiment: More Talks On Hold - FJElite\n",
+    "link": "https://www.financialjuice.com/News/9761517/Europe-Sentiment-More-Talks-On-Hold---FJElite.aspx",
+    "pubDate": "Mon, 14 Sep 2026 08:17:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽 시장 심리: 추가 협상 보류 - FJElite\n"
+  },
+  {
+    "guid": "9761516",
+    "title": "FinancialJuice: ECB's Kazimir: Increasingly concerned about gas and power prices.",
+    "link": "https://www.financialjuice.com/News/9761516/ECBs-Kazimir-Increasingly-concerned-about-gas-and-power-prices.aspx",
+    "pubDate": "Mon, 14 Sep 2026 08:16:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 카지미르, 가스 및 전력 가격에 대한 우려가 커지고 있다."
+  },
+  {
+    "guid": "9761507",
+    "title": "FinancialJuice: Iran: US lack of mediation, is main obstacle to diplomacy.",
+    "link": "https://www.financialjuice.com/News/9761507/Iran-US-lack-of-mediation-is-main-obstacle-to-diplomacy.aspx",
+    "pubDate": "Mon, 14 Sep 2026 08:10:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란: 미국의 중재 부재가 외교의 주요 걸림돌이다."
+  },
+  {
+    "guid": "9761506",
+    "title": "FinancialJuice: French President Macron to visit Spain Sept. 29-30",
+    "link": "https://www.financialjuice.com/News/9761506/French-President-Macron-to-visit-Spain-Sept-29-30.aspx",
+    "pubDate": "Mon, 14 Sep 2026 08:08:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마크롱 프랑스 대통령, 9월 29일부터 30일까지 스페인 방문 예정"
+  },
+  {
+    "guid": "9761505",
+    "title": "FinancialJuice: German economy ministry: slowdown in previously robust economic momentum emerging at start of Q3",
+    "link": "https://www.financialjuice.com/News/9761505/German-economy-ministry-slowdown-in-previously-robust-economic-momentum-emerging-at-start-of-Q3.aspx",
+    "pubDate": "Mon, 14 Sep 2026 08:07:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 경제부: 3분기 초, 그동안 견조했던 경제 성장세에 둔화 조짐 나타나"
+  },
+  {
+    "guid": "9761504",
+    "title": "FinancialJuice: Yemen's Houthis say they attacked Saudi's Khamis Mushait air base.",
+    "link": "https://www.financialjuice.com/News/9761504/Yemens-Houthis-say-they-attacked-Saudis-Khamis-Mushait-air-base.aspx",
+    "pubDate": "Mon, 14 Sep 2026 08:02:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 후티 반군이 사우디의 카미스 무샤이트 공군 기지를 공격했다고 밝혔다."
+  },
+  {
+    "guid": "9761487",
+    "title": "FinancialJuice: ECB's Simkus: Can't exclude action at any meeting.",
+    "link": "https://www.financialjuice.com/News/9761487/ECBs-Simkus-Cant-exclude-action-at-any-meeting.aspx",
+    "pubDate": "Mon, 14 Sep 2026 07:54:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 심쿠스, “어떤 회의에서든 조치 가능성을 배제할 수 없다.”"
+  },
+  {
+    "guid": "9761486",
+    "title": "FinancialJuice: ECB's Simkus: ECB must also look at energy prices before October meeting.",
+    "link": "https://www.financialjuice.com/News/9761486/ECBs-Simkus-ECB-must-also-look-at-energy-prices-before-October-meeting.aspx",
+    "pubDate": "Mon, 14 Sep 2026 07:53:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 심쿠스, “ECB는 10월 회의 전에 에너지 가격도 검토해야 한다.”"
+  },
+  {
+    "guid": "9761485",
+    "title": "FinancialJuice: ECB's Simkus: December is natural time to assess situation more.",
+    "link": "https://www.financialjuice.com/News/9761485/ECBs-Simkus-December-is-natural-time-to-assess-situation-more.aspx",
+    "pubDate": "Mon, 14 Sep 2026 07:53:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 심쿠스, “12월은 상황을 더 면밀히 평가하기에 자연스러운 시기다.”"
+  },
+  {
+    "guid": "9761456",
+    "title": "FinancialJuice: Iran's Foreign Ministry Spokesperson: Reports about nuclear activity in Iran's Pickaxe mountain (kolang kouh) are baseless.",
+    "link": "https://www.financialjuice.com/News/9761456/Irans-Foreign-Ministry-Spokesperson-Reports-about-nuclear-activity-in-Irans-Pickaxe-mountain-kolang-kouh-are-baseless.aspx",
+    "pubDate": "Mon, 14 Sep 2026 07:37:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 외무부 대변인: 이란의 피카스 산(콜랑 쿠)에서 핵 활동이 진행되고 있다는 보도는 근거가 없다."
+  },
+  {
+    "guid": "9761441",
+    "title": "FinancialJuice: Iran's foreign ministry spokesperson: Saudi Arabia insisted for meeting between Tehran and Gulf powers in Oman not to take place",
+    "link": "https://www.financialjuice.com/News/9761441/Irans-foreign-ministry-spokesperson-Saudi-Arabia-insisted-for-meeting-between-Tehran-and-Gulf-powers-in-Oman-not-to-take-place.aspx",
+    "pubDate": "Mon, 14 Sep 2026 07:28:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 외무부 대변인: 사우디아라비아가 오만에서 열릴 예정이던 테헤란과 걸프 국가들 간의 회담이 열리지 않도록 강력히 요구했다"
+  },
+  {
+    "guid": "9761426",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: USD, CAD, GBP, CHF, EUR, AUD, GBP, NZD - Weakest",
+    "link": "https://www.financialjuice.com/News/9761426/Currency-Strength-Chart-Strongest-USD-CAD-GBP-CHF-EUR-AUD-GBP-NZD---Weakest.aspx",
+    "pubDate": "Mon, 14 Sep 2026 07:02:06 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: USD, CAD, GBP, CHF, EUR, AUD, GBP, NZD - 가장 약한 통화"
+  },
+  {
+    "guid": "9761377",
+    "title": "FinancialJuice: Swiss PPI MoM Actual 0.7% (Forecast -, Previous -0.1%)",
+    "link": "https://www.financialjuice.com/News/9761377/Swiss-PPI-MoM-Actual-07-Forecast---Previous--01.aspx",
+    "pubDate": "Mon, 14 Sep 2026 06:30:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 생산자물가지수(PPI) 전월 대비 실제치 0.7% (예상치 -, 이전치 -0.1%)"
+  },
+  {
+    "guid": "9761376",
+    "title": "FinancialJuice: Swiss PPI YoY Actual -0.7% (Forecast -, Previous -2.1%)",
+    "link": "https://www.financialjuice.com/News/9761376/Swiss-PPI-YoY-Actual--07-Forecast---Previous--21.aspx",
+    "pubDate": "Mon, 14 Sep 2026 06:30:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 생산자물가지수(PPI) 전년 동기 대비 실제 -0.7% (예상 -, 이전 -2.1%)"
+  },
+  {
     "guid": "9761375",
     "title": "FinancialJuice: SNB Interest Rate Probabilities",
     "link": "https://www.financialjuice.com/News/9761375/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
