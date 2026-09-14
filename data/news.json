@@ -1,5 +1,389 @@
 [
   {
+    "guid": "9761375",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9761375/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:17:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9761374",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9761374/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:16:59 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 가능성"
+  },
+  {
+    "guid": "9761373",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9761373/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:16:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9761370",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9761370/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:16:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9761359",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9761359/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:16:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9761358",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9761358/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:15:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9761354",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9761354/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:14:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9761353",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9761353/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:14:37 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9761352",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9761352/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:14:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9761351",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9761351/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:13:40 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9761350",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9761350/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:13:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9761349",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9761349/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:13:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9761348",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9761348/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:12:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9761347",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9761347/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:11:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9761346",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9761346/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:11:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9761345",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9761345/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:11:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9761337",
+    "title": "FinancialJuice: Swedish CPI YoY Actual 0.3% (Forecast 0.3%, Previous 0.3%)",
+    "link": "https://www.financialjuice.com/News/9761337/Swedish-CPI-YoY-Actual-03-Forecast-03-Previous-03.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:00:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스웨덴 소비자물가지수(CPI) 전년 동기 대비 실제치 0.3% (예상치 0.3%, 전월치 0.3%)"
+  },
+  {
+    "guid": "9761335",
+    "title": "FinancialJuice: Swedish CPI MoM Actual -0.3% (Forecast -0.3%, Previous -0.3%)",
+    "link": "https://www.financialjuice.com/News/9761335/Swedish-CPI-MoM-Actual--03-Forecast--03-Previous--03.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 06:00:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스웨덴 소비자물가지수(CPI) 전월 대비 실제 -0.3% (예상 -0.3%, 전월 -0.3%)"
+  },
+  {
+    "guid": "9761322",
+    "title": "FinancialJuice: EU's Albuquerque: AI risks will only increase",
+    "link": "https://www.financialjuice.com/News/9761322/EUs-Albuquerque-AI-risks-will-only-increase.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:33:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU의 앨버커키: AI의 위험은 더욱 커질 뿐이다"
+  },
+  {
+    "guid": "9761321",
+    "title": "FinancialJuice: EU's Albuquerque: Difficult to map AI risks",
+    "link": "https://www.financialjuice.com/News/9761321/EUs-Albuquerque-Difficult-to-map-AI-risks.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:33:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU의 앨버커키 “AI 위험 요소를 파악하기 어렵다”"
+  },
+  {
+    "guid": "9761298",
+    "title": "FinancialJuice: Japanese Capacity Utilization MoM Actual 0.5% (Forecast -, Previous 4.1%)",
+    "link": "https://www.financialjuice.com/News/9761298/Japanese-Capacity-Utilization-MoM-Actual-05-Forecast---Previous-41.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:08:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 설비 가동률 전월 대비 실제치 0.5% (예상치 -, 이전치 4.1%)"
+  },
+  {
+    "guid": "9761297",
+    "title": "FinancialJuice: PBoC: to boost cross-border yuan usage",
+    "link": "https://www.financialjuice.com/News/9761297/PBoC-to-boost-cross-border-yuan-usage.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:54 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국인민은행(PBoC), 위안화의 국경 간 사용 확대 추진"
+  },
+  {
+    "guid": "9761296",
+    "title": "FinancialJuice: PBoC: back building a new model for real estate development",
+    "link": "https://www.financialjuice.com/News/9761296/PBoC-back-building-a-new-model-for-real-estate-development.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국인민은행(PBoC): 부동산 개발을 위한 새로운 모델 구축 재개"
+  },
+  {
+    "guid": "9761295",
+    "title": "FinancialJuice: China unveils sovereign framework for green bonds",
+    "link": "https://www.financialjuice.com/News/9761295/China-unveils-sovereign-framework-for-green-bonds.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국, 녹색 채권 발행에 대한 국가 차원의 체계 발표"
+  },
+  {
+    "guid": "9761294",
+    "title": "FinancialJuice: PBoC: to innovate macroprudential policy tools and support steady economic recovery and growth",
+    "link": "https://www.financialjuice.com/News/9761294/PBoC-to-innovate-macroprudential-policy-tools-and-support-steady-economic-recovery-and-growth.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국인민은행(PBoC), 거시건전성 정책 수단을 혁신하여 안정적인 경제 회복과 성장을 뒷받침할 것"
+  },
+  {
+    "guid": "9761293",
+    "title": "FinancialJuice: PBoC: to consider expanding central bank's macroprudential and financial stability roles",
+    "link": "https://www.financialjuice.com/News/9761293/PBoC-to-consider-expanding-central-banks-macroprudential-and-financial-stability-roles.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 중국인민은행(PBoC), 중앙은행의 거시건전성 및 금융안정 역할 확대 검토 예정"
+  },
+  {
+    "guid": "9761292",
+    "title": "FinancialJuice: China Citic Bank: Liu Cheng steps down as president",
+    "link": "https://www.financialjuice.com/News/9761292/China-Citic-Bank-Liu-Cheng-steps-down-as-president.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 CITIC 은행: 류청 행장 사임"
+  },
+  {
+    "guid": "9761291",
+    "title": "FinancialJuice: PBoC: plans to expand yuan offshore market",
+    "link": "https://www.financialjuice.com/News/9761291/PBoC-plans-to-expand-yuan-offshore-market.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:53 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국인민은행(PBoC), 위안화 역외 시장 확대 계획"
+  },
+  {
+    "guid": "9761290",
+    "title": "FinancialJuice: China TQ to Use Green Bond Proceeds for Financing Green Spending",
+    "link": "https://www.financialjuice.com/News/9761290/China-TQ-to-Use-Green-Bond-Proceeds-for-Financing-Green-Spending.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:53 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 중국 TQ, 그린본드 조달금을 친환경 지출 자금 조달에 활용할 예정"
+  },
+  {
+    "guid": "9761289",
+    "title": "FinancialJuice: Prime Minister Mitsotakis speaks in interview",
+    "link": "https://www.financialjuice.com/News/9761289/Prime-Minister-Mitsotakis-speaks-in-interview.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미초타키스 총리, 인터뷰에서 발언"
+  },
+  {
+    "guid": "9761288",
+    "title": "FinancialJuice: PBoC: to enhance real estate finance oversight",
+    "link": "https://www.financialjuice.com/News/9761288/PBoC-to-enhance-real-estate-finance-oversight.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국인민은행(PBoC), 부동산 금융 감독 강화할 방침"
+  },
+  {
+    "guid": "9761287",
+    "title": "FinancialJuice: PBoC: will prioritize real economy and financial services for the public",
+    "link": "https://www.financialjuice.com/News/9761287/PBoC-will-prioritize-real-economy-and-financial-services-for-the-public.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국인민은행(PBoC): 실물경제와 국민을 위한 금융 서비스를 우선시할 것"
+  },
+  {
+    "guid": "9761286",
+    "title": "FinancialJuice: PBoC: to intensify review of macroeconomic and financial efforts",
+    "link": "https://www.financialjuice.com/News/9761286/PBoC-to-intensify-review-of-macroeconomic-and-financial-efforts.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국인민은행(PBoC), 거시경제 및 금융 정책에 대한 검토 강화할 방침"
+  },
+  {
+    "guid": "9761285",
+    "title": "FinancialJuice: PBoC: will support real estate market to halt decline and stabilize",
+    "link": "https://www.financialjuice.com/News/9761285/PBoC-will-support-real-estate-market-to-halt-decline-and-stabilize.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국인민은행(PBoC), 부동산 시장 하락세 저지 및 안정화를 위해 지원할 것"
+  },
+  {
+    "guid": "9761284",
+    "title": "FinancialJuice: PBoC holds 2025 macroprudential work conference",
+    "link": "https://www.financialjuice.com/News/9761284/PBoC-holds-2025-macroprudential-work-conference.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국인민은행(PBoC), 2025년 거시건전성 업무 회의 개최"
+  },
+  {
+    "guid": "9761283",
+    "title": "FinancialJuice: PBoC: will allow currency swap and yuan settlement to play their parts",
+    "link": "https://www.financialjuice.com/News/9761283/PBoC-will-allow-currency-swap-and-yuan-settlement-to-play-their-parts.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 05:04:53 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국인민은행(PBoC), 통화 스왑과 위안화 결제가 제 역할을 할 수 있도록 허용할 것"
+  },
+  {
+    "guid": "9761216",
+    "title": "FinancialJuice: Saudi civil defence: danger has passed – post on X",
+    "link": "https://www.financialjuice.com/News/9761216/Saudi-civil-defence-danger-has-passed--post-on-X.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 03:51:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 민방위청: 위험은 지나갔다 – X 게시물"
+  },
+  {
+    "guid": "9761215",
+    "title": "FinancialJuice: Saudi civil defence warns of possible threat in Khamis Mushait and Abha areas - post on X",
+    "link": "https://www.financialjuice.com/News/9761215/Saudi-civil-defence-warns-of-possible-threat-in-Khamis-Mushait-and-Abha-areas---post-on-X.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 03:48:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 민방위청, 카미스 무샤이트 및 아바 지역에서 잠재적 위협 가능성 경고 - X 게시물"
+  },
+  {
+    "guid": "9761211",
+    "title": "FinancialJuice: China finance ministry auctions 7-year bonds at 1.49% yield: traders",
+    "link": "https://www.financialjuice.com/News/9761211/China-finance-ministry-auctions-7-year-bonds-at-149-yield-traders.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 03:37:30 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 중국 재무부, 7년 만기 국채를 수익률 1.49%에 경매로 발행: 트레이더들"
+  },
+  {
+    "guid": "9761171",
+    "title": "FinancialJuice: World Bank: approves $300 million financing to back reforms in Uruguay",
+    "link": "https://www.financialjuice.com/News/9761171/World-Bank-approves-300-million-financing-to-back-reforms-in-Uruguay.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 03:23:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 세계은행, 우루과이의 개혁을 지원하기 위해 3억 달러 규모의 자금 조달을 승인"
+  },
+  {
+    "guid": "9761170",
+    "title": "FinancialJuice: Dollar/yen rises 0.3% to 154.02",
+    "link": "https://www.financialjuice.com/News/9761170/Dollaryen-rises-03-to-15402.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 02:51:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 달러/엔 환율이 0.3% 상승해 154.02를 기록했습니다."
+  },
+  {
+    "guid": "9761169",
+    "title": "FinancialJuice: Japan chief cabinet secretary Kihara: will finalize budget while properly managing bond issuance amount",
+    "link": "https://www.financialjuice.com/News/9761169/Japan-chief-cabinet-secretary-Kihara-will-finalize-budget-while-properly-managing-bond-issuance-amount.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 02:31:50 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 기하라 일본 관방장관, “채권 발행 규모를 적절히 관리하면서 예산을 확정할 것”"
+  },
+  {
+    "guid": "9761168",
+    "title": "FinancialJuice: Strait of Hormuz commodity vessel crossings drop to single digits per day over weekend, under 10-day average near 14, data shows",
+    "link": "https://www.financialjuice.com/News/9761168/Strait-of-Hormuz-commodity-vessel-crossings-drop-to-single-digits-per-day-over-weekend-under-10-day-average-near-14-data-shows.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 02:30:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 데이터에 따르면, 지난 주말 호르무즈 해협을 통과한 원자재 운반선 수가 하루 한 자릿수로 떨어졌으며, 이는 10일 평균인 14척 미만에 그친 것으로 나타났다."
+  },
+  {
+    "guid": "9761105",
+    "title": "FinancialJuice: S. Korea central bank: sells 91-day monetary stabilisation bonds at 3.050% yield",
+    "link": "https://www.financialjuice.com/News/9761105/S-Korea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-3050-yield.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 01:40:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국은행, 수익률 3.050%의 91일 만기 통화안정채 발행"
+  },
+  {
+    "guid": "9761104",
+    "title": "FinancialJuice: Hong Kong-listed shares of Z.AL 2513.HK drop as much as 10.5% after discounted share placement",
+    "link": "https://www.financialjuice.com/News/9761104/Hong-Kong-listed-shares-of-ZAL-2513HK-drop-as-much-as-105-after-discounted-share-placement.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 01:34:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Z.AL(2513.HK)의 홍콩 상장주가 할인된 가격으로 주식을 배정받은 후 최대 10.5% 하락했다"
+  },
+  {
+    "guid": "9761090",
+    "title": "FinancialJuice: Amazon: we’ve decided to suspend operations with 21 Air",
+    "link": "https://www.financialjuice.com/News/9761090/Amazon-weve-decided-to-suspend-operations-with-21-Air.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 01:26:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아마존, 21 에어와의 업무 중단을 결정했다"
+  },
+  {
+    "guid": "9761089",
+    "title": "FinancialJuice: China’s central bank injects 504 billion yuan via overnight and one-day reverse repos: statement",
+    "link": "https://www.financialjuice.com/News/9761089/Chinas-central-bank-injects-504-billion-yuan-via-overnight-and-one-day-reverse-repos-statement.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 01:24:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 하루물 및 1일물 역레포를 통해 5,040억 위안 유동성 공급: 성명서"
+  },
+  {
+    "guid": "9761088",
+    "title": "FinancialJuice: China cbank: 7-day reverse repo volume drops to zero Monday amid primary dealer demand - statement",
+    "link": "https://www.financialjuice.com/News/9761088/China-cbank-7-day-reverse-repo-volume-drops-to-zero-Monday-amid-primary-dealer-demand---statement.aspx?xy=rss",
+    "pubDate": "Mon, 14 Sep 2026 01:22:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 월요일 1차 딜러들의 수요로 인해 7일물 역레포 거래량이 0으로 감소 - 성명서"
+  },
+  {
     "guid": "9761087",
     "title": "FinancialJuice: China sets yuan midpoint at strongest level since Feb. 3, 2023",
     "link": "https://www.financialjuice.com/News/9761087/China-sets-yuan-midpoint-at-strongest-level-since-Feb-3-2023.aspx?xy=rss",
