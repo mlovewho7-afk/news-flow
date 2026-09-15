@@ -1,5 +1,429 @@
 [
   {
+    "guid": "9764242",
+    "title": "FinancialJuice: NYMEX WTI Crude October futures settle at $105.83 a barrel, up $4.44, 4.38%.",
+    "link": "https://www.financialjuice.com/News/9764242/NYMEX-WTI-Crude-October-futures-settle-at-10583-a-barrel-up-444-438.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 18:31:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX WTI 원유 10월물 선물은 배럴당 105.83달러에 마감했으며, 이는 4.44달러(4.38%) 상승한 가격이다."
+  },
+  {
+    "guid": "9764234",
+    "title": "FinancialJuice: Senate Republican Leader Thune: We have to mitigate the risks of AI.",
+    "link": "https://www.financialjuice.com/News/9764234/Senate-Republican-Leader-Thune-We-have-to-mitigate-the-risks-of-AI.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 18:28:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 상원 공화당 원내대표 툰: 우리는 AI의 위험을 완화해야 합니다."
+  },
+  {
+    "guid": "9764233",
+    "title": "FinancialJuice: Clarity Act Vote - WATCH LIVE",
+    "link": "https://www.financialjuice.com/News/9764233/Clarity-Act-Vote---WATCH-LIVE.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 18:26:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ‘클라리티 법안’ 표결 - 생중계 시청하기"
+  },
+  {
+    "guid": "9764209",
+    "title": "FinancialJuice: US Treasury Accepts $500 Million in Long-Dated Debt Buyback",
+    "link": "https://www.financialjuice.com/News/9764209/US-Treasury-Accepts-500-Million-in-Long-Dated-Debt-Buyback.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 18:02:40 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 재무부, 5억 달러 규모의 장기 채권 매입 제안 수락"
+  },
+  {
+    "guid": "9764188",
+    "title": "FinancialJuice: Anthropic's Amodei: The world is only making use of 5% to 10% of current AI.",
+    "link": "https://www.financialjuice.com/News/9764188/Anthropics-Amodei-The-world-is-only-making-use-of-5-to-10-of-current-AI.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 18:00:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트로픽의 아모데이 “세계는 현재 AI의 5%에서 10% 정도만 활용하고 있다.”"
+  },
+  {
+    "guid": "9764187",
+    "title": "FinancialJuice: CBO: war in Iran cost us $38 billion in first five months.",
+    "link": "https://www.financialjuice.com/News/9764187/CBO-war-in-Iran-cost-us-38-billion-in-first-five-months.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 18:00:49 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: CBO, “이란 전쟁으로 첫 5개월 동안 380억 달러의 비용이 발생했다.”"
+  },
+  {
+    "guid": "9764184",
+    "title": "FinancialJuice: CBO: Annual PCE inflation projection now 0.5 ppt higher in Q1 2027.",
+    "link": "https://www.financialjuice.com/News/9764184/CBO-Annual-PCE-inflation-projection-now-05-ppt-higher-in-Q1-2027.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 18:00:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: CBO, 2027년 1분기 연간 PCE 인플레이션 전망치를 0.5%포인트 상향 조정."
+  },
+  {
+    "guid": "9764183",
+    "title": "FinancialJuice: WATCH LIVE: Attorney General Blanche Speaks 2 PM ET",
+    "link": "https://www.financialjuice.com/News/9764183/WATCH-LIVE-Attorney-General-Blanche-Speaks-2-PM-ET.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:58:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 생중계 시청: 블랑쉬 법무장관, 동부 표준시 오후 2시 연설"
+  },
+  {
+    "guid": "9764182",
+    "title": "FinancialJuice: Iranian Army Spokesman: Iran and Pakistan are cooperating to ensure regional security - Tasnim News",
+    "link": "https://www.financialjuice.com/News/9764182/Iranian-Army-Spokesman-Iran-and-Pakistan-are-cooperating-to-ensure-regional-security---Tasnim-News.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:53:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 육군 대변인 “이란과 파키스탄, 지역 안보 확보를 위해 협력 중” - 타스님 뉴스"
+  },
+  {
+    "guid": "9764158",
+    "title": "FinancialJuice: Canada's Resources Minister Tim Hodgson: Canada tax changes to serve as investment ‘motivator’ in commodity sector.",
+    "link": "https://www.financialjuice.com/News/9764158/Canadas-Resources-Minister-Tim-Hodgson-Canada-tax-changes-to-serve-as-investment-motivator-in-commodity-sector.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:20:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 자원부 장관 팀 호지슨: 캐나다의 세제 개편이 원자재 부문의 투자 ‘촉진제’ 역할을 할 것이다."
+  },
+  {
+    "guid": "9764157",
+    "title": "FinancialJuice: Canada's Resources Minister Tim Hodgson: Canada aiming to complete energy-, mining-project reviews within 12 months.",
+    "link": "https://www.financialjuice.com/News/9764157/Canadas-Resources-Minister-Tim-Hodgson-Canada-aiming-to-complete-energy--mining-project-reviews-within-12-months.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:20:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 자원부 장관 팀 호지슨: 캐나다는 에너지 및 광업 프로젝트 심사를 12개월 이내에 완료하는 것을 목표로 하고 있다."
+  },
+  {
+    "guid": "9764152",
+    "title": "FinancialJuice: Israel helping Saudi Arabia with intelligence is aimed at ensuring freedom of navigation in the Bab al-Mandab Strait - Israel's Kan News citing foreign source",
+    "link": "https://www.financialjuice.com/News/9764152/Israel-helping-Saudi-Arabia-with-intelligence-is-aimed-at-ensuring-freedom-of-navigation-in-the-Bab-al-Mandab-Strait---Israels-Kan-News-citing-foreign-source.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:17:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘이 사우디아라비아에 정보 지원을 제공하는 것은 바브 알만다브 해협의 항행의 자유를 보장하기 위한 것 - 이스라엘 칸 뉴스, 해외 소식통 인용"
+  },
+  {
+    "guid": "9764131",
+    "title": "FinancialJuice: IAEA Spokesperson Kamalvandi: Iran will not surrender. our nuclear program is peaceful.",
+    "link": "https://www.financialjuice.com/News/9764131/IAEA-Spokesperson-Kamalvandi-Iran-will-not-surrender-our-nuclear-program-is-peaceful.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:13:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IAEA 대변인 카말반디: 이란은 굴복하지 않을 것이다. 우리의 핵 프로그램은 평화적 목적이다."
+  },
+  {
+    "guid": "9764130",
+    "title": "FinancialJuice: Germany’s Chancellor Merz cancels trip to New York next week. To remain in Berlin - Govt Officials",
+    "link": "https://www.financialjuice.com/News/9764130/Germanys-Chancellor-Merz-cancels-trip-to-New-York-next-week-To-remain-in-Berlin---Govt-Officials.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:08:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일의 메르츠 총리가 다음 주 뉴욕 방문 일정을 취소했다. 베를린에 머물 예정 - 정부 관계자"
+  },
+  {
+    "guid": "9764129",
+    "title": "FinancialJuice: Israel's Chief of Staff met with military commanders from Gulf countries - Israel's N12 News",
+    "link": "https://www.financialjuice.com/News/9764129/Israels-Chief-of-Staff-met-with-military-commanders-from-Gulf-countries---Israels-N12-News.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:07:20 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이스라엘 합참의장, 걸프 지역 국가 군 지휘관들과 회동 - 이스라엘 N12 뉴스"
+  },
+  {
+    "guid": "9764128",
+    "title": "FinancialJuice: US prepares sale of 2,000-pound bombs to Israel - WaPo",
+    "link": "https://www.financialjuice.com/News/9764128/US-prepares-sale-of-2000-pound-bombs-to-Israel---WaPo.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:06:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국, 이스라엘에 2,000파운드 폭탄 판매 준비 중 - 워싱턴 포스트"
+  },
+  {
+    "guid": "9764127",
+    "title": "FinancialJuice: US 20 Yr Bond Auction",
+    "link": "https://www.financialjuice.com/News/9764127/US-20-Yr-Bond-Auction.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:03:36 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 20년물 국채 입찰"
+  },
+  {
+    "guid": "9764126",
+    "title": "FinancialJuice: US 20-Year Bond Bid-to-Cover Actual 2.570 (Forecast -, Previous 2.530)",
+    "link": "https://www.financialjuice.com/News/9764126/US-20-Year-Bond-Bid-to-Cover-Actual-2570-Forecast---Previous-2530.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:02:14 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 20년물 국채 입찰 경쟁률 실제 2.570 (예상 -, 이전 2.530)"
+  },
+  {
+    "guid": "9764125",
+    "title": "FinancialJuice: US 20-Year Bond High Yield Actual 5.42% (Forecast -, Previous 5.204%)",
+    "link": "https://www.financialjuice.com/News/9764125/US-20-Year-Bond-High-Yield-Actual-542-Forecast---Previous-5204.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:02:03 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 20년물 국채 수익률, 실제 5.42% (예상 -, 이전 5.204%)"
+  },
+  {
+    "guid": "9764111",
+    "title": "FinancialJuice: US Treasury Secretary Bessent hearing at House Financial Services panel concludes.",
+    "link": "https://www.financialjuice.com/News/9764111/US-Treasury-Secretary-Bessent-hearing-at-House-Financial-Services-panel-concludes.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:00:34 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 하원 금융서비스위원회에서 열린 베센트 미국 재무장관의 청문회가 종료되었다."
+  },
+  {
+    "guid": "9764106",
+    "title": "FinancialJuice: Treasury WI 20 Yr yield 5.400% before $13 billion auction",
+    "link": "https://www.financialjuice.com/News/9764106/Treasury-WI-20-Yr-yield-5400-before-13-billion-auction.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 17:00:16 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 130억 달러 규모 국채 입찰을 앞두고 미국 재무부 20년물 수익률이 5.400%를 기록"
+  },
+  {
+    "guid": "9764091",
+    "title": "FinancialJuice: French Central Bank forecasts 2026 HICP inflation at 2.3% (vs 2.5% in June), sees 1.9% in 2027 (vs 1.7%) and 1.6% in 2028 (vs 1.7%).",
+    "link": "https://www.financialjuice.com/News/9764091/French-Central-Bank-forecasts-2026-HICP-inflation-at-23-vs-25-in-June-sees-19-in-2027-vs-17-and-16-in-2028-vs-17.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 16:39:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 프랑스 중앙은행은 2026년 HICP 인플레이션률을 2.3%(6월 전망치 2.5% 대비)로 전망했으며, 2027년에는 1.9%(1.7% 대비), 2028년에는 1.6%(1.7% 대비)를 예상했다."
+  },
+  {
+    "guid": "9764075",
+    "title": "FinancialJuice: US and Israeli and Arab military chiefs held secret meeting on Iran - Axios",
+    "link": "https://www.financialjuice.com/News/9764075/US-and-Israeli-and-Arab-military-chiefs-held-secret-meeting-on-Iran---Axios.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 16:24:24 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 미국·이스라엘·아랍군 수장들, 이란 문제와 관련해 비공개 회동 - Axios"
+  },
+  {
+    "guid": "9764074",
+    "title": "FinancialJuice: Bank of France trims 2026 GDP forecast, sees pickup next year.",
+    "link": "https://www.financialjuice.com/News/9764074/Bank-of-France-trims-2026-GDP-forecast-sees-pickup-next-year.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 16:22:36 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 프랑스 중앙은행, 2026년 GDP 전망치를 하향 조정…내년에는 회복세 예상."
+  },
+  {
+    "guid": "9764073",
+    "title": "FinancialJuice: Bank of France survey indicates 3Q GDP to rise 0.1%",
+    "link": "https://www.financialjuice.com/News/9764073/Bank-of-France-survey-indicates-3Q-GDP-to-rise-01.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 16:22:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 프랑스 중앙은행 조사 결과, 3분기 GDP가 0.1% 상승할 것으로 전망"
+  },
+  {
+    "guid": "9764072",
+    "title": "FinancialJuice: Bank of France sees economy expanding 0.4% in 2026",
+    "link": "https://www.financialjuice.com/News/9764072/Bank-of-France-sees-economy-expanding-04-in-2026.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 16:22:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 중앙은행, 2026년 경제 성장률 0.4% 전망"
+  },
+  {
+    "guid": "9764071",
+    "title": "FinancialJuice: FOMC Past Market Reactions & Deviations - FJElite",
+    "link": "https://www.financialjuice.com/News/9764071/FOMC-Past-Market-Reactions--Deviations---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 16:22:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: FOMC 발표 시 과거 시장 반응 및 편차 - FJElite"
+  },
+  {
+    "guid": "9764070",
+    "title": "FinancialJuice: FOMC Cribsheet - FJElite",
+    "link": "https://www.financialjuice.com/News/9764070/FOMC-Cribsheet---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 16:18:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: FOMC 요약 자료 - FJElite"
+  },
+  {
+    "guid": "9764036",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: The need to address deficit is one factor affecting 10-year treasury bond yield",
+    "link": "https://www.financialjuice.com/News/9764036/US-Treasury-Secretary-Bessent-The-need-to-address-deficit-is-one-factor-affecting-10-year-treasury-bond-yield.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 16:01:04 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 재정 적자 해결의 필요성은 10년 만기 국채 수익률에 영향을 미치는 요인 중 하나다"
+  },
+  {
+    "guid": "9764035",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: We do not set equilibrium price for yield levels.",
+    "link": "https://www.financialjuice.com/News/9764035/US-Treasury-Secretary-Bessent-We-do-not-set-equilibrium-price-for-yield-levels.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:58:41 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: “우리는 수익률 수준에 대한 균형 가격을 설정하지 않습니다.”"
+  },
+  {
+    "guid": "9764034",
+    "title": "FinancialJuice: US Energy Secretary Wright's interview on CNBC ends",
+    "link": "https://www.financialjuice.com/News/9764034/US-Energy-Secretary-Wrights-interview-on-CNBC-ends.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:54:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: CNBC에서 진행된 라이트 미국 에너지부 장관의 인터뷰가 끝났다"
+  },
+  {
+    "guid": "9764033",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: For a nominal amount, US Treasury was able to signal support for Japanese policies",
+    "link": "https://www.financialjuice.com/News/9764033/US-Treasury-Secretary-Bessent-For-a-nominal-amount-US-Treasury-was-able-to-signal-support-for-Japanese-policies.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:52:18 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 미 재무부는 소액의 자금을 투입해 일본 정책에 대한 지지를 표명할 수 있었다"
+  },
+  {
+    "guid": "9764032",
+    "title": "FinancialJuice: US Energy Secretary Wright: I think pipeline opening will be measured in days.",
+    "link": "https://www.financialjuice.com/News/9764032/US-Energy-Secretary-Wright-I-think-pipeline-opening-will-be-measured-in-days.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:51:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관: 파이프라인 개통까지는 며칠 정도 걸릴 것으로 보입니다."
+  },
+  {
+    "guid": "9764031",
+    "title": "FinancialJuice: US Energy Secretary Wright on Saudis and oil: I think will see pipeline running again very soon - CNBC Interview",
+    "link": "https://www.financialjuice.com/News/9764031/US-Energy-Secretary-Wright-on-Saudis-and-oil-I-think-will-see-pipeline-running-again-very-soon---CNBC-Interview.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:50:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관, 사우디와 석유에 관해 “파이프라인이 조만간 다시 가동될 것으로 본다” - CNBC 인터뷰"
+  },
+  {
+    "guid": "9764030",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: US made tens of mlns of dollars on yen intervention.",
+    "link": "https://www.financialjuice.com/News/9764030/US-Treasury-Secretary-Bessent-US-made-tens-of-mlns-of-dollars-on-yen-intervention.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:50:03 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 미국은 엔화 개입으로 수천만 달러의 수익을 올렸다."
+  },
+  {
+    "guid": "9764029",
+    "title": "FinancialJuice: US Treasury's Bessent: Stronger yen is better for US exporters.",
+    "link": "https://www.financialjuice.com/News/9764029/US-Treasurys-Bessent-Stronger-yen-is-better-for-US-exporters.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:49:50 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 재무부의 베센트: 엔화 강세가 미국 수출업체에 유리하다."
+  },
+  {
+    "guid": "9764025",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: US used nominal amount for yen intervention.",
+    "link": "https://www.financialjuice.com/News/9764025/US-Treasury-Secretary-Bessent-US-used-nominal-amount-for-yen-intervention.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:49:32 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 미국은 엔화 개입에 명목상의 금액만을 사용했다."
+  },
+  {
+    "guid": "9764024",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: We had been in constant dialog on Japan interventions.",
+    "link": "https://www.financialjuice.com/News/9764024/US-Treasury-Secretary-Bessent-We-had-been-in-constant-dialog-on-Japan-interventions.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:49:15 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 우리는 일본의 외환 개입 문제에 대해 지속적으로 대화를 이어왔습니다."
+  },
+  {
+    "guid": "9764013",
+    "title": "FinancialJuice: Bessent signals work in process on offsets for $5,000 checks",
+    "link": "https://www.financialjuice.com/News/9764013/Bessent-signals-work-in-process-on-offsets-for-5000-checks.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:43:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 베센트, 5,000달러 수표에 대한 상계 조치 마련 중임을 시사"
+  },
+  {
+    "guid": "9764012",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: We've had two of the most successful Treasury auctions in 20 Yrs, recently",
+    "link": "https://www.financialjuice.com/News/9764012/US-Treasury-Secretary-Bessent-Weve-had-two-of-the-most-successful-Treasury-auctions-in-20-Yrs-recently.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:34:52 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 최근 20년 만에 가장 성공적인 국채 입찰을 두 차례나 치렀습니다."
+  },
+  {
+    "guid": "9764011",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Treasury's bond buyback intervention was successful.",
+    "link": "https://www.financialjuice.com/News/9764011/US-Treasury-Secretary-Bessent-Treasurys-bond-buyback-intervention-was-successful.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:34:32 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 재무부의 국채 매입 개입이 성공적이었다."
+  },
+  {
+    "guid": "9763986",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: There are ways to do $5,000 checks without affecting deficit.",
+    "link": "https://www.financialjuice.com/News/9763986/US-Treasury-Secretary-Bessent-There-are-ways-to-do-5000-checks-without-affecting-deficit.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:22:25 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 재정 적자에 영향을 주지 않으면서 5,000달러 수표를 지급할 방법이 있다."
+  },
+  {
+    "guid": "9763985",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Examining $5,000 check proposal at Treasury",
+    "link": "https://www.financialjuice.com/News/9763985/US-Treasury-Secretary-Bessent-Examining-5000-check-proposal-at-Treasury.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:21:05 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 재무부에서 5,000달러 지원금 지급안을 검토 중"
+  },
+  {
+    "guid": "9763984",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Stablecoins will boost demand for US dollar assets.",
+    "link": "https://www.financialjuice.com/News/9763984/US-Treasury-Secretary-Bessent-Stablecoins-will-boost-demand-for-US-dollar-assets.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:18:09 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 스테이블코인이 미국 달러 자산에 대한 수요를 촉진할 것이다."
+  },
+  {
+    "guid": "9763972",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Iran officials say their economy is in dire straits.",
+    "link": "https://www.financialjuice.com/News/9763972/US-Treasury-Secretary-Bessent-Iran-officials-say-their-economy-is-in-dire-straits.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:04:48 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 이란 당국자들은 자국 경제가 극심한 위기에 처해 있다고 밝혔다."
+  },
+  {
+    "guid": "9763970",
+    "title": "FinancialJuice: Meta Launches Meta One Subscription Plans Globally $META",
+    "link": "https://www.financialjuice.com/News/9763970/Meta-Launches-Meta-One-Subscription-Plans-Globally-META.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:01:40 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 메타, ‘메타 원’ 구독 요금제를 전 세계에 출시 $META"
+  },
+  {
+    "guid": "9763952",
+    "title": "FinancialJuice: US to sell $90 bln 4-Week bills on Sept 17th to settle on Sept 22nd",
+    "link": "https://www.financialjuice.com/News/9763952/US-to-sell-90-bln-4-Week-bills-on-Sept-17th-to-settle-on-Sept-22nd.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 15:00:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국, 9월 17일 900억 달러 규모의 4주 만기 국채를 발행해 9월 22일 결제 예정"
+  },
+  {
+    "guid": "9763945",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: I am dedicated to keeping Treasury market robust and the deepest.",
+    "link": "https://www.financialjuice.com/News/9763945/US-Treasury-Secretary-Bessent-I-am-dedicated-to-keeping-Treasury-market-robust-and-the-deepest.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 14:56:59 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 저는 국채 시장을 견고하고 가장 유동성이 풍부한 시장으로 유지하는 데 전념하고 있습니다."
+  },
+  {
+    "guid": "9763944",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Trump completely aligned with Nvidia's CEO. $NVDA",
+    "link": "https://www.financialjuice.com/News/9763944/US-Treasury-Secretary-Bessent-Trump-completely-aligned-with-Nvidias-CEO-NVDA.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 14:55:49 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 트럼프는 엔비디아 CEO와 완전히 뜻을 같이하고 있다. $NVDA"
+  },
+  {
+    "guid": "9763943",
+    "title": "FinancialJuice: House Speaker Johnson: AI executives are expected to come to the White House within the next week - Fox News Reporter on X",
+    "link": "https://www.financialjuice.com/News/9763943/House-Speaker-Johnson-AI-executives-are-expected-to-come-to-the-White-House-within-the-next-week---Fox-News-Reporter-on-X.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 14:55:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 존슨 하원 의장: AI 업계 최고경영자들이 다음 주 안에 백악관을 방문할 것으로 예상된다 - X에 게시된 폭스 뉴스 기자의 글"
+  },
+  {
+    "guid": "9763942",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: China Kimi had breach, sent weapons plans to Anthropic.",
+    "link": "https://www.financialjuice.com/News/9763942/US-Treasury-Secretary-Bessent-China-Kimi-had-breach-sent-weapons-plans-to-Anthropic.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 14:53:40 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 베센트 미국 재무장관: 중국 키미가 보안 침해를 저질러 앤트로픽에 무기 설계도를 보냈다."
+  },
+  {
+    "guid": "9763940",
+    "title": "FinancialJuice: Oil loadings suspended at top Saudi Red Sea port of Yanbu after previous attack on east-west pipeline - Shipping sources",
+    "link": "https://www.financialjuice.com/News/9763940/Oil-loadings-suspended-at-top-Saudi-Red-Sea-port-of-Yanbu-after-previous-attack-on-east-west-pipeline---Shipping-sources.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 14:51:29 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 동서 송유관 공격 사건 이후 사우디 홍해 최대 항구인 얀부에서 원유 선적 중단 - 해운 업계 소식통"
+  },
+  {
+    "guid": "9763939",
+    "title": "FinancialJuice: US House Speaker Johnson: $5,000 checks will take time.",
+    "link": "https://www.financialjuice.com/News/9763939/US-House-Speaker-Johnson-5000-checks-will-take-time.aspx?xy=rss",
+    "pubDate": "Tue, 15 Sep 2026 14:51:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 존슨 미국 하원의장, “5,000달러 지원금 지급에는 시간이 걸릴 것”이라고 밝혔다."
+  },
+  {
     "guid": "9763937",
     "title": "FinancialJuice: 3rd US drone shot down in the sky above the Strait of Hormuz by IRGC air defense - Fars News",
     "link": "https://www.financialjuice.com/News/9763937/3rd-US-drone-shot-down-in-the-sky-above-the-Strait-of-Hormuz-by-IRGC-air-defense---Fars-News.aspx?xy=rss",
