@@ -1,5 +1,245 @@
 [
   {
+    "guid": "9765055",
+    "title": "FinancialJuice: Senior German lawmaker Thorsten Frei: Energy price relief must come quickly - RTL TV",
+    "link": "https://www.financialjuice.com/News/9765055/Senior-German-lawmaker-Thorsten-Frei-Energy-price-relief-must-come-quickly---RTL-TV.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:12:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 고위 의원 토르스텐 프라이: 에너지 가격 부담 완화 조치는 신속히 이루어져야 한다 - RTL TV"
+  },
+  {
+    "guid": "9765054",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9765054/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:10:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9765053",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9765053/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:10:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9765052",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9765052/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:10:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9765051",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9765051/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:09:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9765050",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9765050/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:09:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9765049",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9765049/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:08:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9765048",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9765048/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:08:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9765047",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9765047/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:08:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 가능성"
+  },
+  {
+    "guid": "9765046",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9765046/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:07:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9765045",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9765045/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:07:27 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시장 내재 변동성"
+  },
+  {
+    "guid": "9765044",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9765044/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:07:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9765043",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9765043/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:06:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9765042",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9765042/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:05:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9765041",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9765041/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:05:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9765040",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9765040/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:05:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9765039",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9765039/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:05:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9765008",
+    "title": "FinancialJuice: Swedish Unemployment Rate SA Actual 8.7% (Forecast 8.6%, Previous 8.6%)",
+    "link": "https://www.financialjuice.com/News/9765008/Swedish-Unemployment-Rate-SA-Actual-87-Forecast-86-Previous-86.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:00:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스웨덴 실업률(계절조정, 실질) 8.7% (예상 8.6%, 전월 8.6%)"
+  },
+  {
+    "guid": "9765007",
+    "title": "FinancialJuice: UK PPI Output Prices YoY Actual 3.7% (Forecast 3.3%, Previous 3.1% ,Revision 3.3%)",
+    "link": "https://www.financialjuice.com/News/9765007/UK-PPI-Output-Prices-YoY-Actual-37-Forecast-33-Previous-31-Revision-33.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:00:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 PPI 생산자물가 전년 동기 대비 실제 3.7% (예상 3.3%, 이전 3.1%, 수정치 3.3%)"
+  },
+  {
+    "guid": "9765006",
+    "title": "FinancialJuice: UK PPI Output Prices MoM Actual 0.7% (Forecast 0.5%, Previous 0.2%)",
+    "link": "https://www.financialjuice.com/News/9765006/UK-PPI-Output-Prices-MoM-Actual-07-Forecast-05-Previous-02.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:00:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 PPI 생산자물가 전월 대비 실제 0.7% (예상 0.5%, 전월 0.2%)"
+  },
+  {
+    "guid": "9765005",
+    "title": "FinancialJuice: UK PPI Input Prices YoY Actual 6.1% (Forecast 5.4%, Previous 4.9% ,Revision 5.8%)",
+    "link": "https://www.financialjuice.com/News/9765005/UK-PPI-Input-Prices-YoY-Actual-61-Forecast-54-Previous-49-Revision-58.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:00:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 PPI 원자재 가격 전년 동기 대비 실제 6.1% (예상 5.4%, 이전 4.9%, 수정치 5.8%)"
+  },
+  {
+    "guid": "9765004",
+    "title": "FinancialJuice: UK PPI Input Prices MoM Actual 0.3% (Forecast 0.4%, Previous -1.7%)",
+    "link": "https://www.financialjuice.com/News/9765004/UK-PPI-Input-Prices-MoM-Actual-03-Forecast-04-Previous--17.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:00:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 PPI 투입물가 전월 대비 실제치 0.3% (예상치 0.4%, 전월치 -1.7%)"
+  },
+  {
+    "guid": "9765003",
+    "title": "FinancialJuice: Swedish Unemployment Rate Actual 8.5% (Forecast -, Previous 7.8%)",
+    "link": "https://www.financialjuice.com/News/9765003/Swedish-Unemployment-Rate-Actual-85-Forecast---Previous-78.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:00:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스웨덴 실업률 실제 8.5% (예상 -, 이전 7.8%)"
+  },
+  {
+    "guid": "9765000",
+    "title": "FinancialJuice: UK Core CPI YoY Actual 2.6% (Forecast 2.6%, Previous 2.6%)",
+    "link": "https://www.financialjuice.com/News/9765000/UK-Core-CPI-YoY-Actual-26-Forecast-26-Previous-26.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:00:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 핵심 소비자물가지수(CPI) 전년 동기 대비 실제치 2.6% (예상치 2.6%, 이전치 2.6%)"
+  },
+  {
+    "guid": "9764999",
+    "title": "FinancialJuice: UK CPI MoM Actual 0.5% (Forecast 0.5%, Previous 0.3%)",
+    "link": "https://www.financialjuice.com/News/9764999/UK-CPI-MoM-Actual-05-Forecast-05-Previous-03.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:00:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 소비자물가지수(CPI) 전월 대비 실제치 0.5% (예상치 0.5%, 전월치 0.3%)"
+  },
+  {
+    "guid": "9764998",
+    "title": "FinancialJuice: UK CPI YoY Actual 3.1% (Forecast 3.1%, Previous 2.9%)",
+    "link": "https://www.financialjuice.com/News/9764998/UK-CPI-YoY-Actual-31-Forecast-31-Previous-29.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:00:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 소비자물가지수(CPI) 전년 동기 대비 실제치 3.1% (예상치 3.1%, 전월치 2.9%)"
+  },
+  {
+    "guid": "9765001",
+    "title": "FinancialJuice: UK Core CPI MoM Actual 0.3% (Forecast -, Previous 0.2%)",
+    "link": "https://www.financialjuice.com/News/9765001/UK-Core-CPI-MoM-Actual-03-Forecast---Previous-02.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:00:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 핵심 소비자물가지수(CPI) 전월 대비 실제치 0.3% (예상치 -, 이전치 0.2%)"
+  },
+  {
+    "guid": "9764997",
+    "title": "FinancialJuice: UK RPI MoM Actual 0.6% (Forecast 0.7%, Previous 0.6%)",
+    "link": "https://www.financialjuice.com/News/9764997/UK-RPI-MoM-Actual-06-Forecast-07-Previous-06.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:00:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 RPI 전월 대비 실제치 0.6% (예상치 0.7%, 전월치 0.6%)"
+  },
+  {
+    "guid": "9765002",
+    "title": "FinancialJuice: UK Services CPI YoY Actual 3.4% (Forecast 3.5%, Previous 3.4%)",
+    "link": "https://www.financialjuice.com/News/9765002/UK-Services-CPI-YoY-Actual-34-Forecast-35-Previous-34.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:00:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 서비스 부문 소비자물가지수(CPI) 전년 동기 대비 실제치 3.4% (예상치 3.5%, 전월치 3.4%)"
+  },
+  {
+    "guid": "9764987",
+    "title": "FinancialJuice: SK Hynix and Intel are in talks to make memory chips in the US - Sources",
+    "link": "https://www.financialjuice.com/News/9764987/SK-Hynix-and-Intel-are-in-talks-to-make-memory-chips-in-the-US---Sources.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 05:35:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: SK하이닉스와 인텔, 미국 내 메모리 칩 생산을 위한 협의 중 - 소식통"
+  },
+  {
     "guid": "9764710",
     "title": "FinancialJuice: China central bank injects 600 billion yuan via overnight reverse repos: statement",
     "link": "https://www.financialjuice.com/News/9764710/China-central-bank-injects-600-billion-yuan-via-overnight-reverse-repos-statement.aspx?xy=rss",
