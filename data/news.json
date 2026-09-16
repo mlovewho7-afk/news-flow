@@ -1,5 +1,397 @@
 [
   {
+    "guid": "9765509",
+    "title": "FinancialJuice: Traders no longer fully price in four quarter-point BoE rate hikes",
+    "link": "https://www.financialjuice.com/News/9765509/Traders-no-longer-fully-price-in-four-quarter-point-BoE-rate-hikes.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 12:07:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 트레이더들은 영국 중앙은행(BoE)의 4차례 0.25%포인트 금리 인상을 더 이상 완전히 반영하지 않고 있다"
+  },
+  {
+    "guid": "9765508",
+    "title": "FinancialJuice: Coreweave brings up a multi-rack NVIDIA Vera Rubin NVL72 cluster $NVDA",
+    "link": "https://www.financialjuice.com/News/9765508/Coreweave-brings-up-a-multi-rack-NVIDIA-Vera-Rubin-NVL72-cluster-NVDA.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 12:02:46 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: Coreweave, 멀티 랙 NVIDIA Vera Rubin NVL72 클러스터 구축 $NVDA"
+  },
+  {
+    "guid": "9765486",
+    "title": "FinancialJuice: Secured overnight financing rate 3.64% September 15th vs 3.62% on September 14th",
+    "link": "https://www.financialjuice.com/News/9765486/Secured-overnight-financing-rate-364-September-15th-vs-362-on-September-14th.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 12:00:10 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 9월 15일 담보부 일일 자금 조달 금리 3.64% (9월 14일 3.62% 대비)"
+  },
+  {
+    "guid": "9765485",
+    "title": "FinancialJuice: German Government spokesperson: We're open to discussing new partnership models between the EU and Canada, but the term 'associate member' needs to be rethought",
+    "link": "https://www.financialjuice.com/News/9765485/German-Government-spokesperson-Were-open-to-discussing-new-partnership-models-between-the-EU-and-Canada-but-the-term-associate-member-needs-to-be-rethought.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 11:55:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 정부 대변인: “EU와 캐나다 간의 새로운 협력 모델에 대해 논의할 용의가 있지만, ‘준회원국’이라는 용어는 재고해야 한다”"
+  },
+  {
+    "guid": "9765472",
+    "title": "FinancialJuice: Houthis claim they are targeting Aramco site in Yanbu.",
+    "link": "https://www.financialjuice.com/News/9765472/Houthis-claim-they-are-targeting-Aramco-site-in-Yanbu.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 11:41:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 후티 반군이 얀부에 있는 아람코 시설을 공격 대상으로 삼고 있다고 주장하고 있다."
+  },
+  {
+    "guid": "9765471",
+    "title": "FinancialJuice: Yemen's Houthis say they attacked an air base in Khamis Mashit",
+    "link": "https://www.financialjuice.com/News/9765471/Yemens-Houthis-say-they-attacked-an-air-base-in-Khamis-Mashit.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 11:41:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 후티 반군이 카미스 마시트의 공군 기지를 공격했다고 밝혔다"
+  },
+  {
+    "guid": "9765470",
+    "title": "FinancialJuice: $Meta gets upside 90-day catalyst watch at Citi.",
+    "link": "https://www.financialjuice.com/News/9765470/Meta-gets-upside-90-day-catalyst-watch-at-Citi.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 11:34:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 씨티, $Meta에 대해 90일 내 상승 요인 주목."
+  },
+  {
+    "guid": "9765469",
+    "title": "FinancialJuice: House democrats press to stay in session for AI - Politico",
+    "link": "https://www.financialjuice.com/News/9765469/House-democrats-press-to-stay-in-session-for-AI---Politico.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 11:34:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 하원 민주당, AI 관련 안건 처리 위해 회기 연장을 촉구 - Politico"
+  },
+  {
+    "guid": "9765443",
+    "title": "FinancialJuice: UK's PM Burnham shelves plans for UK investment summit this year - Sky",
+    "link": "https://www.financialjuice.com/News/9765443/UKs-PM-Burnham-shelves-plans-for-UK-investment-summit-this-year---Sky.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 11:18:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 버넘 영국 총리, 올해 영국 투자 정상회의 계획 보류 - 스카이"
+  },
+  {
+    "guid": "9765425",
+    "title": "FinancialJuice: Houthis told the US they remain committed to 2025 ceasefire - Sources",
+    "link": "https://www.financialjuice.com/News/9765425/Houthis-told-the-US-they-remain-committed-to-2025-ceasefire---Sources.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 11:10:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 후티 반군, 미국 측에 2025년 휴전 협정 준수를 계속할 것이라고 밝혔다 - 소식통"
+  },
+  {
+    "guid": "9765423",
+    "title": "FinancialJuice: IBM's Anderon finalizes agreement with u.s. Department of Commerce for a $1 billion Chips Act award - IBM",
+    "link": "https://www.financialjuice.com/News/9765423/IBMs-Anderon-finalizes-agreement-with-us-Department-of-Commerce-for-a-1-billion-Chips-Act-award---IBM.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 11:01:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IBM의 앤더슨, 미국 상무부와 10억 달러 규모의 ‘칩스 법(Chips Act)’ 지원금 수령에 관한 협약을 최종 체결 - IBM"
+  },
+  {
+    "guid": "9765408",
+    "title": "FinancialJuice: US officials met Houthis in Oman over the weekend after an Iran-backed group seized a strategic stretch of the Red Sea coast - Sources",
+    "link": "https://www.financialjuice.com/News/9765408/US-officials-met-Houthis-in-Oman-over-the-weekend-after-an-Iran-backed-group-seized-a-strategic-stretch-of-the-Red-Sea-coast---Sources.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 11:00:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란의 지원을 받는 무장단체가 홍해 연안의 전략적 요충지를 점령한 후, 지난 주말 미국 관리들이 오만에서 후티 반군과 만났다 - 소식통"
+  },
+  {
+    "guid": "9765405",
+    "title": "FinancialJuice: US MBA 30-Yr Mortgage Rate Actual 6.97% (Forecast -, Previous 6.85%)",
+    "link": "https://www.financialjuice.com/News/9765405/US-MBA-30-Yr-Mortgage-Rate-Actual-697-Forecast---Previous-685.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 11:00:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 MBA 30년 만기 모기지 금리, 실제 6.97% (예상 -, 이전 6.85%)"
+  },
+  {
+    "guid": "9765404",
+    "title": "FinancialJuice: US MBA Mortgage Applications Actual -4.1% (Forecast -, Previous -2.7%)",
+    "link": "https://www.financialjuice.com/News/9765404/US-MBA-Mortgage-Applications-Actual--41-Forecast---Previous--27.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 11:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 MBA 모기지 신청 건수, 실제 -4.1% (예상 -, 이전 -2.7%)"
+  },
+  {
+    "guid": "9765403",
+    "title": "FinancialJuice: UK PM Burnham: We will take difficult decisions to keep the economy on track",
+    "link": "https://www.financialjuice.com/News/9765403/UK-PM-Burnham-We-will-take-difficult-decisions-to-keep-the-economy-on-track.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 10:52:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 버넘 영국 총리 “경제가 정상 궤도를 유지할 수 있도록 어려운 결정도 내릴 것”"
+  },
+  {
+    "guid": "9765402",
+    "title": "FinancialJuice: UK PM Burnham: We are not a traditional tax and spend socialist government.",
+    "link": "https://www.financialjuice.com/News/9765402/UK-PM-Burnham-We-are-not-a-traditional-tax-and-spend-socialist-government.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 10:52:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 버넘 영국 총리: “우리는 전통적인 ‘세금 징수와 지출’ 방식의 사회주의 정부는 아닙니다.”"
+  },
+  {
+    "guid": "9765401",
+    "title": "FinancialJuice: UK PM Burnham: Chancellor and I will take these issues into account at the budget",
+    "link": "https://www.financialjuice.com/News/9765401/UK-PM-Burnham-Chancellor-and-I-will-take-these-issues-into-account-at-the-budget.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 10:52:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 버넘 영국 총리: 재무장관과 저는 예산안 수립 시 이러한 사안들을 고려할 것입니다"
+  },
+  {
+    "guid": "9765400",
+    "title": "FinancialJuice: UK PM Burnham: Inflation is a concern, but the UK economy is showing resilience",
+    "link": "https://www.financialjuice.com/News/9765400/UK-PM-Burnham-Inflation-is-a-concern-but-the-UK-economy-is-showing-resilience.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 10:51:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 버넘 영국 총리, “인플레이션은 우려되지만 영국 경제는 회복력을 보이고 있다”"
+  },
+  {
+    "guid": "9765355",
+    "title": "FinancialJuice: Blackrock to build customizable 401k funds for firms - WSJ",
+    "link": "https://www.financialjuice.com/News/9765355/Blackrock-to-build-customizable-401k-funds-for-firms---WSJ.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 10:01:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 블랙록, 기업용 맞춤형 401k 펀드 출시 예정 - WSJ"
+  },
+  {
+    "guid": "9765338",
+    "title": "FinancialJuice: Meta partner Nextera to hire 1,000 from its workforce academy $META",
+    "link": "https://www.financialjuice.com/News/9765338/Meta-partner-Nextera-to-hire-1000-from-its-workforce-academy-META.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 10:00:31 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 메타의 파트너사 넥스테라(Nextera), 자사 인력 양성 프로그램에서 1,000명 채용 예정 $META"
+  },
+  {
+    "guid": "9765328",
+    "title": "FinancialJuice: German 30 Yr Bund Bid-to-cover Actual 2.425 (Forecast -, Previous 2.9)",
+    "link": "https://www.financialjuice.com/News/9765328/German-30-Yr-Bund-Bid-to-cover-Actual-2425-Forecast---Previous-29.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 09:32:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 30년물 국채 입찰 경쟁률(실적) 2.425 (예상 -, 이전 2.9)"
+  },
+  {
+    "guid": "9765327",
+    "title": "FinancialJuice: German 30 Yr Bund Yield Actual 3.9% (Forecast -, Previous 3.64%)",
+    "link": "https://www.financialjuice.com/News/9765327/German-30-Yr-Bund-Yield-Actual-39-Forecast---Previous-364.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 09:32:48 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 독일 30년물 국채 수익률, 실제 3.9% (예상 -, 이전 3.64%)"
+  },
+  {
+    "guid": "9765309",
+    "title": "FinancialJuice: Amazon to build over 1k same-day delivery hubs by 2031. Budgets $6.8B for US same day hubs in 2026-27. $AMZN - Insider",
+    "link": "https://www.financialjuice.com/News/9765309/Amazon-to-build-over-1k-same-day-delivery-hubs-by-2031-Budgets-68B-for-US-same-day-hubs-in-2026-27-AMZN---Insider.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 09:10:01 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 아마존, 2031년까지 1,000개 이상의 당일 배송 허브 구축 예정. 2026~2027년 미국 내 당일 배송 허브에 68억 달러 예산 편성. $AMZN - Insider"
+  },
+  {
+    "guid": "9765262",
+    "title": "FinancialJuice: Eurozone Labour Costs YoY Actual 3.1% (Forecast -, Previous 3.2%)",
+    "link": "https://www.financialjuice.com/News/9765262/Eurozone-Labour-Costs-YoY-Actual-31-Forecast---Previous-32.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 09:00:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 인건비 전년 동기 대비 실제 3.1% (예상 -, 이전 3.2%)"
+  },
+  {
+    "guid": "9765260",
+    "title": "FinancialJuice: Eurozone Industrial Production YoY Actual 0.0% (Forecast -0.1%, Previous 0.1%)",
+    "link": "https://www.financialjuice.com/News/9765260/Eurozone-Industrial-Production-YoY-Actual-00-Forecast--01-Previous-01.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 09:00:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 산업생산 전년 동기 대비 실제치 0.0% (예상 -0.1%, 전월 0.1%)"
+  },
+  {
+    "guid": "9765261",
+    "title": "FinancialJuice: Eurozone Industrial Production MoM Actual -0.1% (Forecast -0.2%, Previous 0.0%)",
+    "link": "https://www.financialjuice.com/News/9765261/Eurozone-Industrial-Production-MoM-Actual--01-Forecast--02-Previous-00.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 09:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 산업생산 전월 대비 실제 -0.1% (예상 -0.2%, 이전 0.0%)"
+  },
+  {
+    "guid": "9765259",
+    "title": "FinancialJuice: MUFG: The USD - FJElite",
+    "link": "https://www.financialjuice.com/News/9765259/MUFG-The-USD---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:52:07 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: MUFG: 미국 달러 - FJElite"
+  },
+  {
+    "guid": "9765258",
+    "title": "FinancialJuice: UBS: Natural Gas - FJElite",
+    "link": "https://www.financialjuice.com/News/9765258/UBS-Natural-Gas---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:50:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: UBS: 천연가스 - FJElite"
+  },
+  {
+    "guid": "9765257",
+    "title": "FinancialJuice: Credit Ágricole: FX Risk - FJElite",
+    "link": "https://www.financialjuice.com/News/9765257/Credit-%c3%81gricole-FX-Risk---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:48:36 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 크레디 아그리콜: 외환 리스크 - FJElite"
+  },
+  {
+    "guid": "9765249",
+    "title": "FinancialJuice: Germany Economy Ministry: Continuously assess the situation and maintain an ongoing dialogue with all market participants in the gas sector.",
+    "link": "https://www.financialjuice.com/News/9765249/Germany-Economy-Ministry-Continuously-assess-the-situation-and-maintain-an-ongoing-dialogue-with-all-market-participants-in-the-gas-sector.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:45:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 경제부: 상황을 지속적으로 평가하고, 가스 부문의 모든 시장 참여자들과 지속적인 대화를 유지한다."
+  },
+  {
+    "guid": "9765248",
+    "title": "FinancialJuice: UK average private rents increased by 3.8% in year to August (3.7% in year to July) - ONS",
+    "link": "https://www.financialjuice.com/News/9765248/UK-average-private-rents-increased-by-38-in-year-to-August-37-in-year-to-July---ONS.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:32:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 평균 민간 임대료, 8월까지 1년간 3.8% 상승 (7월까지 1년간 3.7% 상승) - ONS"
+  },
+  {
+    "guid": "9765247",
+    "title": "FinancialJuice: UK house prices rose by 1.4% in year to July (1.5% in year to June) - ONS.",
+    "link": "https://www.financialjuice.com/News/9765247/UK-house-prices-rose-by-14-in-year-to-July-15-in-year-to-June---ONS.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:32:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 주택 가격은 7월까지 1년 동안 1.4% 상승했다(6월까지 1년 동안은 1.5% 상승) - ONS."
+  },
+  {
+    "guid": "9765229",
+    "title": "FinancialJuice: China Foreign Minister, to Iran counterpart: Urge all parties to take effective measures to reopen Strait of Hormuz.",
+    "link": "https://www.financialjuice.com/News/9765229/China-Foreign-Minister-to-Iran-counterpart-Urge-all-parties-to-take-effective-measures-to-reopen-Strait-of-Hormuz.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:22:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 외교부 장관, 이란 외교부 장관에게 “모든 당사국이 호르무즈 해협을 재개방하기 위해 효과적인 조치를 취할 것을 촉구한다.”"
+  },
+  {
+    "guid": "9765228",
+    "title": "FinancialJuice: China's Wang Yi: We encourages Iran and US to exercise rationality.",
+    "link": "https://www.financialjuice.com/News/9765228/Chinas-Wang-Yi-We-encourages-Iran-and-US-to-exercise-rationality.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:21:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국의 왕이: 우리는 이란과 미국이 이성을 발휘할 것을 촉구한다."
+  },
+  {
+    "guid": "9765227",
+    "title": "FinancialJuice: Europe Sentiment: UK Inflation Does Little To Sway Markets - FJElite\n",
+    "link": "https://www.financialjuice.com/News/9765227/Europe-Sentiment-UK-Inflation-Does-Little-To-Sway-Markets---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:16:55 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유럽 시장 심리: 영국 인플레이션, 시장 움직임에 별다른 영향 미치지 못해 - FJElite\n"
+  },
+  {
+    "guid": "9765203",
+    "title": "FinancialJuice: ECB sees wage growth at 2.7% in 1q 2027, 2.8% in 2q 2027.",
+    "link": "https://www.financialjuice.com/News/9765203/ECB-sees-wage-growth-at-27-in-1q-2027-28-in-2q-2027.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:01:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)은 2027년 1분기 임금 상승률을 2.7%, 2분기에는 2.8%로 전망했다."
+  },
+  {
+    "guid": "9765189",
+    "title": "FinancialJuice: ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth.",
+    "link": "https://www.financialjuice.com/News/9765189/ECB-wage-tracker-at-27-in-H1-2027-pointing-to-a-modest-uptick-in-negotiated-wage-growth.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 08:00:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 2027년 상반기 ECB 임금 추적 지표가 2.7%를 기록하며, 단체협상 임금 상승률이 소폭 상승할 것으로 전망된다."
+  },
+  {
+    "guid": "9765186",
+    "title": "FinancialJuice: Italian CPI YoY Final Actual 3.3% (Forecast 3.3%, Previous 3.3%)",
+    "link": "https://www.financialjuice.com/News/9765186/Italian-CPI-YoY-Final-Actual-33-Forecast-33-Previous-33.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 07:57:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 이탈리아 소비자물가지수(CPI) 전년 동기 대비 최종 실적 3.3% (예상 3.3%, 전월 3.3%)"
+  },
+  {
+    "guid": "9765185",
+    "title": "FinancialJuice: Italian HICP Final MoM Actual 0.1% (Forecast 0.1%, Previous 0.1%)",
+    "link": "https://www.financialjuice.com/News/9765185/Italian-HICP-Final-MoM-Actual-01-Forecast-01-Previous-01.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 07:57:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이탈리아 HICP 최종 월간 변동률 실제치 0.1% (예상치 0.1%, 전월치 0.1%)"
+  },
+  {
+    "guid": "9765184",
+    "title": "FinancialJuice: Italian CPI MoM Final Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
+    "link": "https://www.financialjuice.com/News/9765184/Italian-CPI-MoM-Final-Actual-05-Forecast-05-Previous-05.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 07:57:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 이탈리아 소비자물가지수(CPI) 전월 대비 최종치 0.5% (예상 0.5%, 전월 0.5%)"
+  },
+  {
+    "guid": "9765183",
+    "title": "FinancialJuice: Italian HICP Final YoY Actual 3.2% (Forecast 3.2%, Previous 3.2%)",
+    "link": "https://www.financialjuice.com/News/9765183/Italian-HICP-Final-YoY-Actual-32-Forecast-32-Previous-32.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 07:57:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이탈리아 HICP 최종 전년 동기 대비 실제치 3.2% (예상 3.2%, 이전 3.2%)"
+  },
+  {
+    "guid": "9765182",
+    "title": "FinancialJuice: EC Pres. von der Leyen: We want to open the door for Canada to the first associate member of the EU.",
+    "link": "https://www.financialjuice.com/News/9765182/EC-Pres-von-der-Leyen-We-want-to-open-the-door-for-Canada-to-the-first-associate-member-of-the-EU.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 07:53:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 폰 데어 라이엔 유럽집행위원회 위원장: “우리는 캐나다가 EU의 첫 번째 준회원국이 될 수 있도록 길을 열어주고 싶다.”"
+  },
+  {
+    "guid": "9765159",
+    "title": "FinancialJuice: EU to announce initiatives in November for industrial AI in health, transport, agri-food, advanced manufacturing, defence and space.",
+    "link": "https://www.financialjuice.com/News/9765159/EU-to-announce-initiatives-in-November-for-industrial-AI-in-health-transport-agri-food-advanced-manufacturing-defence-and-space.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 07:44:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU가 11월에 보건, 교통, 농식품, 첨단 제조, 국방 및 우주 분야의 산업용 AI를 위한 계획을 발표할 예정이다."
+  },
+  {
+    "guid": "9765158",
+    "title": "FinancialJuice: EC Pres. von der Leyen: I will invite main frontier labs to discuss industry efforts to pace the frontier.",
+    "link": "https://www.financialjuice.com/News/9765158/EC-Pres-von-der-Leyen-I-will-invite-main-frontier-labs-to-discuss-industry-efforts-to-pace-the-frontier.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 07:40:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 폰 데어 라이엔 유럽집행위원회 위원장: 첨단 분야를 선도하기 위한 산업계의 노력을 논의하기 위해 주요 첨단 연구소들을 초청할 예정이다."
+  },
+  {
+    "guid": "9765157",
+    "title": "FinancialJuice: EC Pres. von der Leyen: EU to step up efforts with like-minded partners like Canada, Britain, others on issues of AI.",
+    "link": "https://www.financialjuice.com/News/9765157/EC-Pres-von-der-Leyen-EU-to-step-up-efforts-with-like-minded-partners-like-Canada-Britain-others-on-issues-of-AI.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 07:40:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 폰 데어 라이엔 유럽집행위원회 위원장: EU, AI 문제와 관련해 캐나다, 영국 등 뜻을 같이하는 파트너국들과 협력을 강화할 예정이다."
+  },
+  {
+    "guid": "9765135",
+    "title": "FinancialJuice: EU's Von der Leyen: EU will establish a new European corporation to help obtain and stockpile critical raw materials",
+    "link": "https://www.financialjuice.com/News/9765135/EUs-Von-der-Leyen-EU-will-establish-a-new-European-corporation-to-help-obtain-and-stockpile-critical-raw-materials.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 07:25:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU의 폰 데어 라이엔 위원장, “EU는 핵심 원자재 확보 및 비축을 지원하기 위해 새로운 유럽 기업을 설립할 것”"
+  },
+  {
+    "guid": "9765134",
+    "title": "FinancialJuice: EU's Von der Leyen: The EU will use all tools at its disposal to rebalance the relationship with China",
+    "link": "https://www.financialjuice.com/News/9765134/EUs-Von-der-Leyen-The-EU-will-use-all-tools-at-its-disposal-to-rebalance-the-relationship-with-China.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 07:24:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU의 폰 데어 라이엔 위원장: EU는 중국과의 관계 균형을 재조정하기 위해 가용한 모든 수단을 동원할 것"
+  },
+  {
+    "guid": "9765113",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: GBP, EUR, CHF, GBP, AUD, USD, EUR, CAD - Weakest",
+    "link": "https://www.financialjuice.com/News/9765113/Currency-Strength-Chart-Strongest-GBP-EUR-CHF-GBP-AUD-USD-EUR-CAD---Weakest.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 07:01:18 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: GBP, EUR, CHF, GBP, AUD, USD, EUR, CAD - 가장 약한 통화"
+  },
+  {
+    "guid": "9765095",
+    "title": "FinancialJuice: The EU are to call for a European Security Council in new defense plan",
+    "link": "https://www.financialjuice.com/News/9765095/The-EU-are-to-call-for-a-European-Security-Council-in-new-defense-plan.aspx?xy=rss",
+    "pubDate": "Wed, 16 Sep 2026 06:53:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU, 새로운 국방 계획에서 유럽 안보 이사회 설립을 촉구할 예정"
+  },
+  {
     "guid": "9765055",
     "title": "FinancialJuice: Senior German lawmaker Thorsten Frei: Energy price relief must come quickly - RTL TV",
     "link": "https://www.financialjuice.com/News/9765055/Senior-German-lawmaker-Thorsten-Frei-Energy-price-relief-must-come-quickly---RTL-TV.aspx?xy=rss",
