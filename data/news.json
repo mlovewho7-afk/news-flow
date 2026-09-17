@@ -1,5 +1,661 @@
 [
   {
+    "guid": "9767731",
+    "title": "FinancialJuice: French PM Lecornu: Without corrective measures the 2027 budget deficit would exceed 6.5% of GDP",
+    "link": "https://www.financialjuice.com/News/9767731/French-PM-Lecornu-Without-corrective-measures-the-2027-budget-deficit-would-exceed-65-of-GDP.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:52:15 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767730",
+    "title": "FinancialJuice: French PM Lecornu to Le Figaro: Increase in interest rates will cost additional €10 bln to finance debt servicing cost",
+    "link": "https://www.financialjuice.com/News/9767730/French-PM-Lecornu-to-Le-Figaro-Increase-in-interest-rates-will-cost-additional-10-bln-to-finance-debt-servicing-cost.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:51:28 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767728",
+    "title": "FinancialJuice: French PM sees budgetary effort of around €54b for 2027 - Le Figaro",
+    "link": "https://www.financialjuice.com/News/9767728/French-PM-sees-budgetary-effort-of-around-54b-for-2027---Le-Figaro.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:47:26 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767691",
+    "title": "FinancialJuice: EIA Natural Gas Change BCF Actual 44B (Forecast 48B, Previous 40B)",
+    "link": "https://www.financialjuice.com/News/9767691/EIA-Natural-Gas-Change-BCF-Actual-44B-Forecast-48B-Previous-40B.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:30:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767690",
+    "title": "FinancialJuice: Fear & Greed Index: 29/100 - Fear",
+    "link": "https://www.financialjuice.com/News/9767690/Fear--Greed-Index-29100---Fear.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:18:30 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767689",
+    "title": "FinancialJuice: Crypto Fear & Greed Index: 50/100 - Neutral",
+    "link": "https://www.financialjuice.com/News/9767689/Crypto-Fear--Greed-Index-50100---Neutral.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:17:47 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767667",
+    "title": "FinancialJuice: China's Foreign Minister Wang Yi US Secretary of State Rubio exchanged views on Middle East situation in phone call - Xinhua",
+    "link": "https://www.financialjuice.com/News/9767667/Chinas-Foreign-Minister-Wang-Yi-US-Secretary-of-State-Rubio-exchanged-views-on-Middle-East-situation-in-phone-call---Xinhua.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:06:25 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767666",
+    "title": "FinancialJuice: China's Foreign Minister Wang Yi: Two sides should strengthen communication, advance cooperation, manage differences, respect each other's core interests.",
+    "link": "https://www.financialjuice.com/News/9767666/Chinas-Foreign-Minister-Wang-Yi-Two-sides-should-strengthen-communication-advance-cooperation-manage-differences-respect-each-others-core-interests.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:06:04 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767665",
+    "title": "FinancialJuice: China's Foreign Minister Wang Yi: China-US relations overall moving along constructive, strategically stable track set by two leaders - Xinhua",
+    "link": "https://www.financialjuice.com/News/9767665/Chinas-Foreign-Minister-Wang-Yi-China-US-relations-overall-moving-along-constructive-strategically-stable-track-set-by-two-leaders---Xinhua.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:05:53 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767663",
+    "title": "FinancialJuice: China's Foreign Minister Wang Yi: Head-of-state diplomacy is the anchor of China-US relations.",
+    "link": "https://www.financialjuice.com/News/9767663/Chinas-Foreign-Minister-Wang-Yi-Head-of-state-diplomacy-is-the-anchor-of-China-US-relations.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:05:29 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767662",
+    "title": "FinancialJuice: China Foreign Minister: China, US should prepare well for next stage of high-level exchanges in spirit of equality, respect, reciprocity - Xinhua",
+    "link": "https://www.financialjuice.com/News/9767662/China-Foreign-Minister-China-US-should-prepare-well-for-next-stage-of-high-level-exchanges-in-spirit-of-equality-respect-reciprocity---Xinhua.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:05:07 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767661",
+    "title": "FinancialJuice: OpenAI near to solving another millennium problem - The Information",
+    "link": "https://www.financialjuice.com/News/9767661/OpenAI-near-to-solving-another-millennium-problem---The-Information.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:04:33 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767660",
+    "title": "FinancialJuice: China Foreign Minister Wang Yi held call with US Secretary of State Rubio - Chinese State Media",
+    "link": "https://www.financialjuice.com/News/9767660/China-Foreign-Minister-Wang-Yi-held-call-with-US-Secretary-of-State-Rubio---Chinese-State-Media.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:03:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767631",
+    "title": "FinancialJuice: US Pending Homes Index Actual 71.2 (Forecast -, Previous 71.2 ,Revision 71.0)",
+    "link": "https://www.financialjuice.com/News/9767631/US-Pending-Homes-Index-Actual-712-Forecast---Previous-712-Revision-710.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:00:15 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767630",
+    "title": "FinancialJuice: US Pending Home Sales Change MoM Actual 0.3% (Forecast -0.1%, Previous -2.3%)",
+    "link": "https://www.financialjuice.com/News/9767630/US-Pending-Home-Sales-Change-MoM-Actual-03-Forecast--01-Previous--23.aspx",
+    "pubDate": "Thu, 17 Sep 2026 14:00:00 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767629",
+    "title": "FinancialJuice: White House weighs US incubator for cyber research and startups",
+    "link": "https://www.financialjuice.com/News/9767629/White-House-weighs-US-incubator-for-cyber-research-and-startups.aspx",
+    "pubDate": "Thu, 17 Sep 2026 13:59:29 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767628",
+    "title": "FinancialJuice: Dutch chipmaker Nexperia: Will make chips with TATA electronics in India",
+    "link": "https://www.financialjuice.com/News/9767628/Dutch-chipmaker-Nexperia-Will-make-chips-with-TATA-electronics-in-India.aspx",
+    "pubDate": "Thu, 17 Sep 2026 13:57:03 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767619",
+    "title": "FinancialJuice: EU's Sefcovic to meet Chinese counterpart Wang on October 8-9 - EU Commission",
+    "link": "https://www.financialjuice.com/News/9767619/EUs-Sefcovic-to-meet-Chinese-counterpart-Wang-on-October-8-9---EU-Commission.aspx",
+    "pubDate": "Thu, 17 Sep 2026 13:43:18 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767618",
+    "title": "FinancialJuice: EU Commission team to travel to Beijing later in September.",
+    "link": "https://www.financialjuice.com/News/9767618/EU-Commission-team-to-travel-to-Beijing-later-in-September.aspx",
+    "pubDate": "Thu, 17 Sep 2026 13:39:38 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767617",
+    "title": "FinancialJuice: Nebius to raise GPU rates for Nvidia H100, H200, B200 and B300. $NVDA",
+    "link": "https://www.financialjuice.com/News/9767617/Nebius-to-raise-GPU-rates-for-Nvidia-H100-H200-B200-and-B300-NVDA.aspx",
+    "pubDate": "Thu, 17 Sep 2026 13:37:30 GMT",
+    "category": "Corporate",
+    "title_ko": null
+  },
+  {
+    "guid": "9767602",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9767602/MOO-Imbalance.aspx",
+    "pubDate": "Thu, 17 Sep 2026 13:30:35 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767587",
+    "title": "FinancialJuice: MUFG on FOMC - FJElite",
+    "link": "https://www.financialjuice.com/News/9767587/MUFG-on-FOMC---FJElite.aspx",
+    "pubDate": "Thu, 17 Sep 2026 13:06:37 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767586",
+    "title": "FinancialJuice: UniCredit Review on FOMC - FJElite",
+    "link": "https://www.financialjuice.com/News/9767586/UniCredit-Review-on-FOMC---FJElite.aspx",
+    "pubDate": "Thu, 17 Sep 2026 13:03:49 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767580",
+    "title": "FinancialJuice: JPMorgan Analyst on FOMC - FJElite",
+    "link": "https://www.financialjuice.com/News/9767580/JPMorgan-Analyst-on-FOMC---FJElite.aspx",
+    "pubDate": "Thu, 17 Sep 2026 13:01:12 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767567",
+    "title": "FinancialJuice: Microsoft, Marvell and UTIMACO to deliver industry-first secure, cloud-scale payments solution. $MSFT\n",
+    "link": "https://www.financialjuice.com/News/9767567/Microsoft-Marvell-and-UTIMACO-to-deliver-industry-first-secure-cloud-scale-payments-solution-MSFT.aspx",
+    "pubDate": "Thu, 17 Sep 2026 13:01:06 GMT",
+    "category": "Corporate",
+    "title_ko": null
+  },
+  {
+    "guid": "9767563",
+    "title": "FinancialJuice: Effective Fed Funds Rate 3.63% September 16 vs 3.63% September 15.",
+    "link": "https://www.financialjuice.com/News/9767563/Effective-Fed-Funds-Rate-363-September-16-vs-363-September-15.aspx",
+    "pubDate": "Thu, 17 Sep 2026 13:00:00 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767562",
+    "title": "FinancialJuice: Standard Chartered expects US Fed to deliver a 25 bps rate hike in December 2026 vs. the prior forecast of no policy change this year",
+    "link": "https://www.financialjuice.com/News/9767562/Standard-Chartered-expects-US-Fed-to-deliver-a-25-bps-rate-hike-in-December-2026-vs-the-prior-forecast-of-no-policy-change-this-year.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:58:08 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767561",
+    "title": "FinancialJuice: US Sentiment: Fed Keeps Credibility, China Convinces Iran to Rein in Houthis? - FJElite",
+    "link": "https://www.financialjuice.com/News/9767561/US-Sentiment-Fed-Keeps-Credibility-China-Convinces-Iran-to-Rein-in-Houthis---FJElite.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:52:55 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767539",
+    "title": "FinancialJuice: Saudi Civil Defense: Iran-backed Yemen's Houthis launched drone at Saudi Taif - State TV",
+    "link": "https://www.financialjuice.com/News/9767539/Saudi-Civil-Defense-Iran-backed-Yemens-Houthis-launched-drone-at-Saudi-Taif---State-TV.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:44:10 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767538",
+    "title": "FinancialJuice: Nvidia's CEO Huang: Nvidia to sell twice as many chips next year as this year. $NVDA",
+    "link": "https://www.financialjuice.com/News/9767538/Nvidias-CEO-Huang-Nvidia-to-sell-twice-as-many-chips-next-year-as-this-year-NVDA.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:33:19 GMT",
+    "category": "Corporate",
+    "title_ko": null
+  },
+  {
+    "guid": "9767515",
+    "title": "FinancialJuice: A high-ranking source told Al-Mayadeen that Riyadh has asked Oman to request a two-week truce from Ansar Allah (the Houthis) to allow for discussions on resolving the humanitarian crisis.",
+    "link": "https://www.financialjuice.com/News/9767515/A-high-ranking-source-told-Al-Mayadeen-that-Riyadh-has-asked-Oman-to-request-a-two-week-truce-from-Ansar-Allah-the-Houthis-to-allow-for-discussions-on-resolving-the-humanitarian-crisis.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:30:35 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767508",
+    "title": "FinancialJuice: Canadian PPI YoY Actual 13.5% (Forecast -, Previous 12.4%)",
+    "link": "https://www.financialjuice.com/News/9767508/Canadian-PPI-YoY-Actual-135-Forecast---Previous-124.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:30:17 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767507",
+    "title": "FinancialJuice: Canadian RMPI MoM Actual 3.1% (Forecast 0.8%, Previous -2.2%)",
+    "link": "https://www.financialjuice.com/News/9767507/Canadian-RMPI-MoM-Actual-31-Forecast-08-Previous--22.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:30:17 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767506",
+    "title": "FinancialJuice: Canadian PPI MoM Actual 1.3% (Forecast 0%, Previous 0.6%)",
+    "link": "https://www.financialjuice.com/News/9767506/Canadian-PPI-MoM-Actual-13-Forecast-0-Previous-06.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:30:17 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767509",
+    "title": "FinancialJuice: US Philly Fed Business Index Actual 37.8 (Forecast 32.1, Previous 47.4)",
+    "link": "https://www.financialjuice.com/News/9767509/US-Philly-Fed-Business-Index-Actual-378-Forecast-321-Previous-474.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:30:09 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767505",
+    "title": "FinancialJuice: US Continued Jobless Claims Actual 1.73M (Forecast 1.779M, Previous 1.774M, Revised 1.769M)",
+    "link": "https://www.financialjuice.com/News/9767505/US-Continued-Jobless-Claims-Actual-173M-Forecast-1779M-Previous-1774M-Revised-1769M.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:30:02 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767504",
+    "title": "FinancialJuice: US Building Permits Actual 1.394M (Forecast 1.408M, Previous 1.433M)",
+    "link": "https://www.financialjuice.com/News/9767504/US-Building-Permits-Actual-1394M-Forecast-1408M-Previous-1433M.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:30:02 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767503",
+    "title": "FinancialJuice: US Housing Starts Actual 1.275M (Forecast 1.32M, Previous 1.239M, Revised 1.309M)",
+    "link": "https://www.financialjuice.com/News/9767503/US-Housing-Starts-Actual-1275M-Forecast-132M-Previous-1239M-Revised-1309M.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:30:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767502",
+    "title": "FinancialJuice: US Initial Jobless Claims Actual 196k (Forecast 206.5k, Previous 206k)",
+    "link": "https://www.financialjuice.com/News/9767502/US-Initial-Jobless-Claims-Actual-196k-Forecast-2065k-Previous-206k.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:30:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767501",
+    "title": "FinancialJuice: US Building Permits Change MoM Actual -2.7% (Forecast -1.5%, Previous 4.3%)",
+    "link": "https://www.financialjuice.com/News/9767501/US-Building-Permits-Change-MoM-Actual--27-Forecast--15-Previous-43.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:30:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767500",
+    "title": "FinancialJuice: US Housing Starts Change MoM Actual -2.6% (Forecast 6.7%, Previous -12.4%, Revised -9%)",
+    "link": "https://www.financialjuice.com/News/9767500/US-Housing-Starts-Change-MoM-Actual--26-Forecast-67-Previous--124-Revised--9.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:30:00 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767481",
+    "title": "FinancialJuice: Pentagon and Lockheed agree to speed up new missile production.",
+    "link": "https://www.financialjuice.com/News/9767481/Pentagon-and-Lockheed-agree-to-speed-up-new-missile-production.aspx",
+    "pubDate": "Thu, 17 Sep 2026 12:07:46 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767452",
+    "title": "FinancialJuice: Secured overnight financing rate 3.62% September 16th vs 3.64% September 15th",
+    "link": "https://www.financialjuice.com/News/9767452/Secured-overnight-financing-rate-362-September-16th-vs-364-September-15th.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:59:46 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767459",
+    "title": "FinancialJuice: China has privately asked Iran to use its influence to help rein in Yemen's Houthis after Saudi appeal to Beijing, three Iranian - Sources.",
+    "link": "https://www.financialjuice.com/News/9767459/China-has-privately-asked-Iran-to-use-its-influence-to-help-rein-in-Yemens-Houthis-after-Saudi-appeal-to-Beijing-three-Iranian---Sources.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:58:44 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767451",
+    "title": "FinancialJuice: BoE Bank Rate Market Reactions - FJElite",
+    "link": "https://www.financialjuice.com/News/9767451/BoE-Bank-Rate-Market-Reactions---FJElite.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:57:22 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767414",
+    "title": "FinancialJuice: Israel's Prime Minister Netanyahu: We will eliminate Hamas; Hezbollah will fall too",
+    "link": "https://www.financialjuice.com/News/9767414/Israels-Prime-Minister-Netanyahu-We-will-eliminate-Hamas-Hezbollah-will-fall-too.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:29:36 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767413",
+    "title": "FinancialJuice: Israel's Prime Minister Netanyahu: We will topple the Iranian regime; it will fall",
+    "link": "https://www.financialjuice.com/News/9767413/Israels-Prime-Minister-Netanyahu-We-will-topple-the-Iranian-regime-it-will-fall.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:28:09 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767412",
+    "title": "FinancialJuice: ECB's Rehn: Can say we were in a good place on inflation given the latest shocks, signals situation not the same now",
+    "link": "https://www.financialjuice.com/News/9767412/ECBs-Rehn-Can-say-we-were-in-a-good-place-on-inflation-given-the-latest-shocks-signals-situation-not-the-same-now.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:26:01 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767391",
+    "title": "FinancialJuice: BoE's Dhingra: BoE's rate is materially higher than European peers",
+    "link": "https://www.financialjuice.com/News/9767391/BoEs-Dhingra-BoEs-rate-is-materially-higher-than-European-peers.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:03:42 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767389",
+    "title": "FinancialJuice: Traders trim BoE rate bets, price 38bps of hikes by year end.",
+    "link": "https://www.financialjuice.com/News/9767389/Traders-trim-BoE-rate-bets-price-38bps-of-hikes-by-year-end.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:03:23 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767388",
+    "title": "FinancialJuice: BoE Gov. Bailey: Gilt plan to take place gradually, predictably",
+    "link": "https://www.financialjuice.com/News/9767388/BoE-Gov-Bailey-Gilt-plan-to-take-place-gradually-predictably.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:03:11 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767387",
+    "title": "FinancialJuice: BoE: Chief economist Pill and MPC's Greene and Mann voted to raise rates to 4%",
+    "link": "https://www.financialjuice.com/News/9767387/BoE-Chief-economist-Pill-and-MPCs-Greene-and-Mann-voted-to-raise-rates-to-4.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:03:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767386",
+    "title": "FinancialJuice: BoE monetary policy summary repeats the July statement that there is \"little evidence so far\" of material second-round inflation effects",
+    "link": "https://www.financialjuice.com/News/9767386/BoE-monetary-policy-summary-repeats-the-July-statement-that-there-is-little-evidence-so-far-of-material-second-round-inflation-effects.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:02:38 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767384",
+    "title": "FinancialJuice: BoE: Inflation risks are tilted to the upside relative to the July central forecast",
+    "link": "https://www.financialjuice.com/News/9767384/BoE-Inflation-risks-are-tilted-to-the-upside-relative-to-the-July-central-forecast.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:02:12 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767381",
+    "title": "FinancialJuice: BoE: £120B of longest-dated bonds held to back banknotes",
+    "link": "https://www.financialjuice.com/News/9767381/BoE-120B-of-longest-dated-bonds-held-to-back-banknotes.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:01:47 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767380",
+    "title": "FinancialJuice: BoE revises up inflation outlook, sees 3.75% by end of 2026",
+    "link": "https://www.financialjuice.com/News/9767380/BoE-revises-up-inflation-outlook-sees-375-by-end-of-2026.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:01:37 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767379",
+    "title": "FinancialJuice: BoE's Taylor: Monetary policy is already firmly restrictive",
+    "link": "https://www.financialjuice.com/News/9767379/BoEs-Taylor-Monetary-policy-is-already-firmly-restrictive.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:01:29 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767378",
+    "title": "FinancialJuice: BoE's Dhingra: My view of the outlook is largely unchanged since July",
+    "link": "https://www.financialjuice.com/News/9767378/BoEs-Dhingra-My-view-of-the-outlook-is-largely-unchanged-since-July.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:01:21 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767360",
+    "title": "FinancialJuice: BoE's Ramsden: More risk of domestic pressures emerging",
+    "link": "https://www.financialjuice.com/News/9767360/BoEs-Ramsden-More-risk-of-domestic-pressures-emerging.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:01:09 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767358",
+    "title": "FinancialJuice: BoE Gov. Bailey: Loss of urgency to find solutions to conflict",
+    "link": "https://www.financialjuice.com/News/9767358/BoE-Gov-Bailey-Loss-of-urgency-to-find-solutions-to-conflict.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:01:00 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767357",
+    "title": "FinancialJuice: BoE’s Greene: Risk-management strategy is appropriate",
+    "link": "https://www.financialjuice.com/News/9767357/BoEs-Greene-Risk-management-strategy-is-appropriate.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:00:50 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767356",
+    "title": "FinancialJuice: BoE sees growth of 0.4% in Q3, vs 0.1% prior forecast",
+    "link": "https://www.financialjuice.com/News/9767356/BoE-sees-growth-of-04-in-Q3-vs-01-prior-forecast.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:00:41 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767353",
+    "title": "FinancialJuice: BoE: £222B of notes maturing before 2035 to be held to maturity",
+    "link": "https://www.financialjuice.com/News/9767353/BoE-222B-of-notes-maturing-before-2035-to-be-held-to-maturity.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:00:30 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767390",
+    "title": "FinancialJuice: BoE: MPC vote 9-0 to unwind QT at an average annual pace of £46 bln a year through to 2034.",
+    "link": "https://www.financialjuice.com/News/9767390/BoE-MPC-vote-9-0-to-unwind-QT-at-an-average-annual-pace-of-46-bln-a-year-through-to-2034.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:00:28 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767385",
+    "title": "FinancialJuice: BoE Gov. Bailey: Likely policy may have to tighten if conflict in MidEast persists for extended period, as appears likely, and if risk of second-round effects increases.",
+    "link": "https://www.financialjuice.com/News/9767385/BoE-Gov-Bailey-Likely-policy-may-have-to-tighten-if-conflict-in-MidEast-persists-for-extended-period-as-appears-likely-and-if-risk-of-second-round-effects-increases.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:00:24 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767338",
+    "title": "FinancialJuice: BoE MPC Vote Cut Actual 0 (Forecast 0, Previous 0)",
+    "link": "https://www.financialjuice.com/News/9767338/BoE-MPC-Vote-Cut-Actual-0-Forecast-0-Previous-0.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:00:16 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767337",
+    "title": "FinancialJuice: BoE MPC Vote Unchanged Actual 6 (Forecast 6, Previous 6)",
+    "link": "https://www.financialjuice.com/News/9767337/BoE-MPC-Vote-Unchanged-Actual-6-Forecast-6-Previous-6.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:00:16 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767336",
+    "title": "FinancialJuice: BoE MPC Vote Hike Actual 3 (Forecast 3, Previous 3)",
+    "link": "https://www.financialjuice.com/News/9767336/BoE-MPC-Vote-Hike-Actual-3-Forecast-3-Previous-3.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:00:16 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767335",
+    "title": "FinancialJuice: BoE Bank Rate Actual 3.75% (Forecast 3.75%, Previous 3.75%)",
+    "link": "https://www.financialjuice.com/News/9767335/BoE-Bank-Rate-Actual-375-Forecast-375-Previous-375.aspx",
+    "pubDate": "Thu, 17 Sep 2026 11:00:01 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767334",
+    "title": "FinancialJuice: Canada's PM Carney: Nobody will dictate who we strike agreements with",
+    "link": "https://www.financialjuice.com/News/9767334/Canadas-PM-Carney-Nobody-will-dictate-who-we-strike-agreements-with.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:47:09 GMT",
+    "category": "Breaking",
+    "title_ko": null
+  },
+  {
+    "guid": "9767318",
+    "title": "FinancialJuice: Canada PM Carney in reaction to Trump comments: A strong, more resilient Canada would be a more effective partner to the US",
+    "link": "https://www.financialjuice.com/News/9767318/Canada-PM-Carney-in-reaction-to-Trump-comments-A-strong-more-resilient-Canada-would-be-a-more-effective-partner-to-the-US.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:45:03 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767317",
+    "title": "FinancialJuice: Canada's PM Carney: What matters is substance rather than the term used for the relationship with EU",
+    "link": "https://www.financialjuice.com/News/9767317/Canadas-PM-Carney-What-matters-is-substance-rather-than-the-term-used-for-the-relationship-with-EU.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:40:42 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767316",
+    "title": "FinancialJuice: Canada's PM Carney: There will be a vote in the Canadian Parliament on the future relationship with the EU",
+    "link": "https://www.financialjuice.com/News/9767316/Canadas-PM-Carney-There-will-be-a-vote-in-the-Canadian-Parliament-on-the-future-relationship-with-the-EU.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:38:44 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767315",
+    "title": "FinancialJuice: Canada's PM Carney: Of course there will be debate in the Canadian parliament on EU associate membership",
+    "link": "https://www.financialjuice.com/News/9767315/Canadas-PM-Carney-Of-course-there-will-be-debate-in-the-Canadian-parliament-on-EU-associate-membership.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:37:09 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767285",
+    "title": "FinancialJuice: ECB's Rehn: Inflation outlook is somewhat mixed",
+    "link": "https://www.financialjuice.com/News/9767285/ECBs-Rehn-Inflation-outlook-is-somewhat-mixed.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:29:41 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767284",
+    "title": "FinancialJuice: ECB's Rehn: ECB rate hike last week was warranted",
+    "link": "https://www.financialjuice.com/News/9767284/ECBs-Rehn-ECB-rate-hike-last-week-was-warranted.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:29:27 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9767283",
+    "title": "FinancialJuice: ECB's Rehn: Euro-area economy has shown resilience",
+    "link": "https://www.financialjuice.com/News/9767283/ECBs-Rehn-Euro-area-economy-has-shown-resilience.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:19:16 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767278",
+    "title": "FinancialJuice: PBOC's Xuan discusses PayPal's China development with executive $PYPL",
+    "link": "https://www.financialjuice.com/News/9767278/PBOCs-Xuan-discusses-PayPals-China-development-with-executive-PYPL.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:16:06 GMT",
+    "category": "Corporate",
+    "title_ko": null
+  },
+  {
+    "guid": "9767270",
+    "title": "FinancialJuice: ECB's Rehn: No sign of second-round effects so far",
+    "link": "https://www.financialjuice.com/News/9767270/ECBs-Rehn-No-sign-of-second-round-effects-so-far.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:09:00 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767269",
+    "title": "FinancialJuice: Japan's PM Takaichi: Won't rely on deficit-financing bonds to fund food sales tax cut, we have prospects for funding resources",
+    "link": "https://www.financialjuice.com/News/9767269/Japans-PM-Takaichi-Wont-rely-on-deficit-financing-bonds-to-fund-food-sales-tax-cut-we-have-prospects-for-funding-resources.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:08:52 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767268",
+    "title": "FinancialJuice: ECB's Rehn: Middle-east conflict looks like it will be protracted",
+    "link": "https://www.financialjuice.com/News/9767268/ECBs-Rehn-Middle-east-conflict-looks-like-it-will-be-protracted.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:08:43 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9767267",
+    "title": "FinancialJuice: ECB's Rehn: Liberal democracies are being tested in many EU economies",
+    "link": "https://www.financialjuice.com/News/9767267/ECBs-Rehn-Liberal-democracies-are-being-tested-in-many-EU-economies.aspx",
+    "pubDate": "Thu, 17 Sep 2026 10:08:33 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
     "guid": "9767266",
     "title": "FinancialJuice: Canada's PM Carney: I am not proposing a third bloc in order to become a great-power rival",
     "link": "https://www.financialjuice.com/News/9767266/Canadas-PM-Carney-I-am-not-proposing-a-third-bloc-in-order-to-become-a-great-power-rival.aspx?xy=rss",
