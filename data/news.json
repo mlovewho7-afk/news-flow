@@ -1,5 +1,805 @@
 [
   {
+    "guid": "9768812",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9768812/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:21:26 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768811",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9768811/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:21:04 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768810",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9768810/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:20:45 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768809",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9768809/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:20:24 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768808",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9768808/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:20:03 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768807",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9768807/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:19:44 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768806",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9768806/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:19:20 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768805",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9768805/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:19:02 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768804",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9768804/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:16:59 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768803",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9768803/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:16:40 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9768802",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9768802/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:16:23 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768797",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9768797/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:16:03 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768796",
+    "title": "FinancialJuice: Japan Economy Minister Kiuchi: Expect BoJ to conduct appropriate monetary policy to sustainably, stably hit its price target, while working closely with government.",
+    "link": "https://www.financialjuice.com/News/9768796/Japan-Economy-Minister-Kiuchi-Expect-BoJ-to-conduct-appropriate-monetary-policy-to-sustainably-stably-hit-its-price-target-while-working-closely-with-government.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:15:33 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768792",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9768792/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:14:36 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768791",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9768791/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:14:16 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768790",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9768790/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:13:56 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768789",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9768789/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:13:33 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768788",
+    "title": "FinancialJuice: Westpac brings forward RBA rate-hike call to September from November.",
+    "link": "https://www.financialjuice.com/News/9768788/Westpac-brings-forward-RBA-rate-hike-call-to-September-from-November.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:02:02 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768763",
+    "title": "FinancialJuice: German PPI YoY Actual 4.6% (Forecast 3.9%, Previous 3.0%)",
+    "link": "https://www.financialjuice.com/News/9768763/German-PPI-YoY-Actual-46-Forecast-39-Previous-30.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:00:07 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768762",
+    "title": "FinancialJuice: German PPI MoM Actual 1.1% (Forecast 0.6%, Previous 1.1%)",
+    "link": "https://www.financialjuice.com/News/9768762/German-PPI-MoM-Actual-11-Forecast-06-Previous-11.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:00:06 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768761",
+    "title": "FinancialJuice: UK Core Retail Sales MoM Actual 0.6% (Forecast -0.2%, Previous -0.9%)",
+    "link": "https://www.financialjuice.com/News/9768761/UK-Core-Retail-Sales-MoM-Actual-06-Forecast--02-Previous--09.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:00:02 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768760",
+    "title": "FinancialJuice: UK Retail Sales YoY Actual 2.4% (Forecast 1.9%, Previous 1.6%)",
+    "link": "https://www.financialjuice.com/News/9768760/UK-Retail-Sales-YoY-Actual-24-Forecast-19-Previous-16.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:00:02 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768759",
+    "title": "FinancialJuice: UK Retail Sales MoM Actual 0.5% (Forecast -0.2%, Previous -0.5%)",
+    "link": "https://www.financialjuice.com/News/9768759/UK-Retail-Sales-MoM-Actual-05-Forecast--02-Previous--05.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:00:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768758",
+    "title": "FinancialJuice: UK Core Retail Sales YoY Actual 2.7% (Forecast 1.9%, Previous 2.3%)",
+    "link": "https://www.financialjuice.com/News/9768758/UK-Core-Retail-Sales-YoY-Actual-27-Forecast-19-Previous-23.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 06:00:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768747",
+    "title": "FinancialJuice: SK Hynix's Solidigm weighs first US NAND flash plant - Yonhap",
+    "link": "https://www.financialjuice.com/News/9768747/SK-Hynixs-Solidigm-weighs-first-US-NAND-flash-plant---Yonhap.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 05:43:47 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768746",
+    "title": "FinancialJuice: ECB's Vujcic: Reserve requirements allow ECB to sterilise some excess liquidity in simple, inexpensive way.",
+    "link": "https://www.financialjuice.com/News/9768746/ECBs-Vujcic-Reserve-requirements-allow-ECB-to-sterilise-some-excess-liquidity-in-simple-inexpensive-way.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 05:31:21 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768736",
+    "title": "FinancialJuice: ECB's Vujcic: We do not look solely at energy prices, but at much broader set of data.",
+    "link": "https://www.financialjuice.com/News/9768736/ECBs-Vujcic-We-do-not-look-solely-at-energy-prices-but-at-much-broader-set-of-data.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 05:31:08 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768734",
+    "title": "FinancialJuice: ECB's Vujcic: If inflation remains high through autumn and affects consumers, that will dampen GDP.",
+    "link": "https://www.financialjuice.com/News/9768734/ECBs-Vujcic-If-inflation-remains-high-through-autumn-and-affects-consumers-that-will-dampen-GDP.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 05:31:01 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768732",
+    "title": "FinancialJuice: ECB's Vujcic: Market pricing of rate path is mainly consequence of rising energy prices.",
+    "link": "https://www.financialjuice.com/News/9768732/ECBs-Vujcic-Market-pricing-of-rate-path-is-mainly-consequence-of-rising-energy-prices.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 05:30:52 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768728",
+    "title": "FinancialJuice: Japan on track to secure enough oil for November - Refiners",
+    "link": "https://www.financialjuice.com/News/9768728/Japan-on-track-to-secure-enough-oil-for-November---Refiners.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 05:22:35 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768711",
+    "title": "FinancialJuice: Russia also strikes postal logistics hub near Ukraine's Odesa: Russian news agencies cite defense ministry",
+    "link": "https://www.financialjuice.com/News/9768711/Russia-also-strikes-postal-logistics-hub-near-Ukraines-Odesa-Russian-news-agencies-cite-defense-ministry.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 05:00:54 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768707",
+    "title": "FinancialJuice: Sterling/yen gbpjpy rises 0.82% to 209.93 yen",
+    "link": "https://www.financialjuice.com/News/9768707/Sterlingyen-gbpjpy-rises-082-to-20993-yen.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:59:56 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768706",
+    "title": "FinancialJuice: Russia strikes cargo ship in Ukraine's Chornomorsk: Russian news agencies cite defense ministry",
+    "link": "https://www.financialjuice.com/News/9768706/Russia-strikes-cargo-ship-in-Ukraines-Chornomorsk-Russian-news-agencies-cite-defense-ministry.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:59:55 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768658",
+    "title": "FinancialJuice: Aussie/yen AUDJPY rises 1.04% to 112.02 yen",
+    "link": "https://www.financialjuice.com/News/9768658/Aussieyen-AUDJPY-rises-104-to-11202-yen.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:05:22 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768657",
+    "title": "FinancialJuice: euro/yen rises 0.82% to 180.43 yen",
+    "link": "https://www.financialjuice.com/News/9768657/euroyen-rises-082-to-18043-yen.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:05:22 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768656",
+    "title": "FinancialJuice: Dollar/yen at highest level since Sept. 3",
+    "link": "https://www.financialjuice.com/News/9768656/Dollaryen-at-highest-level-since-Sept-3.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:05:21 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768655",
+    "title": "FinancialJuice: Dollar/yen extends gains after BoJ decision, up 0.68% at 157 yen",
+    "link": "https://www.financialjuice.com/News/9768655/Dollaryen-extends-gains-after-BoJ-decision-up-068-at-157-yen.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:05:19 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768649",
+    "title": "FinancialJuice: Hyundai Motor CEO: Chinese rivals' innovation, advancement and technology are unbelievable",
+    "link": "https://www.financialjuice.com/News/9768649/Hyundai-Motor-CEO-Chinese-rivals-innovation-advancement-and-technology-are-unbelievable.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:04:11 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768648",
+    "title": "FinancialJuice: Hyundai Motor CEO: company needs time to collect data from millions of cars before debuting own self-driving tech",
+    "link": "https://www.financialjuice.com/News/9768648/Hyundai-Motor-CEO-company-needs-time-to-collect-data-from-millions-of-cars-before-debuting-own-self-driving-tech.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:04:11 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768647",
+    "title": "FinancialJuice: Hyundai Motor CEO: US could face spike in Chinese imports without tariffs, other protections",
+    "link": "https://www.financialjuice.com/News/9768647/Hyundai-Motor-CEO-US-could-face-spike-in-Chinese-imports-without-tariffs-other-protections.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:04:11 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768646",
+    "title": "FinancialJuice: Venezuela nears deal to transfer $4bn gold reserve to New York: FT",
+    "link": "https://www.financialjuice.com/News/9768646/Venezuela-nears-deal-to-transfer-4bn-gold-reserve-to-New-York-FT.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:02:26 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768645",
+    "title": "FinancialJuice: Pakistan army chief urges Iran to rein in Houthis: FT",
+    "link": "https://www.financialjuice.com/News/9768645/Pakistan-army-chief-urges-Iran-to-rein-in-Houthis-FT.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 04:02:03 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768555",
+    "title": "FinancialJuice: Japan PM Takaichi, Trump organizing summit meeting: NHK reports",
+    "link": "https://www.financialjuice.com/News/9768555/Japan-PM-Takaichi-Trump-organizing-summit-meeting-NHK-reports.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 03:11:59 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768554",
+    "title": "FinancialJuice: China's August diesel exports reach highest since March 2024 at 1.33 million metric tons - source records",
+    "link": "https://www.financialjuice.com/News/9768554/Chinas-August-diesel-exports-reach-highest-since-March-2024-at-133-million-metric-tons---source-records.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 03:11:47 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768553",
+    "title": "FinancialJuice: China’s August jet fuel exports reach record 2.55 million metric tons - source records",
+    "link": "https://www.financialjuice.com/News/9768553/Chinas-August-jet-fuel-exports-reach-record-255-million-metric-tons---source-records.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 03:11:37 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768552",
+    "title": "FinancialJuice: Barclays expects BoE to raise bank rate by 25bp in November and again in February 2027",
+    "link": "https://www.financialjuice.com/News/9768552/Barclays-expects-BoE-to-raise-bank-rate-by-25bp-in-November-and-again-in-February-2027.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 03:09:47 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768536",
+    "title": "FinancialJuice: BOJ: CPI growth rate likely to ease toward about 2% in second half of July 2026 outlook projection period",
+    "link": "https://www.financialjuice.com/News/9768536/BOJ-CPI-growth-rate-likely-to-ease-toward-about-2-in-second-half-of-July-2026-outlook-projection-period.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 03:00:17 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768535",
+    "title": "FinancialJuice: S.Korea president Lee: Additional investments by South Korean firms in US chip projects hinge on company decisions",
+    "link": "https://www.financialjuice.com/News/9768535/SKorea-president-Lee-Additional-investments-by-South-Korean-firms-in-US-chip-projects-hinge-on-company-decisions.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:59:30 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768534",
+    "title": "FinancialJuice: BOJ: decided to modify level of monetary support to sustainably and stably achieve price target",
+    "link": "https://www.financialjuice.com/News/9768534/BOJ-decided-to-modify-level-of-monetary-support-to-sustainably-and-stably-achieve-price-target.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:58:45 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768533",
+    "title": "FinancialJuice: BOJ: recent yen depreciation likely to push prices higher",
+    "link": "https://www.financialjuice.com/News/9768533/BOJ-recent-yen-depreciation-likely-to-push-prices-higher.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:58:29 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768532",
+    "title": "FinancialJuice: BoJ: risk that underlying inflation may exceed 2% target",
+    "link": "https://www.financialjuice.com/News/9768532/BoJ-risk-that-underlying-inflation-may-exceed-2-target.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:58:13 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768531",
+    "title": "FinancialJuice: BOJ: must stay alert to risks, especially Middle East developments, oil demand, FX volatility and their effects on economy, prices",
+    "link": "https://www.financialjuice.com/News/9768531/BOJ-must-stay-alert-to-risks-especially-Middle-East-developments-oil-demand-FX-volatility-and-their-effects-on-economy-prices.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:57:58 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9768530",
+    "title": "FinancialJuice: Swiss franc/yen CHFJPY rises 0.66% to 189.89 yen",
+    "link": "https://www.financialjuice.com/News/9768530/Swiss-francyen-CHFJPY-rises-066-to-18989-yen.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:57:45 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768529",
+    "title": "FinancialJuice: Sterling/yen gbpjpy rises 0.51% to 209.29 yen",
+    "link": "https://www.financialjuice.com/News/9768529/Sterlingyen-gbpjpy-rises-051-to-20929-yen.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:57:44 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768528",
+    "title": "FinancialJuice: Kiwvyen NZDJPY rises 0.20% to 89.55 yen",
+    "link": "https://www.financialjuice.com/News/9768528/Kiwvyen-NZDJPY-rises-020-to-8955-yen.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:57:43 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768527",
+    "title": "FinancialJuice: Korean won/yen up 0.18% at 0.11 yen",
+    "link": "https://www.financialjuice.com/News/9768527/Korean-wonyen-up-018-at-011-yen.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:57:43 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768526",
+    "title": "FinancialJuice: Euro/yen rises 0.48% to 179.83 yen",
+    "link": "https://www.financialjuice.com/News/9768526/Euroyen-rises-048-to-17983-yen.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:57:42 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768525",
+    "title": "FinancialJuice: Aussie/yen AUD/JPY rises 0.58% to 111.51 yen",
+    "link": "https://www.financialjuice.com/News/9768525/Aussieyen-AUDJPY-rises-058-to-11151-yen.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:57:41 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9768524",
+    "title": "FinancialJuice: BOJ: Economy, prices tracking baseline projection in outlook report",
+    "link": "https://www.financialjuice.com/News/9768524/BOJ-Economy-prices-tracking-baseline-projection-in-outlook-report.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:57:32 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768523",
+    "title": "FinancialJuice: BOJ: impact of higher import costs surfacing as wage hikes pass through to selling prices",
+    "link": "https://www.financialjuice.com/News/9768523/BOJ-impact-of-higher-import-costs-surfacing-as-wage-hikes-pass-through-to-selling-prices.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:57:17 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768522",
+    "title": "FinancialJuice: BOJ: inflation expectations keep rising, core inflation nears 2%",
+    "link": "https://www.financialjuice.com/News/9768522/BOJ-inflation-expectations-keep-rising-core-inflation-nears-2.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:57:15 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768521",
+    "title": "FinancialJuice: BoJ: companies keep transferring expenses from higher wages",
+    "link": "https://www.financialjuice.com/News/9768521/BoJ-companies-keep-transferring-expenses-from-higher-wages.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:56:59 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768520",
+    "title": "FinancialJuice: BoJ: CPI has been moderately increasing recently, staying between 1.5% and 2.0%",
+    "link": "https://www.financialjuice.com/News/9768520/BoJ-CPI-has-been-moderately-increasing-recently-staying-between-15-and-20.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:56:56 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768519",
+    "title": "FinancialJuice: BOJ: price pressures in business-to-business trade spreading to consumer prices",
+    "link": "https://www.financialjuice.com/News/9768519/BOJ-price-pressures-in-business-to-business-trade-spreading-to-consumer-prices.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:56:45 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768518",
+    "title": "FinancialJuice: BoJ: Wholesale inflation stays high on oil, forex, and all-demand impact",
+    "link": "https://www.financialjuice.com/News/9768518/BoJ-Wholesale-inflation-stays-high-on-oil-forex-and-all-demand-impact.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:56:20 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768517",
+    "title": "FinancialJuice: BOJ's Sato: current economic and price trends have not significantly accelerated, so raising rates is not suitable",
+    "link": "https://www.financialjuice.com/News/9768517/BOJs-Sato-current-economic-and-price-trends-have-not-significantly-accelerated-so-raising-rates-is-not-suitable.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:56:17 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768516",
+    "title": "FinancialJuice: Dollar/yen rises 0.4% to 156.56 yen after BoJ raises rates 25 basis points",
+    "link": "https://www.financialjuice.com/News/9768516/Dollaryen-rises-04-to-15656-yen-after-BoJ-raises-rates-25-basis-points.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:56:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768515",
+    "title": "FinancialJuice: BOJ: must prevent underlying inflation from exceeding 2% target",
+    "link": "https://www.financialjuice.com/News/9768515/BOJ-must-prevent-underlying-inflation-from-exceeding-2-target.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:55:53 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768514",
+    "title": "FinancialJuice: BoJ's Asada says desirable for bank to maintain money market operations guideline",
+    "link": "https://www.financialjuice.com/News/9768514/BoJs-Asada-says-desirable-for-bank-to-maintain-money-market-operations-guideline.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:55:43 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768513",
+    "title": "FinancialJuice: S. Korea president Lee: will discuss measures to protect South Korea's interests, aid both US-S. Korea relations",
+    "link": "https://www.financialjuice.com/News/9768513/S-Korea-president-Lee-will-discuss-measures-to-protect-South-Koreas-interests-aid-both-US-S-Korea-relations.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:55:35 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768512",
+    "title": "FinancialJuice: BOJ: stabilising core inflation near 2% is becoming crucial",
+    "link": "https://www.financialjuice.com/News/9768512/BOJ-stabilising-core-inflation-near-2-is-becoming-crucial.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:55:32 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768511",
+    "title": "FinancialJuice: BOJ's Asada said: recent CPI rise below 2% means economic conditions aren't necessarily robust",
+    "link": "https://www.financialjuice.com/News/9768511/BOJs-Asada-said-recent-CPI-rise-below-2-means-economic-conditions-arent-necessarily-robust.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:55:28 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768510",
+    "title": "FinancialJuice: BOJ: need to monitor impact of global AI demand, currency on Japan’s economy, prices",
+    "link": "https://www.financialjuice.com/News/9768510/BOJ-need-to-monitor-impact-of-global-AI-demand-currency-on-Japans-economy-prices.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:55:20 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768509",
+    "title": "FinancialJuice: BOJ: Core inflation likely to steadily increase, hit level aligned with 2% goal from latter half of fiscal 2026 through fiscal 2027",
+    "link": "https://www.financialjuice.com/News/9768509/BOJ-Core-inflation-likely-to-steadily-increase-hit-level-aligned-with-2-goal-from-latter-half-of-fiscal-2026-through-fiscal-2027.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:55:17 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768508",
+    "title": "FinancialJuice: BOJ: accommodative monetary setting will continue after policy rate adjustment, supporting economic activity",
+    "link": "https://www.financialjuice.com/News/9768508/BOJ-accommodative-monetary-setting-will-continue-after-policy-rate-adjustment-supporting-economic-activity.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:55:13 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768507",
+    "title": "FinancialJuice: BOJ: need to monitor impact of Middle East situation on financial, forex markets, economy, prices",
+    "link": "https://www.financialjuice.com/News/9768507/BOJ-need-to-monitor-impact-of-Middle-East-situation-on-financial-forex-markets-economy-prices.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:55:10 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9768506",
+    "title": "FinancialJuice: BOJ: will carry out monetary policy as suitable from viewpoint of sustainably, steadily reaching inflation target",
+    "link": "https://www.financialjuice.com/News/9768506/BOJ-will-carry-out-monetary-policy-as-suitable-from-viewpoint-of-sustainably-steadily-reaching-inflation-target.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:55:06 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768659",
+    "title": "FinancialJuice: BoJ Rate Decision Actual 1.25% (Forecast 1.25%, Previous 1%)",
+    "link": "https://www.financialjuice.com/News/9768659/BoJ-Rate-Decision-Actual-125-Forecast-125-Previous-1.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:55:04 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768505",
+    "title": "FinancialJuice: BOJ: will examine impact of Middle East events, oil demand and currency on economy, prices, in policy decisions",
+    "link": "https://www.financialjuice.com/News/9768505/BOJ-will-examine-impact-of-Middle-East-events-oil-demand-and-currency-on-economy-prices-in-policy-decisions.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:55:00 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768504",
+    "title": "FinancialJuice: S.Korea President Lee: close to deal on US investment",
+    "link": "https://www.financialjuice.com/News/9768504/SKorea-President-Lee-close-to-deal-on-US-investment.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:54:52 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768503",
+    "title": "FinancialJuice: BOJ: will weigh timing, speed of rate hikes while assessing chances of achieving baseline outlook and risks",
+    "link": "https://www.financialjuice.com/News/9768503/BOJ-will-weigh-timing-speed-of-rate-hikes-while-assessing-chances-of-achieving-baseline-outlook-and-risks.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:54:44 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768502",
+    "title": "FinancialJuice: BOJ: Japan's economy to expand moderately",
+    "link": "https://www.financialjuice.com/News/9768502/BOJ-Japans-economy-to-expand-moderately.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:54:40 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768501",
+    "title": "FinancialJuice: BOJ: will keep raising interest rates amid economic, price trends and financial conditions",
+    "link": "https://www.financialjuice.com/News/9768501/BOJ-will-keep-raising-interest-rates-amid-economic-price-trends-and-financial-conditions.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:54:35 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768500",
+    "title": "FinancialJuice: S. Korea President Lee: There were aspects that were hard to agree on",
+    "link": "https://www.financialjuice.com/News/9768500/S-Korea-President-Lee-There-were-aspects-that-were-hard-to-agree-on.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:54:33 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768499",
+    "title": "FinancialJuice: BoJ: inflation expectations are rising moderately",
+    "link": "https://www.financialjuice.com/News/9768499/BoJ-inflation-expectations-are-rising-moderately.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:54:32 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768498",
+    "title": "FinancialJuice: BOJ board members Asada, Sato opposed rate decision",
+    "link": "https://www.financialjuice.com/News/9768498/BOJ-board-members-Asada-Sato-opposed-rate-decision.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:54:22 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768497",
+    "title": "FinancialJuice: S.Korea President Lee: issue of commercial logic turned sticking point in talks",
+    "link": "https://www.financialjuice.com/News/9768497/SKorea-President-Lee-issue-of-commercial-logic-turned-sticking-point-in-talks.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:54:19 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768496",
+    "title": "FinancialJuice: BoJ sets rate policy by 7-2 vote",
+    "link": "https://www.financialjuice.com/News/9768496/BoJ-sets-rate-policy-by-7-2-vote.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:54:13 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768495",
+    "title": "FinancialJuice: BOJ increases short-term interest rate target to 1.25% from 1%",
+    "link": "https://www.financialjuice.com/News/9768495/BOJ-increases-short-term-interest-rate-target-to-125-from-1.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:54:09 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9768494",
+    "title": "FinancialJuice: S.Korea President Lee: US investment matter impacts bilateral ties in a complex way",
+    "link": "https://www.financialjuice.com/News/9768494/SKorea-President-Lee-US-investment-matter-impacts-bilateral-ties-in-a-complex-way.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:52:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768493",
+    "title": "FinancialJuice: S. Korea President Lee: shortfalls evident in single-stock leveraged ETFs",
+    "link": "https://www.financialjuice.com/News/9768493/S-Korea-President-Lee-shortfalls-evident-in-single-stock-leveraged-ETFs.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:51:09 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768492",
+    "title": "FinancialJuice: S.Korea president Lee: single-stock leveraged ETFs came in near final phase of stock rally",
+    "link": "https://www.financialjuice.com/News/9768492/SKorea-president-Lee-single-stock-leveraged-ETFs-came-in-near-final-phase-of-stock-rally.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:50:23 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768466",
+    "title": "FinancialJuice: China's offshore yuan hits strongest level since July 2022",
+    "link": "https://www.financialjuice.com/News/9768466/Chinas-offshore-yuan-hits-strongest-level-since-July-2022.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:17:52 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9768465",
+    "title": "FinancialJuice: S.Korea President Lee: S.Korea has role in any US-N.Korea negotiations",
+    "link": "https://www.financialjuice.com/News/9768465/SKorea-President-Lee-SKorea-has-role-in-any-US-NKorea-negotiations.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:16:28 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768462",
+    "title": "FinancialJuice: S.Korea President Lee: Trump-Kim talks tough but not impossible",
+    "link": "https://www.financialjuice.com/News/9768462/SKorea-President-Lee-Trump-Kim-talks-tough-but-not-impossible.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:15:39 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768461",
+    "title": "FinancialJuice: S.Korea president Lee: Trump seeks talks with N.Korea",
+    "link": "https://www.financialjuice.com/News/9768461/SKorea-president-Lee-Trump-seeks-talks-with-NKorea.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:15:22 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768460",
+    "title": "FinancialJuice: S.Korea President Lee: Uncertainty remains over Trump-Kim talks",
+    "link": "https://www.financialjuice.com/News/9768460/SKorea-President-Lee-Uncertainty-remains-over-Trump-Kim-talks.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:15:09 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768459",
+    "title": "FinancialJuice: S.Korea President Lee: Any US-N.Korea Talks Will Be Crucial to Korean Peninsula",
+    "link": "https://www.financialjuice.com/News/9768459/SKorea-President-Lee-Any-US-NKorea-Talks-Will-Be-Crucial-to-Korean-Peninsula.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:14:32 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768458",
+    "title": "FinancialJuice: South Korea president Lee: reviewing whether to boost involvement beyond current level over Hormuz issue",
+    "link": "https://www.financialjuice.com/News/9768458/South-Korea-president-Lee-reviewing-whether-to-boost-involvement-beyond-current-level-over-Hormuz-issue.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:11:37 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9768457",
+    "title": "FinancialJuice: S.Korea President Lee: limited actions to safeguard South Korean economic interests, citizens possible",
+    "link": "https://www.financialjuice.com/News/9768457/SKorea-President-Lee-limited-actions-to-safeguard-South-Korean-economic-interests-citizens-possible.aspx?xy=rss",
+    "pubDate": "Fri, 18 Sep 2026 02:10:56 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
     "guid": "9768349",
     "title": "FinancialJuice: RBA Governor Bullock: forward-looking labor market gauges remain steady",
     "link": "https://www.financialjuice.com/News/9768349/RBA-Governor-Bullock-forward-looking-labor-market-gauges-remain-steady.aspx",
