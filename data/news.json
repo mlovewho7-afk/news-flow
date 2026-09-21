@@ -1,5 +1,805 @@
 [
   {
+    "guid": "9771970",
+    "title": "FinancialJuice: Russia set to extend Diesel export ban beyond the end of September.\n",
+    "link": "https://www.financialjuice.com/News/9771970/Russia-set-to-extend-Diesel-export-ban-beyond-the-end-of-September.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:55:41 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771969",
+    "title": "FinancialJuice: Yemen Houthi Spokesman: The Saudi regime provided its airports and bases to the Zionists, allowing Israeli spy planes to fly towards Yemeni territory - Tasnim News.",
+    "link": "https://www.financialjuice.com/News/9771969/Yemen-Houthi-Spokesman-The-Saudi-regime-provided-its-airports-and-bases-to-the-Zionists-allowing-Israeli-spy-planes-to-fly-towards-Yemeni-territory---Tasnim-News.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:54:04 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771956",
+    "title": "FinancialJuice: New York to require AI developers to report safety incidents in 72 hours.",
+    "link": "https://www.financialjuice.com/News/9771956/New-York-to-require-AI-developers-to-report-safety-incidents-in-72-hours.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:44:41 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771955",
+    "title": "FinancialJuice: New York to require large AI developers to register with the state in November.",
+    "link": "https://www.financialjuice.com/News/9771955/New-York-to-require-large-AI-developers-to-register-with-the-state-in-November.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:43:46 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771939",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9771939/MOO-Imbalance.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:30:36 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771938",
+    "title": "FinancialJuice: Yemen's President requested US support for the government against the Houthis, but Trump made no pledge of military support - Two Sources",
+    "link": "https://www.financialjuice.com/News/9771938/Yemens-President-requested-US-support-for-the-government-against-the-Houthis-but-Trump-made-no-pledge-of-military-support---Two-Sources.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:27:09 GMT",
+    "category": "Breaking",
+    "title_ko": null
+  },
+  {
+    "guid": "9771937",
+    "title": "FinancialJuice: Trump spoke via phone with Yemeni President Rashad Al-alimi on Sunday - Four Sources.",
+    "link": "https://www.financialjuice.com/News/9771937/Trump-spoke-via-phone-with-Yemeni-President-Rashad-Al-alimi-on-Sunday---Four-Sources.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:26:30 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771936",
+    "title": "FinancialJuice: Société Générale CEO Krupa: France has significant macroeconomic challenges, but also strengths in energy, education, and start-ups.\n",
+    "link": "https://www.financialjuice.com/News/9771936/Soci%c3%a9t%c3%a9-G%c3%a9n%c3%a9rale-CEO-Krupa-France-has-significant-macroeconomic-challenges-but-also-strengths-in-energy-education-and-start-ups.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:25:56 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771923",
+    "title": "FinancialJuice: Googlebook ships October 4th in the US via Google Store and Best Buy $GOOGL",
+    "link": "https://www.financialjuice.com/News/9771923/Googlebook-ships-October-4th-in-the-US-via-Google-Store-and-Best-Buy-GOOGL.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:03:38 GMT",
+    "category": "Corporate",
+    "title_ko": null
+  },
+  {
+    "guid": "9771922",
+    "title": "FinancialJuice: Google unveils $899-plus Googlebook AI laptops. $GOOGL",
+    "link": "https://www.financialjuice.com/News/9771922/Google-unveils-899-plus-Googlebook-AI-laptops-GOOGL.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:02:37 GMT",
+    "category": "Corporate",
+    "title_ko": null
+  },
+  {
+    "guid": "9771921",
+    "title": "FinancialJuice: Fed's Goolsbee: Historically, US long rates are not particularly high; I don't think it reflects a loss of confidence in us.",
+    "link": "https://www.financialjuice.com/News/9771921/Feds-Goolsbee-Historically-US-long-rates-are-not-particularly-high-I-dont-think-it-reflects-a-loss-of-confidence-in-us.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:02:17 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771920",
+    "title": "FinancialJuice: Fed's Goolsbee: Without a summary of economic projections, the world will still be looking to understand officials' reaction functions.",
+    "link": "https://www.financialjuice.com/News/9771920/Feds-Goolsbee-Without-a-summary-of-economic-projections-the-world-will-still-be-looking-to-understand-officials-reaction-functions.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:02:06 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771919",
+    "title": "FinancialJuice: Fed's Goolsbee: The job of a central banker is not to respond to markets or the president, but to economic conditions.",
+    "link": "https://www.financialjuice.com/News/9771919/Feds-Goolsbee-The-job-of-a-central-banker-is-not-to-respond-to-markets-or-the-president-but-to-economic-conditions.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:01:56 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771916",
+    "title": "FinancialJuice: Fed's Goolsbee: We should be open to making the SEP more informative.",
+    "link": "https://www.financialjuice.com/News/9771916/Feds-Goolsbee-We-should-be-open-to-making-the-SEP-more-informative.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:01:43 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771912",
+    "title": "FinancialJuice: Fed's Goolsbee: Components of inflation will matter to the Fed's analysis, with services inflation not seen as tied to oil price shock but as a product of strong demand.",
+    "link": "https://www.financialjuice.com/News/9771912/Feds-Goolsbee-Components-of-inflation-will-matter-to-the-Feds-analysis-with-services-inflation-not-seen-as-tied-to-oil-price-shock-but-as-a-product-of-strong-demand.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:01:40 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771900",
+    "title": "FinancialJuice: Fed's Goolsbee: The Fed remains very credible, everyone takes the job extremely seriously.",
+    "link": "https://www.financialjuice.com/News/9771900/Feds-Goolsbee-The-Fed-remains-very-credible-everyone-takes-the-job-extremely-seriously.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:01:26 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771898",
+    "title": "FinancialJuice: Fed's Goolsbee: Business contacts say labor market is getting tighter, alternate measures tell the same story.",
+    "link": "https://www.financialjuice.com/News/9771898/Feds-Goolsbee-Business-contacts-say-labor-market-is-getting-tighter-alternate-measures-tell-the-same-story.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:01:22 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771897",
+    "title": "FinancialJuice: Fed's Goolsbee: Month-to-month job growth is not a good measure of health for the labor market when there is doubt about population growth due to immigration policies.",
+    "link": "https://www.financialjuice.com/News/9771897/Feds-Goolsbee-Month-to-month-job-growth-is-not-a-good-measure-of-health-for-the-labor-market-when-there-is-doubt-about-population-growth-due-to-immigration-policies.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:01:11 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771896",
+    "title": "FinancialJuice: Fed's Goolsbee: Current unemployment rate is pretty close to full employment.",
+    "link": "https://www.financialjuice.com/News/9771896/Feds-Goolsbee-Current-unemployment-rate-is-pretty-close-to-full-employment.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:01:09 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771895",
+    "title": "FinancialJuice: Fed's Goolsbee: The only choice the Fed has if supply shock inflation proves persistent is to reduce aggregate demand.",
+    "link": "https://www.financialjuice.com/News/9771895/Feds-Goolsbee-The-only-choice-the-Fed-has-if-supply-shock-inflation-proves-persistent-is-to-reduce-aggregate-demand.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:00:51 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771894",
+    "title": "FinancialJuice: Fed's Goolsbee: I am not thinking about any coming hikes as reversing last year's cuts.",
+    "link": "https://www.financialjuice.com/News/9771894/Feds-Goolsbee-I-am-not-thinking-about-any-coming-hikes-as-reversing-last-years-cuts.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:00:50 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771893",
+    "title": "FinancialJuice: Fed's Goolsbee: The Fed is now more in the action scenario given the mix of inflation pressures.",
+    "link": "https://www.financialjuice.com/News/9771893/Feds-Goolsbee-The-Fed-is-now-more-in-the-action-scenario-given-the-mix-of-inflation-pressures.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:00:39 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771892",
+    "title": "FinancialJuice: Fed's Goolsbee: District contacts are relaying concerns that sound like traditional demand overheating.",
+    "link": "https://www.financialjuice.com/News/9771892/Feds-Goolsbee-District-contacts-are-relaying-concerns-that-sound-like-traditional-demand-overheating.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:00:35 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771888",
+    "title": "FinancialJuice: Fed's Goolsbee: Inflation data earlier this year seemed to show supply shocks waning; now some of it is coming from demand.",
+    "link": "https://www.financialjuice.com/News/9771888/Feds-Goolsbee-Inflation-data-earlier-this-year-seemed-to-show-supply-shocks-waning-now-some-of-it-is-coming-from-demand.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:00:23 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771886",
+    "title": "FinancialJuice: Effective Fed Funds rate: 3.88% September 18th vs 3.88% September 17th.",
+    "link": "https://www.financialjuice.com/News/9771886/Effective-Fed-Funds-rate-388-September-18th-vs-388-September-17th.aspx",
+    "pubDate": "Mon, 21 Sep 2026 13:00:15 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771885",
+    "title": "FinancialJuice: USTR Greer interview with Bloomberg TV concludes.",
+    "link": "https://www.financialjuice.com/News/9771885/USTR-Greer-interview-with-Bloomberg-TV-concludes.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:51:11 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771884",
+    "title": "FinancialJuice: USTR Greer: Canada has slow growth, and I like our model better.",
+    "link": "https://www.financialjuice.com/News/9771884/USTR-Greer-Canada-has-slow-growth-and-I-like-our-model-better.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:49:59 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771883",
+    "title": "FinancialJuice: USTR Greer: Canada wants to double down on globalization, and we don't.",
+    "link": "https://www.financialjuice.com/News/9771883/USTR-Greer-Canada-wants-to-double-down-on-globalization-and-we-dont.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:49:30 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771882",
+    "title": "FinancialJuice: USTR Greer contrasts positive Mexico talks with Canada differences.",
+    "link": "https://www.financialjuice.com/News/9771882/USTR-Greer-contrasts-positive-Mexico-talks-with-Canada-differences.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:48:38 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771867",
+    "title": "FinancialJuice: The Gulf states urge a reset with Iran as conflict drags on - FT",
+    "link": "https://www.financialjuice.com/News/9771867/The-Gulf-states-urge-a-reset-with-Iran-as-conflict-drags-on---FT.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:46:15 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771864",
+    "title": "FinancialJuice: USTR Greer: Nothing off the table regarding Iran-related sanctions.",
+    "link": "https://www.financialjuice.com/News/9771864/USTR-Greer-Nothing-off-the-table-regarding-Iran-related-sanctions.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:42:06 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771863",
+    "title": "FinancialJuice: USTR Greer: indicates a 3-6 month truce extension could be possible.",
+    "link": "https://www.financialjuice.com/News/9771863/USTR-Greer-indicates-a-3-6-month-truce-extension-could-be-possible.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:40:08 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771862",
+    "title": "FinancialJuice: USTR Greer: Talks continue on details of extending the China trade truce.",
+    "link": "https://www.financialjuice.com/News/9771862/USTR-Greer-Talks-continue-on-details-of-extending-the-China-trade-truce.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:39:06 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771861",
+    "title": "FinancialJuice: USTR Greer: The US is developing rules of origin with Mexico.",
+    "link": "https://www.financialjuice.com/News/9771861/USTR-Greer-The-US-is-developing-rules-of-origin-with-Mexico.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:38:07 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771860",
+    "title": "FinancialJuice: USTR Greer repeats excess capacity probe is ongoing",
+    "link": "https://www.financialjuice.com/News/9771860/USTR-Greer-repeats-excess-capacity-probe-is-ongoing.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:37:15 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771859",
+    "title": "FinancialJuice: USTR Greer: The US is focused on outcomes rather than changing China.",
+    "link": "https://www.financialjuice.com/News/9771859/USTR-Greer-The-US-is-focused-on-outcomes-rather-than-changing-China.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:36:35 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771858",
+    "title": "FinancialJuice: USTR Greer: We're just going to have managed trade with China.",
+    "link": "https://www.financialjuice.com/News/9771858/USTR-Greer-Were-just-going-to-have-managed-trade-with-China.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:36:13 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771857",
+    "title": "FinancialJuice: USTR Greer: Focus with China is on stability in trade ties.",
+    "link": "https://www.financialjuice.com/News/9771857/USTR-Greer-Focus-with-China-is-on-stability-in-trade-ties.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:35:50 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771856",
+    "title": "FinancialJuice: USTR Greer: US-China talks were positive and constructive.",
+    "link": "https://www.financialjuice.com/News/9771856/USTR-Greer-US-China-talks-were-positive-and-constructive.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:35:29 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771855",
+    "title": "FinancialJuice: Bloomberg Business tv\n",
+    "link": "https://www.financialjuice.com/News/9771855/Bloomberg-Business-tv.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:34:57 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771850",
+    "title": "FinancialJuice: Credit Agricole: Review of Last Week & Updated Forecasts - FJElite",
+    "link": "https://www.financialjuice.com/News/9771850/Credit-Agricole-Review-of-Last-Week--Updated-Forecasts---FJElite.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:32:31 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771837",
+    "title": "FinancialJuice: Chicago National Activity Index Actual -0.04 (Forecast -0.035, Previous -0.08)",
+    "link": "https://www.financialjuice.com/News/9771837/Chicago-National-Activity-Index-Actual--004-Forecast--0035-Previous--008.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:30:00 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771836",
+    "title": "FinancialJuice: Bank of America: Fixed Income Funds See First Outflow in 24 Weeks - FJElite",
+    "link": "https://www.financialjuice.com/News/9771836/Bank-of-America-Fixed-Income-Funds-See-First-Outflow-in-24-Weeks---FJElite.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:28:59 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771835",
+    "title": "FinancialJuice: Iraqi Oil Minister Khadir: Iraq has been able to increase oil exports to 4 million barrels in a single day - Tasnim News",
+    "link": "https://www.financialjuice.com/News/9771835/Iraqi-Oil-Minister-Khadir-Iraq-has-been-able-to-increase-oil-exports-to-4-million-barrels-in-a-single-day---Tasnim-News.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:28:02 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771834",
+    "title": "FinancialJuice: AMS: Houthi-Saudi Escalation Is Becoming a Separate Energy Risk - FJElite",
+    "link": "https://www.financialjuice.com/News/9771834/AMS-Houthi-Saudi-Escalation-Is-Becoming-a-Separate-Energy-Risk---FJElite.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:27:20 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771833",
+    "title": "FinancialJuice: Iraqi Oil Minister: Most of the oil tankers passing through the Strait of Hormuz belong to Iraq - Tasnim News",
+    "link": "https://www.financialjuice.com/News/9771833/Iraqi-Oil-Minister-Most-of-the-oil-tankers-passing-through-the-Strait-of-Hormuz-belong-to-Iraq---Tasnim-News.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:26:28 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771832",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Haven't seen an uptick in core inflation, all headline.",
+    "link": "https://www.financialjuice.com/News/9771832/US-Treasury-Secretary-Bessent-Havent-seen-an-uptick-in-core-inflation-all-headline.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:23:01 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771831",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Will see if this is a supply shock on the energy side.",
+    "link": "https://www.financialjuice.com/News/9771831/US-Treasury-Secretary-Bessent-Will-see-if-this-is-a-supply-shock-on-the-energy-side.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:22:42 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771830",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Since the buyback expansion, 30-year yields are not up by much.\n",
+    "link": "https://www.financialjuice.com/News/9771830/US-Treasury-Secretary-Bessent-Since-the-buyback-expansion-30-year-yields-are-not-up-by-much.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:22:17 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771827",
+    "title": "FinancialJuice: Poll: Swiss National Bank to keep policy rate on hold at 0% through 2027, say 16 of 24 economists.",
+    "link": "https://www.financialjuice.com/News/9771827/Poll-Swiss-National-Bank-to-keep-policy-rate-on-hold-at-0-through-2027-say-16-of-24-economists.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:18:07 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771824",
+    "title": "FinancialJuice: Poll: Swiss National Bank to keep policy rate on hold at 0% on September 24, say all 35 economists.",
+    "link": "https://www.financialjuice.com/News/9771824/Poll-Swiss-National-Bank-to-keep-policy-rate-on-hold-at-0-on-September-24-say-all-35-economists.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:17:46 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771813",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Thought yields were moving away from equilibrium.",
+    "link": "https://www.financialjuice.com/News/9771813/US-Treasury-Secretary-Bessent-Thought-yields-were-moving-away-from-equilibrium.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:16:50 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771812",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Just raised buyback size as we're in illiquid period.\n",
+    "link": "https://www.financialjuice.com/News/9771812/US-Treasury-Secretary-Bessent-Just-raised-buyback-size-as-were-in-illiquid-period.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:16:31 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771811",
+    "title": "FinancialJuice: US Sentiment: Risk ON at the Start of the Week - FJElite",
+    "link": "https://www.financialjuice.com/News/9771811/US-Sentiment-Risk-ON-at-the-Start-of-the-Week---FJElite.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:15:42 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771809",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on interest rates: should come down after conflict.",
+    "link": "https://www.financialjuice.com/News/9771809/US-Treasury-Secretary-Bessent-on-interest-rates-should-come-down-after-conflict.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:15:24 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771805",
+    "title": "FinancialJuice: US Treasury Secretary Bessent repeats that bonds are unusually correlated with energy.",
+    "link": "https://www.financialjuice.com/News/9771805/US-Treasury-Secretary-Bessent-repeats-that-bonds-are-unusually-correlated-with-energy.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:14:58 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771804",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: PBOC Governor Pan is very engaged in Iran talks.",
+    "link": "https://www.financialjuice.com/News/9771804/US-Treasury-Secretary-Bessent-PBOC-Governor-Pan-is-very-engaged-in-Iran-talks.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:14:38 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771803",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on Iran: Chinese authorities are very engaged in the process.",
+    "link": "https://www.financialjuice.com/News/9771803/US-Treasury-Secretary-Bessent-on-Iran-Chinese-authorities-are-very-engaged-in-the-process.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:14:12 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771802",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: on iran: Discussed with China.",
+    "link": "https://www.financialjuice.com/News/9771802/US-Treasury-Secretary-Bessent-on-iran-Discussed-with-China.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:13:43 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771801",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on iran: On September 23rd, all Iranian airlines will be shut down worldwide.",
+    "link": "https://www.financialjuice.com/News/9771801/US-Treasury-Secretary-Bessent-on-iran-On-September-23rd-all-Iranian-airlines-will-be-shut-down-worldwide.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:13:03 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771800",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on Iran: Can't tell you how long the conflict will last - CNBC",
+    "link": "https://www.financialjuice.com/News/9771800/US-Treasury-Secretary-Bessent-on-Iran-Cant-tell-you-how-long-the-conflict-will-last---CNBC.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:12:32 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771799",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: China wouldn't tell us if they've had AI incidents.",
+    "link": "https://www.financialjuice.com/News/9771799/US-Treasury-Secretary-Bessent-China-wouldnt-tell-us-if-theyve-had-AI-incidents.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:09:01 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771798",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Chinese AI models are very powerful though the US is in the lead.",
+    "link": "https://www.financialjuice.com/News/9771798/US-Treasury-Secretary-Bessent-Chinese-AI-models-are-very-powerful-though-the-US-is-in-the-lead.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:08:37 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771797",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: AI Czar would put contours around AI incidents.",
+    "link": "https://www.financialjuice.com/News/9771797/US-Treasury-Secretary-Bessent-AI-Czar-would-put-contours-around-AI-incidents.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:08:00 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771796",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: OpenAI managers responsible for Hugging Face incident.",
+    "link": "https://www.financialjuice.com/News/9771796/US-Treasury-Secretary-Bessent-OpenAI-managers-responsible-for-Hugging-Face-incident.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:07:36 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771795",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Labs need to take responsibility for themselves on AI.",
+    "link": "https://www.financialjuice.com/News/9771795/US-Treasury-Secretary-Bessent-Labs-need-to-take-responsibility-for-themselves-on-AI.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:07:10 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771794",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: On the US side, energy items could be eligible for tariff cuts.",
+    "link": "https://www.financialjuice.com/News/9771794/US-Treasury-Secretary-Bessent-On-the-US-side-energy-items-could-be-eligible-for-tariff-cuts.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:06:43 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771793",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Discussing US-China items that could go to MFN tariffs.",
+    "link": "https://www.financialjuice.com/News/9771793/US-Treasury-Secretary-Bessent-Discussing-US-China-items-that-could-go-to-MFN-tariffs.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:06:21 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771792",
+    "title": "FinancialJuice: Trump: Russia lost control of its diesel industry due to war - Truth Social ",
+    "link": "https://www.financialjuice.com/News/9771792/Trump-Russia-lost-control-of-its-diesel-industry-due-to-war---Truth-Social-.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:05:34 GMT",
+    "category": "Breaking",
+    "title_ko": null
+  },
+  {
+    "guid": "9771791",
+    "title": "FinancialJuice: Trump: This ridiculous and never-ending war with ukraine must be ended - Truth Social ",
+    "link": "https://www.financialjuice.com/News/9771791/Trump-This-ridiculous-and-never-ending-war-with-ukraine-must-be-ended---Truth-Social-.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:05:18 GMT",
+    "category": "Breaking",
+    "title_ko": null
+  },
+  {
+    "guid": "9771790",
+    "title": "FinancialJuice: Strategy purchases 950 bitcoin for total $75.7 million",
+    "link": "https://www.financialjuice.com/News/9771790/Strategy-purchases-950-bitcoin-for-total-757-million.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:04:49 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771789",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: some deliverables expected",
+    "link": "https://www.financialjuice.com/News/9771789/US-Treasury-Secretary-Bessent-some-deliverables-expected.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:04:46 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771788",
+    "title": "FinancialJuice: strategy acquires 950 bitcoin at average price of $79,670 sept. 14 to sept. 20",
+    "link": "https://www.financialjuice.com/News/9771788/strategy-acquires-950-bitcoin-at-average-price-of-79670-sept-14-to-sept-20.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:04:46 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771787",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Discussed tariffs with China.",
+    "link": "https://www.financialjuice.com/News/9771787/US-Treasury-Secretary-Bessent-Discussed-tariffs-with-China.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:04:33 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771786",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: US-China to meet in two months on AI in Shenzhen.",
+    "link": "https://www.financialjuice.com/News/9771786/US-Treasury-Secretary-Bessent-US-China-to-meet-in-two-months-on-AI-in-Shenzhen.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:04:11 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771785",
+    "title": "FinancialJuice: Libya’s Sharara oil output drops by more than half after the pipe was shut.",
+    "link": "https://www.financialjuice.com/News/9771785/Libyas-Sharara-oil-output-drops-by-more-than-half-after-the-pipe-was-shut.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:03:36 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771784",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Will open up an incident line on AI with China.",
+    "link": "https://www.financialjuice.com/News/9771784/US-Treasury-Secretary-Bessent-Will-open-up-an-incident-line-on-AI-with-China.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:03:20 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771783",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Have formalized an AI dialogue.",
+    "link": "https://www.financialjuice.com/News/9771783/US-Treasury-Secretary-Bessent-Have-formalized-an-AI-dialogue.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:03:00 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771782",
+    "title": "FinancialJuice: US Treasury Secretary Bessent on China talks: Chance Trump and Xi could see each other two more times after this week - CNBC.",
+    "link": "https://www.financialjuice.com/News/9771782/US-Treasury-Secretary-Bessent-on-China-talks-Chance-Trump-and-Xi-could-see-each-other-two-more-times-after-this-week---CNBC.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:02:07 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771779",
+    "title": "FinancialJuice: US Treasury Secretary Bessent: Discussed economics and AI with China.",
+    "link": "https://www.financialjuice.com/News/9771779/US-Treasury-Secretary-Bessent-Discussed-economics-and-AI-with-China.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:01:39 GMT",
+    "category": "Bonds",
+    "title_ko": null
+  },
+  {
+    "guid": "9771759",
+    "title": "FinancialJuice: Secured overnight financing rate: 3.85% in September. 18th vs. 3.85% on September 17th.",
+    "link": "https://www.financialjuice.com/News/9771759/Secured-overnight-financing-rate-385-in-September-18th-vs-385-on-September-17th.aspx",
+    "pubDate": "Mon, 21 Sep 2026 12:00:27 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771752",
+    "title": "FinancialJuice: Germany’s Chancellor Merz: Have the backing of CDU party leaders",
+    "link": "https://www.financialjuice.com/News/9771752/Germanys-Chancellor-Merz-Have-the-backing-of-CDU-party-leaders.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:56:19 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771751",
+    "title": "FinancialJuice: Germany’s Chancellor Merz: CDU and SPU want to continue coalition",
+    "link": "https://www.financialjuice.com/News/9771751/Germanys-Chancellor-Merz-CDU-and-SPU-want-to-continue-coalition.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:54:52 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771750",
+    "title": "FinancialJuice: Germany’s Chancellor Merz: CDU party needs to draw consequences from the election",
+    "link": "https://www.financialjuice.com/News/9771750/Germanys-Chancellor-Merz-CDU-party-needs-to-draw-consequences-from-the-election.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:52:59 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771744",
+    "title": "FinancialJuice: US UN Envoy Waltz: AI concerns resonating with every power",
+    "link": "https://www.financialjuice.com/News/9771744/US-UN-Envoy-Waltz-AI-concerns-resonating-with-every-power.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:45:51 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771742",
+    "title": "FinancialJuice: US UN Envoy Waltz, on war in Ukraine: Grain and fertilizers are also a concern",
+    "link": "https://www.financialjuice.com/News/9771742/US-UN-Envoy-Waltz-on-war-in-Ukraine-Grain-and-fertilizers-are-also-a-concern.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:44:34 GMT",
+    "category": "Breaking",
+    "title_ko": null
+  },
+  {
+    "guid": "9771741",
+    "title": "FinancialJuice: US UN Envoy Waltz, on war in Ukraine: Seeking to stop both sides",
+    "link": "https://www.financialjuice.com/News/9771741/US-UN-Envoy-Waltz-on-war-in-Ukraine-Seeking-to-stop-both-sides.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:43:58 GMT",
+    "category": "Breaking",
+    "title_ko": null
+  },
+  {
+    "guid": "9771740",
+    "title": "FinancialJuice: US UN Envoy Waltz: Trump is always open to talk, Iran has to come to the table",
+    "link": "https://www.financialjuice.com/News/9771740/US-UN-Envoy-Waltz-Trump-is-always-open-to-talk-Iran-has-to-come-to-the-table.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:42:15 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771713",
+    "title": "FinancialJuice: Fed's Goolsbee: Open to be shown that the current inflation problem will not be persistent, but want evidence it is going away",
+    "link": "https://www.financialjuice.com/News/9771713/Feds-Goolsbee-Open-to-be-shown-that-the-current-inflation-problem-will-not-be-persistent-but-want-evidence-it-is-going-away.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:24:45 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771712",
+    "title": "FinancialJuice: Fed's Goolsbee: Fed right now does not have an employment problem; it does have an inflation problem",
+    "link": "https://www.financialjuice.com/News/9771712/Feds-Goolsbee-Fed-right-now-does-not-have-an-employment-problem-it-does-have-an-inflation-problem.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:24:29 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771711",
+    "title": "FinancialJuice: Fed's Goolsbee: If there is convincing evidence inflation is heading back to 2%, have no problem with rates going back down",
+    "link": "https://www.financialjuice.com/News/9771711/Feds-Goolsbee-If-there-is-convincing-evidence-inflation-is-heading-back-to-2-have-no-problem-with-rates-going-back-down.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:24:21 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771710",
+    "title": "FinancialJuice: Fed's Goolsbee: 2% inflation goal is in the medium run",
+    "link": "https://www.financialjuice.com/News/9771710/Feds-Goolsbee-2-inflation-goal-is-in-the-medium-run.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:22:19 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771709",
+    "title": "FinancialJuice: PBOC's Pan vows to keep pushing forward financial opening up",
+    "link": "https://www.financialjuice.com/News/9771709/PBOCs-Pan-vows-to-keep-pushing-forward-financial-opening-up.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:21:29 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771691",
+    "title": "FinancialJuice: Fed's Goolsbee: I do not think estimates of the neutral rate are helpful in short-run monetary policy decisions",
+    "link": "https://www.financialjuice.com/News/9771691/Feds-Goolsbee-I-do-not-think-estimates-of-the-neutral-rate-are-helpful-in-short-run-monetary-policy-decisions.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:14:04 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771690",
+    "title": "FinancialJuice: Fed's Goolsbee: If fiscal policy is driving up inflation, the Fed has to take it into account",
+    "link": "https://www.financialjuice.com/News/9771690/Feds-Goolsbee-If-fiscal-policy-is-driving-up-inflation-the-Fed-has-to-take-it-into-account.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:13:12 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771689",
+    "title": "FinancialJuice: Fed's Goolsbee: Arguments the Fed should lower federal borrowing costs are one of the reasons Fed independence is important",
+    "link": "https://www.financialjuice.com/News/9771689/Feds-Goolsbee-Arguments-the-Fed-should-lower-federal-borrowing-costs-are-one-of-the-reasons-Fed-independence-is-important.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:12:55 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771688",
+    "title": "FinancialJuice: Putin orders temporary administration of Aptar Europe holdings",
+    "link": "https://www.financialjuice.com/News/9771688/Putin-orders-temporary-administration-of-Aptar-Europe-holdings.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:10:20 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9771686",
+    "title": "FinancialJuice: Fed's Goolsbee: Still sorting out how much of inflation is due to supply shocks versus demand.",
+    "link": "https://www.financialjuice.com/News/9771686/Feds-Goolsbee-Still-sorting-out-how-much-of-inflation-is-due-to-supply-shocks-versus-demand.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:02:19 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771685",
+    "title": "FinancialJuice: Fed's Goolsbee: Still optimistic can get on path to 2% inflation",
+    "link": "https://www.financialjuice.com/News/9771685/Feds-Goolsbee-Still-optimistic-can-get-on-path-to-2-inflation.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:02:10 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9771684",
+    "title": "FinancialJuice: Fed's Goolsbee: Optimistic that the Fed could get back on a path of 2% as long as there is no more evidence of demand overheating.",
+    "link": "https://www.financialjuice.com/News/9771684/Feds-Goolsbee-Optimistic-that-the-Fed-could-get-back-on-a-path-of-2-as-long-as-there-is-no-more-evidence-of-demand-overheating.aspx",
+    "pubDate": "Mon, 21 Sep 2026 11:02:02 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
     "guid": "9771390",
     "title": "FinancialJuice: Currency Strength Chart: Strongest: AUD, USD, NZD, EUR, JPY, GBP, CHF, CAD - Weakest",
     "link": "https://www.financialjuice.com/News/9771390/Currency-Strength-Chart-Strongest-AUD-USD-NZD-EUR-JPY-GBP-CHF-CAD---Weakest.aspx?xy=rss",
