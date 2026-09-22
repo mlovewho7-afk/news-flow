@@ -1,5 +1,469 @@
 [
   {
+    "guid": "9774429",
+    "title": "FinancialJuice: Downing Street: Burnham and von der Leyen discussed initiatives underway to tackle AI safety",
+    "link": "https://www.financialjuice.com/News/9774429/Downing-Street-Burnham-and-von-der-Leyen-discussed-initiatives-underway-to-tackle-AI-safety.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:43:41 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774428",
+    "title": "FinancialJuice: Downing Street: UK PM Burnham met European Commission President Ursula von der Leyen at UN General Assembly today",
+    "link": "https://www.financialjuice.com/News/9774428/Downing-Street-UK-PM-Burnham-met-European-Commission-President-Ursula-von-der-Leyen-at-UN-General-Assembly-today.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:42:06 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774427",
+    "title": "FinancialJuice: Irna: sound seemed to originate from sea; no effects reported on Iran's Qeshm Island",
+    "link": "https://www.financialjuice.com/News/9774427/Irna-sound-seemed-to-originate-from-sea-no-effects-reported-on-Irans-Qeshm-Island.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:35:13 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774426",
+    "title": "FinancialJuice: Sound of blast heard near Iran’s Qeshm Island: IRNA",
+    "link": "https://www.financialjuice.com/News/9774426/Sound-of-blast-heard-near-Irans-Qeshm-Island-IRNA.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:34:46 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774408",
+    "title": "FinancialJuice: EU's Kallas: Urged advancing normalization of ties between Belgrade and Pristina",
+    "link": "https://www.financialjuice.com/News/9774408/EUs-Kallas-Urged-advancing-normalization-of-ties-between-Belgrade-and-Pristina.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:19:45 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774407",
+    "title": "FinancialJuice: EU's Kallas: met today with Serbian President Vucic and Kosovo Prime Minister Kurti",
+    "link": "https://www.financialjuice.com/News/9774407/EUs-Kallas-met-today-with-Serbian-President-Vucic-and-Kosovo-Prime-Minister-Kurti.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:19:10 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774406",
+    "title": "FinancialJuice: USPS: mail dumping incident probably involved worker; case sent to oig for probe",
+    "link": "https://www.financialjuice.com/News/9774406/USPS-mail-dumping-incident-probably-involved-worker-case-sent-to-oig-for-probe.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:18:02 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774405",
+    "title": "FinancialJuice: USPS refers mail dumping case involving election ballots to inspector general",
+    "link": "https://www.financialjuice.com/News/9774405/USPS-refers-mail-dumping-case-involving-election-ballots-to-inspector-general.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:17:25 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774401",
+    "title": "FinancialJuice: North Korea's vice foreign minister to participate in UN general assembly: KCNA",
+    "link": "https://www.financialjuice.com/News/9774401/North-Koreas-vice-foreign-minister-to-participate-in-UN-general-assembly-KCNA.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:08:43 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774400",
+    "title": "FinancialJuice: North Korea's vice defense minister to visit Vietnam: KCNA",
+    "link": "https://www.financialjuice.com/News/9774400/North-Koreas-vice-defense-minister-to-visit-Vietnam-KCNA.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 21:07:14 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774380",
+    "title": "FinancialJuice: US API Gasoline Stock Change Actual -2.16M (Forecast -, Previous 1.5M)",
+    "link": "https://www.financialjuice.com/News/9774380/US-API-Gasoline-Stock-Change-Actual--216M-Forecast---Previous-15M.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:56:33 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774379",
+    "title": "FinancialJuice: US API Cushing Stock Change Actual 2.082M (Forecast -, Previous -0.246M )",
+    "link": "https://www.financialjuice.com/News/9774379/US-API-Cushing-Stock-Change-Actual-2082M-Forecast---Previous--0246M-.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:56:31 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774378",
+    "title": "FinancialJuice: US API Distillate Stock Change Actual -2.164M (Forecast -, Previous 1.6M)",
+    "link": "https://www.financialjuice.com/News/9774378/US-API-Distillate-Stock-Change-Actual--2164M-Forecast---Previous-16M.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:56:30 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774376",
+    "title": "FinancialJuice: US API Crude Oil Stock Change Actual 1.786M (Forecast -0.5M, Previous 7.1M)",
+    "link": "https://www.financialjuice.com/News/9774376/US-API-Crude-Oil-Stock-Change-Actual-1786M-Forecast--05M-Previous-71M.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:46:25 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774369",
+    "title": "FinancialJuice: Iraqi Oil Minister: Iraq is studying a plan to export crude oil by trucks to Turkey",
+    "link": "https://www.financialjuice.com/News/9774369/Iraqi-Oil-Minister-Iraq-is-studying-a-plan-to-export-crude-oil-by-trucks-to-Turkey.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:39:23 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774368",
+    "title": "FinancialJuice: ECB's Nagel: We are vigilant.",
+    "link": "https://www.financialjuice.com/News/9774368/ECBs-Nagel-We-are-vigilant.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:33:46 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774367",
+    "title": "FinancialJuice: ECB's Nagel: I am not relaxed, core inflation is still too high\n",
+    "link": "https://www.financialjuice.com/News/9774367/ECBs-Nagel-I-am-not-relaxed-core-inflation-is-still-too-high.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:33:35 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9774366",
+    "title": "FinancialJuice: ECB's Nagel: Up to now, I do not see significant 2nd round effects.",
+    "link": "https://www.financialjuice.com/News/9774366/ECBs-Nagel-Up-to-now-I-do-not-see-significant-2nd-round-effects.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:33:22 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774364",
+    "title": "FinancialJuice: Iraqi Oil Minister: Oil production from Iraqi Kurdistan oilfields currently stands at 200,000 bpd\n",
+    "link": "https://www.financialjuice.com/News/9774364/Iraqi-Oil-Minister-Oil-production-from-Iraqi-Kurdistan-oilfields-currently-stands-at-200000-bpd.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:32:33 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774343",
+    "title": "FinancialJuice: Iraqi Oil Minister: Road transport of crude from southern oilfields to Kirkuk expected to increase exports via Turkey's Ceyhan port to more than 600,000 bpd",
+    "link": "https://www.financialjuice.com/News/9774343/Iraqi-Oil-Minister-Road-transport-of-crude-from-southern-oilfields-to-Kirkuk-expected-to-increase-exports-via-Turkeys-Ceyhan-port-to-more-than-600000-bpd.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:31:00 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774340",
+    "title": "FinancialJuice: NY Fed's Perli: Central clearing of Fed repo operations would have benefits\n",
+    "link": "https://www.financialjuice.com/News/9774340/NY-Feds-Perli-Central-clearing-of-Fed-repo-operations-would-have-benefits.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:26:24 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9774339",
+    "title": "FinancialJuice: NY Fed's Perli: Fed's reserve forecasting process is robust\n",
+    "link": "https://www.financialjuice.com/News/9774339/NY-Feds-Perli-Feds-reserve-forecasting-process-is-robust.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:26:14 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9774338",
+    "title": "FinancialJuice: NY Fed Perli: Monetary policy toolkit has been working very well.\n",
+    "link": "https://www.financialjuice.com/News/9774338/NY-Fed-Perli-Monetary-policy-toolkit-has-been-working-very-well.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:26:06 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9774337",
+    "title": "FinancialJuice: NY Fed's Perli: Fed's reserve management purchases are not on a pre-set course\n",
+    "link": "https://www.financialjuice.com/News/9774337/NY-Feds-Perli-Feds-reserve-management-purchases-are-not-on-a-pre-set-course.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:25:49 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9774336",
+    "title": "FinancialJuice: ECB's Nagel: ECB rates are still in neutral territory, cannot exclude that we will need to go into mild restrictive territory.",
+    "link": "https://www.financialjuice.com/News/9774336/ECBs-Nagel-ECB-rates-are-still-in-neutral-territory-cannot-exclude-that-we-will-need-to-go-into-mild-restrictive-territory.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:21:56 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774327",
+    "title": "FinancialJuice: Iraqi Oil Minister: Iraq is currently exporting more than 3 mln barrels of oil per day - State Media",
+    "link": "https://www.financialjuice.com/News/9774327/Iraqi-Oil-Minister-Iraq-is-currently-exporting-more-than-3-mln-barrels-of-oil-per-day---State-Media.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:14:45 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774326",
+    "title": "FinancialJuice: Iraqi Oil Minister: Volume of oil exported in August reached 70 mln barrels - State Media\n",
+    "link": "https://www.financialjuice.com/News/9774326/Iraqi-Oil-Minister-Volume-of-oil-exported-in-August-reached-70-mln-barrels---State-Media.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:14:11 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774325",
+    "title": "FinancialJuice: ECB's Nagel: I do not see too much uncertainty in markets about what drives our decision making.",
+    "link": "https://www.financialjuice.com/News/9774325/ECBs-Nagel-I-do-not-see-too-much-uncertainty-in-markets-about-what-drives-our-decision-making.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:12:49 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774324",
+    "title": "FinancialJuice: ECB's Nagel: We are conducting monetary policy in between constructive ambiguity and forward guidance\n",
+    "link": "https://www.financialjuice.com/News/9774324/ECBs-Nagel-We-are-conducting-monetary-policy-in-between-constructive-ambiguity-and-forward-guidance.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:11:47 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774323",
+    "title": "FinancialJuice: ECB's Nagel: I am not so concerned about labour market developments\n",
+    "link": "https://www.financialjuice.com/News/9774323/ECBs-Nagel-I-am-not-so-concerned-about-labour-market-developments.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:09:35 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774322",
+    "title": "FinancialJuice: Chip Rally Drives Nasdaq 100 to Record as Oil Falls – US Market Wrap",
+    "link": "https://www.financialjuice.com/News/9774322/Chip-Rally-Drives-Nasdaq-100-to-Record-as-Oil-Falls--US-Market-Wrap.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:09:04 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774321",
+    "title": "FinancialJuice: Qualcomm launches two new flagship mobile platforms. $QCOM",
+    "link": "https://www.financialjuice.com/News/9774321/Qualcomm-launches-two-new-flagship-mobile-platforms-QCOM.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:04:55 GMT",
+    "category": "Corporate",
+    "title_ko": null
+  },
+  {
+    "guid": "9774320",
+    "title": "FinancialJuice: South Korea's President Lee unveils Korean Peninsula peace coexistence plan\n",
+    "link": "https://www.financialjuice.com/News/9774320/South-Koreas-President-Lee-unveils-Korean-Peninsula-peace-coexistence-plan.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:03:10 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774319",
+    "title": "FinancialJuice: Canada's PM Carney: AI advancing faster than we can control it\n",
+    "link": "https://www.financialjuice.com/News/9774319/Canadas-PM-Carney-AI-advancing-faster-than-we-can-control-it.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:02:58 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774318",
+    "title": "FinancialJuice: ECB's Nagel: Oil prices are not the only indicator, but have become more relevant over past 4 years\n",
+    "link": "https://www.financialjuice.com/News/9774318/ECBs-Nagel-Oil-prices-are-not-the-only-indicator-but-have-become-more-relevant-over-past-4-years.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 20:02:03 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774300",
+    "title": "FinancialJuice: Iran's armed forces: Trump's statements on Iran at the UNGA are tools for domestic propaganda - Statement",
+    "link": "https://www.financialjuice.com/News/9774300/Irans-armed-forces-Trumps-statements-on-Iran-at-the-UNGA-are-tools-for-domestic-propaganda---Statement.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:54:11 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774299",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9774299/MOC-Imbalance.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:50:31 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774285",
+    "title": "FinancialJuice: UK's PM Burnham: I pushed Trump on tariffs",
+    "link": "https://www.financialjuice.com/News/9774285/UKs-PM-Burnham-I-pushed-Trump-on-tariffs.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:45:47 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774268",
+    "title": "FinancialJuice: Trump: We think Iran war could end after midterms, maybe before.",
+    "link": "https://www.financialjuice.com/News/9774268/Trump-We-think-Iran-war-could-end-after-midterms-maybe-before.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:41:56 GMT",
+    "category": "Breaking",
+    "title_ko": null
+  },
+  {
+    "guid": "9774267",
+    "title": "FinancialJuice: Trump: Not seeing Pickaxe activity, but will attack it, if we do.",
+    "link": "https://www.financialjuice.com/News/9774267/Trump-Not-seeing-Pickaxe-activity-but-will-attack-it-if-we-do.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:40:51 GMT",
+    "category": "Breaking",
+    "title_ko": null
+  },
+  {
+    "guid": "9774266",
+    "title": "FinancialJuice: UK PM Burnham on Falklands: We will stand firm in the face of any threats, will defend the right of the Falkland islanders to self-determination and to remain British",
+    "link": "https://www.financialjuice.com/News/9774266/UK-PM-Burnham-on-Falklands-We-will-stand-firm-in-the-face-of-any-threats-will-defend-the-right-of-the-Falkland-islanders-to-self-determination-and-to-remain-British.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:40:30 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774265",
+    "title": "FinancialJuice: Trump: May have to blow up Pickaxe Mountain.",
+    "link": "https://www.financialjuice.com/News/9774265/Trump-May-have-to-blow-up-Pickaxe-Mountain.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:40:18 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774264",
+    "title": "FinancialJuice: UK's PM Burnham: Discussed Falkland islands with Trump, set out UK position.",
+    "link": "https://www.financialjuice.com/News/9774264/UKs-PM-Burnham-Discussed-Falkland-islands-with-Trump-set-out-UK-position.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:40:05 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774263",
+    "title": "FinancialJuice: Trump: Facilitating the renewed flow of oil in Strait of Hormuz.",
+    "link": "https://www.financialjuice.com/News/9774263/Trump-Facilitating-the-renewed-flow-of-oil-in-Strait-of-Hormuz.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:39:41 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774262",
+    "title": "FinancialJuice: Trump: Hopefully Iran will do the right thing fast. There will be a time when it's too late.",
+    "link": "https://www.financialjuice.com/News/9774262/Trump-Hopefully-Iran-will-do-the-right-thing-fast-There-will-be-a-time-when-its-too-late.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:38:38 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774261",
+    "title": "FinancialJuice: Trump: I think Witkoff and Kushner will get this thing ended.",
+    "link": "https://www.financialjuice.com/News/9774261/Trump-I-think-Witkoff-and-Kushner-will-get-this-thing-ended.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:35:43 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774260",
+    "title": "FinancialJuice: Trump: I think Iran will do something good.",
+    "link": "https://www.financialjuice.com/News/9774260/Trump-I-think-Iran-will-do-something-good.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:33:17 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774259",
+    "title": "FinancialJuice: Trump: A lot of momentum for Iran to make a deal.",
+    "link": "https://www.financialjuice.com/News/9774259/Trump-A-lot-of-momentum-for-Iran-to-make-a-deal.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:32:49 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774238",
+    "title": "FinancialJuice: US official and a regional source said Trump's envoys Witkoff and Kushner attended meeting from US side and foreign minister Araghchi from the Iranian side - Axios",
+    "link": "https://www.financialjuice.com/News/9774238/US-official-and-a-regional-source-said-Trumps-envoys-Witkoff-and-Kushner-attended-meeting-from-US-side-and-foreign-minister-Araghchi-from-the-Iranian-side---Axios.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:27:54 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774237",
+    "title": "FinancialJuice: Iran's conditions to open the Strait of Hormuz were the reason to accept Witkoff's request for meeting - IRIB News",
+    "link": "https://www.financialjuice.com/News/9774237/Irans-conditions-to-open-the-Strait-of-Hormuz-were-the-reason-to-accept-Witkoffs-request-for-meeting---IRIB-News.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:25:38 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774235",
+    "title": "FinancialJuice: Iran's conditions for reopening the Strait of Hormuz include immediate lifting of the maritime blockade, immediate payment of all frozen Iranian assets and an end to the war on all fronts - IRIB citing Iran meeting with Witkoff",
+    "link": "https://www.financialjuice.com/News/9774235/Irans-conditions-for-reopening-the-Strait-of-Hormuz-include-immediate-lifting-of-the-maritime-blockade-immediate-payment-of-all-frozen-Iranian-assets-and-an-end-to-the-war-on-all-fronts---IRIB-citing-Iran-meeting-with-Witkoff.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:24:39 GMT",
+    "category": "Breaking",
+    "title_ko": null
+  },
+  {
+    "guid": "9774236",
+    "title": "FinancialJuice: Iran's foreign minister met with Witkoff on the sidelines of UN General Assembly - IRIB News",
+    "link": "https://www.financialjuice.com/News/9774236/Irans-foreign-minister-met-with-Witkoff-on-the-sidelines-of-UN-General-Assembly---IRIB-News.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:24:11 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774234",
+    "title": "FinancialJuice: Wednesday FX Options Expiries",
+    "link": "https://www.financialjuice.com/News/9774234/Wednesday-FX-Options-Expiries.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:21:41 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9774231",
+    "title": "FinancialJuice: Trump on Shield of The Americas: Must secure control of our own energy pipelines.",
+    "link": "https://www.financialjuice.com/News/9774231/Trump-on-Shield-of-The-Americas-Must-secure-control-of-our-own-energy-pipelines.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:16:46 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774230",
+    "title": "FinancialJuice: Jordan's King joins Trump-hosted meeting with Arab and Islamic leaders on the sidelines of UNGA - Royal Court",
+    "link": "https://www.financialjuice.com/News/9774230/Jordans-King-joins-Trump-hosted-meeting-with-Arab-and-Islamic-leaders-on-the-sidelines-of-UNGA---Royal-Court.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:16:34 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774225",
+    "title": "FinancialJuice: Trump: Witkoff and Kushner met with Iran. Lots of good thoughts.",
+    "link": "https://www.financialjuice.com/News/9774225/Trump-Witkoff-and-Kushner-met-with-Iran-Lots-of-good-thoughts.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:12:28 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774224",
+    "title": "FinancialJuice: WATCH LIVE: Trump Participates in a Shield of the Americas Event",
+    "link": "https://www.financialjuice.com/News/9774224/WATCH-LIVE-Trump-Participates-in-a-Shield-of-the-Americas-Event.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:08:48 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9774223",
+    "title": "FinancialJuice: Senators: Trump must end China’s access to advanced chips.",
+    "link": "https://www.financialjuice.com/News/9774223/Senators-Trump-must-end-Chinas-access-to-advanced-chips.aspx?xy=rss",
+    "pubDate": "Tue, 22 Sep 2026 19:05:52 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
     "guid": "9774221",
     "title": "FinancialJuice: On Thursday, Israel's Prime Minister Netanyahu will be in New York for a few hours, no significant meetings - Israel's N12 News",
     "link": "https://www.financialjuice.com/News/9774221/On-Thursday-Israels-Prime-Minister-Netanyahu-will-be-in-New-York-for-a-few-hours-no-significant-meetings---Israels-N12-News.aspx?xy=rss",
