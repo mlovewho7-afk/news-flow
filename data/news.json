@@ -1,5 +1,381 @@
 [
   {
+    "guid": "9775205",
+    "title": "FinancialJuice: German 30 Yr Bund Bid-to-cover Actual 1.584 (Forecast -, Previous 2.4)",
+    "link": "https://www.financialjuice.com/News/9775205/German-30-Yr-Bund-Bid-to-cover-Actual-1584-Forecast---Previous-24.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 09:33:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 30년물 국채 입찰 경쟁률 실제 1.584 (예상 -, 이전 2.4)"
+  },
+  {
+    "guid": "9775204",
+    "title": "FinancialJuice: German 30 Yr Bund Yield Actual 3.8% (Forecast -, Previous 3.9%)",
+    "link": "https://www.financialjuice.com/News/9775204/German-30-Yr-Bund-Yield-Actual-38-Forecast---Previous-39.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 09:33:11 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 독일 30년 만기 국채 수익률, 실제 3.8% (예상 -, 이전 3.9%)"
+  },
+  {
+    "guid": "9775186",
+    "title": "FinancialJuice: Gaza plan to be presented to members on Wednesday - Axios",
+    "link": "https://www.financialjuice.com/News/9775186/Gaza-plan-to-be-presented-to-members-on-Wednesday---Axios.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 09:23:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 수요일, 회원들에게 가자지구 계획안 제시 예정 - Axios"
+  },
+  {
+    "guid": "9775140",
+    "title": "FinancialJuice: China's Xi departs Beijing for US visit - Chinese state media",
+    "link": "https://www.financialjuice.com/News/9775140/Chinas-Xi-departs-Beijing-for-US-visit---Chinese-state-media.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 09:00:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 시진핑 주석, 미국 방문을 위해 베이징을 출발 - 중국 국영 언론"
+  },
+  {
+    "guid": "9775134",
+    "title": "FinancialJuice: ING: Metals - FJElite",
+    "link": "https://www.financialjuice.com/News/9775134/ING-Metals---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:57:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ING: 금속 - FJElite"
+  },
+  {
+    "guid": "9775133",
+    "title": "FinancialJuice: ING: Energy - FJElite",
+    "link": "https://www.financialjuice.com/News/9775133/ING-Energy---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:57:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ING: 에너지 - FJElite"
+  },
+  {
+    "guid": "9775132",
+    "title": "FinancialJuice: Credit Ágricole: FX Risk - FJElite",
+    "link": "https://www.financialjuice.com/News/9775132/Credit-%c3%81gricole-FX-Risk---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:55:16 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 크레디 아그리콜: 외환 리스크 - FJElite"
+  },
+  {
+    "guid": "9775093",
+    "title": "FinancialJuice: UK Composite PMI Flash Actual 51.7 (Forecast 52, Previous 52.5)",
+    "link": "https://www.financialjuice.com/News/9775093/UK-Composite-PMI-Flash-Actual-517-Forecast-52-Previous-525.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 종합 PMI 속보치 51.7 (예상치 52, 전월치 52.5)"
+  },
+  {
+    "guid": "9775092",
+    "title": "FinancialJuice: UK Services PMI Flash Actual 51.7 (Forecast 52, Previous 52.5)",
+    "link": "https://www.financialjuice.com/News/9775092/UK-Services-PMI-Flash-Actual-517-Forecast-52-Previous-525.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 서비스업 PMI 속보치 51.7 (예상치 52, 전월치 52.5)"
+  },
+  {
+    "guid": "9775091",
+    "title": "FinancialJuice: UK Manufacturing PMI Flash Actual 52 (Forecast 51.5, Previous 51.7)",
+    "link": "https://www.financialjuice.com/News/9775091/UK-Manufacturing-PMI-Flash-Actual-52-Forecast-515-Previous-517.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 제조업 PMI 속보치 52 (예상치 51.5, 전월치 51.7)"
+  },
+  {
+    "guid": "9775090",
+    "title": "FinancialJuice: Europe Sentiment: Improved Oil Outlook - FJElite\n",
+    "link": "https://www.financialjuice.com/News/9775090/Europe-Sentiment-Improved-Oil-Outlook---FJElite.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:17:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽 시장 심리: 원유 전망 개선 - FJElite\n"
+  },
+  {
+    "guid": "9775077",
+    "title": "FinancialJuice: OECD forecasts UK 2026 growth of 1.1% (vs 0.9% in June), 1.0% in 2027 (vs 1.1%).",
+    "link": "https://www.financialjuice.com/News/9775077/OECD-forecasts-UK-2026-growth-of-11-vs-09-in-June-10-in-2027-vs-11.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:02:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OECD는 영국의 2026년 성장률을 1.1%(6월 전망치 0.9% 대비), 2027년 성장률을 1.0%(1.1% 대비)로 전망했다."
+  },
+  {
+    "guid": "9775076",
+    "title": "FinancialJuice: OECD forecasts Japan 2026 growth of 0.8% (vs 0.6% in June), 0.7% in 2027 (vs 0.8%).",
+    "link": "https://www.financialjuice.com/News/9775076/OECD-forecasts-Japan-2026-growth-of-08-vs-06-in-June-07-in-2027-vs-08.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:02:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OECD는 일본의 2026년 성장률을 0.8%(6월 전망치 0.6% 대비), 2027년 성장률을 0.7%(0.8% 대비)로 전망했다."
+  },
+  {
+    "guid": "9775075",
+    "title": "FinancialJuice: OECD forecasts Euro Area 2026 growth of 1.0% (vs 0.8% in June), 1.0% in 2027 (vs 1.2%).",
+    "link": "https://www.financialjuice.com/News/9775075/OECD-forecasts-Euro-Area-2026-growth-of-10-vs-08-in-June-10-in-2027-vs-12.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:02:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OECD는 유로존의 2026년 성장률을 1.0%(6월 전망치 0.8% 대비), 2027년 성장률을 1.0%(1.2% 대비)로 전망했다."
+  },
+  {
+    "guid": "9775074",
+    "title": "FinancialJuice: OECD forecasts china 2026 growth of 4.5% (unchanged), 4.2% in 2027 (vs 4.3%).",
+    "link": "https://www.financialjuice.com/News/9775074/OECD-forecasts-china-2026-growth-of-45-unchanged-42-in-2027-vs-43.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:02:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OECD는 중국의 2026년 성장률을 4.5%(변동 없음), 2027년 성장률을 4.2%(기존 전망 4.3% 대비)로 전망했다."
+  },
+  {
+    "guid": "9775073",
+    "title": "FinancialJuice: OECD forecasts world 2026 growth of 2.9% (vs 2.8% in june), 3.0% in 2027 (vs 3.1%).",
+    "link": "https://www.financialjuice.com/News/9775073/OECD-forecasts-world-2026-growth-of-29-vs-28-in-june-30-in-2027-vs-31.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:02:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OECD는 2026년 세계 경제 성장률을 2.9%(6월 전망치 2.8% 대비), 2027년은 3.0%(3.1% 대비)로 전망했다."
+  },
+  {
+    "guid": "9775072",
+    "title": "FinancialJuice: OECD forecasts US 2026 growth of 2.2% (vs 2.0% in june), 2.1% in 2027 (vs 1.8%).",
+    "link": "https://www.financialjuice.com/News/9775072/OECD-forecasts-US-2026-growth-of-22-vs-20-in-june-21-in-2027-vs-18.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:02:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OECD는 미국의 2026년 성장률을 2.2%(6월 전망치 2.0% 대비), 2027년 성장률을 2.1%(1.8% 대비)로 전망했다."
+  },
+  {
+    "guid": "9775042",
+    "title": "FinancialJuice: Eurozone Manufacturing PMI Flash Actual 52.7 (Forecast 52.6, Previous 52.7)",
+    "link": "https://www.financialjuice.com/News/9775042/Eurozone-Manufacturing-PMI-Flash-Actual-527-Forecast-526-Previous-527.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 제조업 PMI 속보치 52.7 (예상치 52.6, 전월치 52.7)"
+  },
+  {
+    "guid": "9775041",
+    "title": "FinancialJuice: Eurozone Composite PMI Flash Actual 53.1 (Forecast 51.7, Previous 52.0)",
+    "link": "https://www.financialjuice.com/News/9775041/Eurozone-Composite-PMI-Flash-Actual-531-Forecast-517-Previous-520.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 종합 PMI 속보치 53.1 (예상치 51.7, 전월치 52.0)"
+  },
+  {
+    "guid": "9775040",
+    "title": "FinancialJuice: Eurozone Services PMI Flash Actual 53 (Forecast 51.4, Previous 51.6)",
+    "link": "https://www.financialjuice.com/News/9775040/Eurozone-Services-PMI-Flash-Actual-53-Forecast-514-Previous-516.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 서비스업 PMI 속보치 53 (예상치 51.4, 전월치 51.6)"
+  },
+  {
+    "guid": "9775034",
+    "title": "FinancialJuice: NVIDIA-backed Firmus seeks $10 billion financing for AI chips.",
+    "link": "https://www.financialjuice.com/News/9775034/NVIDIA-backed-Firmus-seeks-10-billion-financing-for-AI-chips.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 07:45:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 엔비디아가 투자한 Firmus, AI 칩 개발을 위해 100억 달러 자금 조달 추진."
+  },
+  {
+    "guid": "9775008",
+    "title": "FinancialJuice: German Composite PMI Flash Actual 53.8 (Forecast 51.8, Previous 51.8)",
+    "link": "https://www.financialjuice.com/News/9775008/German-Composite-PMI-Flash-Actual-538-Forecast-518-Previous-518.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 07:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 종합 PMI 속보치 53.8 (예상치 51.8, 전월치 51.8)"
+  },
+  {
+    "guid": "9775007",
+    "title": "FinancialJuice: German Manufacturing PMI Flash Actual 53.8 (Forecast 54, Previous 54.3)",
+    "link": "https://www.financialjuice.com/News/9775007/German-Manufacturing-PMI-Flash-Actual-538-Forecast-54-Previous-543.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 07:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 제조업 PMI 속보치 53.8 (예상 54, 전월 54.3)"
+  },
+  {
+    "guid": "9775006",
+    "title": "FinancialJuice: German Service PMI Flash Actual 52.9 (Forecast 49.9, Previous 49.7)",
+    "link": "https://www.financialjuice.com/News/9775006/German-Service-PMI-Flash-Actual-529-Forecast-499-Previous-497.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 07:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 서비스업 PMI 속보치 52.9 (예상치 49.9, 전월치 49.7)"
+  },
+  {
+    "guid": "9774985",
+    "title": "FinancialJuice: French Manufacturing PMI Flash Actual 50.3 (Forecast 51, Previous 51.1)",
+    "link": "https://www.financialjuice.com/News/9774985/French-Manufacturing-PMI-Flash-Actual-503-Forecast-51-Previous-511.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 07:15:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 제조업 PMI 속보치 50.3 (예상치 51, 전월치 51.1)"
+  },
+  {
+    "guid": "9774984",
+    "title": "FinancialJuice: French Services PMI Flash Actual 51.4 (Forecast 48.3, Previous 48.0)",
+    "link": "https://www.financialjuice.com/News/9774984/French-Services-PMI-Flash-Actual-514-Forecast-483-Previous-480.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 07:15:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 서비스업 PMI 속보치 51.4 (예상치 48.3, 전월치 48.0)"
+  },
+  {
+    "guid": "9774983",
+    "title": "FinancialJuice: French Comp Flash PMI Actual 51.2 (Forecast 48.7, Previous 48.5)",
+    "link": "https://www.financialjuice.com/News/9774983/French-Comp-Flash-PMI-Actual-512-Forecast-487-Previous-485.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 07:15:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 기업 PMI 실제치 51.2 (예상치 48.7, 전월치 48.5)"
+  },
+  {
+    "guid": "9774982",
+    "title": "FinancialJuice: Italy plans to stick with its commitment to keep the deficit below the EU's 3% of GDP ceiling this year, from 3.1% in 2025 - Sources",
+    "link": "https://www.financialjuice.com/News/9774982/Italy-plans-to-stick-with-its-commitment-to-keep-the-deficit-below-the-EUs-3-of-GDP-ceiling-this-year-from-31-in-2025---Sources.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 07:05:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 소식통에 따르면, 이탈리아는 2025년 3.1%였던 재정적자 비율을 올해 EU가 정한 GDP 대비 3% 상한선 이하로 유지하겠다는 약속을 계속 지킬 계획이다."
+  },
+  {
+    "guid": "9774981",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: USD, CAD, CHF, JPY, GBP, EUR, AUD, NZD - Weakest",
+    "link": "https://www.financialjuice.com/News/9774981/Currency-Strength-Chart-Strongest-USD-CAD-CHF-JPY-GBP-EUR-AUD-NZD---Weakest.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 07:01:30 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: USD, CAD, CHF, JPY, GBP, EUR, AUD, NZD - 가장 약한 통화"
+  },
+  {
+    "guid": "9774933",
+    "title": "FinancialJuice: Iran's Deputy Oil Minister: Half of the damaged capacity of the South Pars gas field is back in production - Fars News",
+    "link": "https://www.financialjuice.com/News/9774933/Irans-Deputy-Oil-Minister-Half-of-the-damaged-capacity-of-the-South-Pars-gas-field-is-back-in-production---Fars-News.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:22:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 석유부 차관 “사우스 파르스 가스전의 손상된 생산 능력 중 절반이 생산을 재개했다” - 파르스 뉴스"
+  },
+  {
+    "guid": "9774932",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9774932/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:18:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9774931",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9774931/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:18:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9774930",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9774930/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:18:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 가능성"
+  },
+  {
+    "guid": "9774929",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9774929/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:17:47 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BoJ) 금리 결정 가능성"
+  },
+  {
+    "guid": "9774928",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9774928/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:17:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9774927",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9774927/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:17:10 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9774926",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9774926/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:16:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 가능성"
+  },
+  {
+    "guid": "9774925",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9774925/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:16:33 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9774921",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9774921/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:15:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9774918",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9774918/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:15:08 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시장 내재 변동성"
+  },
+  {
+    "guid": "9774917",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9774917/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:14:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9774916",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9774916/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:14:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 주요 종목의 내재 변동성"
+  },
+  {
+    "guid": "9774915",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9774915/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:13:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9774914",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9774914/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:13:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9774913",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9774913/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:12:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9774912",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9774912/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 06:12:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9774895",
+    "title": "FinancialJuice: UK's PM Burnham and Zelenskyy spoke about a proposal for an energy ceasefire",
+    "link": "https://www.financialjuice.com/News/9774895/UKs-PM-Burnham-and-Zelenskyy-spoke-about-a-proposal-for-an-energy-ceasefire.aspx?xy=rss",
+    "pubDate": "Wed, 23 Sep 2026 05:52:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국의 번햄 총리와 젤렌스키 대통령이 에너지 분야 휴전 제안에 대해 논의했다"
+  },
+  {
     "guid": "9774825",
     "title": "FinancialJuice: Dutch final Q2 GDP rises 1.6% y/y nsa vs preliminary 1.3%: CBS",
     "link": "https://www.financialjuice.com/News/9774825/Dutch-final-Q2-GDP-rises-16-yy-nsa-vs-preliminary-13-CBS.aspx?xy=rss",
