@@ -1,5 +1,573 @@
 [
   {
+    "guid": "9776988",
+    "title": "FinancialJuice: SNB governing board member Tschudin: no significant rise in Swiss franc carry trade",
+    "link": "https://www.financialjuice.com/News/9776988/SNB-governing-board-member-Tschudin-no-significant-rise-in-Swiss-franc-carry-trade.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:18:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 이사회 위원 츠추딘: 스위스 프랑 캐리 트레이드에서 큰 폭의 증가세 보이지 않아"
+  },
+  {
+    "guid": "9776987",
+    "title": "FinancialJuice: Fed's Williams: it’s sensible to expect another rate increase by year-end",
+    "link": "https://www.financialjuice.com/News/9776987/Feds-Williams-its-sensible-to-expect-another-rate-increase-by-year-end.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:18:45 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, “연말까지 추가 금리 인상이 있을 것으로 예상하는 것이 합리적”"
+  },
+  {
+    "guid": "9776986",
+    "title": "FinancialJuice: SNB Chairman Schlegel: low interest rate boosts franc appeal for carry trade",
+    "link": "https://www.financialjuice.com/News/9776986/SNB-Chairman-Schlegel-low-interest-rate-boosts-franc-appeal-for-carry-trade.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:18:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 슐레겔 총재: 저금리가 캐리 트레이드에서 프랑의 매력을 높인다"
+  },
+  {
+    "guid": "9776985",
+    "title": "FinancialJuice: SNB Chairman Schlegel: interest rate gap with euro and dollar is relatively high, making franc less appealing",
+    "link": "https://www.financialjuice.com/News/9776985/SNB-Chairman-Schlegel-interest-rate-gap-with-euro-and-dollar-is-relatively-high-making-franc-less-appealing.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:17:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB)의 슐레겔 총재: 유로 및 달러와의 금리 격차가 상대적으로 커서 프랑의 매력이 떨어지고 있다"
+  },
+  {
+    "guid": "9776984",
+    "title": "FinancialJuice: Fed's Williams: aim to bring inflation back to target promptly",
+    "link": "https://www.financialjuice.com/News/9776984/Feds-Williams-aim-to-bring-inflation-back-to-target-promptly.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:17:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, “인플레이션을 조속히 목표치로 되돌리는 것을 목표로 한다”"
+  },
+  {
+    "guid": "9776983",
+    "title": "FinancialJuice: SNB Chairman Schlegel: balance sheet size is not a goal, just an outcome of monetary policy",
+    "link": "https://www.financialjuice.com/News/9776983/SNB-Chairman-Schlegel-balance-sheet-size-is-not-a-goal-just-an-outcome-of-monetary-policy.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:17:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 슈레겔 스위스 중앙은행(SNB) 총재: 대차대조표 규모는 목표가 아니라 통화 정책의 결과일 뿐"
+  },
+  {
+    "guid": "9776982",
+    "title": "FinancialJuice: Fed's Williams: demand appears fairly robust across all sectors",
+    "link": "https://www.financialjuice.com/News/9776982/Feds-Williams-demand-appears-fairly-robust-across-all-sectors.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:16:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, “모든 부문에서 수요가 상당히 견조한 것으로 보인다”"
+  },
+  {
+    "guid": "9776980",
+    "title": "FinancialJuice: Fed's Williams: major hurdle is inflation",
+    "link": "https://www.financialjuice.com/News/9776980/Feds-Williams-major-hurdle-is-inflation.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:16:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스 “가장 큰 걸림돌은 인플레이션”"
+  },
+  {
+    "guid": "9776979",
+    "title": "FinancialJuice: NB chairman: Swiss franc has weakened, but still prepared to intervene in forex markets if needed",
+    "link": "https://www.financialjuice.com/News/9776979/NB-chairman-Swiss-franc-has-weakened-but-still-prepared-to-intervene-in-forex-markets-if-needed.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:16:31 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: NB 회장: 스위스 프랑 가치가 약세를 보였지만, 필요시 외환 시장에 개입할 준비는 여전히 되어 있다"
+  },
+  {
+    "guid": "9776978",
+    "title": "FinancialJuice: Fed's Williams: downside risks to reaching maximum employment have eased",
+    "link": "https://www.financialjuice.com/News/9776978/Feds-Williams-downside-risks-to-reaching-maximum-employment-have-eased.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:16:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, “최대 고용 달성 여정에 대한 하방 리스크가 완화됐다”"
+  },
+  {
+    "guid": "9776959",
+    "title": "FinancialJuice: SNB chairman Schlegel: we are not isolated, foreign events impact Switzerland",
+    "link": "https://www.financialjuice.com/News/9776959/SNB-chairman-Schlegel-we-are-not-isolated-foreign-events-impact-Switzerland.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:16:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB)의 슐레겔 총재 “우리는 고립되어 있지 않다. 해외 사정이 스위스에 영향을 미친다”"
+  },
+  {
+    "guid": "9776958",
+    "title": "FinancialJuice: Fed's Williams: US economy shows remarkable resilience",
+    "link": "https://www.financialjuice.com/News/9776958/Feds-Williams-US-economy-shows-remarkable-resilience.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:15:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스 “미국 경제는 놀라운 회복력을 보여주고 있다”"
+  },
+  {
+    "guid": "9776957",
+    "title": "FinancialJuice: SNB Chairman Schlegal: prepared to step into fx market, unable to offer guidance",
+    "link": "https://www.financialjuice.com/News/9776957/SNB-Chairman-Schlegal-prepared-to-step-into-fx-market-unable-to-offer-guidance.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:15:46 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 슈레갈 총재, 외환시장 개입 준비는 되어 있으나 전망 제시할 수 없다고 밝혀"
+  },
+  {
+    "guid": "9776947",
+    "title": "FinancialJuice: NB chairman: current monetary policy suitable with 0% interest rate, inflation outlook within price stability range",
+    "link": "https://www.financialjuice.com/News/9776947/NB-chairman-current-monetary-policy-suitable-with-0-interest-rate-inflation-outlook-within-price-stability-range.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:14:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: NB 회장 “현재 통화정책은 0% 금리 수준에 적합하며, 인플레이션 전망은 물가 안정 범위 내에 있다”"
+  },
+  {
+    "guid": "9776946",
+    "title": "FinancialJuice: Swiss National Bank chairman: no forward guidance, will review data in December",
+    "link": "https://www.financialjuice.com/News/9776946/Swiss-National-Bank-chairman-no-forward-guidance-will-review-data-in-December.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:11:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스위스 국립은행 총재, “선행 지침은 없을 것… 12월에 데이터를 검토할 예정”"
+  },
+  {
+    "guid": "9776945",
+    "title": "FinancialJuice: BoE's Lombardelli: We are closer to adverse scenario for energy vs July.",
+    "link": "https://www.financialjuice.com/News/9776945/BoEs-Lombardelli-We-are-closer-to-adverse-scenario-for-energy-vs-July.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:08:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 롬바르델리: 에너지 부문의 부정적 시나리오 발생 가능성이 7월보다 더 높아졌다."
+  },
+  {
+    "guid": "9776944",
+    "title": "FinancialJuice: BoE's Lombardelli: Case for a hike grows the longer the conflict persists.",
+    "link": "https://www.financialjuice.com/News/9776944/BoEs-Lombardelli-Case-for-a-hike-grows-the-longer-the-conflict-persists.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:04:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 롬바르델리: 분쟁이 장기화될수록 금리 인상 필요성이 커진다."
+  },
+  {
+    "guid": "9776943",
+    "title": "FinancialJuice: BoE's Lombardelli: No signs so far that 2nd-round effects are large.",
+    "link": "https://www.financialjuice.com/News/9776943/BoEs-Lombardelli-No-signs-so-far-that-2nd-round-effects-are-large.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:04:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 롬바르델리: 현재로서는 2차 효과가 크다는 징후는 보이지 않는다."
+  },
+  {
+    "guid": "9776942",
+    "title": "FinancialJuice: BoE's Lombardelli: By no means suggesting that monetary policy should respond mechanically to movements in energy prices.",
+    "link": "https://www.financialjuice.com/News/9776942/BoEs-Lombardelli-By-no-means-suggesting-that-monetary-policy-should-respond-mechanically-to-movements-in-energy-prices.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:02:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 롬바르델리: 결코 통화 정책이 에너지 가격 변동에 기계적으로 대응해야 한다는 뜻은 아니다."
+  },
+  {
+    "guid": "9776941",
+    "title": "FinancialJuice: BoE's Lombardelli: Wage growth remains too high to be consistent with inflation target.",
+    "link": "https://www.financialjuice.com/News/9776941/BoEs-Lombardelli-Wage-growth-remains-too-high-to-be-consistent-with-inflation-target.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:02:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 롬바르델리: 임금 상승률이 여전히 인플레이션 목표치와 양립하기에는 너무 높은 수준이다."
+  },
+  {
+    "guid": "9776940",
+    "title": "FinancialJuice: BoE's Lombardelli: Policy is increasingly likely to need to tighten if elevated energy prices persist, absent clear evidence of disinflation or weaker activity.",
+    "link": "https://www.financialjuice.com/News/9776940/BoEs-Lombardelli-Policy-is-increasingly-likely-to-need-to-tighten-if-elevated-energy-prices-persist-absent-clear-evidence-of-disinflation-or-weaker-activity.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:02:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 롬바르델리: 디플레이션 징후나 경기 둔화에 대한 명확한 증거가 없는 한, 높은 에너지 가격이 지속될 경우 통화 긴축이 필요할 가능성이 점점 더 커지고 있다."
+  },
+  {
+    "guid": "9776927",
+    "title": "FinancialJuice: German institutes forecast inflation rising to 2.8% in 2026 and 3.2% in 2027, before falling to 2.0% in 2028.",
+    "link": "https://www.financialjuice.com/News/9776927/German-institutes-forecast-inflation-rising-to-28-in-2026-and-32-in-2027-before-falling-to-20-in-2028.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:01:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 독일의 여러 연구기관들은 인플레이션이 2026년에는 2.8%, 2027년에는 3.2%까지 상승한 뒤 2028년에는 2.0%로 떨어질 것으로 전망했다."
+  },
+  {
+    "guid": "9776912",
+    "title": "FinancialJuice: German IFO Business Climate Actual 89.9 (Forecast 89, Previous 88.8)",
+    "link": "https://www.financialjuice.com/News/9776912/German-IFO-Business-Climate-Actual-899-Forecast-89-Previous-888.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:00:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 IFO 기업景氣지수, 실제 89.9 (예상 89, 전월 88.8)"
+  },
+  {
+    "guid": "9776926",
+    "title": "FinancialJuice: German IFO Expectations Actual 90.4 (Forecast 89.3, Previous 89.1)",
+    "link": "https://www.financialjuice.com/News/9776926/German-IFO-Expectations-Actual-904-Forecast-893-Previous-891.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:00:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 IFO 기대지수, 실제 90.4 (예상 89.3, 전월 89.1)"
+  },
+  {
+    "guid": "9776913",
+    "title": "FinancialJuice: German IFO Current Conditions Actual 89.5 (Forecast 89, Previous 88.5)",
+    "link": "https://www.financialjuice.com/News/9776913/German-IFO-Current-Conditions-Actual-895-Forecast-89-Previous-885.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:00:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 IFO 현 상황 지수 실제 89.5 (예상 89, 전월 88.5)"
+  },
+  {
+    "guid": "9776911",
+    "title": "FinancialJuice: Norwegian Key Policy Rate Actual 4.5% (Forecast 4.5%, Previous 4.25%)",
+    "link": "https://www.financialjuice.com/News/9776911/Norwegian-Key-Policy-Rate-Actual-45-Forecast-45-Previous-425.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 08:00:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 노르웨이 기준금리 실제 4.5% (예상 4.5%, 이전 4.25%)"
+  },
+  {
+    "guid": "9776884",
+    "title": "FinancialJuice: SNB: Goods inflation mainly driven by oil product prices.",
+    "link": "https://www.financialjuice.com/News/9776884/SNB-Goods-inflation-mainly-driven-by-oil-product-prices.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:35:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB): 상품 물가 상승은 주로 석유 제품 가격에 기인한다."
+  },
+  {
+    "guid": "9776883",
+    "title": "FinancialJuice: ECB's Schnabel: Energy shock much more persistent than thought.",
+    "link": "https://www.financialjuice.com/News/9776883/ECBs-Schnabel-Energy-shock-much-more-persistent-than-thought.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:34:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 슈나벨, “에너지 충격이 예상보다 훨씬 더 오래 지속될 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9776881",
+    "title": "FinancialJuice: SNB: Energy prices could turn out to be significantly higher than expected.",
+    "link": "https://www.financialjuice.com/News/9776881/SNB-Energy-prices-could-turn-out-to-be-significantly-higher-than-expected.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:33:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB): 에너지 가격이 예상보다 훨씬 더 높아질 수도 있다."
+  },
+  {
+    "guid": "9776880",
+    "title": "FinancialJuice: SNB anticipates that growth in the global economy will be moderate over the coming quarters. inflation is likely to remain elevated for some time.",
+    "link": "https://www.financialjuice.com/News/9776880/SNB-anticipates-that-growth-in-the-global-economy-will-be-moderate-over-the-coming-quarters-inflation-is-likely-to-remain-elevated-for-some-time.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:32:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 중앙은행(SNB)은 향후 몇 분기 동안 세계 경제 성장세가 완만할 것으로 전망하고 있다. 인플레이션은 당분간 높은 수준을 유지할 것으로 보인다."
+  },
+  {
+    "guid": "9776862",
+    "title": "FinancialJuice: SNB: The main risk to the economic outlook for Switzerland stems from developments in the global economy, in particular, the situation in the Middle East.",
+    "link": "https://www.financialjuice.com/News/9776862/SNB-The-main-risk-to-the-economic-outlook-for-Switzerland-stems-from-developments-in-the-global-economy-in-particular-the-situation-in-the-Middle-East.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:32:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB): 스위스 경제 전망에 대한 주요 위험 요인은 세계 경제의 동향, 특히 중동 정세에서 비롯된다."
+  },
+  {
+    "guid": "9776861",
+    "title": "FinancialJuice: SNB sees 2026 GDP growth 1.5%-2%.",
+    "link": "https://www.financialjuice.com/News/9776861/SNB-sees-2026-GDP-growth-15-2.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:31:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 중앙은행(SNB), 2026년 GDP 성장률 1.5%~2% 전망."
+  },
+  {
+    "guid": "9776860",
+    "title": "FinancialJuice: SNB sees 2026 inflation at 0.7%; 2027 at 0.8%; 2028 at 0.8%.",
+    "link": "https://www.financialjuice.com/News/9776860/SNB-sees-2026-inflation-at-07-2027-at-08-2028-at-08.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:31:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: SNB는 2026년 인플레이션율을 0.7%, 2027년은 0.8%, 2028년은 0.8%로 전망했다."
+  },
+  {
+    "guid": "9776859",
+    "title": "FinancialJuice: SNB: Remain ready to intervene in FX market as needed.",
+    "link": "https://www.financialjuice.com/News/9776859/SNB-Remain-ready-to-intervene-in-FX-market-as-needed.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:31:14 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB): 필요시 외환시장에 개입할 준비를 계속 유지하고 있다."
+  },
+  {
+    "guid": "9776856",
+    "title": "FinancialJuice: Swedish Riksbank Rate Actual 1.75% (Forecast 1.75%, Previous 1.75%)",
+    "link": "https://www.financialjuice.com/News/9776856/Swedish-Riksbank-Rate-Actual-175-Forecast-175-Previous-175.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:30:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스웨덴 중앙은행(Riksbank) 기준금리, 실제 1.75% (예상 1.75%, 이전 1.75%)"
+  },
+  {
+    "guid": "9776855",
+    "title": "FinancialJuice: Swiss Interest Rate Actual 0% (Forecast 0%, Previous 0.00%)",
+    "link": "https://www.financialjuice.com/News/9776855/Swiss-Interest-Rate-Actual-0-Forecast-0-Previous-000.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:30:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 금리 실제 0% (예상 0%, 이전 0.00%)"
+  },
+  {
+    "guid": "9776849",
+    "title": "FinancialJuice: China's foreign minister, on Iran's president's remarks on the Strait of Hormuz: All parties should look to a peaceful option and resolve disputes through dialogue",
+    "link": "https://www.financialjuice.com/News/9776849/Chinas-foreign-minister-on-Irans-presidents-remarks-on-the-Strait-of-Hormuz-All-parties-should-look-to-a-peaceful-option-and-resolve-disputes-through-dialogue.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:13:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호르무즈 해협에 대한 이란 대통령의 발언과 관련해 중국 외교부 장관은 “모든 당사자가 평화적 해결 방안을 모색하고 대화를 통해 분쟁을 해결해야 한다”고 밝혔다."
+  },
+  {
+    "guid": "9776847",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: CHF, EUR, GBP, NZD, CAD, USD, GBP, AUD - Weakest",
+    "link": "https://www.financialjuice.com/News/9776847/Currency-Strength-Chart-Strongest-CHF-EUR-GBP-NZD-CAD-USD-GBP-AUD---Weakest.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 07:02:04 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: CHF, EUR, GBP, NZD, CAD, USD, GBP, AUD - 가장 약한 통화"
+  },
+  {
+    "guid": "9776810",
+    "title": "FinancialJuice: French Business Climate Overall Actual 96 (Forecast 98, Previous 98)",
+    "link": "https://www.financialjuice.com/News/9776810/French-Business-Climate-Overall-Actual-96-Forecast-98-Previous-98.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:45:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 기업 경기 전망 지수(실제 96, 전망치 98, 이전치 98)"
+  },
+  {
+    "guid": "9776811",
+    "title": "FinancialJuice: French Consumer Confidence Actual 86 (Forecast 85, Previous 86)",
+    "link": "https://www.financialjuice.com/News/9776811/French-Consumer-Confidence-Actual-86-Forecast-85-Previous-86.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:45:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 소비자 신뢰지수 실제치 86 (예상치 85, 전월치 86)"
+  },
+  {
+    "guid": "9776809",
+    "title": "FinancialJuice: French Business Climate Mfg Actual 101 (Forecast 102, Previous 103)",
+    "link": "https://www.financialjuice.com/News/9776809/French-Business-Climate-Mfg-Actual-101-Forecast-102-Previous-103.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 기업 경기 지수(제조업) 실제치 101 (예상치 102, 전월치 103)"
+  },
+  {
+    "guid": "9776773",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9776773/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:08:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9776772",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9776772/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:08:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9776771",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9776771/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:08:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9776770",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9776770/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:07:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BoJ) 금리 결정 확률"
+  },
+  {
+    "guid": "9776769",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9776769/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:07:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9776768",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9776768/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:07:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9776767",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9776767/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:07:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 가능성"
+  },
+  {
+    "guid": "9776766",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9776766/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:06:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9776765",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9776765/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:06:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9776764",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9776764/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:05:55 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시장 내재 변동성"
+  },
+  {
+    "guid": "9776763",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9776763/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:05:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9776762",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9776762/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:05:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목 중 내재 변동성이 가장 높은 종목"
+  },
+  {
+    "guid": "9776761",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9776761/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:04:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9776760",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9776760/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:03:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9776759",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9776759/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:03:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9776758",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9776758/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 06:03:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9776745",
+    "title": "FinancialJuice: ECB's Kocher: Signs of somewhat more Eurozone momentum since summer",
+    "link": "https://www.financialjuice.com/News/9776745/ECBs-Kocher-Signs-of-somewhat-more-Eurozone-momentum-since-summer.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:46:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 코처 “여름 이후 유로존 경제 성장세가 다소 더 탄력을 받고 있다는 징후가 보인다”"
+  },
+  {
+    "guid": "9776740",
+    "title": "FinancialJuice: ECB's Kocher: Eurozone economy remains fragile",
+    "link": "https://www.financialjuice.com/News/9776740/ECBs-Kocher-Eurozone-economy-remains-fragile.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:45:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 코처, “유로존 경제는 여전히 취약한 상태”"
+  },
+  {
+    "guid": "9776739",
+    "title": "FinancialJuice: ECB's Kocher: Must prevent too high inflation, becoming entrenched.",
+    "link": "https://www.financialjuice.com/News/9776739/ECBs-Kocher-Must-prevent-too-high-inflation-becoming-entrenched.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:43:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB의 코처, “과도한 인플레이션이 고착화되는 것을 막아야 한다.”"
+  },
+  {
+    "guid": "9776733",
+    "title": "FinancialJuice: Iran: UN team coordinates with relevant authorities - ISNA",
+    "link": "https://www.financialjuice.com/News/9776733/Iran-UN-team-coordinates-with-relevant-authorities---ISNA.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:25:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란: 유엔 조사단, 관련 당국과 협력 중 - ISNA"
+  },
+  {
+    "guid": "9776717",
+    "title": "FinancialJuice: Ukraine’s economic outlook weakened materially to near stagnation as Russian air attacks increase, EBRD says",
+    "link": "https://www.financialjuice.com/News/9776717/Ukraines-economic-outlook-weakened-materially-to-near-stagnation-as-Russian-air-attacks-increase-EBRD-says.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EBRD, “러시아의 공습이 증가함에 따라 우크라이나의 경제 전망이 크게 악화되어 거의 정체 상태에 가까워졌다”고 밝혔다"
+  },
+  {
+    "guid": "9776716",
+    "title": "FinancialJuice: EBRD lowers Ukraine economic growth forecast for 2026 by 0.7 percentage points to 1.5%, cuts 2027 forecast by 1.5 percentage points to 2.5%",
+    "link": "https://www.financialjuice.com/News/9776716/EBRD-lowers-Ukraine-economic-growth-forecast-for-2026-by-07-percentage-points-to-15-cuts-2027-forecast-by-15-percentage-points-to-25.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EBRD, 우크라이나의 2026년 경제 성장률 전망치를 0.7%포인트 하향 조정해 1.5%로, 2027년 전망치는 1.5%포인트 하향 조정해 2.5%로 제시"
+  },
+  {
+    "guid": "9776715",
+    "title": "FinancialJuice: Black Sea attacks could reduce Ukraine's wheat, metal and oilseed exports by up to $5.5 billion in 2026: EBRD",
+    "link": "https://www.financialjuice.com/News/9776715/Black-Sea-attacks-could-reduce-Ukraines-wheat-metal-and-oilseed-exports-by-up-to-55-billion-in-2026-EBRD.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 흑해 공격으로 인해 2026년 우크라이나의 밀, 금속, 유채종자 수출이 최대 55억 달러까지 감소할 수 있다: EBRD"
+  },
+  {
+    "guid": "9776714",
+    "title": "FinancialJuice: Lebanon's economy to shrink 5% in 2026 amid israel hostilities, recover 4% in 2027: ebrd",
+    "link": "https://www.financialjuice.com/News/9776714/Lebanons-economy-to-shrink-5-in-2026-amid-israel-hostilities-recover-4-in-2027-ebrd.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘과의 군사적 대립으로 2026년 레바논 경제 5% 위축, 2027년 4% 회복 전망: EBRD"
+  },
+  {
+    "guid": "9776713",
+    "title": "FinancialJuice: EBRD lowers 2026 regional growth by 0.6 percentage points to 2.5%, boosts 2027 growth by 0.4 pp to 4%",
+    "link": "https://www.financialjuice.com/News/9776713/EBRD-lowers-2026-regional-growth-by-06-percentage-points-to-25-boosts-2027-growth-by-04-pp-to-4.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EBRD, 2026년 지역 성장률 전망치를 0.6%포인트 하향 조정해 2.5%로, 2027년 성장률 전망치는 0.4%포인트 상향 조정해 4%로 제시"
+  },
+  {
+    "guid": "9776712",
+    "title": "FinancialJuice: Average U.S. import tariffs from EBRD region dropped to 8.6% from 11.6% after July 2026 adjustments",
+    "link": "https://www.financialjuice.com/News/9776712/Average-US-import-tariffs-from-EBRD-region-dropped-to-86-from-116-after-July-2026-adjustments.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 2026년 7월 관세 조정 이후, EBRD 지역으로부터의 미국 평균 수입 관세율이 11.6%에서 8.6%로 하락했다."
+  },
+  {
+    "guid": "9776711",
+    "title": "FinancialJuice: Iraqi economy expected to shrink 12% amid oil export drops: EBRD",
+    "link": "https://www.financialjuice.com/News/9776711/Iraqi-economy-expected-to-shrink-12-amid-oil-export-drops-EBRD.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EBRD “원유 수출 감소로 이라크 경제 12% 위축될 전망”"
+  },
+  {
+    "guid": "9776710",
+    "title": "FinancialJuice: EBRD lowers Turkey growth forecast 0.5 percentage points to 3% in 2026 on persistent inflation pressures",
+    "link": "https://www.financialjuice.com/News/9776710/EBRD-lowers-Turkey-growth-forecast-05-percentage-points-to-3-in-2026-on-persistent-inflation-pressures.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 05:00:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: EBRD, 지속적인 인플레이션 압박으로 2026년 터키 성장률 전망치를 0.5%포인트 하향 조정해 3%로 제시"
+  },
+  {
+    "guid": "9776644",
+    "title": "FinancialJuice: Ten commodity ships pass Strait of Hormuz on Wednesday against 10-day moving average near 17, data shows",
+    "link": "https://www.financialjuice.com/News/9776644/Ten-commodity-ships-pass-Strait-of-Hormuz-on-Wednesday-against-10-day-moving-average-near-17-data-shows.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 04:00:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 데이터에 따르면 수요일 호르무즈 해협을 통과한 원자재 운반선 10척은 10일 이동평균치인 17척에 근접한 수치로 나타났다."
+  },
+  {
+    "guid": "9776639",
+    "title": "FinancialJuice: PAM secures most seats in Morocco's parliamentary election",
+    "link": "https://www.financialjuice.com/News/9776639/PAM-secures-most-seats-in-Moroccos-parliamentary-election.aspx?xy=rss",
+    "pubDate": "Thu, 24 Sep 2026 03:41:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: PAM, 모로코 총선에서 가장 많은 의석을 확보했다"
+  },
+  {
     "guid": "9776594",
     "title": "FinancialJuice: Dollar/yen declines 0.33% to 157.80",
     "link": "https://www.financialjuice.com/News/9776594/Dollaryen-declines-033-to-15780.aspx?xy=rss",
