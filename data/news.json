@@ -1,5 +1,93 @@
 [
   {
+    "guid": "9779898",
+    "title": "FinancialJuice: Google in threat intelligence report: ShinyHunters launches revived widespread attack campaign targeting Oracle PeopleSoft",
+    "link": "https://www.financialjuice.com/News/9779898/Google-in-threat-intelligence-report-ShinyHunters-launches-revived-widespread-attack-campaign-targeting-Oracle-PeopleSoft.aspx?xy=rss",
+    "pubDate": "Fri, 25 Sep 2026 23:28:01 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 구글의 위협 인텔리전스 보고서: ShinyHunters, 오라클 피플소프트를 표적으로 한 대규모 공격 캠페인을 재개"
+  },
+  {
+    "guid": "9779885",
+    "title": "FinancialJuice: Skyworks extends expiration date of exchange offers for Gorvo senior notes due 2029 and 2031",
+    "link": "https://www.financialjuice.com/News/9779885/Skyworks-extends-expiration-date-of-exchange-offers-for-Gorvo-senior-notes-due-2029-and-2031.aspx?xy=rss",
+    "pubDate": "Fri, 25 Sep 2026 22:34:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스카이웍스, 2029년 및 2031년 만기 고르보(Gorvo) 선순위 채권 교환 제안의 마감 기한 연장"
+  },
+  {
+    "guid": "9779874",
+    "title": "FinancialJuice: Alabama AG: deal settles claims TikTok built platform with addictive features, exposed young users to mental harm, misled public about safety",
+    "link": "https://www.financialjuice.com/News/9779874/Alabama-AG-deal-settles-claims-TikTok-built-platform-with-addictive-features-exposed-young-users-to-mental-harm-misled-public-about-safety.aspx?xy=rss",
+    "pubDate": "Fri, 25 Sep 2026 22:28:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앨라배마주 법무장관, “틱톡이 중독성 있는 기능을 갖춘 플랫폼을 구축하고, 청소년 사용자에게 정신적 피해를 입혔으며, 안전성에 대해 대중을 오도했다”는 주장을 이번 합의로 해결했다"
+  },
+  {
+    "guid": "9779873",
+    "title": "FinancialJuice: Alabama AG: Alabama could obtain up to $300 million under settlement if conditions met",
+    "link": "https://www.financialjuice.com/News/9779873/Alabama-AG-Alabama-could-obtain-up-to-300-million-under-settlement-if-conditions-met.aspx?xy=rss",
+    "pubDate": "Fri, 25 Sep 2026 22:28:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앨라배마주 법무장관: 조건이 충족될 경우, 앨라배마주는 합의에 따라 최대 3억 달러를 확보할 수 있을 것으로 보인다"
+  },
+  {
+    "guid": "9779872",
+    "title": "FinancialJuice: Alabama AG: TikTok must add safety features to protect children alongside payment",
+    "link": "https://www.financialjuice.com/News/9779872/Alabama-AG-TikTok-must-add-safety-features-to-protect-children-alongside-payment.aspx?xy=rss",
+    "pubDate": "Fri, 25 Sep 2026 22:27:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앨라배마주 법무장관, “틱톡은 과금 기능과 함께 아동을 보호하기 위한 안전 기능을 추가해야 한다”"
+  },
+  {
+    "guid": "9779871",
+    "title": "FinancialJuice: Alabama AG: under settlement, Alabama to get at least $100 million",
+    "link": "https://www.financialjuice.com/News/9779871/Alabama-AG-under-settlement-Alabama-to-get-at-least-100-million.aspx?xy=rss",
+    "pubDate": "Fri, 25 Sep 2026 22:27:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앨라배마주 법무장관: 합의에 따라 앨라배마주가 최소 1억 달러를 받게 될 전망"
+  },
+  {
+    "guid": "9779870",
+    "title": "FinancialJuice: Alabama Attorney General Marshall announces multi-million-dollar deal with TikTok",
+    "link": "https://www.financialjuice.com/News/9779870/Alabama-Attorney-General-Marshall-announces-multi-million-dollar-deal-with-TikTok.aspx?xy=rss",
+    "pubDate": "Fri, 25 Sep 2026 22:26:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앨라배마주 마셜 법무장관, 틱톡과 수백만 달러 규모의 합의 체결 발표"
+  },
+  {
+    "guid": "9779853",
+    "title": "FinancialJuice: US Supreme Court blocks Missouri for third time from using GOP-drawn congressional map in November midterm elections",
+    "link": "https://www.financialjuice.com/News/9779853/US-Supreme-Court-blocks-Missouri-for-third-time-from-using-GOP-drawn-congressional-map-in-November-midterm-elections.aspx?xy=rss",
+    "pubDate": "Fri, 25 Sep 2026 21:54:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 대법원, 미주리주가 11월 중간선거에서 공화당이 작성한 하원 선거구 획정안을 사용하는 것을 세 번째로 차단했다"
+  },
+  {
+    "guid": "9779852",
+    "title": "FinancialJuice: Saudi civil defense: danger has passed in Jazan",
+    "link": "https://www.financialjuice.com/News/9779852/Saudi-civil-defense-danger-has-passed-in-Jazan.aspx?xy=rss",
+    "pubDate": "Fri, 25 Sep 2026 21:53:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 민방위청, 자잔 지역의 위험은 지나갔다"
+  },
+  {
+    "guid": "9779851",
+    "title": "FinancialJuice: Saudi civil defense issues warning over possible threat in Jazan",
+    "link": "https://www.financialjuice.com/News/9779851/Saudi-civil-defense-issues-warning-over-possible-threat-in-Jazan.aspx?xy=rss",
+    "pubDate": "Fri, 25 Sep 2026 21:50:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 민방위청, 자잔 지역 잠재적 위협에 대한 경보 발령"
+  },
+  {
+    "guid": "9779831",
+    "title": "FinancialJuice: US having positive, constructive talks with Iran via mediators on nuclear issues, US official says on 7-day plan",
+    "link": "https://www.financialjuice.com/News/9779831/US-having-positive-constructive-talks-with-Iran-via-mediators-on-nuclear-issues-US-official-says-on-7-day-plan.aspx?xy=rss",
+    "pubDate": "Fri, 25 Sep 2026 21:28:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 관리, 7일 계획과 관련해 “미국이 중재자를 통해 이란과 핵 문제에 대해 긍정적이고 건설적인 대화를 나누고 있다”고 밝혔다"
+  },
+  {
     "guid": "9779774",
     "title": "FinancialJuice: Iran's Foreign Minister: They can accept this 7-day plan, and at the end, the Strait of Hormuz will be open.",
     "link": "https://www.financialjuice.com/News/9779774/Irans-Foreign-Minister-They-can-accept-this-7-day-plan-and-at-the-end-the-Strait-of-Hormuz-will-be-open.aspx?xy=rss",
