@@ -1,5 +1,693 @@
 [
   {
+    "guid": "9782352",
+    "title": "FinancialJuice: North Korea: US approval for South Korea's nuclear submarine heightens regional instability - KCNA",
+    "link": "https://www.financialjuice.com/News/9782352/North-Korea-US-approval-for-South-Koreas-nuclear-submarine-heightens-regional-instability---KCNA.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 21:11:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 북한 “미국의 한국 핵잠수함 승인, 지역 불안정 가중” - 조선중앙통신"
+  },
+  {
+    "guid": "9782335",
+    "title": "FinancialJuice: Anthropic collaborates with Nvidia on agent security\n$NVDA",
+    "link": "https://www.financialjuice.com/News/9782335/Anthropic-collaborates-with-Nvidia-on-agent-securityNVDA.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 20:55:25 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 앤트로픽, 엔비디아와 에이전트 보안 분야 협력\n$NVDA"
+  },
+  {
+    "guid": "9782334",
+    "title": "FinancialJuice: Libyan, Moroccan and Qatari military and government aircraft landed in Abu Dhabi during Israeli Prime Minister Netanyahu's visit - Israel's Kan News.",
+    "link": "https://www.financialjuice.com/News/9782334/Libyan-Moroccan-and-Qatari-military-and-government-aircraft-landed-in-Abu-Dhabi-during-Israeli-Prime-Minister-Netanyahus-visit---Israels-Kan-News.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 20:48:09 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이스라엘 네타냐후 총리의 방문 기간 동안 리비아, 모로코, 카타르의 군용기 및 정부 전용기가 아부다비에 착륙했다 - 이스라엘 칸 뉴스."
+  },
+  {
+    "guid": "9782298",
+    "title": "FinancialJuice: Iran's State TV: The sounds heard on Qeshm Island were likely the result of warning shots fired at violating vessels in the Strait of Hormuz.",
+    "link": "https://www.financialjuice.com/News/9782298/Irans-State-TV-The-sounds-heard-on-Qeshm-Island-were-likely-the-result-of-warning-shots-fired-at-violating-vessels-in-the-Strait-of-Hormuz.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 20:26:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 국영 TV: 케슘 섬에서 들린 소리는 호르무즈 해협에서 규정을 위반한 선박을 향해 발사된 경고 사격 때문인 것으로 보인다."
+  },
+  {
+    "guid": "9782290",
+    "title": "FinancialJuice: AMD agrees to buY Fei-Fei Li’s World Labs AI startup for $8.2b. $AMD\n",
+    "link": "https://www.financialjuice.com/News/9782290/AMD-agrees-to-buY-Fei-Fei-Lis-World-Labs-AI-startup-for-82b-AMD.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 20:05:40 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: AMD, 리페이페이(Fei-Fei Li)가 설립한 AI 스타트업 ‘월드 랩스(World Labs)’를 82억 달러에 인수하기로 합의. $AMD\n"
+  },
+  {
+    "guid": "9782289",
+    "title": "FinancialJuice: Iran's Deputy Chairman of the National Security Committee: The nuclear issue is no longer the central focus of negotiations; rather, the Strait of Hormuz is now at the center.",
+    "link": "https://www.financialjuice.com/News/9782289/Irans-Deputy-Chairman-of-the-National-Security-Committee-The-nuclear-issue-is-no-longer-the-central-focus-of-negotiations-rather-the-Strait-of-Hormuz-is-now-at-the-center.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 20:04:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 국가안보위원회 부위원장: 핵 문제는 더 이상 협상의 핵심 쟁점이 아니며, 오히려 호르무즈 해협이 현재 협상의 중심에 있다."
+  },
+  {
+    "guid": "9782288",
+    "title": "FinancialJuice: Iran's Deputy Chairman of the National Security Committee: Before any negotiations, the United States must accept Iran's conditions - Fars News",
+    "link": "https://www.financialjuice.com/News/9782288/Irans-Deputy-Chairman-of-the-National-Security-Committee-Before-any-negotiations-the-United-States-must-accept-Irans-conditions---Fars-News.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 20:03:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 국가안보위원회 부위원장 “어떤 협상도 시작하기 전에 미국은 이란의 조건을 받아들여야 한다” - 파르스 뉴스"
+  },
+  {
+    "guid": "9782273",
+    "title": "FinancialJuice: Explosion heard in Qeshm Island a few minutes ago; sound came from the sea, appears no damage inside the island - IRNA\n",
+    "link": "https://www.financialjuice.com/News/9782273/Explosion-heard-in-Qeshm-Island-a-few-minutes-ago-sound-came-from-the-sea-appears-no-damage-inside-the-island---IRNA.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:56:41 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 몇 분 전 케슘 섬에서 폭발음이 들렸으며, 소리는 바다 쪽에서 들렸으나 섬 내부는 피해가 없는 것으로 보인다 - IRNA\n"
+  },
+  {
+    "guid": "9782272",
+    "title": "FinancialJuice: Al Jazeera Bureau Chief: Information indicates new Iranian proposal does not include nuclear commitments until after the first phase is implemented. The dispute centers on who gives up pressure cards first.",
+    "link": "https://www.financialjuice.com/News/9782272/Al-Jazeera-Bureau-Chief-Information-indicates-new-Iranian-proposal-does-not-include-nuclear-commitments-until-after-the-first-phase-is-implemented-The-dispute-centers-on-who-gives-up-pressure-cards-first.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:55:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 알자지라 지국장: 입수된 정보에 따르면, 이란의 새로운 제안에는 1단계가 이행될 때까지 핵 관련 약속이 포함되지 않은 것으로 보인다. 분쟁의 핵심은 누가 먼저 압박 수단을 포기할 것인가 하는 점이다."
+  },
+  {
+    "guid": "9782271",
+    "title": "FinancialJuice: SpaceXAI launches Team Bots for collaborative AI workflows. $SPCX",
+    "link": "https://www.financialjuice.com/News/9782271/SpaceXAI-launches-Team-Bots-for-collaborative-AI-workflows-SPCX.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:54:00 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 스페이스XAI, 협업형 AI 워크플로우를 위한 ‘팀 봇(Team Bots)’ 출시. $SPCX"
+  },
+  {
+    "guid": "9782270",
+    "title": "FinancialJuice: Trump: Will visit Iowa\n",
+    "link": "https://www.financialjuice.com/News/9782270/Trump-Will-visit-Iowa.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:53:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 아이오와 방문 예정\n"
+  },
+  {
+    "guid": "9782268",
+    "title": "FinancialJuice: Argentina is going to attempt to halt the UK oil project in the Falklands.",
+    "link": "https://www.financialjuice.com/News/9782268/Argentina-is-going-to-attempt-to-halt-the-UK-oil-project-in-the-Falklands.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:52:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아르헨티나가 포클랜드 제도에서 진행 중인 영국의 석유 개발 프로젝트를 저지하려 할 전망이다."
+  },
+  {
+    "guid": "9782267",
+    "title": "FinancialJuice: US Ambassador to NATO Whitaker: Working closely with the UK on arrested men.",
+    "link": "https://www.financialjuice.com/News/9782267/US-Ambassador-to-NATO-Whitaker-Working-closely-with-the-UK-on-arrested-men.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:51:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 휘태커 주나토 미국 대사: 체포된 남성들과 관련해 영국과 긴밀히 협력 중."
+  },
+  {
+    "guid": "9782266",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9782266/MOC-Imbalance.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:50:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOC 불균형"
+  },
+  {
+    "guid": "9782245",
+    "title": "FinancialJuice: Iraq's Hezbollah: Continued air embargo on Iran after October 1 will lead to closure of Iraqi borders and crossings with countries participating in sanctions against Iran - IRIB News\n",
+    "link": "https://www.financialjuice.com/News/9782245/Iraqs-Hezbollah-Continued-air-embargo-on-Iran-after-October-1-will-lead-to-closure-of-Iraqi-borders-and-crossings-with-countries-participating-in-sanctions-against-Iran---IRIB-News.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:43:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이라크의 헤즈볼라: 10월 1일 이후에도 이란에 대한 항공 봉쇄가 지속될 경우, 이라크는 이란에 대한 제재에 동참하는 국가들과의 국경 및 통행로를 폐쇄할 것이라고 밝혔다 - IRIB 뉴스\n"
+  },
+  {
+    "guid": "9782244",
+    "title": "FinancialJuice: UAE-Netanyahu meeting took place with the knowledge and blessing of the American government - Israel's Hayom News",
+    "link": "https://www.financialjuice.com/News/9782244/UAE-Netanyahu-meeting-took-place-with-the-knowledge-and-blessing-of-the-American-government---Israels-Hayom-News.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:36:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아랍에미리트(UAE)-네타냐후 회담은 미국 정부의 인지 및 승인을 받아 진행되었다 - 이스라엘 ‘하욤 뉴스’"
+  },
+  {
+    "guid": "9782243",
+    "title": "FinancialJuice: Saudi Foreign Minister and US Secretary of State Rubio discuss region, Yemen - SPA",
+    "link": "https://www.financialjuice.com/News/9782243/Saudi-Foreign-Minister-and-US-Secretary-of-State-Rubio-discuss-region-Yemen---SPA.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:32:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 외무장관과 루비오 미국 국무장관, 지역 정세 및 예멘 문제 논의 - SPA"
+  },
+  {
+    "guid": "9782232",
+    "title": "FinancialJuice: Iranian Official: Iran's position on the nuclear issue has not changed, no discussions are currently taking place on this matter - Fars News.",
+    "link": "https://www.financialjuice.com/News/9782232/Iranian-Official-Irans-position-on-the-nuclear-issue-has-not-changed-no-discussions-are-currently-taking-place-on-this-matter---Fars-News.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:30:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 당국자: 핵 문제에 대한 이란의 입장은 변함없으며, 현재 이 사안에 대한 논의는 진행되고 있지 않다 - 파르스 뉴스."
+  },
+  {
+    "guid": "9782231",
+    "title": "FinancialJuice: Iranian Official: Reports of Iran's flexibility on nuclear stance are incorrect - Fars News.",
+    "link": "https://www.financialjuice.com/News/9782231/Iranian-Official-Reports-of-Irans-flexibility-on-nuclear-stance-are-incorrect---Fars-News.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:29:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 당국자 “이란의 핵 입장에 대한 유연성 보도는 사실이 아니다” - 파르스 뉴스."
+  },
+  {
+    "guid": "9782230",
+    "title": "FinancialJuice: Nvidia's CEO Huang is among executives expected at Tuesday's meeting at the White House - Person Familiar with the Matter. $NVDA\n",
+    "link": "https://www.financialjuice.com/News/9782230/Nvidias-CEO-Huang-is-among-executives-expected-at-Tuesdays-meeting-at-the-White-House---Person-Familiar-with-the-Matter-NVDA.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:25:21 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 화요일 백악관에서 열리는 회의에 엔비디아의 황 CEO를 비롯한 임원들이 참석할 것으로 예상된다 - 사안에 정통한 소식통. $NVDA\n"
+  },
+  {
+    "guid": "9782229",
+    "title": "FinancialJuice: Tuesday FX Option Expiries",
+    "link": "https://www.financialjuice.com/News/9782229/Tuesday-FX-Option-Expiries.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:21:38 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 화요일 외환 옵션 만기일"
+  },
+  {
+    "guid": "9782228",
+    "title": "FinancialJuice: UK's Labour Party: The Prime Minister announces the new 'GB Grid' to rewire public control into Britain’s energy system and drive down costs.",
+    "link": "https://www.financialjuice.com/News/9782228/UKs-Labour-Party-The-Prime-Minister-announces-the-new-GB-Grid-to-rewire-public-control-into-Britains-energy-system-and-drive-down-costs.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:19:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 노동당: 총리가 영국 에너지 시스템에 공공 통제를 재구축하고 비용을 절감하기 위한 새로운 ‘GB Grid’를 발표했다."
+  },
+  {
+    "guid": "9782227",
+    "title": "FinancialJuice: Iranian lawmaker: Parliament weighing NPT exit bill - Fars\n",
+    "link": "https://www.financialjuice.com/News/9782227/Iranian-lawmaker-Parliament-weighing-NPT-exit-bill---Fars.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:18:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 의원 “의회, NPT 탈퇴 법안 검토 중” - 파르스 통신\n"
+  },
+  {
+    "guid": "9782217",
+    "title": "FinancialJuice: The UAE President and Israel's Prime Minister Netanyahu discussed bilateral relations between the UAE and Israel, and the means to strengthen them - UAE State News Agency.",
+    "link": "https://www.financialjuice.com/News/9782217/The-UAE-President-and-Israels-Prime-Minister-Netanyahu-discussed-bilateral-relations-between-the-UAE-and-Israel-and-the-means-to-strengthen-them---UAE-State-News-Agency.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:10:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아랍에미리트(UAE) 대통령과 이스라엘의 네타냐후 총리가 UAE와 이스라엘 간의 양자 관계 및 이를 강화할 방안에 대해 논의했다 - UAE 국영통신."
+  },
+  {
+    "guid": "9782216",
+    "title": "FinancialJuice: UAE President received Israel's Netanyahu on Sunday - UAE State News Agency.",
+    "link": "https://www.financialjuice.com/News/9782216/UAE-President-received-Israels-Netanyahu-on-Sunday---UAE-State-News-Agency.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:09:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: UAE 대통령이 일요일 이스라엘의 네타냐후 총리를 접견했다 - UAE 국영 통신사."
+  },
+  {
+    "guid": "9782215",
+    "title": "FinancialJuice: Trump ends remarks at the White House.",
+    "link": "https://www.financialjuice.com/News/9782215/Trump-ends-remarks-at-the-White-House.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:08:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 백악관에서 연설을 마쳤다."
+  },
+  {
+    "guid": "9782214",
+    "title": "FinancialJuice: Trump: Inflation will be eradicated after the war with Iran ends.",
+    "link": "https://www.financialjuice.com/News/9782214/Trump-Inflation-will-be-eradicated-after-the-war-with-Iran-ends.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:06:57 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프 “이란과의 전쟁이 끝나면 인플레이션은 근절될 것이다.”"
+  },
+  {
+    "guid": "9782213",
+    "title": "FinancialJuice: Trump: Think a deal will be made on Canada trade.",
+    "link": "https://www.financialjuice.com/News/9782213/Trump-Think-a-deal-will-be-made-on-Canada-trade.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:03:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 “캐나다와의 무역 협상이 타결될 것으로 본다.”"
+  },
+  {
+    "guid": "9782212",
+    "title": "FinancialJuice: Meta and Amazon are being queried over tax breaks related to AI investments. $META $AMZN",
+    "link": "https://www.financialjuice.com/News/9782212/Meta-and-Amazon-are-being-queried-over-tax-breaks-related-to-AI-investments-META-AMZN.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:03:36 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 메타와 아마존이 AI 투자와 관련된 세제 혜택에 대해 조사를 받고 있다. $META $AMZN"
+  },
+  {
+    "guid": "9782211",
+    "title": "FinancialJuice: Tesla: Roadster event rescheduled due to weather; new date is October 15th. $TSLA\n",
+    "link": "https://www.financialjuice.com/News/9782211/Tesla-Roadster-event-rescheduled-due-to-weather-new-date-is-October-15th-TSLA.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 19:02:23 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 테슬라, 날씨로 인해 로드스터 행사 일정 변경… 새 일정은 10월 15일. $TSLA\n"
+  },
+  {
+    "guid": "9782194",
+    "title": "FinancialJuice: Trump, asked about arms sales to China: It wasn't discussed.",
+    "link": "https://www.financialjuice.com/News/9782194/Trump-asked-about-arms-sales-to-China-It-wasnt-discussed.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:58:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국에 대한 무기 판매에 대해 질문을 받은 트럼프: “그 문제는 논의되지 않았다.”"
+  },
+  {
+    "guid": "9782192",
+    "title": "FinancialJuice: Trump: US officials spoke with Iran mediators today.",
+    "link": "https://www.financialjuice.com/News/9782192/Trump-US-officials-spoke-with-Iran-mediators-today.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:56:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 미국 관리들이 오늘 이란 측 중재자들과 대화를 나눴다."
+  },
+  {
+    "guid": "9782191",
+    "title": "FinancialJuice: Trump: I had a very respectful meeting with China’s President Xi.",
+    "link": "https://www.financialjuice.com/News/9782191/Trump-I-had-a-very-respectful-meeting-with-Chinas-President-Xi.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:51:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 나는 중국의 시진핑 주석과 매우 예의 바른 회담을 가졌다."
+  },
+  {
+    "guid": "9782190",
+    "title": "FinancialJuice: Trump: We will win the Iran war very soon, and it will be over. Gas prices will come tumbling.",
+    "link": "https://www.financialjuice.com/News/9782190/Trump-We-will-win-the-Iran-war-very-soon-and-it-will-be-over-Gas-prices-will-come-tumbling.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:49:39 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프: 우리는 조만간 이란과의 전쟁에서 승리할 것이며, 전쟁은 끝날 것입니다. 휘발유 가격은 급락할 것입니다."
+  },
+  {
+    "guid": "9782189",
+    "title": "FinancialJuice: Brent Crude futures settle at $105.28/bbl, up 96 cents, 0.92%.",
+    "link": "https://www.financialjuice.com/News/9782189/Brent-Crude-futures-settle-at-10528bbl-up-96-cents-092.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:48:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브렌트유 선물 가격이 배럴당 105.28달러로 마감하며, 96센트(0.92%) 상승했다."
+  },
+  {
+    "guid": "9782172",
+    "title": "FinancialJuice: Saudi Defense Minister invites UAE Vice President to visit Saudi Arabia on Tuesday - Saudi State News Agency.",
+    "link": "https://www.financialjuice.com/News/9782172/Saudi-Defense-Minister-invites-UAE-Vice-President-to-visit-Saudi-Arabia-on-Tuesday---Saudi-State-News-Agency.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:44:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 국방장관, 화요일 UAE 부통령에게 사우디 방문을 초청 - 사우디 국영통신."
+  },
+  {
+    "guid": "9782169",
+    "title": "FinancialJuice: NYMEX Natural Gas October futures settle at $3.0000/MMBtu.\n",
+    "link": "https://www.financialjuice.com/News/9782169/NYMEX-Natural-Gas-October-futures-settle-at-30000MMBtu.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:32:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 천연가스 10월물 선물이 MMBtu당 3.0000달러에 마감했다.\n"
+  },
+  {
+    "guid": "9782167",
+    "title": "FinancialJuice: NYMEX Diesel October futures settle at $4.7553 a gallon.",
+    "link": "https://www.financialjuice.com/News/9782167/NYMEX-Diesel-October-futures-settle-at-47553-a-gallon.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:31:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 10월물 디젤 선물 가격이 갤런당 4.7553달러로 마감했다."
+  },
+  {
+    "guid": "9782166",
+    "title": "FinancialJuice: NYMEX Gasoline October futures settle at $3.3377 a gallon.",
+    "link": "https://www.financialjuice.com/News/9782166/NYMEX-Gasoline-October-futures-settle-at-33377-a-gallon.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:31:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX 10월물 휘발유 선물 가격이 갤런당 3.3377달러로 마감했다."
+  },
+  {
+    "guid": "9782164",
+    "title": "FinancialJuice: NYMEX WTI Crude November futures settle at $92.60 a barrel, up 19 cents, 0.21%.",
+    "link": "https://www.financialjuice.com/News/9782164/NYMEX-WTI-Crude-November-futures-settle-at-9260-a-barrel-up-19-cents-021.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:31:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NYMEX WTI 원유 11월물 선물은 배럴당 92.60달러로 마감했으며, 이는 19센트(0.21%) 상승한 수치다."
+  },
+  {
+    "guid": "9782158",
+    "title": "FinancialJuice: Trump: The US has surpassed Japan in steel production.",
+    "link": "https://www.financialjuice.com/News/9782158/Trump-The-US-has-surpassed-Japan-in-steel-production.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:30:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프: 미국의 철강 생산량이 일본을 추월했다."
+  },
+  {
+    "guid": "9782157",
+    "title": "FinancialJuice: Trump Makes an Announcement, September 28th 2026\n",
+    "link": "https://www.financialjuice.com/News/9782157/Trump-Makes-an-Announcement-September-28th-2026.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:28:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 2026년 9월 28일 발표\n"
+  },
+  {
+    "guid": "9782156",
+    "title": "FinancialJuice: Trump: Mesabi Metallics to produce 10m tons of steel per year.",
+    "link": "https://www.financialjuice.com/News/9782156/Trump-Mesabi-Metallics-to-produce-10m-tons-of-steel-per-year.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:28:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, “메사비 메탈릭스가 연간 1,000만 톤의 철강을 생산할 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9782136",
+    "title": "FinancialJuice: UK Official confirms that no viable explosives were found at Fairford.",
+    "link": "https://www.financialjuice.com/News/9782136/UK-Official-confirms-that-no-viable-explosives-were-found-at-Fairford.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 18:04:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 당국 관계자가 페어포드에서 사용 가능한 폭발물은 발견되지 않았다고 확인했다."
+  },
+  {
+    "guid": "9782123",
+    "title": "FinancialJuice: Axios Reporter on X: I think the US wants to see Iran inviting IAEA inspectors back as it committed to in the talks in Switzerland\n",
+    "link": "https://www.financialjuice.com/News/9782123/Axios-Reporter-on-X-I-think-the-US-wants-to-see-Iran-inviting-IAEA-inspectors-back-as-it-committed-to-in-the-talks-in-Switzerland.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:56:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: Axios 기자의 X 게시물: 미국은 이란이 스위스에서 열린 회담에서 약속한 대로 IAEA 사찰단을 다시 초청하기를 바라고 있는 것으로 보입니다.\n"
+  },
+  {
+    "guid": "9782120",
+    "title": "FinancialJuice: A powerful explosion occurred in a gas pipeline in Deir ez-Zor, Syria, near the Iraqi border - Tasnim News\n",
+    "link": "https://www.financialjuice.com/News/9782120/A-powerful-explosion-occurred-in-a-gas-pipeline-in-Deir-ez-Zor-Syria-near-the-Iraqi-border---Tasnim-News.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:51:36 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 이라크 국경 인근 시리아 데르에즈조르의 가스 파이프라인에서 강력한 폭발이 발생했다 - 타스님 뉴스\n"
+  },
+  {
+    "guid": "9782101",
+    "title": "FinancialJuice: Flights to Iran Resume from Najaf Airport - Tasnim News citing Iraqi Sources",
+    "link": "https://www.financialjuice.com/News/9782101/Flights-to-Iran-Resume-from-Najaf-Airport---Tasnim-News-citing-Iraqi-Sources.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:38:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 나자프 공항에서 이란행 항공편 운항 재개 - 타스님 뉴스, 이라크 소식통 인용"
+  },
+  {
+    "guid": "9782100",
+    "title": "FinancialJuice: Fed's Barkin: Wouldn't say AI is immune to rate pressure\n",
+    "link": "https://www.financialjuice.com/News/9782100/Feds-Barkin-Wouldnt-say-AI-is-immune-to-rate-pressure.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:32:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨 “AI가 금리 상승 압력에서 자유롭다고 말할 수는 없다”\n"
+  },
+  {
+    "guid": "9782076",
+    "title": "FinancialJuice: Fed's Barkin: Low unemployment rate is a key factor for consumption\n",
+    "link": "https://www.financialjuice.com/News/9782076/Feds-Barkin-Low-unemployment-rate-is-a-key-factor-for-consumption.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:28:48 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨 “낮은 실업률이 소비의 핵심 요인”\n"
+  },
+  {
+    "guid": "9782074",
+    "title": "FinancialJuice: Fed's Cook: Fed would have limited tools to help in such a case. Lowering rates could fuel inflation.",
+    "link": "https://www.financialjuice.com/News/9782074/Feds-Cook-Fed-would-have-limited-tools-to-help-in-such-a-case-Lowering-rates-could-fuel-inflation.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:26:51 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 쿡: 연준은 이러한 상황에서 도움을 줄 수 있는 수단이 제한적일 것이다. 금리 인하는 인플레이션을 부추길 수 있다."
+  },
+  {
+    "guid": "9782073",
+    "title": "FinancialJuice: Fed's Cook: Limited evidence to date that al is changing labor market structure.",
+    "link": "https://www.financialjuice.com/News/9782073/Feds-Cook-Limited-evidence-to-date-that-al-is-changing-labor-market-structure.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:26:36 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 쿡, “현재까지 AI가 노동시장 구조를 변화시키고 있다는 증거는 제한적”이라고 밝혔다."
+  },
+  {
+    "guid": "9782072",
+    "title": "FinancialJuice: Fed's Cook: Those gains will not come in time to offset broadening inflation this year; signs of broadening pressure in inflation data\n",
+    "link": "https://www.financialjuice.com/News/9782072/Feds-Cook-Those-gains-will-not-come-in-time-to-offset-broadening-inflation-this-year-signs-of-broadening-pressure-in-inflation-data.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:26:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 쿡 “올해 확대되는 인플레이션을 상쇄하기에는 그 상승세가 시기를 놓칠 것”, 인플레이션 지표에서 물가 상승 압력이 확대되고 있다는 징후\n"
+  },
+  {
+    "guid": "9782071",
+    "title": "FinancialJuice: Fed's Cook: See some economy-wide pressure from AI-fueled demand\n",
+    "link": "https://www.financialjuice.com/News/9782071/Feds-Cook-See-some-economy-wide-pressure-from-AI-fueled-demand.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:26:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 쿡 “AI에 힘입은 수요로 인해 경제 전반에 걸쳐 일부 압박이 나타나고 있다”\n"
+  },
+  {
+    "guid": "9782070",
+    "title": "FinancialJuice: Fed's Cook: Hope pace of AI adoption will minimize net job losses\n",
+    "link": "https://www.financialjuice.com/News/9782070/Feds-Cook-Hope-pace-of-AI-adoption-will-minimize-net-job-losses.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:26:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 쿡, “AI 도입 속도가 순 고용 감소를 최소화하기를 희망한다”\n"
+  },
+  {
+    "guid": "9782069",
+    "title": "FinancialJuice: Fed's Cook: Expect to see continued inflation pressure in coming months, from artificial intelligence and conflict in the Middle East\n",
+    "link": "https://www.financialjuice.com/News/9782069/Feds-Cook-Expect-to-see-continued-inflation-pressure-in-coming-months-from-artificial-intelligence-and-conflict-in-the-Middle-East.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:26:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 쿡, “인공지능과 중동 분쟁으로 인해 향후 몇 달간 인플레이션 압력이 지속될 것으로 예상된다”\n"
+  },
+  {
+    "guid": "9782068",
+    "title": "FinancialJuice: Fed's Cook: Highly attentive to AI potentially causing a temporary rise in unemployment; Fed has limited tools, rate cuts could fuel inflation\n",
+    "link": "https://www.financialjuice.com/News/9782068/Feds-Cook-Highly-attentive-to-AI-potentially-causing-a-temporary-rise-in-unemployment-Fed-has-limited-tools-rate-cuts-could-fuel-inflation.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:25:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 쿡, “AI로 인해 실업률이 일시적으로 상승할 가능성에 각별히 주의를 기울이고 있다; 연준의 대응 수단은 제한적이며, 금리 인하는 인플레이션을 부추길 수 있다”\n"
+  },
+  {
+    "guid": "9782067",
+    "title": "FinancialJuice: Fed's Cook: Number and magnitude of any future rate adjustments will be informed by inflation and labor market data, and the economy's reaction to the Fed's actions so far\n",
+    "link": "https://www.financialjuice.com/News/9782067/Feds-Cook-Number-and-magnitude-of-any-future-rate-adjustments-will-be-informed-by-inflation-and-labor-market-data-and-the-economys-reaction-to-the-Feds-actions-so-far.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:25:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 쿡: 향후 금리 조정 횟수와 폭은 인플레이션 및 노동시장 데이터, 그리고 연준의 지금까지 조치에 대한 경제의 반응을 바탕으로 결정될 것이다\n"
+  },
+  {
+    "guid": "9782066",
+    "title": "FinancialJuice: US Source engaged in negotiations with Iran to Al Arabiya: Gaps are wide and obstacles are major",
+    "link": "https://www.financialjuice.com/News/9782066/US-Source-engaged-in-negotiations-with-Iran-to-Al-Arabiya-Gaps-are-wide-and-obstacles-are-major.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:19:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 알 아라비야에 따르면, 미국 측 소식통이 이란과 협상을 진행 중: 입장 차이는 크고 장애물은 막대하다"
+  },
+  {
+    "guid": "9782065",
+    "title": "FinancialJuice: American source engaged in negotiations with Iran to Al Arabiya: The chances of an agreement are extremely slim.\n",
+    "link": "https://www.financialjuice.com/News/9782065/American-source-engaged-in-negotiations-with-Iran-to-Al-Arabiya-The-chances-of-an-agreement-are-extremely-slim.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:19:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 알 아라비야에 따르면, 이란과 협상을 진행 중인 미국 측 소식통은 “합의가 성사될 가능성은 극히 희박하다”고 밝혔다.\n"
+  },
+  {
+    "guid": "9782061",
+    "title": "FinancialJuice: NYC Speaker: Council issued a subpoena for SpaceXAI to testify. $SPCX",
+    "link": "https://www.financialjuice.com/News/9782061/NYC-Speaker-Council-issued-a-subpoena-for-SpaceXAI-to-testify-SPCX.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:12:35 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 뉴욕시 의회 의장: 시의회가 스페이스XAI에 증언을 요구하는 소환장을 발부했다. $SPCX"
+  },
+  {
+    "guid": "9782062",
+    "title": "FinancialJuice: Iran has agreed to halt uranium enrichment in exchange for the easing of US sanctions - Al Hadath citing sources\n",
+    "link": "https://www.financialjuice.com/News/9782062/Iran-has-agreed-to-halt-uranium-enrichment-in-exchange-for-the-easing-of-US-sanctions---Al-Hadath-citing-sources.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:11:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란이 미국의 제재 완화를 조건으로 우라늄 농축 중단을 합의했다 - 알 하다스, 소식통 인용\n"
+  },
+  {
+    "guid": "9782059",
+    "title": "FinancialJuice: NYC Speaker: Meta also to testify $META",
+    "link": "https://www.financialjuice.com/News/9782059/NYC-Speaker-Meta-also-to-testify-META.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:11:24 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 뉴욕 증시 연사: 메타도 증언 예정 $META"
+  },
+  {
+    "guid": "9782058",
+    "title": "FinancialJuice: NYC Speaker: OpenAI, Anthropic, Google all agreed to testify $GOOGL\n",
+    "link": "https://www.financialjuice.com/News/9782058/NYC-Speaker-OpenAI-Anthropic-Google-all-agreed-to-testify-GOOGL.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 17:08:47 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 뉴욕시 의장: OpenAI, Anthropic, Google 모두 증언에 동의했다 $GOOGL\n"
+  },
+  {
+    "guid": "9782037",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: 3-month annualized core inflation is around Fed target.",
+    "link": "https://www.financialjuice.com/News/9782037/WH-Sr-Adviser-Hassett-3-month-annualized-core-inflation-is-around-Fed-target.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:46:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋: 3개월 연율 환산 핵심 인플레이션은 연준 목표치 수준이다."
+  },
+  {
+    "guid": "9782032",
+    "title": "FinancialJuice: US considering sanctions waiver for flights between Iran and Iraq's holy city of Najaf - Source\n",
+    "link": "https://www.financialjuice.com/News/9782032/US-considering-sanctions-waiver-for-flights-between-Iran-and-Iraqs-holy-city-of-Najaf---Source.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:45:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국, 이란과 이라크의 성지 나자프 간 항공편에 대한 제재 면제 검토 중 - 출처\n"
+  },
+  {
+    "guid": "9782025",
+    "title": "FinancialJuice: ECB's Pereira: Inflation pressures are currently concentrated in energy prices.",
+    "link": "https://www.financialjuice.com/News/9782025/ECBs-Pereira-Inflation-pressures-are-currently-concentrated-in-energy-prices.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:43:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB의 페레이라: 현재 인플레이션 압력은 에너지 가격에 집중되어 있다."
+  },
+  {
+    "guid": "9782024",
+    "title": "FinancialJuice: Texas Governor Abbott waives dyed-diesel restrictions\n",
+    "link": "https://www.financialjuice.com/News/9782024/Texas-Governor-Abbott-waives-dyed-diesel-restrictions.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:42:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 텍사스주 애보트 주지사가 염색 디젤유 관련 규제를 면제했다\n"
+  },
+  {
+    "guid": "9782023",
+    "title": "FinancialJuice: Aramco currently operating pipeline at throughput rate of around 3.5 mln BPD - sources",
+    "link": "https://www.financialjuice.com/News/9782023/Aramco-currently-operating-pipeline-at-throughput-rate-of-around-35-mln-BPD---sources.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:40:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 소식통에 따르면 아람코는 현재 파이프라인을 하루 약 350만 배럴의 처리량으로 가동 중"
+  },
+  {
+    "guid": "9782022",
+    "title": "FinancialJuice: Saudi Arabia resumes oil exports via east-west pipeline after repairs - sources",
+    "link": "https://www.financialjuice.com/News/9782022/Saudi-Arabia-resumes-oil-exports-via-east-west-pipeline-after-repairs---sources.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:39:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디아라비아, 수리 완료 후 동서 파이프라인을 통한 원유 수출 재개 - 소식통"
+  },
+  {
+    "guid": "9782021",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: 30-Yr TIPS yields tell you capital returns higher now.",
+    "link": "https://www.financialjuice.com/News/9782021/WH-Sr-Adviser-Hassett-30-Yr-TIPS-yields-tell-you-capital-returns-higher-now.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:38:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋: 30년물 TIPS 수익률을 보면 현재 자본 수익률이 더 높다는 것을 알 수 있다."
+  },
+  {
+    "guid": "9782020",
+    "title": "FinancialJuice: White House weighs red-dyed diesel tax relief to lower fuel prices, according to 2 sources familiar",
+    "link": "https://www.financialjuice.com/News/9782020/White-House-weighs-red-dyed-diesel-tax-relief-to-lower-fuel-prices-according-to-2-sources-familiar.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:38:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사정에 정통한 두 소식통에 따르면, 백악관은 유가를 낮추기 위해 붉은색으로 염색된 디젤유에 대한 세금 감면 방안을 검토하고 있다."
+  },
+  {
+    "guid": "9782019",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett asked on bond yields, refers to Treasury Secretary.",
+    "link": "https://www.financialjuice.com/News/9782019/WH-Sr-Adviser-Hassett-asked-on-bond-yields-refers-to-Treasury-Secretary.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:37:10 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 백악관 수석고문 하셋, 채권 수익률 관련 질문에 재무장관을 언급."
+  },
+  {
+    "guid": "9782018",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: External debt maybe is around $15 trln",
+    "link": "https://www.financialjuice.com/News/9782018/WH-Sr-Adviser-Hassett-External-debt-maybe-is-around-15-trln.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:35:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋 “대외 부채는 약 15조 달러 수준일 것”"
+  },
+  {
+    "guid": "9782017",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: Lot of our debt is debt we owe ourselves.",
+    "link": "https://www.financialjuice.com/News/9782017/WH-Sr-Adviser-Hassett-Lot-of-our-debt-is-debt-we-owe-ourselves.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:35:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋: 우리 부채의 상당 부분은 우리가 우리 자신에게 진 빚이다."
+  },
+  {
+    "guid": "9782016",
+    "title": "FinancialJuice: ECB's Pereira: Natural gas price pressures could lift inflation this winter.",
+    "link": "https://www.financialjuice.com/News/9782016/ECBs-Pereira-Natural-gas-price-pressures-could-lift-inflation-this-winter.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:34:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB의 페레이라: 천연가스 가격 상승 압력으로 인해 올겨울 물가 상승세가 가속화될 수 있다."
+  },
+  {
+    "guid": "9782015",
+    "title": "FinancialJuice: Al Arabiya's Washington bureau chief: Iran and Yemen dossiers featured strongly in Saudi-US foreign ministers' meeting; Trump will not back down from economic siege on Tehran, wants Hormuz reopened without conditions",
+    "link": "https://www.financialjuice.com/News/9782015/Al-Arabiyas-Washington-bureau-chief-Iran-and-Yemen-dossiers-featured-strongly-in-Saudi-US-foreign-ministers-meeting-Trump-will-not-back-down-from-economic-siege-on-Tehran-wants-Hormuz-reopened-without-conditions.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:34:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 알 아라비야 워싱턴 지국장: 사우디-미국 외무장관 회담에서 이란과 예멘 문제가 주요 의제로 다뤄졌다; 트럼프 대통령은 테헤란에 대한 경제 봉쇄에서 물러서지 않을 것이며, 조건 없이 호르무즈 해협을 재개방하기를 원한다"
+  },
+  {
+    "guid": "9782014",
+    "title": "FinancialJuice: Iran officials pessimistic about deal with US before midterms",
+    "link": "https://www.financialjuice.com/News/9782014/Iran-officials-pessimistic-about-deal-with-US-before-midterms.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:33:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 당국자들, 중간선거 전 미국과의 합의에 대해 비관적"
+  },
+  {
+    "guid": "9781998",
+    "title": "FinancialJuice: White House official: Trump open to Iran sanctions relief for ‘concrete progress’ on nuclear issues - CNN",
+    "link": "https://www.financialjuice.com/News/9781998/White-House-official-Trump-open-to-Iran-sanctions-relief-for-concrete-progress-on-nuclear-issues---CNN.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:27:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 관계자, “트럼프 대통령, 핵 문제에 대한 ‘구체적인 진전’이 있을 경우 이란 제재 완화에 개방적” - CNN"
+  },
+  {
+    "guid": "9781997",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: Base case on GDP growth, should be around 4%.",
+    "link": "https://www.financialjuice.com/News/9781997/WH-Sr-Adviser-Hassett-Base-case-on-GDP-growth-should-be-around-4.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:26:45 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋: GDP 성장률에 대한 기본 시나리오는 약 4% 수준이 될 것으로 보인다."
+  },
+  {
+    "guid": "9781996",
+    "title": "FinancialJuice: WH Sr. Adviser Hassett: Estimate productivity growth right now about 2.5%.",
+    "link": "https://www.financialjuice.com/News/9781996/WH-Sr-Adviser-Hassett-Estimate-productivity-growth-right-now-about-25.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:24:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 백악관 수석고문 해셋: 현재 생산성 증가율은 약 2.5%로 추정된다."
+  },
+  {
+    "guid": "9781995",
+    "title": "FinancialJuice: US official to Al Jazeera: Need guarantees this time that Iran is serious and not just seeking to escape the difficult situation it is suffering from.",
+    "link": "https://www.financialjuice.com/News/9781995/US-official-to-Al-Jazeera-Need-guarantees-this-time-that-Iran-is-serious-and-not-just-seeking-to-escape-the-difficult-situation-it-is-suffering-from.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:22:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 관리, 알자지라에 “이번에는 이란이 단지 현재 겪고 있는 어려운 상황에서 벗어나려는 것이 아니라 진정으로 의지를 가지고 있다는 보장이 필요하다”고 밝혔다."
+  },
+  {
+    "guid": "9781994",
+    "title": "FinancialJuice: US official tells Al Jazeera: Trump Ready to Ease Sanctions, Release Frozen Assets for Nuclear Progress",
+    "link": "https://www.financialjuice.com/News/9781994/US-official-tells-Al-Jazeera-Trump-Ready-to-Ease-Sanctions-Release-Frozen-Assets-for-Nuclear-Progress.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:20:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 관리, 알자지라에 “트럼프, 핵 문제 진전 시 제재 완화 및 동결 자산 해제할 준비 돼 있다”고 밝혀"
+  },
+  {
+    "guid": "9781993",
+    "title": "FinancialJuice: US Official to Al Jazeera: We continue a positive discussion with Iran through intermediaries; there will be no agreement without addressing the nuclear issue\n",
+    "link": "https://www.financialjuice.com/News/9781993/US-Official-to-Al-Jazeera-We-continue-a-positive-discussion-with-Iran-through-intermediaries-there-will-be-no-agreement-without-addressing-the-nuclear-issue.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:16:18 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 관리, 알자지라에 “중재자를 통해 이란과 긍정적인 논의를 계속하고 있다. 핵 문제가 해결되지 않으면 합의는 없을 것”이라고 밝혔다\n"
+  },
+  {
+    "guid": "9781959",
+    "title": "FinancialJuice: Russia cuts oil and gas revenues estimate for 2026 to 7.6 trln roubles from 8.9 trln roubles previously, materials show",
+    "link": "https://www.financialjuice.com/News/9781959/Russia-cuts-oil-and-gas-revenues-estimate-for-2026-to-76-trln-roubles-from-89-trln-roubles-previously-materials-show.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 16:00:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 자료에 따르면 러시아가 2026년 석유·가스 수입 전망치를 기존 8.9조 루블에서 7.6조 루블로 하향 조정했다"
+  },
+  {
+    "guid": "9781957",
+    "title": "FinancialJuice: TotalEnergies CEO: EU tankers can be used to ship LNG from Russia's Yamal outside of the EU, but it will be limited business\n",
+    "link": "https://www.financialjuice.com/News/9781957/TotalEnergies-CEO-EU-tankers-can-be-used-to-ship-LNG-from-Russias-Yamal-outside-of-the-EU-but-it-will-be-limited-business.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 15:58:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 토탈에너지 CEO “EU 유조선으로 러시아 야말산 LNG를 EU 외부로 운송할 수는 있겠지만, 사업 규모는 제한적일 것”\n"
+  },
+  {
+    "guid": "9781956",
+    "title": "FinancialJuice: Lebanese Prime Minister: Rubio confirmed America's commitment to supporting the Lebanese army - Al Arabiya\n",
+    "link": "https://www.financialjuice.com/News/9781956/Lebanese-Prime-Minister-Rubio-confirmed-Americas-commitment-to-supporting-the-Lebanese-army---Al-Arabiya.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 15:56:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 레바논 총리: 루비오, 레바논 군 지원에 대한 미국의 의지를 재확인했다 - 알 아라비야\n"
+  },
+  {
     "guid": "9781937",
     "title": "FinancialJuice: White House Official: Trump and Anthropic's Amodei met last night.\n",
     "link": "https://www.financialjuice.com/News/9781937/White-House-Official-Trump-and-Anthropics-Amodei-met-last-night.aspx?xy=rss",
