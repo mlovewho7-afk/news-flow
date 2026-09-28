@@ -1,5 +1,101 @@
 [
   {
+    "guid": "9781223",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9781223/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 07:35:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9781222",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9781222/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 07:35:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 내 주요 종목의 내재 변동성"
+  },
+  {
+    "guid": "9781186",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: USD, NZD, GBP, AUD, CAD, GBP, EUR, CHF - Weakest",
+    "link": "https://www.financialjuice.com/News/9781186/Currency-Strength-Chart-Strongest-USD-NZD-GBP-AUD-CAD-GBP-EUR-CHF---Weakest.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 07:01:38 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: USD, NZD, GBP, AUD, CAD, GBP, EUR, CHF - 가장 약한 통화"
+  },
+  {
+    "guid": "9781173",
+    "title": "FinancialJuice: BoE's Dhingra: Worry that high rates would hit investment and lower supply",
+    "link": "https://www.financialjuice.com/News/9781173/BoEs-Dhingra-Worry-that-high-rates-would-hit-investment-and-lower-supply.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 06:48:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE)의 딩그라 “높은 금리가 투자에 타격을 주고 공급을 위축시킬 것이라는 우려”"
+  },
+  {
+    "guid": "9781152",
+    "title": "FinancialJuice: Qatar extends LNG force majeure for Pakistan into November",
+    "link": "https://www.financialjuice.com/News/9781152/Qatar-extends-LNG-force-majeure-for-Pakistan-into-November.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 06:41:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르, 파키스탄에 대한 LNG 불가항력 조항을 11월까지 연장"
+  },
+  {
+    "guid": "9781111",
+    "title": "FinancialJuice: Swedish Trade Balance Actual -11.9B (Forecast -, Previous 1.2B)",
+    "link": "https://www.financialjuice.com/News/9781111/Swedish-Trade-Balance-Actual--119B-Forecast---Previous-12B.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 06:00:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스웨덴 무역수지 실제치 -119억 (예상치 -, 이전치 12억)"
+  },
+  {
+    "guid": "9781055",
+    "title": "FinancialJuice: Finnish September consumer confidence falls 4.9 points: Statistics Finland",
+    "link": "https://www.financialjuice.com/News/9781055/Finnish-September-consumer-confidence-falls-49-points-Statistics-Finland.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 05:00:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 핀란드 9월 소비자 신뢰지수 4.9포인트 하락: 핀란드 통계청"
+  },
+  {
+    "guid": "9781054",
+    "title": "FinancialJuice: Finnish September industry confidence falls 3 points",
+    "link": "https://www.financialjuice.com/News/9781054/Finnish-September-industry-confidence-falls-3-points.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 04:59:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 핀란드 9월 산업 신뢰지수 3포인트 하락"
+  },
+  {
+    "guid": "9781036",
+    "title": "FinancialJuice: Saudi foreign minister arrives in Washington to meet U.S. counterpart: Saudi state news agency",
+    "link": "https://www.financialjuice.com/News/9781036/Saudi-foreign-minister-arrives-in-Washington-to-meet-US-counterpart-Saudi-state-news-agency.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 04:25:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 외무장관, 미국 외무장관과의 회담을 위해 워싱턴 도착: 사우디 국영 통신사"
+  },
+  {
+    "guid": "9780947",
+    "title": "FinancialJuice: S.Korea finmin: to enhance collaboration with central bank on market oversight - ministry",
+    "link": "https://www.financialjuice.com/News/9780947/SKorea-finmin-to-enhance-collaboration-with-central-bank-on-market-oversight---ministry.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 02:30:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국 재무부, 시장 감독을 위해 중앙은행과의 협력을 강화할 방침 - 재무부"
+  },
+  {
+    "guid": "9780946",
+    "title": "FinancialJuice: S.Korea finance minister: to pursue balanced policy mix with central bank — ministry",
+    "link": "https://www.financialjuice.com/News/9780946/SKorea-finance-minister-to-pursue-balanced-policy-mix-with-central-bank--ministry.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 02:30:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국 재무부 장관, 중앙은행과 균형 잡힌 정책 조합 추진할 것 — 재무부"
+  },
+  {
+    "guid": "9780874",
+    "title": "FinancialJuice: S.Korea central bank: sells 91-day monetary stabilisation bonds at 3.140% yield",
+    "link": "https://www.financialjuice.com/News/9780874/SKorea-central-bank-sells-91-day-monetary-stabilisation-bonds-at-3140-yield.aspx?xy=rss",
+    "pubDate": "Mon, 28 Sep 2026 01:40:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국은행, 수익률 3.140%의 91일 만기 통화안정채 발행"
+  },
+  {
     "guid": "9780869",
     "title": "FinancialJuice: China central bank injects 300 bln yuan via 14-day reverse repos: statement",
     "link": "https://www.financialjuice.com/News/9780869/China-central-bank-injects-300-bln-yuan-via-14-day-reverse-repos-statement.aspx?xy=rss",
