@@ -1,5 +1,581 @@
 [
   {
+    "guid": "9783571",
+    "title": "FinancialJuice: Goldman Sachs on RBA Rate - FJElite",
+    "link": "https://www.financialjuice.com/News/9783571/Goldman-Sachs-on-RBA-Rate---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 13:23:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 골드만삭스의 RBA 금리 전망 - FJElite"
+  },
+  {
+    "guid": "9783570",
+    "title": "FinancialJuice: UAE Vice President meets with the Saudi Defence Minister in Riyadh - WAM.",
+    "link": "https://www.financialjuice.com/News/9783570/UAE-Vice-President-meets-with-the-Saudi-Defence-Minister-in-Riyadh---WAM.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 13:21:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아랍에미리트 부통령, 리야드에서 사우디 국방장관과 회동 - WAM."
+  },
+  {
+    "guid": "9783569",
+    "title": "FinancialJuice: US Sentiment: Hopes For Iran Deal Push Oil Lower, JGB's See Strongest Demand in 6 Yrs - FJElite",
+    "link": "https://www.financialjuice.com/News/9783569/US-Sentiment-Hopes-For-Iran-Deal-Push-Oil-Lower-JGBs-See-Strongest-Demand-in-6-Yrs---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 13:18:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 시장 심리지수: 이란 핵합의 기대감에 유가 하락, 일본 국채 수요 6년 만에 최고치 기록 - FJElite"
+  },
+  {
+    "guid": "9783556",
+    "title": "FinancialJuice: UK PM Burnham: I will make a break and put Britain on a new path with a new economy.",
+    "link": "https://www.financialjuice.com/News/9783556/UK-PM-Burnham-I-will-make-a-break-and-put-Britain-on-a-new-path-with-a-new-economy.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 13:14:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 버넘 영국 총리: “저는 새로운 전환점을 마련하여 새로운 경제를 바탕으로 영국을 새로운 길로 이끌겠습니다.”"
+  },
+  {
+    "guid": "9783529",
+    "title": "FinancialJuice: US House Price Index YoY Actual 2.6% (Forecast -, Previous 2.3%)",
+    "link": "https://www.financialjuice.com/News/9783529/US-House-Price-Index-YoY-Actual-26-Forecast---Previous-23.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 13:00:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 주택 가격 지수 전년 대비 실적이 2.6%를 기록했습니다 (예상치 -, 이전 수치 2.3%)."
+  },
+  {
+    "guid": "9783528",
+    "title": "FinancialJuice: US CaseShiller 20 YoY Actual 2.47% (Forecast 2.2%, Previous 2.1%, Revised 2.15%)",
+    "link": "https://www.financialjuice.com/News/9783528/US-CaseShiller-20-YoY-Actual-247-Forecast-22-Previous-21-Revised-215.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 13:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 케이스-쉴러 지수, 전년 동기 대비 2.47% (예상치 2.2%, 전월치 2.1%, 수정치 2.15%)"
+  },
+  {
+    "guid": "9783527",
+    "title": "FinancialJuice: US House Price Index MoM Actual 0.3% (Forecast 0.1%, Previous 0.0%)",
+    "link": "https://www.financialjuice.com/News/9783527/US-House-Price-Index-MoM-Actual-03-Forecast-01-Previous-00.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 13:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 주택 가격 지수 전월 대비 실제치 0.3% (예상치 0.1%, 이전치 0.0%)"
+  },
+  {
+    "guid": "9783526",
+    "title": "FinancialJuice: US Redbook YoY Actual 8.2% (Forecast -, Previous 7.6%)",
+    "link": "https://www.financialjuice.com/News/9783526/US-Redbook-YoY-Actual-82-Forecast---Previous-76.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:55:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 레드북 지수, 전년 동기 대비 실제 8.2% (예상 -, 전월 7.6%)"
+  },
+  {
+    "guid": "9783504",
+    "title": "FinancialJuice: Wells Fargo Investment Institute forecasts 10-Year US Treasury yield at 5.25%-5.75% by 2027-end vs prior forecast of 4.50%-5.00%.",
+    "link": "https://www.financialjuice.com/News/9783504/Wells-Fargo-Investment-Institute-forecasts-10-Year-US-Treasury-yield-at-525-575-by-2027-end-vs-prior-forecast-of-450-500.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:43:23 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 웰스 파고 투자 연구소는 2027년 말까지 10년 만기 미국 국채 수익률이 5.25%~5.75%에 달할 것으로 전망했는데, 이는 이전 전망치인 4.50%~5.00%보다 높은 수치다."
+  },
+  {
+    "guid": "9783503",
+    "title": "FinancialJuice: Wells Fargo Investment Institute cuts gold's 2027 year-end target range to $5,200-$5,400 per ounce from prior forecast of $5,400-$5.600 per ounce.",
+    "link": "https://www.financialjuice.com/News/9783503/Wells-Fargo-Investment-Institute-cuts-golds-2027-year-end-target-range-to-5200-5400-per-ounce-from-prior-forecast-of-5400-5600-per-ounce.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:39:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 웰스파고 투자연구소(Wells Fargo Investment Institute)가 금의 2027년 연말 목표 가격 범위를 기존 온스당 5,400~5,600달러에서 온스당 5,200~5,400달러로 하향 조정했다."
+  },
+  {
+    "guid": "9783502",
+    "title": "FinancialJuice: Wells Fargo Investment Institute upgrades S&P 500 industrials sector to favorable from neutral.",
+    "link": "https://www.financialjuice.com/News/9783502/Wells-Fargo-Investment-Institute-upgrades-SP-500-industrials-sector-to-favorable-from-neutral.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:39:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 웰스 파고 투자 연구소(Wells Fargo Investment Institute)가 S&P 500 산업 부문에 대한 전망을 ‘중립’에서 ‘긍정적’으로 상향 조정했다."
+  },
+  {
+    "guid": "9783501",
+    "title": "FinancialJuice: Wells Fargo Investment Institute downgrades S&P 500 information technology sector to neutral from favorable.",
+    "link": "https://www.financialjuice.com/News/9783501/Wells-Fargo-Investment-Institute-downgrades-SP-500-information-technology-sector-to-neutral-from-favorable.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:38:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 웰스 파고 투자 연구소가 S&P 500 정보기술(IT) 부문에 대한 전망을 ‘긍정적’에서 ‘중립’으로 하향 조정했다."
+  },
+  {
+    "guid": "9783500",
+    "title": "FinancialJuice: Wells Fargo Investment Institute forecasts US Fed policy rate at 4.75%-5.00% by 2027-end vs prior forecast of 4.00%-4.25%.",
+    "link": "https://www.financialjuice.com/News/9783500/Wells-Fargo-Investment-Institute-forecasts-US-Fed-policy-rate-at-475-500-by-2027-end-vs-prior-forecast-of-400-425.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:38:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 웰스파고 투자연구소(Wells Fargo Investment Institute)는 2027년 말까지 미국 연방준비제도(Fed)의 정책 금리가 4.75%~5.00%에 달할 것으로 전망했는데, 이는 이전 전망치인 4.00%~4.25%보다 높은 수치다."
+  },
+  {
+    "guid": "9783499",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities (Corrected) - FJElite",
+    "link": "https://www.financialjuice.com/News/9783499/RBA-Interest-Rate-Probabilities-Corrected---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:36:07 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 중앙은행(RBA) 금리 결정 확률 (수정본) - FJElite"
+  },
+  {
+    "guid": "9783480",
+    "title": "FinancialJuice: Canadian GDP MoM Actual 0.0% (Forecast 0%, Previous 0.3%)",
+    "link": "https://www.financialjuice.com/News/9783480/Canadian-GDP-MoM-Actual-00-Forecast-0-Previous-03.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:30:37 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 GDP 전월 대비 실제 0.0% (예상 0%, 전월 0.3%)"
+  },
+  {
+    "guid": "9783479",
+    "title": "FinancialJuice: Iraq's Transport Ministry: Iraqi airways are preparing to resume flights to Iran after securing special exemption. Flights to and from Iran expected to resume in October, starting from Najaf international airport - Transport Ministry.",
+    "link": "https://www.financialjuice.com/News/9783479/Iraqs-Transport-Ministry-Iraqi-airways-are-preparing-to-resume-flights-to-Iran-after-securing-special-exemption-Flights-to-and-from-Iran-expected-to-resume-in-October-starting-from-Najaf-international-airport---Transport-Ministry.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:24:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이라크 교통부: 이라크항공이 특별 면제 조치를 확보한 후 이란행 항공편 운항 재개를 준비하고 있다. 교통부에 따르면, 나자프 국제공항을 거점으로 하는 이란행 및 이란발 항공편은 10월부터 재개될 전망이다."
+  },
+  {
+    "guid": "9783478",
+    "title": "FinancialJuice: Oman plans to more than double oil storage capacity at Duqm.",
+    "link": "https://www.financialjuice.com/News/9783478/Oman-plans-to-more-than-double-oil-storage-capacity-at-Duqm.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:23:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 오만은 두크무의 원유 저장 용량을 두 배 이상 늘릴 계획이다."
+  },
+  {
+    "guid": "9783477",
+    "title": "FinancialJuice: US House Speaker Johnson: I hope the AI meeting today will lead to agreement.",
+    "link": "https://www.financialjuice.com/News/9783477/US-House-Speaker-Johnson-I-hope-the-AI-meeting-today-will-lead-to-agreement.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:23:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 존슨 미국 하원의장: 오늘 열리는 AI 회의가 합의로 이어지기를 희망한다."
+  },
+  {
+    "guid": "9783476",
+    "title": "FinancialJuice: US House Speaker Johnson on AI: The US can do security and innovation at the same time.",
+    "link": "https://www.financialjuice.com/News/9783476/US-House-Speaker-Johnson-on-AI-The-US-can-do-security-and-innovation-at-the-same-time.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:23:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 존슨 미국 하원의장의 AI 관련 발언: 미국은 안보와 혁신을 동시에 이룰 수 있다."
+  },
+  {
+    "guid": "9783475",
+    "title": "FinancialJuice: US VP Vance: We think Iran's Supreme Leader is alive.",
+    "link": "https://www.financialjuice.com/News/9783475/US-VP-Vance-We-think-Irans-Supreme-Leader-is-alive.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:21:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: “우리는 이란 최고 지도자가 살아 있다고 본다.”"
+  },
+  {
+    "guid": "9783474",
+    "title": "FinancialJuice: US VP Vance: Iran must behave for there to be any kind of deal.",
+    "link": "https://www.financialjuice.com/News/9783474/US-VP-Vance-Iran-must-behave-for-there-to-be-any-kind-of-deal.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:19:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 밴스 미국 부통령: 어떤 형태의 합의라도 성사되려면 이란이 제대로 행동해야 한다."
+  },
+  {
+    "guid": "9783461",
+    "title": "FinancialJuice: Putin Envoy met with US Treasury and Energy officials - Tass.",
+    "link": "https://www.financialjuice.com/News/9783461/Putin-Envoy-met-with-US-Treasury-and-Energy-officials---Tass.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:15:51 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 푸틴 특사, 미국 재무부 및 에너지부 관계자들과 회동 - 타스."
+  },
+  {
+    "guid": "9783456",
+    "title": "FinancialJuice: IEA's Birol: Another oil stock release is not at the top of the agenda.",
+    "link": "https://www.financialjuice.com/News/9783456/IEAs-Birol-Another-oil-stock-release-is-not-at-the-top-of-the-agenda.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:14:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IEA의 비롤 사무총장, “추가 원유 비축량 방출은 당면한 최우선 과제가 아니다.”"
+  },
+  {
+    "guid": "9783455",
+    "title": "FinancialJuice: ECB's Escriva: Spain is not considering moving gold reserves.",
+    "link": "https://www.financialjuice.com/News/9783455/ECBs-Escriva-Spain-is-not-considering-moving-gold-reserves.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:09:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)의 에스크리바, “스페인은 금 보유고를 이전할 계획이 없다.”"
+  },
+  {
+    "guid": "9783441",
+    "title": "FinancialJuice: Secured Overnight Financing Rate 3.90% September 28th vs 3.90% September 25th.\n",
+    "link": "https://www.financialjuice.com/News/9783441/Secured-Overnight-Financing-Rate-390-September-28th-vs-390-September-25th.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 12:00:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 담보부 일일 자금조달 금리(SOFR) 9월 28일 3.90% (9월 25일 3.90% 대비).\n"
+  },
+  {
+    "guid": "9783440",
+    "title": "FinancialJuice: ECB's Escriva: Not seeing second-round effects.",
+    "link": "https://www.financialjuice.com/News/9783440/ECBs-Escriva-Not-seeing-second-round-effects.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 11:57:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 에스크리바, “2차 파급 효과는 보이지 않는다.”"
+  },
+  {
+    "guid": "9783439",
+    "title": "FinancialJuice: ECB's Escriva: High energy prices might anchor in inflation.",
+    "link": "https://www.financialjuice.com/News/9783439/ECBs-Escriva-High-energy-prices-might-anchor-in-inflation.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 11:53:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB의 에스크리바: 높은 에너지 가격이 인플레이션을 고착시킬 수 있다."
+  },
+  {
+    "guid": "9783438",
+    "title": "FinancialJuice: Russia initiative is still in its early stages - Atlantic.",
+    "link": "https://www.financialjuice.com/News/9783438/Russia-initiative-is-still-in-its-early-stages---Atlantic.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 11:51:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아의 이니셔티브는 아직 초기 단계에 있다 - Atlantic."
+  },
+  {
+    "guid": "9783437",
+    "title": "FinancialJuice: Trump expressed support for the plan a few months ago - Atlantic.",
+    "link": "https://www.financialjuice.com/News/9783437/Trump-expressed-support-for-the-plan-a-few-months-ago---Atlantic.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 11:51:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프는 몇 달 전 이 계획에 대한 지지를 표명했다 - Atlantic."
+  },
+  {
+    "guid": "9783435",
+    "title": "FinancialJuice: ECB’s Escriva: This can add pressure to interest rates.",
+    "link": "https://www.financialjuice.com/News/9783435/ECBs-Escriva-This-can-add-pressure-to-interest-rates.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 11:49:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽중앙은행(ECB)의 에스크리바: 이는 금리 상승 압력으로 이어질 수 있다."
+  },
+  {
+    "guid": "9783434",
+    "title": "FinancialJuice: ECB's Escriva: What I would start to worry about is the global upward trajectory of long-term rates.",
+    "link": "https://www.financialjuice.com/News/9783434/ECBs-Escriva-What-I-would-start-to-worry-about-is-the-global-upward-trajectory-of-long-term-rates.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 11:49:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 에스크리바: 제가 우려하기 시작할 점은 전 세계적으로 장기 금리가 상승세를 보이고 있다는 사실입니다."
+  },
+  {
+    "guid": "9783436",
+    "title": "FinancialJuice: Trump backs Russia sanction relief on prisoner release - Atlantic.",
+    "link": "https://www.financialjuice.com/News/9783436/Trump-backs-Russia-sanction-relief-on-prisoner-release---Atlantic.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 11:49:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 수감자 석방을 조건으로 러시아 제재 완화를 지지 - Atlantic."
+  },
+  {
+    "guid": "9783433",
+    "title": "FinancialJuice: ECB’s Escriva: We are still not in a restrictive territory.",
+    "link": "https://www.financialjuice.com/News/9783433/ECBs-Escriva-We-are-still-not-in-a-restrictive-territory.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 11:47:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 에스크리바 “아직 긴축 국면에 진입하지 않았다.”"
+  },
+  {
+    "guid": "9783407",
+    "title": "FinancialJuice: Iran: It discussed expanding energy trade with Azerbaijan.",
+    "link": "https://www.financialjuice.com/News/9783407/Iran-It-discussed-expanding-energy-trade-with-Azerbaijan.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 11:43:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란: 아제르바이잔과 에너지 무역 확대 방안을 논의했다."
+  },
+  {
+    "guid": "9783386",
+    "title": "FinancialJuice: Putin's Envoy Dmitriev, US Officials discussed possible US-Russia energy initiatives after the war ends - US Official.",
+    "link": "https://www.financialjuice.com/News/9783386/Putins-Envoy-Dmitriev-US-Officials-discussed-possible-US-Russia-energy-initiatives-after-the-war-ends---US-Official.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 11:29:02 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 푸틴 대통령의 특사 드미트리예프와 미국 관리들이 전쟁 종식 후 가능한 미·러 에너지 협력 방안에 대해 논의했다 - 미국 관리."
+  },
+  {
+    "guid": "9783375",
+    "title": "FinancialJuice: Rosatom, Iran discuss options to build new nuclear plants - Tass",
+    "link": "https://www.financialjuice.com/News/9783375/Rosatom-Iran-discuss-options-to-build-new-nuclear-plants---Tass.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 11:14:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 로사톰과 이란, 신규 원전 건설 방안 논의 - 타스"
+  },
+  {
+    "guid": "9783374",
+    "title": "FinancialJuice: Rosatom starts planned repairs at Bushehr unit in Iran - IFX",
+    "link": "https://www.financialjuice.com/News/9783374/Rosatom-starts-planned-repairs-at-Bushehr-unit-in-Iran---IFX.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 11:13:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 로사톰, 이란 부셰르 원전 1호기에서 예정된 정비 착수 - IFX"
+  },
+  {
+    "guid": "9783359",
+    "title": "FinancialJuice: Qatar Foreign Ministry Spokesman: Exchanging messages, possible solutions with US-Iran.",
+    "link": "https://www.financialjuice.com/News/9783359/Qatar-Foreign-Ministry-Spokesman-Exchanging-messages-possible-solutions-with-US-Iran.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 10:54:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르 외무부 대변인: 미국·이란과 메시지와 가능한 해결책을 주고받고 있다."
+  },
+  {
+    "guid": "9783334",
+    "title": "FinancialJuice: Italy's Energy Minister: Will speak with US Energy Secretary Wright later on Tuesday, will ask about potential US diesel export ban.",
+    "link": "https://www.financialjuice.com/News/9783334/Italys-Energy-Minister-Will-speak-with-US-Energy-Secretary-Wright-later-on-Tuesday-will-ask-about-potential-US-diesel-export-ban.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 10:42:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이탈리아 에너지부 장관: 화요일 늦게 미국 에너지부 장관 라이트와 통화할 예정이며, 미국의 디젤 수출 금지 가능성에 대해 문의할 예정이다."
+  },
+  {
+    "guid": "9783333",
+    "title": "FinancialJuice: UK Navy: Vessel struck by projectile in Hormuz September 28.",
+    "link": "https://www.financialjuice.com/News/9783333/UK-Navy-Vessel-struck-by-projectile-in-Hormuz-September-28.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 10:33:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 해군: 9월 28일 호르무즈 해협에서 함정이 발사체에 피격당했다."
+  },
+  {
+    "guid": "9783306",
+    "title": "FinancialJuice: Three House Democrats penned letter to tech CEOs (Altman, Amodei, Musk) - Politico",
+    "link": "https://www.financialjuice.com/News/9783306/Three-House-Democrats-penned-letter-to-tech-CEOs-Altman-Amodei-Musk---Politico.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 10:20:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 하원 민주당 의원 3명이 기술 기업 CEO들(알트만, 아모데이, 머스크)에게 서한을 보냈다 - Politico"
+  },
+  {
+    "guid": "9783241",
+    "title": "FinancialJuice: China FX Regulator: AI-related exports and imports expected to maintain rapid growth.",
+    "link": "https://www.financialjuice.com/News/9783241/China-FX-Regulator-AI-related-exports-and-imports-expected-to-maintain-rapid-growth.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 09:30:32 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 외환 규제 당국, AI 관련 수출입이 빠른 성장세를 이어갈 것으로 전망."
+  },
+  {
+    "guid": "9783235",
+    "title": "FinancialJuice: UK PM expected to signal plans for electoral reform - Guardian",
+    "link": "https://www.financialjuice.com/News/9783235/UK-PM-expected-to-signal-plans-for-electoral-reform---Guardian.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 09:22:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 총리, 선거 제도 개혁 계획 시사할 전망 - 가디언"
+  },
+  {
+    "guid": "9783218",
+    "title": "FinancialJuice: Italian PPI YoY Actual 10.9% (Forecast -, Previous 7.8%)",
+    "link": "https://www.financialjuice.com/News/9783218/Italian-PPI-YoY-Actual-109-Forecast---Previous-78.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 09:12:28 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 이탈리아 생산자물가지수(PPI) 전년 동기 대비 실제치 10.9% (예상치 -, 이전치 7.8%)"
+  },
+  {
+    "guid": "9783217",
+    "title": "FinancialJuice: Italian PPI MoM Actual 2.4% (Forecast -, Previous 2.4%)",
+    "link": "https://www.financialjuice.com/News/9783217/Italian-PPI-MoM-Actual-24-Forecast---Previous-24.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 09:12:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 이탈리아 생산자물가지수(PPI) 전월 대비 실제치 2.4% (예상치 -, 이전치 2.4%)"
+  },
+  {
+    "guid": "9783216",
+    "title": "FinancialJuice: OpenAI to debut always-on AI agent at DevDay - Axios",
+    "link": "https://www.financialjuice.com/News/9783216/OpenAI-to-debut-always-on-AI-agent-at-DevDay---Axios.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 09:05:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI, DevDay에서 상시 가동 AI 에이전트 공개 예정 - Axios"
+  },
+  {
+    "guid": "9783215",
+    "title": "FinancialJuice: UK 10 Yr Gilt Bid-to-Cover Actual 3.34 (Forecast -, Previous 3.65)",
+    "link": "https://www.financialjuice.com/News/9783215/UK-10-Yr-Gilt-Bid-to-Cover-Actual-334-Forecast---Previous-365.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 09:02:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 10년물 국채 입찰 경쟁률(실제) 3.34 (예상 -, 이전 3.65)"
+  },
+  {
+    "guid": "9783214",
+    "title": "FinancialJuice: UK 10 Yr Gilt Yield Actual 5.383% (Forecast -, Previous 5.155%)",
+    "link": "https://www.financialjuice.com/News/9783214/UK-10-Yr-Gilt-Yield-Actual-5383-Forecast---Previous-5155.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 09:02:52 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 영국 10년물 국채 수익률, 실제 5.383% (예상 -, 이전 5.155%)"
+  },
+  {
+    "guid": "9783185",
+    "title": "FinancialJuice: UK AI Minister Narayan: Need to build data centres with control, UK values.",
+    "link": "https://www.financialjuice.com/News/9783185/UK-AI-Minister-Narayan-Need-to-build-data-centres-with-control-UK-values.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:52:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 나라얀 영국 AI 장관, “영국의 가치와 통제권을 바탕으로 데이터 센터를 구축해야 한다.”"
+  },
+  {
+    "guid": "9783184",
+    "title": "FinancialJuice: NVIDIA and AMD up White House lobbying on China exports - Politico",
+    "link": "https://www.financialjuice.com/News/9783184/NVIDIA-and-AMD-up-White-House-lobbying-on-China-exports---Politico.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:47:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 엔비디아와 AMD, 중국 수출 문제와 관련해 백악관 로비 활동 강화 - 폴리티코"
+  },
+  {
+    "guid": "9783162",
+    "title": "FinancialJuice: MUFG: The JPY - FJElite",
+    "link": "https://www.financialjuice.com/News/9783162/MUFG-The-JPY---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:35:58 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: MUFG: 엔화 - FJElite"
+  },
+  {
+    "guid": "9783161",
+    "title": "FinancialJuice: MUFG: The AUD - FJElite",
+    "link": "https://www.financialjuice.com/News/9783161/MUFG-The-AUD---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:34:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MUFG: 호주 달러 - FJElite"
+  },
+  {
+    "guid": "9783160",
+    "title": "FinancialJuice: ING: The EUR - FJElite",
+    "link": "https://www.financialjuice.com/News/9783160/ING-The-EUR---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:33:20 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: ING: 유로 - FJElite"
+  },
+  {
+    "guid": "9783134",
+    "title": "FinancialJuice: BoE Consumer Credit Actual 2.464B (Forecast 1.9B, Previous 2.006B)",
+    "link": "https://www.financialjuice.com/News/9783134/BoE-Consumer-Credit-Actual-2464B-Forecast-19B-Previous-2006B.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:30:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 소비자 신용 실제치 24억 6,400만 (예상치 19억, 전월치 20억 600만)"
+  },
+  {
+    "guid": "9783133",
+    "title": "FinancialJuice: UK M4 Money Supply Actual 0.4% (Forecast -, Previous -0.3%)",
+    "link": "https://www.financialjuice.com/News/9783133/UK-M4-Money-Supply-Actual-04-Forecast---Previous--03.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:30:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 M4 통화 공급량, 실제 0.4% (예상 -, 전월 -0.3%)"
+  },
+  {
+    "guid": "9783132",
+    "title": "FinancialJuice: UK Mortgage Lending Actual 4.410B (Forecast 4.4B, Previous 4.292B ,Revision 4.082B)",
+    "link": "https://www.financialjuice.com/News/9783132/UK-Mortgage-Lending-Actual-4410B-Forecast-44B-Previous-4292B-Revision-4082B.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:30:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 주택담보대출 실적이 44억 1,000만(예상치 44억, 전월치 42억 9,200만, 수정치 40억 8,200만)을 기록했습니다."
+  },
+  {
+    "guid": "9783135",
+    "title": "FinancialJuice: UK Mortgage Approvals Actual 54.918k (Forecast 56.1k, Previous 56.053k)",
+    "link": "https://www.financialjuice.com/News/9783135/UK-Mortgage-Approvals-Actual-54918k-Forecast-561k-Previous-56053k.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:30:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 모기지 승인 건수, 실제 54.918k (예상 56.1k, 전월 56.053k)"
+  },
+  {
+    "guid": "9783131",
+    "title": "FinancialJuice: ECB's Kazimir: We need flexibility, we have enough time.",
+    "link": "https://www.financialjuice.com/News/9783131/ECBs-Kazimir-We-need-flexibility-we-have-enough-time.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:29:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 카지미르 “유연성이 필요하며, 시간은 충분하다.”"
+  },
+  {
+    "guid": "9783130",
+    "title": "FinancialJuice: ECB's Kazimir: Key for me will be January repricing.",
+    "link": "https://www.financialjuice.com/News/9783130/ECBs-Kazimir-Key-for-me-will-be-January-repricing.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:28:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 카지미르: 저에게 있어 핵심은 1월의 재평가입니다."
+  },
+  {
+    "guid": "9783129",
+    "title": "FinancialJuice: ECB's Kazimir: Energy prices remain key factor.",
+    "link": "https://www.financialjuice.com/News/9783129/ECBs-Kazimir-Energy-prices-remain-key-factor.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:28:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 카지미르 “에너지 가격은 여전히 핵심 요인이다.”"
+  },
+  {
+    "guid": "9783128",
+    "title": "FinancialJuice: ECB's Kazimir: Rate hike was unavoidable.",
+    "link": "https://www.financialjuice.com/News/9783128/ECBs-Kazimir-Rate-hike-was-unavoidable.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:28:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB의 카지미르, “금리 인상은 피할 수 없었다.”"
+  },
+  {
+    "guid": "9783099",
+    "title": "FinancialJuice: Italian Industrial Sales MoM Actual 0.6% (Forecast -, Previous -1.0%)",
+    "link": "https://www.financialjuice.com/News/9783099/Italian-Industrial-Sales-MoM-Actual-06-Forecast---Previous--10.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 08:01:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이탈리아 산업판매 지수 전월 대비 실제치 0.6% (예상치 -, 이전치 -1.0%)"
+  },
+  {
+    "guid": "9783073",
+    "title": "FinancialJuice: Iran's Parliament Speaker Qalibaf: No one in the region shall sell its oil if Iran cannot sell its oil, if Iran has no security then no regional infrastructure shall be safe - State Media",
+    "link": "https://www.financialjuice.com/News/9783073/Irans-Parliament-Speaker-Qalibaf-No-one-in-the-region-shall-sell-its-oil-if-Iran-cannot-sell-its-oil-if-Iran-has-no-security-then-no-regional-infrastructure-shall-be-safe---State-Media.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 07:39:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 의회 의장 칼리바프 “이란이 석유를 판매할 수 없다면 이 지역 어느 나라도 석유를 판매할 수 없을 것이며, 이란에 안보가 없다면 이 지역의 어떤 인프라도 안전할 수 없다” - 국영 언론"
+  },
+  {
+    "guid": "9783034",
+    "title": "FinancialJuice: Iran's IRGC Spokesperson: US has no other choice but to declare failure and leave the region.",
+    "link": "https://www.financialjuice.com/News/9783034/Irans-IRGC-Spokesperson-US-has-no-other-choice-but-to-declare-failure-and-leave-the-region.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 07:24:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대(IRGC) 대변인: 미국은 실패를 인정하고 이 지역을 떠날 수밖에 없다."
+  },
+  {
+    "guid": "9783033",
+    "title": "FinancialJuice: Iran's Revolutionary Guards Spokesperson: Trump is 'a big liar’, US people need to be told the truth.",
+    "link": "https://www.financialjuice.com/News/9783033/Irans-Revolutionary-Guards-Spokesperson-Trump-is-a-big-liar-US-people-need-to-be-told-the-truth.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 07:13:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 혁명수비대 대변인, “트럼프는 ‘거짓말쟁이’이며, 미국 국민들에게 진실을 알려야 한다.”"
+  },
+  {
+    "guid": "9783032",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: USD, JPY, CAD, EUR, GBP, CHF, NZD, AUD - Weakest",
+    "link": "https://www.financialjuice.com/News/9783032/Currency-Strength-Chart-Strongest-USD-JPY-CAD-EUR-GBP-CHF-NZD-AUD---Weakest.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 07:01:42 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: USD, JPY, CAD, EUR, GBP, CHF, NZD, AUD - 가장 약한 통화"
+  },
+  {
+    "guid": "9783010",
+    "title": "FinancialJuice: Spanish Retail Sales SA YoY Actual -0.4% (Forecast -, Previous -0.3%)",
+    "link": "https://www.financialjuice.com/News/9783010/Spanish-Retail-Sales-SA-YoY-Actual--04-Forecast---Previous--03.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 07:00:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페인 소매판매(계절조정, 전년 동기 대비) 실제 -0.4% (예상 -, 이전 -0.3%)"
+  },
+  {
+    "guid": "9783009",
+    "title": "FinancialJuice: Spanish CPI YoY Flash Actual 4.9% (Forecast 4.6%, Previous 4.3%)",
+    "link": "https://www.financialjuice.com/News/9783009/Spanish-CPI-YoY-Flash-Actual-49-Forecast-46-Previous-43.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 07:00:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스페인 소비자물가지수(CPI) 전년 동기 대비 속보치 4.9% (예상치 4.6%, 전월치 4.3%)"
+  },
+  {
+    "guid": "9783008",
+    "title": "FinancialJuice: Swiss KOF Indicator Actual 109.1 (Forecast 106, Previous 106.7)",
+    "link": "https://www.financialjuice.com/News/9783008/Swiss-KOF-Indicator-Actual-1091-Forecast-106-Previous-1067.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 07:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스위스 KOF 지수, 실제 109.1 (예상 106, 전월 106.7)"
+  },
+  {
+    "guid": "9783007",
+    "title": "FinancialJuice: Spanish HICP YoY Flash  Actual 5% (Forecast 4.9%, Previous 4.6%)",
+    "link": "https://www.financialjuice.com/News/9783007/Spanish-HICP-YoY-Flash--Actual-5-Forecast-49-Previous-46.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 07:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페인 HICP 전년 동기 대비 속보치  실적 5% (예상 4.9%, 전월 4.6%)"
+  },
+  {
+    "guid": "9783006",
+    "title": "FinancialJuice: Spanish HICP MoM Flash  Actual 0.6% (Forecast 0.6%, Previous 0.7%)",
+    "link": "https://www.financialjuice.com/News/9783006/Spanish-HICP-MoM-Flash--Actual-06-Forecast-06-Previous-07.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 07:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페인 HICP 전월 대비 잠정치  실적 0.6% (예상 0.6%, 이전 0.7%)"
+  },
+  {
+    "guid": "9783005",
+    "title": "FinancialJuice: Spanish CPI MoM Flash Actual 0.3% (Forecast 0.1%, Previous 0.70%)",
+    "link": "https://www.financialjuice.com/News/9783005/Spanish-CPI-MoM-Flash-Actual-03-Forecast-01-Previous-070.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 07:00:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스페인 소비자물가지수(CPI) 전월 대비 속보치 0.3% (예상치 0.1%, 전월치 0.70%)"
+  },
+  {
     "guid": "9782973",
     "title": "FinancialJuice: SNB Interest Rate Probabilities",
     "link": "https://www.financialjuice.com/News/9782973/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
