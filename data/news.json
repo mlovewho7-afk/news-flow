@@ -1,5 +1,525 @@
 [
   {
+    "guid": "9786401",
+    "title": "FinancialJuice: Fed's Kashkari: entirely fair to reconsider balance sheet approach",
+    "link": "https://www.financialjuice.com/News/9786401/Feds-Kashkari-entirely-fair-to-reconsider-balance-sheet-approach.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:29:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “대차대조표 운영 방식을 재검토하는 것은 전적으로 타당하다”"
+  },
+  {
+    "guid": "9786397",
+    "title": "FinancialJuice: Fed's Kashkari: size of central bank balance sheet is a complex issue",
+    "link": "https://www.financialjuice.com/News/9786397/Feds-Kashkari-size-of-central-bank-balance-sheet-is-a-complex-issue.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:28:49 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “중앙은행 대차대조표 규모는 복잡한 문제”"
+  },
+  {
+    "guid": "9786394",
+    "title": "FinancialJuice: Fed's Kashkari: central bank balance sheet works best in near-zero rate environment",
+    "link": "https://www.financialjuice.com/News/9786394/Feds-Kashkari-central-bank-balance-sheet-works-best-in-near-zero-rate-environment.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:28:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “중앙은행의 대차대조표는 제로에 가까운 금리 환경에서 가장 효과적으로 작동한다”"
+  },
+  {
+    "guid": "9786390",
+    "title": "FinancialJuice: Fed's Kashkari: not shocked Fed IG found no wrongdoing in renovation project",
+    "link": "https://www.financialjuice.com/News/9786390/Feds-Kashkari-not-shocked-Fed-IG-found-no-wrongdoing-in-renovation-project.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:18:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, 연준 감찰관이 리모델링 프로젝트에서 위법 사항을 발견하지 못한 것에 대해 놀라지 않았다"
+  },
+  {
+    "guid": "9786373",
+    "title": "FinancialJuice: Fed's Kashkari warns rolling supply shocks may boost inflation expectations",
+    "link": "https://www.financialjuice.com/News/9786373/Feds-Kashkari-warns-rolling-supply-shocks-may-boost-inflation-expectations.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:15:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, 지속되는 공급 충격이 인플레이션 기대치를 높일 수 있다고 경고"
+  },
+  {
+    "guid": "9786370",
+    "title": "FinancialJuice: Fed's Kashkari: central bank must return inflation to 2% considering extended period above target",
+    "link": "https://www.financialjuice.com/News/9786370/Feds-Kashkari-central-bank-must-return-inflation-to-2-considering-extended-period-above-target.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:13:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “목표치를 상회하는 상황이 장기간 지속된 점을 고려할 때, 중앙은행은 인플레이션을 2% 수준으로 되돌려야 한다”"
+  },
+  {
+    "guid": "9786366",
+    "title": "FinancialJuice: Fed's Kashkari: hopes central bank can reduce inflation with restrained measures",
+    "link": "https://www.financialjuice.com/News/9786366/Feds-Kashkari-hopes-central-bank-can-reduce-inflation-with-restrained-measures.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:10:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, 중앙은행이 절제된 조치를 통해 인플레이션을 억제할 수 있기를 희망"
+  },
+  {
+    "guid": "9786365",
+    "title": "FinancialJuice: Fed's Kashkari: doubtful economy struggling beyond AI sector",
+    "link": "https://www.financialjuice.com/News/9786365/Feds-Kashkari-doubtful-economy-struggling-beyond-AI-sector.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:08:47 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, “AI 분야를 넘어 경제가 어려움을 겪을지는 의문”"
+  },
+  {
+    "guid": "9786364",
+    "title": "FinancialJuice: Fed's Kashkari: expects one more rate increase this year and another in 2027",
+    "link": "https://www.financialjuice.com/News/9786364/Feds-Kashkari-expects-one-more-rate-increase-this-year-and-another-in-2027.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:08:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, 올해 한 차례, 2027년에 한 차례 더 금리 인상이 있을 것으로 전망"
+  },
+  {
+    "guid": "9786363",
+    "title": "FinancialJuice: Fed's Kashkari: should not blindly follow markets but won't ignore its signals",
+    "link": "https://www.financialjuice.com/News/9786363/Feds-Kashkari-should-not-blindly-follow-markets-but-wont-ignore-its-signals.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:06:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “시장을 맹목적으로 따르지는 말아야 하지만, 시장의 신호를 무시하지도 않을 것”"
+  },
+  {
+    "guid": "9786362",
+    "title": "FinancialJuice: The longer the economy remains robust, the more I question the tightness of monetary policy",
+    "link": "https://www.financialjuice.com/News/9786362/The-longer-the-economy-remains-robust-the-more-I-question-the-tightness-of-monetary-policy.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:06:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 경제가 호조를 유지할수록 통화 정책의 긴축 정도에 대해 의문이 더 커진다"
+  },
+  {
+    "guid": "9786361",
+    "title": "FinancialJuice: Neutral rate probably higher at least for now",
+    "link": "https://www.financialjuice.com/News/9786361/Neutral-rate-probably-higher-at-least-for-now.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:06:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 중립 금리는 적어도 당분간은 더 높을 것으로 보인다"
+  },
+  {
+    "guid": "9786360",
+    "title": "FinancialJuice: Neutral rate may be higher than expected",
+    "link": "https://www.financialjuice.com/News/9786360/Neutral-rate-may-be-higher-than-expected.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:06:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 중립 금리가 예상보다 높을 수 있다"
+  },
+  {
+    "guid": "9786359",
+    "title": "FinancialJuice: Consumers continue spending, and job seekers find employment",
+    "link": "https://www.financialjuice.com/News/9786359/Consumers-continue-spending-and-job-seekers-find-employment.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:06:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 소비자들은 지출을 이어가고 있으며, 구직자들은 일자리를 찾고 있다"
+  },
+  {
+    "guid": "9786358",
+    "title": "FinancialJuice: Fed officials unsure where neutral rate stands now",
+    "link": "https://www.financialjuice.com/News/9786358/Fed-officials-unsure-where-neutral-rate-stands-now.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:06:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 관계자들, 현재 중립 금리가 어느 수준인지 확신 못 해"
+  },
+  {
+    "guid": "9786357",
+    "title": "FinancialJuice: Fed's Kashkari: neutral rate probably higher for the time being",
+    "link": "https://www.financialjuice.com/News/9786357/Feds-Kashkari-neutral-rate-probably-higher-for-the-time-being.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:04:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, “당분간 중립 금리는 더 높을 것”"
+  },
+  {
+    "guid": "9786356",
+    "title": "FinancialJuice: Fed's Kashkari: uncertain about current neutral rate",
+    "link": "https://www.financialjuice.com/News/9786356/Feds-Kashkari-uncertain-about-current-neutral-rate.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:04:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, 현재 중립 금리에 대해 불확실성 표명"
+  },
+  {
+    "guid": "9786355",
+    "title": "FinancialJuice: Fed's Kashkari: neutral rate could be higher than expected",
+    "link": "https://www.financialjuice.com/News/9786355/Feds-Kashkari-neutral-rate-could-be-higher-than-expected.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:03:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, 중립 금리가 예상보다 높을 수 있다"
+  },
+  {
+    "guid": "9786354",
+    "title": "FinancialJuice: Fed's Kashkari: the longer economy stays strong, the more I question monetary policy tightness",
+    "link": "https://www.financialjuice.com/News/9786354/Feds-Kashkari-the-longer-economy-stays-strong-the-more-I-question-monetary-policy-tightness.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:03:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “경제가 강세를 유지할수록 통화 정책의 긴축 정도에 대한 의문이 커진다”"
+  },
+  {
+    "guid": "9786353",
+    "title": "FinancialJuice: Fed's Kashkari: consumers continue spending and job seekers have positions",
+    "link": "https://www.financialjuice.com/News/9786353/Feds-Kashkari-consumers-continue-spending-and-job-seekers-have-positions.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:02:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “소비자들은 지출을 이어가고 있으며 구직자들은 일자리를 얻고 있다”"
+  },
+  {
+    "guid": "9786352",
+    "title": "FinancialJuice: Fed's Kashkari: economy remains robust despite shocks",
+    "link": "https://www.financialjuice.com/News/9786352/Feds-Kashkari-economy-remains-robust-despite-shocks.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:01:51 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, “충격에도 불구하고 경제는 여전히 견고하다”"
+  },
+  {
+    "guid": "9786349",
+    "title": "FinancialJuice: Fed's Kashkari: Inflation still too high, about 3%, new data doesn't alter outlook",
+    "link": "https://www.financialjuice.com/News/9786349/Feds-Kashkari-Inflation-still-too-high-about-3-new-data-doesnt-alter-outlook.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:01:36 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “인플레이션은 여전히 3% 정도로 너무 높다… 새로운 데이터가 전망을 바꾸지는 않는다”"
+  },
+  {
+    "guid": "9786316",
+    "title": "FinancialJuice: New Zealand seasonally adjusted new dwelling consents increase 5.6% in August versus previous month",
+    "link": "https://www.financialjuice.com/News/9786316/New-Zealand-seasonally-adjusted-new-dwelling-consents-increase-56-in-August-versus-previous-month.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 21:45:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드의 8월 계절 조정 신규 주택 건축 허가 건수가 전월 대비 5.6% 증가했다"
+  },
+  {
+    "guid": "9786315",
+    "title": "FinancialJuice: New Zealand Building Consents Actual 5.6% (Forecast -, Previous -4.3%)",
+    "link": "https://www.financialjuice.com/News/9786315/New-Zealand-Building-Consents-Actual-56-Forecast---Previous--43.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 21:45:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 건축 허가 건수, 실제 5.6% (예상 -, 전월 -4.3%)"
+  },
+  {
+    "guid": "9786295",
+    "title": "FinancialJuice: Fed's Goolsbee: record gap between consumer sentiment vibes and actual spending data",
+    "link": "https://www.financialjuice.com/News/9786295/Feds-Goolsbee-record-gap-between-consumer-sentiment-vibes-and-actual-spending-data.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 21:29:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 굴스비, 소비자 심리와 실제 소비 지출 데이터 간 격차가 사상 최대 수준"
+  },
+  {
+    "guid": "9786294",
+    "title": "FinancialJuice: South Korea urges government to boost investments in electric vehicle sector",
+    "link": "https://www.financialjuice.com/News/9786294/South-Korea-urges-government-to-boost-investments-in-electric-vehicle-sector.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 21:29:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국, 정부에 전기차 분야 투자 확대를 촉구"
+  },
+  {
+    "guid": "9786292",
+    "title": "FinancialJuice: Climate change causes 6C temperature rise per decade, experts warn",
+    "link": "https://www.financialjuice.com/News/9786292/Climate-change-causes-6C-temperature-rise-per-decade-experts-warn.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 21:22:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 전문가들, 기후 변화로 인해 10년마다 기온이 6°C 상승할 것이라고 경고"
+  },
+  {
+    "guid": "9786291",
+    "title": "FinancialJuice: US energy secretary Wright: to receive updates from Europe on fresh diesel supplies",
+    "link": "https://www.financialjuice.com/News/9786291/US-energy-secretary-Wright-to-receive-updates-from-Europe-on-fresh-diesel-supplies.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 21:22:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관, 유럽으로부터 새로운 디젤 공급 현황에 대한 최신 정보를 전달받을 예정"
+  },
+  {
+    "guid": "9786290",
+    "title": "FinancialJuice: US energy secretary Wright: will make some announcements on diesel",
+    "link": "https://www.financialjuice.com/News/9786290/US-energy-secretary-Wright-will-make-some-announcements-on-diesel.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 21:22:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 라이트 미국 에너지부 장관, 디젤 관련 발표 예정"
+  },
+  {
+    "guid": "9786289",
+    "title": "FinancialJuice: OpenAI's Greg Brockman withdraws from second $25 million donation to a super PAC - NYT",
+    "link": "https://www.financialjuice.com/News/9786289/OpenAIs-Greg-Brockman-withdraws-from-second-25-million-donation-to-a-super-PAC---NYT.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 21:22:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 오픈AI의 그렉 브록맨, 슈퍼 PAC에 대한 두 번째 2,500만 달러 기부 철회 - NYT"
+  },
+  {
+    "guid": "9786287",
+    "title": "FinancialJuice: OpenAI executive withdraws second $25 million contribution to AI super PAC: NYT",
+    "link": "https://www.financialjuice.com/News/9786287/OpenAI-executive-withdraws-second-25-million-contribution-to-AI-super-PAC-NYT.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 21:21:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI 임원, AI 슈퍼 PAC에 대한 두 번째 2,500만 달러 기부 철회: NYT"
+  },
+  {
+    "guid": "9786269",
+    "title": "FinancialJuice: South Korea industry minister: US likely to maintain tariff rate on South Korea at 15% - Yonhap",
+    "link": "https://www.financialjuice.com/News/9786269/South-Korea-industry-minister-US-likely-to-maintain-tariff-rate-on-South-Korea-at-15---Yonhap.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 21:13:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 한국 산업부 장관 “미국, 한국에 대한 관세율 15%로 유지할 전망” - 연합뉴스"
+  },
+  {
+    "guid": "9786268",
+    "title": "FinancialJuice: Trump on UK base incident: will learn this afternoon why UK freed suspects",
+    "link": "https://www.financialjuice.com/News/9786268/Trump-on-UK-base-incident-will-learn-this-afternoon-why-UK-freed-suspects.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 21:08:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 군사기지 사건에 대한 트럼프의 발언: 영국이 용의자들을 석방한 이유를 오늘 오후에 알게 될 것"
+  },
+  {
+    "guid": "9786244",
+    "title": "FinancialJuice: Trump on FlyDubai incident: I did speak to Netanyahu",
+    "link": "https://www.financialjuice.com/News/9786244/Trump-on-FlyDubai-incident-I-did-speak-to-Netanyahu.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:59:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 플라이두바이 사건에 대한 트럼프의 발언: “네타냐후와 통화했다”"
+  },
+  {
+    "guid": "9786243",
+    "title": "FinancialJuice: US and South Korea Launch $22.3 Billion Texas Gas Power Project for AI Data Centers",
+    "link": "https://www.financialjuice.com/News/9786243/US-and-South-Korea-Launch-223-Billion-Texas-Gas-Power-Project-for-AI-Data-Centers.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:59:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국과 한국, AI 데이터센터용 223억 달러 규모의 텍사스 가스 발전 프로젝트 착수"
+  },
+  {
+    "guid": "9786242",
+    "title": "FinancialJuice: Trump reiterates gasoline prices will drop after the Iran war ends",
+    "link": "https://www.financialjuice.com/News/9786242/Trump-reiterates-gasoline-prices-will-drop-after-the-Iran-war-ends.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:57:44 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 트럼프, 이란 전쟁이 끝나면 휘발유 가격이 떨어질 것이라고 재차 강조"
+  },
+  {
+    "guid": "9786223",
+    "title": "FinancialJuice: US Commerce Secretary Lutnick: Southeast Asia to lean on US for gas due to the pipeline.",
+    "link": "https://www.financialjuice.com/News/9786223/US-Commerce-Secretary-Lutnick-Southeast-Asia-to-lean-on-US-for-gas-due-to-the-pipeline.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:43:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루트닉 미국 상무장관: 파이프라인 건설로 인해 동남아시아가 천연가스 공급을 위해 미국에 의존하게 될 전망이다."
+  },
+  {
+    "guid": "9786222",
+    "title": "FinancialJuice: Trump touts nuclear energy as safe",
+    "link": "https://www.financialjuice.com/News/9786222/Trump-touts-nuclear-energy-as-safe.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:35:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, 원자력을 안전한 에너지로 강조"
+  },
+  {
+    "guid": "9786221",
+    "title": "FinancialJuice: Trump: South Korea 'paid' to reduce US tariffs on its goods.",
+    "link": "https://www.financialjuice.com/News/9786221/Trump-South-Korea-paid-to-reduce-US-tariffs-on-its-goods.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:34:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프, “한국이 자국 제품에 대한 미국의 관세를 낮추기 위해 ‘대가를 지불했다’”고 밝혔다."
+  },
+  {
+    "guid": "9786203",
+    "title": "FinancialJuice: Trump's Tech Advisor Sacks on AI accord: We don't have to wait for new legislation.",
+    "link": "https://www.financialjuice.com/News/9786203/Trumps-Tech-Advisor-Sacks-on-AI-accord-We-dont-have-to-wait-for-new-legislation.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:22:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프 대통령의 기술 고문 샥스, AI 협정에 대해 “새로운 법안이 통과될 때까지 기다릴 필요는 없다”고 밝혔다."
+  },
+  {
+    "guid": "9786202",
+    "title": "FinancialJuice: Trump's Tech Adviser Sacks: AI firms agreed to have external audits.",
+    "link": "https://www.financialjuice.com/News/9786202/Trumps-Tech-Adviser-Sacks-AI-firms-agreed-to-have-external-audits.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:22:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트럼프의 기술 고문 삭스, “AI 기업들은 외부 감사를 받기로 합의했다.”"
+  },
+  {
+    "guid": "9786201",
+    "title": "FinancialJuice: Micron: Expect memory & storage supply-demand conditions to be much tighter in fiscal 2027 & 2028 than in 2026 - prepared remarks $MU",
+    "link": "https://www.financialjuice.com/News/9786201/Micron-Expect-memory--storage-supply-demand-conditions-to-be-much-tighter-in-fiscal-2027--2028-than-in-2026---prepared-remarks-MU.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:18:51 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 마이크론: 2027·2028 회계연도에는 2026년보다 메모리 및 스토리지 수급 상황이 훨씬 더 타이트해질 것으로 전망 - 사전 준비된 발언 $MU"
+  },
+  {
+    "guid": "9786192",
+    "title": "FinancialJuice: Google: We are engaged in the US Government’s voluntary process on models. $GOOGL",
+    "link": "https://www.financialjuice.com/News/9786192/Google-We-are-engaged-in-the-US-Governments-voluntary-process-on-models-GOOGL.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:07:17 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글: 당사는 모델과 관련된 미국 정부의 자발적 절차에 참여하고 있습니다. $GOOGL"
+  },
+  {
+    "guid": "9786191",
+    "title": "FinancialJuice: Google sets Argon pricing at $2/M input, $10/M output tokens. $GOOGL",
+    "link": "https://www.financialjuice.com/News/9786191/Google-sets-Argon-pricing-at-2M-input-10M-output-tokens-GOOGL.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:05:53 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글, Argon 토큰 가격을 입력 토큰 1M당 2달러, 출력 토큰 1M당 10달러로 책정. $GOOGL"
+  },
+  {
+    "guid": "9786190",
+    "title": "FinancialJuice: Alphabet's Pichai: Introducing Gemini 4 Argon. $GOOGL",
+    "link": "https://www.financialjuice.com/News/9786190/Alphabets-Pichai-Introducing-Gemini-4-Argon-GOOGL.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:04:22 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 알파벳의 피차이, ‘제미니 4 아르곤’을 소개합니다. $GOOGL"
+  },
+  {
+    "guid": "9786186",
+    "title": "FinancialJuice: $MU Micron Q4 Earnings\n",
+    "link": "https://www.financialjuice.com/News/9786186/MU-Micron-Q4-Earnings.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 20:01:40 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: $MU 마이크론 4분기 실적\n"
+  },
+  {
+    "guid": "9786170",
+    "title": "FinancialJuice: The pilot planned to seize control of the cockpit over Jordan and crash it in Israeli territory - Israel's N12 News\n",
+    "link": "https://www.financialjuice.com/News/9786170/The-pilot-planned-to-seize-control-of-the-cockpit-over-Jordan-and-crash-it-in-Israeli-territory---Israels-N12-News.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:58:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 조종사는 요르단 상공에서 조종실을 장악한 뒤 이스라엘 영토에 추락시킬 계획이었다 - 이스라엘 N12 뉴스\n"
+  },
+  {
+    "guid": "9786169",
+    "title": "FinancialJuice: US Sec. of Defense Hegseth finishes remarks",
+    "link": "https://www.financialjuice.com/News/9786169/US-Sec-of-Defense-Hegseth-finishes-remarks.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:54:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 헤그셋 미국 국방장관, 연설 마무리"
+  },
+  {
+    "guid": "9786168",
+    "title": "FinancialJuice: Google Grapples With Internal Skepticism Over Gemini 4 Performance $GOOGL",
+    "link": "https://www.financialjuice.com/News/9786168/Google-Grapples-With-Internal-Skepticism-Over-Gemini-4-Performance-GOOGL.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:54:16 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글, 제미니 4 성능에 대한 내부 회의론에 직면 $GOOGL"
+  },
+  {
+    "guid": "9786167",
+    "title": "FinancialJuice: Google grapples with employee skepticism about the new Gemini Model $GOOGL\n",
+    "link": "https://www.financialjuice.com/News/9786167/Google-grapples-with-employee-skepticism-about-the-new-Gemini-Model-GOOGL.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:53:38 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글, 새로운 제미니 모델에 대한 직원들의 회의론에 고심 중 $GOOGL\n"
+  },
+  {
+    "guid": "9786166",
+    "title": "FinancialJuice: AI can exhibit 'self-preserving behaviors,' 'resist shutdown,’ ’conceal or manipulate information' - Anthropic's IPO Filing.",
+    "link": "https://www.financialjuice.com/News/9786166/AI-can-exhibit-self-preserving-behaviors-resist-shutdown-conceal-or-manipulate-information---Anthropics-IPO-Filing.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:50:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: AI는 '자기 보존 행동'을 보일 수 있고, '종료를 거부'하며, '정보를 은폐하거나 조작'할 수 있다 - 앤트로픽(Anthropic)의 기업공개(IPO) 신청서."
+  },
+  {
+    "guid": "9786165",
+    "title": "FinancialJuice: MOC Imbalance",
+    "link": "https://www.financialjuice.com/News/9786165/MOC-Imbalance.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:50:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOC 불균형"
+  },
+  {
+    "guid": "9786148",
+    "title": "FinancialJuice: US Sec. of Defense Hegseth: Major US military installations to generate their own power.\n",
+    "link": "https://www.financialjuice.com/News/9786148/US-Sec-of-Defense-Hegseth-Major-US-military-installations-to-generate-their-own-power.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:39:37 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 헤그셋 미국 국방장관, 주요 미군 기지들이 자체 전력을 생산할 것이라고 밝혔다.\n"
+  },
+  {
+    "guid": "9786147",
+    "title": "FinancialJuice: US Sec. of Defense Hegseth: Musk, Gingrich, and Luckey will lead the new Pentagon project",
+    "link": "https://www.financialjuice.com/News/9786147/US-Sec-of-Defense-Hegseth-Musk-Gingrich-and-Luckey-will-lead-the-new-Pentagon-project.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:35:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 헤그셋 미국 국방장관, 머스크·깅리치·럭키가 펜타곤의 새로운 프로젝트를 이끌 것"
+  },
+  {
+    "guid": "9786136",
+    "title": "FinancialJuice: LIVE: Trump announces plans for a $54 billion project in Alaska\n",
+    "link": "https://www.financialjuice.com/News/9786136/LIVE-Trump-announces-plans-for-a-54-billion-project-in-Alaska.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:30:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 속보: 트럼프, 알래스카에서 540억 달러 규모의 프로젝트 계획 발표\n"
+  },
+  {
+    "guid": "9786133",
+    "title": "FinancialJuice: Fed's Cook: Inflation has been too high for too long.",
+    "link": "https://www.financialjuice.com/News/9786133/Feds-Cook-Inflation-has-been-too-high-for-too-long.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:25:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 쿡: 인플레이션이 너무 오랫동안 너무 높은 수준을 유지해 왔다."
+  },
+  {
+    "guid": "9786132",
+    "title": "FinancialJuice: Fed’s cook: Committed to returning inflation to the 2% objective while preserving labor market strength.",
+    "link": "https://www.financialjuice.com/News/9786132/Feds-cook-Committed-to-returning-inflation-to-the-2-objective-while-preserving-labor-market-strength.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:25:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 ‘요리사’: 노동 시장의 강세를 유지하면서 인플레이션을 2% 목표치로 되돌리겠다는 의지를 밝혔다."
+  },
+  {
+    "guid": "9786131",
+    "title": "FinancialJuice: US Sec. of Defense Hegseth announces creation of new autonomous warfare command\n",
+    "link": "https://www.financialjuice.com/News/9786131/US-Sec-of-Defense-Hegseth-announces-creation-of-new-autonomous-warfare-command.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:24:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 헤그셋 미국 국방장관, 새로운 자율전투사령부 창설 발표\n"
+  },
+  {
+    "guid": "9786130",
+    "title": "FinancialJuice: Thursday FX Options Expiries",
+    "link": "https://www.financialjuice.com/News/9786130/Thursday-FX-Options-Expiries.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:22:49 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 목요일 외환 옵션 만기일"
+  },
+  {
+    "guid": "9786123",
+    "title": "FinancialJuice: US Sec. of Defense Hegseth State Of The Force Address - WATCH LIVE",
+    "link": "https://www.financialjuice.com/News/9786123/US-Sec-of-Defense-Hegseth-State-Of-The-Force-Address---WATCH-LIVE.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:07:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 헤그셋 미국 국방장관의 ‘군 현황’ 연설 - 생중계 시청하기"
+  },
+  {
+    "guid": "9786122",
+    "title": "FinancialJuice: US Sec. of Defense Hegseth: Reduction in top officer slots long overdue.",
+    "link": "https://www.financialjuice.com/News/9786122/US-Sec-of-Defense-Hegseth-Reduction-in-top-officer-slots-long-overdue.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:06:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 헤그셋 미국 국방장관, “고위 장교 직위 감축은 이미 오래전부터 필요했다.”"
+  },
+  {
+    "guid": "9786109",
+    "title": "FinancialJuice: Meta's Oversight Board Calls for Independent Oversight of AI Companies $META ",
+    "link": "https://www.financialjuice.com/News/9786109/Metas-Oversight-Board-Calls-for-Independent-Oversight-of-AI-Companies-META-.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 19:00:50 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 메타의 감독위원회, AI 기업에 대한 독립적인 감독 촉구 $META "
+  },
+  {
+    "guid": "9786078",
+    "title": "FinancialJuice: Brent Crude futures settle at $103.53/bbl, up 94 cents, 0.92%.",
+    "link": "https://www.financialjuice.com/News/9786078/Brent-Crude-futures-settle-at-10353bbl-up-94-cents-092.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 18:53:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 브렌트유 선물 가격이 배럴당 103.53달러로 마감하며, 94센트(0.92%) 상승했다."
+  },
+  {
+    "guid": "9786077",
+    "title": "FinancialJuice: OpenAI CEO Altman is going to skip the Congressional hearing on rogue AI agents - NBC News.\n",
+    "link": "https://www.financialjuice.com/News/9786077/OpenAI-CEO-Altman-is-going-to-skip-the-Congressional-hearing-on-rogue-AI-agents---NBC-News.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 18:51:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: OpenAI의 알트만 CEO, 악성 AI 에이전트에 관한 의회 청문회 불참 예정 - NBC 뉴스.\n"
+  },
+  {
+    "guid": "9786075",
+    "title": "FinancialJuice: Syria: Three power plants gone out of service after gas pipeline explosion - State News Agency.",
+    "link": "https://www.financialjuice.com/News/9786075/Syria-Three-power-plants-gone-out-of-service-after-gas-pipeline-explosion---State-News-Agency.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 18:46:36 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 시리아: 가스 파이프라인 폭발로 발전소 3곳 가동 중단 - 국영 통신사."
+  },
+  {
     "guid": "9786062",
     "title": "FinancialJuice: Trump ends remarks.",
     "link": "https://www.financialjuice.com/News/9786062/Trump-ends-remarks.aspx?xy=rss",
