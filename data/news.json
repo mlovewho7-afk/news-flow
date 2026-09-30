@@ -1,5 +1,485 @@
 [
   {
+    "guid": "9784628",
+    "title": "FinancialJuice: South Korea military: personnel seriously injured by North Korean mines",
+    "link": "https://www.financialjuice.com/News/9784628/South-Korea-military-personnel-seriously-injured-by-North-Korean-mines.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:33:02 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 한국군, 북한 지뢰로 인해 병사 중상"
+  },
+  {
+    "guid": "9784627",
+    "title": "FinancialJuice: South Korea military: North Korea must apologize for fortification activities",
+    "link": "https://www.financialjuice.com/News/9784627/South-Korea-military-North-Korea-must-apologize-for-fortification-activities.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:32:29 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 한국 군 당국, “북한은 요새화 활동에 대해 사과해야 한다”"
+  },
+  {
+    "guid": "9784626",
+    "title": "FinancialJuice: South Korea military: North Korea must halt fortification efforts immediately",
+    "link": "https://www.financialjuice.com/News/9784626/South-Korea-military-North-Korea-must-halt-fortification-efforts-immediately.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:31:51 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 한국 군 당국, “북한은 요새화 작업을 즉시 중단해야 한다”"
+  },
+  {
+    "guid": "9784625",
+    "title": "FinancialJuice: South Korea military: North Korea's fortification efforts raise tensions on Korean Peninsula",
+    "link": "https://www.financialjuice.com/News/9784625/South-Korea-military-North-Koreas-fortification-efforts-raise-tensions-on-Korean-Peninsula.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:31:41 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 한국 군 당국: 북한의 요새화 움직임으로 한반도 긴장 고조"
+  },
+  {
+    "guid": "9784603",
+    "title": "FinancialJuice: Chinese NBS Non-Manufacturing PMI Actual 50.2 (Forecast 49.2, Previous 49.0)",
+    "link": "https://www.financialjuice.com/News/9784603/Chinese-NBS-Non-Manufacturing-PMI-Actual-502-Forecast-492-Previous-490.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 국가통계국(NBS) 비제조업 PMI 실제치 50.2 (예상치 49.2, 전월치 49.0)"
+  },
+  {
+    "guid": "9784602",
+    "title": "FinancialJuice: Chinese NBS Manufacturing PMI Actual 50.1 (Forecast 50.1, Previous 49.8)",
+    "link": "https://www.financialjuice.com/News/9784602/Chinese-NBS-Manufacturing-PMI-Actual-501-Forecast-501-Previous-498.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 국가통계국(NBS) 제조업 PMI 실제치 50.1 (예상치 50.1, 전월치 49.8)"
+  },
+  {
+    "guid": "9784599",
+    "title": "FinancialJuice: Australian Private Sector Credit Actual 0.6% (Forecast 0.5%, Previous 0.6%)",
+    "link": "https://www.financialjuice.com/News/9784599/Australian-Private-Sector-Credit-Actual-06-Forecast-05-Previous-06.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 민간 부문 신용 증가율, 실제 0.6% (예상 0.5%, 전월 0.6%)"
+  },
+  {
+    "guid": "9784598",
+    "title": "FinancialJuice: Australian Housing Credit Actual 0.4% (Forecast -, Previous 0.5%)",
+    "link": "https://www.financialjuice.com/News/9784598/Australian-Housing-Credit-Actual-04-Forecast---Previous-05.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 주택 대출 증가율, 실제 0.4% (예상 -, 이전 0.5%)"
+  },
+  {
+    "guid": "9784589",
+    "title": "FinancialJuice: Australian Private House Approvals Actual 3.7% (Forecast -, Previous -4.2%)",
+    "link": "https://www.financialjuice.com/News/9784589/Australian-Private-House-Approvals-Actual-37-Forecast---Previous--42.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 단독주택 건축 허가 건수, 실제 3.7% (예상 -, 전월 -4.2%)"
+  },
+  {
+    "guid": "9784611",
+    "title": "FinancialJuice: China Sept official non-manufacturing PMI at 50.2 vs 49.0 in Aug",
+    "link": "https://www.financialjuice.com/News/9784611/China-Sept-official-non-manufacturing-PMI-at-502-vs-490-in-Aug.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국의 9월 공식 비제조업 PMI가 50.2를 기록해 8월의 49.0보다 상승했다"
+  },
+  {
+    "guid": "9784608",
+    "title": "FinancialJuice: China Sept official manufacturing PMI at 50.1: poll matched previous 49.8",
+    "link": "https://www.financialjuice.com/News/9784608/China-Sept-official-manufacturing-PMI-at-501-poll-matched-previous-498.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 9월 공식 제조업 PMI 50.1…설문조사 결과는 이전 수치인 49.8과 일치"
+  },
+  {
+    "guid": "9784607",
+    "title": "FinancialJuice: China September official composite PMI at 50.7",
+    "link": "https://www.financialjuice.com/News/9784607/China-September-official-composite-PMI-at-507.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 9월 공식 종합 PMI, 50.7 기록"
+  },
+  {
+    "guid": "9784606",
+    "title": "FinancialJuice: China September official manufacturing PMI at 50.1 vs 49.8 in August",
+    "link": "https://www.financialjuice.com/News/9784606/China-September-official-manufacturing-PMI-at-501-vs-498-in-August.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:22 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국의 9월 공식 제조업 PMI가 50.1을 기록했으며, 이는 8월의 49.8과 비교된다."
+  },
+  {
+    "guid": "9784605",
+    "title": "FinancialJuice: China september official non-manufacturing pmi climbs to 50.2 from 49.0 in august",
+    "link": "https://www.financialjuice.com/News/9784605/China-september-official-non-manufacturing-pmi-climbs-to-502-from-490-in-august.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국의 9월 공식 비제조업 PMI가 8월의 49.0에서 50.2로 상승했다"
+  },
+  {
+    "guid": "9784604",
+    "title": "FinancialJuice: Chinese Composite PMI Actual 50.7 (Forecast -, Previous 49.5)",
+    "link": "https://www.financialjuice.com/News/9784604/Chinese-Composite-PMI-Actual-507-Forecast---Previous-495.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 종합 PMI 실제치 50.7 (예상치 -, 전월치 49.5)"
+  },
+  {
+    "guid": "9784601",
+    "title": "FinancialJuice: Australia August housing credit rises 0.4% m/m, seasonally adjusted: central bank",
+    "link": "https://www.financialjuice.com/News/9784601/Australia-August-housing-credit-rises-04-mm-seasonally-adjusted-central-bank.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 8월 주택 대출, 계절 조정 기준 전월 대비 0.4% 증가: 중앙은행"
+  },
+  {
+    "guid": "9784600",
+    "title": "FinancialJuice: Australia August private-sector credit rises 0.6% m/m, s/adj: central bank",
+    "link": "https://www.financialjuice.com/News/9784600/Australia-August-private-sector-credit-rises-06-mm-sadj-central-bank.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 8월 민간 부문 신용, 전월 대비 0.6% 증가… 계절 조정치: 중앙은행"
+  },
+  {
+    "guid": "9784597",
+    "title": "FinancialJuice: Australia aug building approvals decline 6.1% m/m, adjusted",
+    "link": "https://www.financialjuice.com/News/9784597/Australia-aug-building-approvals-decline-61-mm-adjusted.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 8월 건축 허가 건수, 전월 대비 6.1% 감소 (계절 조정 기준)"
+  },
+  {
+    "guid": "9784596",
+    "title": "FinancialJuice: Australia Aug CPI (all groups) rises 0.4% m/m",
+    "link": "https://www.financialjuice.com/News/9784596/Australia-Aug-CPI-all-groups-rises-04-mm.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 8월 소비자물가지수(전 부문)가 전월 대비 0.4% 상승"
+  },
+  {
+    "guid": "9784595",
+    "title": "FinancialJuice: Australia Aug RBA weighted median CPI rises 0.3% m/m",
+    "link": "https://www.financialjuice.com/News/9784595/Australia-Aug-RBA-weighted-median-CPI-rises-03-mm.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 8월 RBA 가중 중앙값 CPI, 전월 대비 0.3% 상승"
+  },
+  {
+    "guid": "9784594",
+    "title": "FinancialJuice: Australia August RBA trimmed mean inflation at 3.6% year on year",
+    "link": "https://www.financialjuice.com/News/9784594/Australia-August-RBA-trimmed-mean-inflation-at-36-year-on-year.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주, 8월 RBA 조정 평균 물가상승률 전년 동기 대비 3.6% 기록"
+  },
+  {
+    "guid": "9784593",
+    "title": "FinancialJuice: Australia Aug RBA weighted median CPI rises 3.6% year/year",
+    "link": "https://www.financialjuice.com/News/9784593/Australia-Aug-RBA-weighted-median-CPI-rises-36-yearyear.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 8월 RBA 가중 중앙값 CPI, 전년 동기 대비 3.6% 상승"
+  },
+  {
+    "guid": "9784592",
+    "title": "FinancialJuice: Australia aug cpi all groups rises 4% yr/yr",
+    "link": "https://www.financialjuice.com/News/9784592/Australia-aug-cpi-all-groups-rises-4-yryr.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 8월 소비자물가지수(CPI) 전 항목, 전년 동기 대비 4% 상승"
+  },
+  {
+    "guid": "9784591",
+    "title": "FinancialJuice: Australia aug private sector house approvals rise 3.7% m/m, s/adj",
+    "link": "https://www.financialjuice.com/News/9784591/Australia-aug-private-sector-house-approvals-rise-37-mm-sadj.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 8월 민간 부문 주택 건축 허가 건수, 전월 대비 3.7% 증가 (계절 조정 기준)"
+  },
+  {
+    "guid": "9784590",
+    "title": "FinancialJuice: Australia August RBA trimmed mean inflation rises 0.2% month on month",
+    "link": "https://www.financialjuice.com/News/9784590/Australia-August-RBA-trimmed-mean-inflation-rises-02-month-on-month.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 8월 RBA 조정 평균 물가 상승률, 전월 대비 0.2% 상승"
+  },
+  {
+    "guid": "9784588",
+    "title": "FinancialJuice: Australian CPI Trimmed Mean YoY Actual 3.6% (Forecast 3.6%, Previous 3.6%)",
+    "link": "https://www.financialjuice.com/News/9784588/Australian-CPI-Trimmed-Mean-YoY-Actual-36-Forecast-36-Previous-36.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 소비자물가지수(CPI) 트림 평균 전년 동기 대비 실제치 3.6% (예상치 3.6%, 전월치 3.6%)"
+  },
+  {
+    "guid": "9784587",
+    "title": "FinancialJuice: Australian Building Approvals Actual -6.1% (Forecast -1%, Previous -3.6%)",
+    "link": "https://www.financialjuice.com/News/9784587/Australian-Building-Approvals-Actual--61-Forecast--1-Previous--36.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 건축 허가 건수, 실제 -6.1% (예상 -1%, 전월 -3.6%)"
+  },
+  {
+    "guid": "9784586",
+    "title": "FinancialJuice: Australian CPI YoY NSA Actual 4% (Forecast 4.1%, Previous 3.5%)",
+    "link": "https://www.financialjuice.com/News/9784586/Australian-CPI-YoY-NSA-Actual-4-Forecast-41-Previous-35.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:30:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주 소비자물가지수(CPI) 전년 동기 대비(비계절 조정) 실제치 4% (예상치 4.1%, 전월치 3.5%)"
+  },
+  {
+    "guid": "9784585",
+    "title": "FinancialJuice: China c.bank pauses 7-day reverse repos: statement",
+    "link": "https://www.financialjuice.com/News/9784585/China-cbank-pauses-7-day-reverse-repos-statement.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:26:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 7일물 역레포 일시 중단: 성명서"
+  },
+  {
+    "guid": "9784584",
+    "title": "FinancialJuice: China c.bank injects 833.5 bln yuan via overnight reverse repos: statement",
+    "link": "https://www.financialjuice.com/News/9784584/China-cbank-injects-8335-bln-yuan-via-overnight-reverse-repos-statement.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:23:05 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 중앙은행, 하루 만기 역레포를 통해 8,335억 위안 유동성 공급… 성명서"
+  },
+  {
+    "guid": "9784583",
+    "title": "FinancialJuice: Shares of Shenzhen Camsense Technologies set to open at HK$168 in Hong Kong debut versus offer price HK$58.85 apiece",
+    "link": "https://www.financialjuice.com/News/9784583/Shares-of-Shenzhen-Camsense-Technologies-set-to-open-at-HK168-in-Hong-Kong-debut-versus-offer-price-HK5885-apiece.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:20:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 심천 캠센스 테크놀로지스의 주가가 홍콩 증시 데뷔를 앞두고 공모가인 주당 58.85 홍콩달러 대비 168 홍콩달러에 개장할 전망이다."
+  },
+  {
+    "guid": "9784582",
+    "title": "FinancialJuice: China sets yuan midpoint at strongest level since Feb. 2, 2023",
+    "link": "https://www.financialjuice.com/News/9784582/China-sets-yuan-midpoint-at-strongest-level-since-Feb-2-2023.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:16:26 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국, 위안화 중간 환율을 2023년 2월 2일 이후 최고 수준으로 책정"
+  },
+  {
+    "guid": "9784570",
+    "title": "FinancialJuice: Taiwan overnight interbank rate starts at 0.805% vs 0.805% at prior session open",
+    "link": "https://www.financialjuice.com/News/9784570/Taiwan-overnight-interbank-rate-starts-at-0805-vs-0805-at-prior-session-open.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 01:00:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 대만 일일 은행간 금리, 전일 개장가 0.805% 대비 0.805%로 개장"
+  },
+  {
+    "guid": "9784557",
+    "title": "FinancialJuice: UN command: DMZ blast violates armistice agreement - Yonhap",
+    "link": "https://www.financialjuice.com/News/9784557/UN-command-DMZ-blast-violates-armistice-agreement---Yonhap.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 00:38:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유엔 사령부 “비무장지대 폭발은 정전협정 위반” - 연합뉴스"
+  },
+  {
+    "guid": "9784556",
+    "title": "FinancialJuice: S. Korea finmin: to implement other stabilizing steps including treasury bond repurchase if bond yields soar excessively",
+    "link": "https://www.financialjuice.com/News/9784556/S-Korea-finmin-to-implement-other-stabilizing-steps-including-treasury-bond-repurchase-if-bond-yields-soar-excessively.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 00:35:07 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 한국 재무부, “채권 수익률이 과도하게 상승할 경우 국채 매입 등 추가 안정화 조치를 시행할 것”"
+  },
+  {
+    "guid": "9784555",
+    "title": "FinancialJuice: S.Korea Finance Ministry: to use surplus tax revenue to cut bond issuance if necessary",
+    "link": "https://www.financialjuice.com/News/9784555/SKorea-Finance-Ministry-to-use-surplus-tax-revenue-to-cut-bond-issuance-if-necessary.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 00:33:13 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 한국 기획재정부: 필요 시 세수 초과분을 활용해 국채 발행 규모를 축소할 예정"
+  },
+  {
+    "guid": "9784554",
+    "title": "FinancialJuice: S.Korea finmin: closely watching bond market",
+    "link": "https://www.financialjuice.com/News/9784554/SKorea-finmin-closely-watching-bond-market.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 00:32:19 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 한국 재무부, 채권 시장 면밀히 주시 중"
+  },
+  {
+    "guid": "9784546",
+    "title": "FinancialJuice: Explosions heard in Ukraine's Kyiv: witness source reports",
+    "link": "https://www.financialjuice.com/News/9784546/Explosions-heard-in-Ukraines-Kyiv-witness-source-reports.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 00:23:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 우크라이나 키예프에서 폭발음 들렸다… 목격자 소식통 보도"
+  },
+  {
+    "guid": "9784545",
+    "title": "FinancialJuice: China PBOC expected to set yuan midpoint at 6.7025 per dollar: estimate",
+    "link": "https://www.financialjuice.com/News/9784545/China-PBOC-expected-to-set-yuan-midpoint-at-67025-per-dollar-estimate.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 00:22:51 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 중국 인민은행(PBOC), 위안화 중간 환율을 1달러당 6.7025로 설정할 전망: 추정"
+  },
+  {
+    "guid": "9784517",
+    "title": "FinancialJuice: New Zealand business optimism 51.9% in September vs 53.7% in previous survey: ANZ Bank survey",
+    "link": "https://www.financialjuice.com/News/9784517/New-Zealand-business-optimism-519-in-September-vs-537-in-previous-survey-ANZ-Bank-survey.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 00:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ANZ 은행 설문조사 결과, 9월 뉴질랜드 기업 경기 낙관지수 51.9%…이전 조사 53.7% 대비 하락"
+  },
+  {
+    "guid": "9784516",
+    "title": "FinancialJuice: New Zealand business activity outlook at 47.9% in September vs 48.2% in previous survey: ANZ survey",
+    "link": "https://www.financialjuice.com/News/9784516/New-Zealand-business-activity-outlook-at-479-in-September-vs-482-in-previous-survey-ANZ-survey.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 00:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ANZ 설문조사 결과, 9월 뉴질랜드 기업 활동 전망 지수 47.9%로 집계…이전 조사 대비 48.2%에서 하락"
+  },
+  {
+    "guid": "9784515",
+    "title": "FinancialJuice: NBNZ Own Activity Actual 47.9 (Forecast -, Previous 48.2)",
+    "link": "https://www.financialjuice.com/News/9784515/NBNZ-Own-Activity-Actual-479-Forecast---Previous-482.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 00:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NBNZ 자체 활동 지수 실제 47.9 (예상 -, 이전 48.2)"
+  },
+  {
+    "guid": "9784514",
+    "title": "FinancialJuice: NBNZ Business Outlook Actual 51.9 (Forecast -, Previous 53.7)",
+    "link": "https://www.financialjuice.com/News/9784514/NBNZ-Business-Outlook-Actual-519-Forecast---Previous-537.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 00:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: NBNZ 기업 경기 전망 지수, 실제 51.9 (예상 -, 이전 53.7)"
+  },
+  {
+    "guid": "9784513",
+    "title": "FinancialJuice: Japanese Large Scale Retail Sales YoY Actual 1% (Forecast -, Previous 2%)",
+    "link": "https://www.financialjuice.com/News/9784513/Japanese-Large-Scale-Retail-Sales-YoY-Actual-1-Forecast---Previous-2.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:53:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 대규모 소매 판매 전년 동기 대비 실제 1% (예상 -, 이전 2%)"
+  },
+  {
+    "guid": "9784512",
+    "title": "FinancialJuice: Japan manufacturers report October output up 3.1% m/m, government says",
+    "link": "https://www.financialjuice.com/News/9784512/Japan-manufacturers-report-October-output-up-31-mm-government-says.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:50:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 제조업체들의 10월 생산량이 전월 대비 3.1% 증가했다고 정부가 밝혔다"
+  },
+  {
+    "guid": "9784511",
+    "title": "FinancialJuice: Japan manufacturers see Sept output up 3.2% m/m, prev forecast -4.2%: govt",
+    "link": "https://www.financialjuice.com/News/9784511/Japan-manufacturers-see-Sept-output-up-32-mm-prev-forecast--42-govt.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:50:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 제조업체 9월 생산량, 전월 대비 3.2% 증가…이전 전망치 -4.2%: 정부"
+  },
+  {
+    "guid": "9784510",
+    "title": "FinancialJuice: Japan august retail sales climb 2.7% year/year: govt (poll +3.3%)",
+    "link": "https://www.financialjuice.com/News/9784510/Japan-august-retail-sales-climb-27-yearyear-govt-poll-33.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:50:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 8월 소매판매, 전년 동기 대비 2.7% 증가…정부 발표 (설문조사 예상치 +3.3%)"
+  },
+  {
+    "guid": "9784509",
+    "title": "FinancialJuice: Japan August industrial output falls 1.7% m/m : government (Poll +1.7%)",
+    "link": "https://www.financialjuice.com/News/9784509/Japan-August-industrial-output-falls-17-mm--government-Poll-17.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:50:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 8월 산업생산, 전월 대비 1.7% 감소… 정부 발표 (예상치 +1.7%)"
+  },
+  {
+    "guid": "9784508",
+    "title": "FinancialJuice: Japanese Retail Sales YoY Actual 2.7% (Forecast 3.2%, Previous 4.0%)",
+    "link": "https://www.financialjuice.com/News/9784508/Japanese-Retail-Sales-YoY-Actual-27-Forecast-32-Previous-40.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:50:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 소매판매 전년 동기 대비 실제 2.7% (예상 3.2%, 전월 4.0%)"
+  },
+  {
+    "guid": "9784507",
+    "title": "FinancialJuice: Japanese Industrial Output Prelim MoM SA Actual -1.7% (Forecast 1.3%, Previous -0.2%)",
+    "link": "https://www.financialjuice.com/News/9784507/Japanese-Industrial-Output-Prelim-MoM-SA-Actual--17-Forecast-13-Previous--02.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:50:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 산업생산 잠정치 (전월 대비, 계절 조정) 실제 -1.7% (예상 1.3%, 전월 -0.2%)"
+  },
+  {
+    "guid": "9784494",
+    "title": "FinancialJuice: USTR Greer: will consider trade deal tariff caps in setting tariffs in section 301 excess capacity probe",
+    "link": "https://www.financialjuice.com/News/9784494/USTR-Greer-will-consider-trade-deal-tariff-caps-in-setting-tariffs-in-section-301-excess-capacity-probe.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:44:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: 301조 과잉 생산 능력 조사에서 관세 책정 시 무역 협정상의 관세 상한선을 고려할 것"
+  },
+  {
+    "guid": "9784467",
+    "title": "FinancialJuice: China commerce ministry: eu states considering tougher trade actions on China use typical protectionist, unilateral measures that will disrupt stability",
+    "link": "https://www.financialjuice.com/News/9784467/China-commerce-ministry-eu-states-considering-tougher-trade-actions-on-China-use-typical-protectionist-unilateral-measures-that-will-disrupt-stability.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:08:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 상무부: 중국에 대해 더 강력한 무역 조치를 검토 중인 EU 회원국들은 안정을 해칠 전형적인 보호주의적·일방적 조치를 취하고 있다"
+  },
+  {
+    "guid": "9784466",
+    "title": "FinancialJuice: China commerce ministry: if Europe continues imposing biased limits on Chinese firms or products, China will firmly react to protect its industry interests",
+    "link": "https://www.financialjuice.com/News/9784466/China-commerce-ministry-if-Europe-continues-imposing-biased-limits-on-Chinese-firms-or-products-China-will-firmly-react-to-protect-its-industry-interests.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:07:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 중국 상무부: 유럽이 중국 기업이나 제품에 대해 편파적인 제한 조치를 계속 부과할 경우, 중국은 자국의 산업적 이익을 보호하기 위해 단호히 대응할 것"
+  },
+  {
+    "guid": "9784465",
+    "title": "FinancialJuice: Sefcovic: working for greater cooperation with US, other allies to secure supply chains, prevent weaponization of critical minerals",
+    "link": "https://www.financialjuice.com/News/9784465/Sefcovic-working-for-greater-cooperation-with-US-other-allies-to-secure-supply-chains-prevent-weaponization-of-critical-minerals.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:02:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 세프코비치: 공급망 확보 및 핵심 광물의 무기화 방지를 위해 미국 및 기타 동맹국들과의 협력 강화에 힘쓰고 있다"
+  },
+  {
+    "guid": "9784449",
+    "title": "FinancialJuice: uk vehicle output increased 5.7% yoy to 40,872 units in august: smmt",
+    "link": "https://www.financialjuice.com/News/9784449/uk-vehicle-output-increased-57-yoy-to-40872-units-in-august-smmt.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:01:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 8월 영국 자동차 생산량, 전년 동기 대비 5.7% 증가한 40,872대 기록: SMMT"
+  },
+  {
+    "guid": "9784445",
+    "title": "FinancialJuice: S. Korea August retail sales fall 1.8% month on month: stats office",
+    "link": "https://www.financialjuice.com/News/9784445/S-Korea-August-retail-sales-fall-18-month-on-month-stats-office.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 8월 소매판매, 전월 대비 1.8% 감소…통계청"
+  },
+  {
+    "guid": "9784444",
+    "title": "FinancialJuice: S.Korea Aug Industrial output falls 4.8% month-on-month, stats office",
+    "link": "https://www.financialjuice.com/News/9784444/SKorea-Aug-Industrial-output-falls-48-month-on-month-stats-office.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 8월 산업생산, 전월 대비 4.8% 감소…통계청"
+  },
+  {
+    "guid": "9784443",
+    "title": "FinancialJuice: S. Korea Aug service sector output rises 0.5% m/m: stats office",
+    "link": "https://www.financialjuice.com/News/9784443/S-Korea-Aug-service-sector-output-rises-05-mm-stats-office.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 8월 서비스업 생산, 전월 대비 0.5% 증가…통계청"
+  },
+  {
+    "guid": "9784442",
+    "title": "FinancialJuice: South Korea August industrial output falls 2.2% year on year, poll predicted 4% increase: stats office",
+    "link": "https://www.financialjuice.com/News/9784442/South-Korea-August-industrial-output-falls-22-year-on-year-poll-predicted-4-increase-stats-office.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 23:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 8월 산업생산, 전년 동월 대비 2.2% 감소…여론조사에서는 4% 증가 전망: 통계청"
+  },
+  {
+    "guid": "9784441",
+    "title": "FinancialJuice: EU trade chief Sefcovic: pushing for reforms to tackle excess industrial capacity in G20, WTO frameworks",
+    "link": "https://www.financialjuice.com/News/9784441/EU-trade-chief-Sefcovic-pushing-for-reforms-to-tackle-excess-industrial-capacity-in-G20-WTO-frameworks.aspx?xy=rss",
+    "pubDate": "Tue, 29 Sep 2026 22:58:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU 무역 담당 수석 세프코비치, G20 및 WTO 체제 내에서 산업 과잉 생산 능력 문제 해결을 위한 개혁 추진"
+  },
+  {
     "guid": "9784425",
     "title": "FinancialJuice: Senior Saudi official denies any meeting with Israeli officials",
     "link": "https://www.financialjuice.com/News/9784425/Senior-Saudi-official-denies-any-meeting-with-Israeli-officials.aspx?xy=rss",
