@@ -1,5 +1,701 @@
 [
   {
+    "guid": "9786631",
+    "title": "FinancialJuice: Australia August trade balance goods A$495 million, seasonally adjusted: poll A$2 billion",
+    "link": "https://www.financialjuice.com/News/9786631/Australia-August-trade-balance-goods-A495-million-seasonally-adjusted-poll-A2-billion.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 8월 상품 수지 4억 9,500만 호주달러(계절 조정 기준), 시장 예상치 20억 호주달러"
+  },
+  {
+    "guid": "9786630",
+    "title": "FinancialJuice: RBA: key threats to domestic financial stability stem from overseas",
+    "link": "https://www.financialjuice.com/News/9786630/RBA-key-threats-to-domestic-financial-stability-stem-from-overseas.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: RBA, “국내 금융 안정성에 대한 주요 위협 요인은 해외에서 비롯된다”"
+  },
+  {
+    "guid": "9786629",
+    "title": "FinancialJuice: RBA: increase in leveraged investors in bonds, Australian equities heightens volatility and raises risks",
+    "link": "https://www.financialjuice.com/News/9786629/RBA-increase-in-leveraged-investors-in-bonds-Australian-equities-heightens-volatility-and-raises-risks.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA): 채권 및 호주 주식 시장에서 레버리지 투자자 증가로 변동성 확대 및 위험 고조"
+  },
+  {
+    "guid": "9786628",
+    "title": "FinancialJuice: RBA: elevated asset prices and leverage leave global markets exposed to sharp correction",
+    "link": "https://www.financialjuice.com/News/9786628/RBA-elevated-asset-prices-and-leverage-leave-global-markets-exposed-to-sharp-correction.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA): 높은 자산 가격과 레버리지로 인해 글로벌 시장이 급격한 조정 위험에 노출되어 있다"
+  },
+  {
+    "guid": "9786627",
+    "title": "FinancialJuice: RBA: Private credit has expanded notably in Australia, but remains modest overall",
+    "link": "https://www.financialjuice.com/News/9786627/RBA-Private-credit-has-expanded-notably-in-Australia-but-remains-modest-overall.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA): 호주의 민간 신용은 눈에 띄게 확대되었으나, 전반적으로는 여전히 소폭에 그치고 있다"
+  },
+  {
+    "guid": "9786626",
+    "title": "FinancialJuice: RBA: proportion of owner-occupier borrowers facing cash flow shortfall remains low at about 2%",
+    "link": "https://www.financialjuice.com/News/9786626/RBA-proportion-of-owner-occupier-borrowers-facing-cash-flow-shortfall-remains-low-at-about-2.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA): 현금 유동성 부족에 직면한 자가 거주자 대출자의 비율은 약 2%로 여전히 낮은 수준을 유지하고 있다"
+  },
+  {
+    "guid": "9786625",
+    "title": "FinancialJuice: Australia aug goods exports rise 3.7% m/m, seasonally adjusted",
+    "link": "https://www.financialjuice.com/News/9786625/Australia-aug-goods-exports-rise-37-mm-seasonally-adjusted.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주의 8월 상품 수출액, 계절 조정 기준 전월 대비 3.7% 증가"
+  },
+  {
+    "guid": "9786624",
+    "title": "FinancialJuice: RBA: cash flow challenges to rise for smaller companies, energy-intensive sectors",
+    "link": "https://www.financialjuice.com/News/9786624/RBA-cash-flow-challenges-to-rise-for-smaller-companies-energy-intensive-sectors.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA), 중소기업 및 에너지 집약적 산업 분야의 현금 흐름 어려움이 가중될 전망"
+  },
+  {
+    "guid": "9786623",
+    "title": "FinancialJuice: RBA: Alternative funding globally becoming more opaque, circular, and at risk of profit disappointment",
+    "link": "https://www.financialjuice.com/News/9786623/RBA-Alternative-funding-globally-becoming-more-opaque-circular-and-at-risk-of-profit-disappointment.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: RBA: 전 세계적으로 대체 자금 조달이 점점 더 불투명해지고 순환적 성격을 띠며, 수익 기대치에 미치지 못할 위험이 커지고 있다"
+  },
+  {
+    "guid": "9786622",
+    "title": "FinancialJuice: RBA: lending standards stay firm, riskier types of credit curbed",
+    "link": "https://www.financialjuice.com/News/9786622/RBA-lending-standards-stay-firm-riskier-types-of-credit-curbed.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA), 대출 기준 엄격히 유지…위험도가 높은 대출 유형 제한"
+  },
+  {
+    "guid": "9786621",
+    "title": "FinancialJuice: RBA: Private credit not currently a risk to Australia's overall financial stability",
+    "link": "https://www.financialjuice.com/News/9786621/RBA-Private-credit-not-currently-a-risk-to-Australias-overall-financial-stability.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA): 민간 신용은 현재 호주 전체의 금융 안정성에 위협이 되지 않는다"
+  },
+  {
+    "guid": "9786618",
+    "title": "FinancialJuice: Australian Trade Balance Actual 495M (Forecast 2000M, Previous 1,923M)",
+    "link": "https://www.financialjuice.com/News/9786618/Australian-Trade-Balance-Actual-495M-Forecast-2000M-Previous-1923M.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 무역수지 실제치 495M (예상치 2000M, 전월치 1,923M)"
+  },
+  {
+    "guid": "9786606",
+    "title": "FinancialJuice: Israel's PM Netanyahu: 'we don't know yet' on possible Iranian role in incident - Fox interview",
+    "link": "https://www.financialjuice.com/News/9786606/Israels-PM-Netanyahu-we-dont-know-yet-on-possible-Iranian-role-in-incident---Fox-interview.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:14:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘 네타냐후 총리, 사건에 이란이 관여했을 가능성에 대해 “아직은 알 수 없다” - 폭스 인터뷰"
+  },
+  {
+    "guid": "9786605",
+    "title": "FinancialJuice: Israel's PM Netanyahu: Israel to take part in investigation",
+    "link": "https://www.financialjuice.com/News/9786605/Israels-PM-Netanyahu-Israel-to-take-part-in-investigation.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:13:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘 네타냐후 총리, “이스라엘이 조사에 참여할 것”"
+  },
+  {
+    "guid": "9786604",
+    "title": "FinancialJuice: Israel's PM Netanyahu: it's too soon to comment on motivation",
+    "link": "https://www.financialjuice.com/News/9786604/Israels-PM-Netanyahu-its-too-soon-to-comment-on-motivation.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:13:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘 네타냐후 총리, “동기에 대해 언급하기에는 아직 이르다”"
+  },
+  {
+    "guid": "9786595",
+    "title": "FinancialJuice: Taiwan overnight interbank rate starts at 0.805% vs 0.805% at previous session open",
+    "link": "https://www.financialjuice.com/News/9786595/Taiwan-overnight-interbank-rate-starts-at-0805-vs-0805-at-previous-session-open.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 01:00:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 대만 일일 은행간 금리, 전일 개장가 0.805%와 동일한 0.805%로 개장"
+  },
+  {
+    "guid": "9786565",
+    "title": "FinancialJuice: Taiwan s&p global September manufacturing PMI climbs to 56.7 from 54.7 in August",
+    "link": "https://www.financialjuice.com/News/9786565/Taiwan-sp-global-September-manufacturing-PMI-climbs-to-567-from-547-in-August.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 대만의 S&P 글로벌 9월 제조업 PMI가 8월의 54.7에서 56.7로 상승했다"
+  },
+  {
+    "guid": "9786564",
+    "title": "FinancialJuice: South Korea S&P Global September manufacturing PMI at 53.9 vs 52.3 in August",
+    "link": "https://www.financialjuice.com/News/9786564/South-Korea-SP-Global-September-manufacturing-PMI-at-539-vs-523-in-August.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 S&P 글로벌 9월 제조업 PMI, 53.9로 집계…8월 52.3 대비 상승"
+  },
+  {
+    "guid": "9786563",
+    "title": "FinancialJuice: Japan S&P Global final manufacturing PMI for September steady at 54.1 versus flash estimate",
+    "link": "https://www.financialjuice.com/News/9786563/Japan-SP-Global-final-manufacturing-PMI-for-September-steady-at-541-versus-flash-estimate.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 S&P 글로벌 9월 최종 제조업 PMI, 속보치와 동일한 54.1을 기록"
+  },
+  {
+    "guid": "9786562",
+    "title": "FinancialJuice: S. Korean Manufacturing PMI Actual 53.9 (Forecast -, Previous 52.3)",
+    "link": "https://www.financialjuice.com/News/9786562/S-Korean-Manufacturing-PMI-Actual-539-Forecast---Previous-523.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 제조업 PMI 실제치 53.9 (예상치 -, 전월치 52.3)"
+  },
+  {
+    "guid": "9786561",
+    "title": "FinancialJuice: Japanese Mfg PMI Actual 54.1 (Forecast -, Previous 54.1)",
+    "link": "https://www.financialjuice.com/News/9786561/Japanese-Mfg-PMI-Actual-541-Forecast---Previous-541.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 제조업 PMI 실적이 54.1을 기록했습니다 (예상 -, 이전 54.1)."
+  },
+  {
+    "guid": "9786548",
+    "title": "FinancialJuice: U.S. official: Secretary Rubio kicked out the Iranian delegation who had over stayed their welcome. The UN general assembly was over, so it was time for them to go - Axios Reporter on X",
+    "link": "https://www.financialjuice.com/News/9786548/US-official-Secretary-Rubio-kicked-out-the-Iranian-delegation-who-had-over-stayed-their-welcome-The-UN-general-assembly-was-over-so-it-was-time-for-them-to-go---Axios-Reporter-on-X.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:14:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 관계자: 루비오 장관이 체류 기간을 초과한 이란 대표단을 쫓아냈다. 유엔 총회가 끝났으므로 이제 그들이 떠날 때가 된 것이다 - X의 Axios 기자"
+  },
+  {
+    "guid": "9786547",
+    "title": "FinancialJuice: BOJ summary: one member noted private consumption has stayed subdued, increase in services prices largely stable recently",
+    "link": "https://www.financialjuice.com/News/9786547/BOJ-summary-one-member-noted-private-consumption-has-stayed-subdued-increase-in-services-prices-largely-stable-recently.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:01:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 회의 요약: 한 위원은 민간 소비가 여전히 부진한 상태를 유지하고 있으며, 최근 서비스 가격 상승세는 대체로 안정적인 양상을 보이고 있다고 언급했다."
+  },
+  {
+    "guid": "9786546",
+    "title": "FinancialJuice: BOJ summary: one member says central bank must consider price outlook amid possibility of sustained high crude oil prices",
+    "link": "https://www.financialjuice.com/News/9786546/BOJ-summary-one-member-says-central-bank-must-consider-price-outlook-amid-possibility-of-sustained-high-crude-oil-prices.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:01:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 회의 요약: 한 위원은 원유 가격이 장기간 고공행진을 이어갈 가능성이 있는 만큼 중앙은행이 물가 전망을 고려해야 한다고 밝혔다"
+  },
+  {
+    "guid": "9786537",
+    "title": "FinancialJuice: BOJ summary: one member said upside risks to prices remain elevated",
+    "link": "https://www.financialjuice.com/News/9786537/BOJ-summary-one-member-said-upside-risks-to-prices-remain-elevated.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:01:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 회의 요약: 한 위원은 물가 상승 위험이 여전히 높은 수준이라고 언급했다"
+  },
+  {
+    "guid": "9786534",
+    "title": "FinancialJuice: BoJ summary: one member said core inflation has generally hit 2%",
+    "link": "https://www.financialjuice.com/News/9786534/BoJ-summary-one-member-said-core-inflation-has-generally-hit-2.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:00:55 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BoJ) 회의 요약: 한 위원은 핵심 인플레이션이 대체로 2%에 도달했다고 언급했다"
+  },
+  {
+    "guid": "9786533",
+    "title": "FinancialJuice: BOJ summary: one member said underlying inflation is close to 2%, focus of policy should be anchoring it at that level and monitoring price moves, subsequent development",
+    "link": "https://www.financialjuice.com/News/9786533/BOJ-summary-one-member-said-underlying-inflation-is-close-to-2-focus-of-policy-should-be-anchoring-it-at-that-level-and-monitoring-price-moves-subsequent-development.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:00:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 회의 요약: 한 위원은 기초 인플레이션이 2%에 근접해 있다며, 정책의 초점은 이를 해당 수준에 고정하고 물가 동향을 주시하는 데 두어야 한다고 밝혔으며, 향후 전개 상황을 지켜봐야 한다고 덧붙였다."
+  },
+  {
+    "guid": "9786524",
+    "title": "FinancialJuice: S.Korea September imports rise 26% y/y, ahead of forecast 21.5%",
+    "link": "https://www.financialjuice.com/News/9786524/SKorea-September-imports-rise-26-yy-ahead-of-forecast-215.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 9월 수입, 전년 동기 대비 26% 증가…예상치 21.5% 상회"
+  },
+  {
+    "guid": "9786523",
+    "title": "FinancialJuice: S.Korea September exports rise 83.5% y/y, beat poll of 62.0%: customs data",
+    "link": "https://www.financialjuice.com/News/9786523/SKorea-September-exports-rise-835-yy-beat-poll-of-620-customs-data.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 9월 수출, 전년 동기 대비 83.5% 증가…예상치 62.0% 상회: 관세청 자료"
+  },
+  {
+    "guid": "9786522",
+    "title": "FinancialJuice: S. Korea Sept trade surplus provisional $49.85 billion vs $34.79 billion in Aug",
+    "link": "https://www.financialjuice.com/News/9786522/S-Korea-Sept-trade-surplus-provisional-4985-billion-vs-3479-billion-in-Aug.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국의 9월 무역수지 잠정치는 498억 5천만 달러로, 8월의 347억 9천만 달러 대비 증가했다."
+  },
+  {
+    "guid": "9786521",
+    "title": "FinancialJuice: S.Korea September average exports per working day rise 104.9% y/y",
+    "link": "https://www.financialjuice.com/News/9786521/SKorea-September-average-exports-per-working-day-rise-1049-yy.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 9월 근무일 기준 평균 수출액, 전년 동기 대비 104.9% 증가"
+  },
+  {
+    "guid": "9786520",
+    "title": "FinancialJuice: S.Korea September exports reach monthly record high",
+    "link": "https://www.financialjuice.com/News/9786520/SKorea-September-exports-reach-monthly-record-high.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 9월 수출, 월간 사상 최고치 기록"
+  },
+  {
+    "guid": "9786519",
+    "title": "FinancialJuice: S.Korea September chip shipments hit record high",
+    "link": "https://www.financialjuice.com/News/9786519/SKorea-September-chip-shipments-hit-record-high.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:00:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 9월 반도체 출하량 사상 최고치 기록"
+  },
+  {
+    "guid": "9786518",
+    "title": "FinancialJuice: S. Korean Exports Prelim Actual 83.5% (Forecast 62.5%, Previous 68.7%)",
+    "link": "https://www.financialjuice.com/News/9786518/S-Korean-Exports-Prelim-Actual-835-Forecast-625-Previous-687.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 수출 잠정치 83.5% (예상치 62.5%, 전월치 68.7%)"
+  },
+  {
+    "guid": "9786517",
+    "title": "FinancialJuice: S. Korean Imports Prelim Actual 26% (Forecast 21%, Previous 22.4%)",
+    "link": "https://www.financialjuice.com/News/9786517/S-Korean-Imports-Prelim-Actual-26-Forecast-21-Previous-224.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 수입, 잠정치 26% (예상치 21%, 전월치 22.4%)"
+  },
+  {
+    "guid": "9786516",
+    "title": "FinancialJuice: S. Korean Trade Balance Prelim Actual 49.852B (Forecast 38.9B, Previous 34.79B)",
+    "link": "https://www.financialjuice.com/News/9786516/S-Korean-Trade-Balance-Prelim-Actual-49852B-Forecast-389B-Previous-3479B.aspx?xy=rss",
+    "pubDate": "Thu, 01 Oct 2026 00:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 무역수지 잠정치 498억 5,200만 (예상치 389억, 전월치 347억 9,000만)"
+  },
+  {
+    "guid": "9786515",
+    "title": "FinancialJuice: BOJ summary: one member noted significant shift in Japan's financial conditions with rising upward price pressures becoming more apparent over recent months",
+    "link": "https://www.financialjuice.com/News/9786515/BOJ-summary-one-member-noted-significant-shift-in-Japans-financial-conditions-with-rising-upward-price-pressures-becoming-more-apparent-over-recent-months.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:59:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 회의 요약: 한 위원은 최근 몇 달간 물가 상승 압력이 더욱 뚜렷해지면서 일본의 금융 여건에 상당한 변화가 있었다고 언급했다."
+  },
+  {
+    "guid": "9786513",
+    "title": "FinancialJuice: BOJ summary: one member noted somewhat weak Q2 GDP data attributed to technical factors",
+    "link": "https://www.financialjuice.com/News/9786513/BOJ-summary-one-member-noted-somewhat-weak-Q2-GDP-data-attributed-to-technical-factors.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:58:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 회의 요약: 한 위원은 2분기 GDP 지표가 다소 부진한 데는 기술적 요인이 작용했다고 언급했다"
+  },
+  {
+    "guid": "9786512",
+    "title": "FinancialJuice: BOJ summary: Cabinet office rep says govt expects central bank to conduct monetary policy appropriately to stably achieve price target while closely cooperating with govt",
+    "link": "https://www.financialjuice.com/News/9786512/BOJ-summary-Cabinet-office-rep-says-govt-expects-central-bank-to-conduct-monetary-policy-appropriately-to-stably-achieve-price-target-while-closely-cooperating-with-govt.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:57:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 요약: 내각부 관계자는 정부가 일본은행이 정부와 긴밀히 협력하면서 물가 목표를 안정적으로 달성할 수 있도록 적절한 통화 정책을 수행할 것으로 기대한다고 밝혔다."
+  },
+  {
+    "guid": "9786511",
+    "title": "FinancialJuice: BOJ summary: cabinet office rep says central bank must take proactive, appropriate measures during excessive economic or market fluctuations",
+    "link": "https://www.financialjuice.com/News/9786511/BOJ-summary-cabinet-office-rep-says-central-bank-must-take-proactive-appropriate-measures-during-excessive-economic-or-market-fluctuations.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:57:31 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 요약: 내각부 관계자는 경제나 시장이 과도하게 변동할 경우 중앙은행이 선제적이고 적절한 조치를 취해야 한다고 밝혔다."
+  },
+  {
+    "guid": "9786510",
+    "title": "FinancialJuice: BoJ summary: Cabinet office rep says BoJ may need to consider its neutral rate estimates",
+    "link": "https://www.financialjuice.com/News/9786510/BoJ-summary-Cabinet-office-rep-says-BoJ-may-need-to-consider-its-neutral-rate-estimates.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:57:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 요약: 내각부 관계자는 일본은행이 중립 금리 추정치를 재검토해야 할 수도 있다고 밝혔다"
+  },
+  {
+    "guid": "9786509",
+    "title": "FinancialJuice: BOJ summary: cabinet office rep says govt expects central bank to uphold accountability, carefully assess cumulative impact of previous rate increases",
+    "link": "https://www.financialjuice.com/News/9786509/BOJ-summary-cabinet-office-rep-says-govt-expects-central-bank-to-uphold-accountability-carefully-assess-cumulative-impact-of-previous-rate-increases.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:56:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 요약: 내각부 관계자는 정부가 중앙은행이 책임을 다하고, 이전 금리 인상의 누적적 영향을 신중하게 평가할 것으로 기대한다고 밝혔다."
+  },
+  {
+    "guid": "9786508",
+    "title": "FinancialJuice: BOJ summary: one member says financial conditions continue to be accommodative",
+    "link": "https://www.financialjuice.com/News/9786508/BOJ-summary-one-member-says-financial-conditions-continue-to-be-accommodative.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:55:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 회의 요약: 한 위원은 금융 여건이 여전히 완화적이라고 언급했다"
+  },
+  {
+    "guid": "9786507",
+    "title": "FinancialJuice: BOJ summary: one member said most firms report impact of past and further rate hikes likely limited",
+    "link": "https://www.financialjuice.com/News/9786507/BOJ-summary-one-member-said-most-firms-report-impact-of-past-and-further-rate-hikes-likely-limited.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:55:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 요약: 한 위원은 대다수의 기업들이 과거 금리 인상과 향후 추가 금리 인상의 영향이 제한적일 것으로 보고 있다고 언급했다"
+  },
+  {
+    "guid": "9786506",
+    "title": "FinancialJuice: BOJ summary: one member said chance terminal rate could exceed estimated range, market expectations, depending on overseas developments",
+    "link": "https://www.financialjuice.com/News/9786506/BOJ-summary-one-member-said-chance-terminal-rate-could-exceed-estimated-range-market-expectations-depending-on-overseas-developments.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:54:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 회의 요약: 한 위원은 해외 정세에 따라 최종 금리가 예상 범위나 시장 기대치를 넘어설 가능성도 있다고 언급했다."
+  },
+  {
+    "guid": "9786505",
+    "title": "FinancialJuice: BOJ summary: one member said central bank shouldn't be overly cautious in raising rates given significant upside risks to inflation",
+    "link": "https://www.financialjuice.com/News/9786505/BOJ-summary-one-member-said-central-bank-shouldnt-be-overly-cautious-in-raising-rates-given-significant-upside-risks-to-inflation.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:54:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 회의 요약: 한 위원은 인플레이션에 대한 상당한 상방 리스크가 존재하는 만큼, 중앙은행이 금리 인상에서 지나치게 신중한 태도를 취해서는 안 된다고 밝혔다."
+  },
+  {
+    "guid": "9786504",
+    "title": "FinancialJuice: BoJ summary: one member said no need to rush raising rates but must guide policy properly as underlying inflation likely to hit 2% soon",
+    "link": "https://www.financialjuice.com/News/9786504/BoJ-summary-one-member-said-no-need-to-rush-raising-rates-but-must-guide-policy-properly-as-underlying-inflation-likely-to-hit-2-soon.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:53:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BoJ) 회의 요약: 한 위원은 금리 인상을 서두를 필요는 없지만, 기저 인플레이션이 조만간 2%에 도달할 것으로 예상되므로 통화정책을 적절히 안내해야 한다고 밝혔다."
+  },
+  {
+    "guid": "9786503",
+    "title": "FinancialJuice: BOJ summary: one member said central bank must raise rates early to terminal to respond swiftly to unexpected economic, price changes",
+    "link": "https://www.financialjuice.com/News/9786503/BOJ-summary-one-member-said-central-bank-must-raise-rates-early-to-terminal-to-respond-swiftly-to-unexpected-economic-price-changes.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:53:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 회의 요약: 한 위원은 예상치 못한 경제 및 물가 변동에 신속하게 대응하기 위해 중앙은행이 조기에 금리를 인상해 최종 금리 수준에 도달해야 한다고 말했다."
+  },
+  {
+    "guid": "9786502",
+    "title": "FinancialJuice: BOJ: big manufacturers' sentiment index rises for 6 straight quarters, reaches highest level since March 2018",
+    "link": "https://www.financialjuice.com/News/9786502/BOJ-big-manufacturers-sentiment-index-rises-for-6-straight-quarters-reaches-highest-level-since-March-2018.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:52:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행(BOJ): 대형 제조업체 경기심리지수, 6분기 연속 상승… 2018년 3월 이후 최고치 기록"
+  },
+  {
+    "guid": "9786501",
+    "title": "FinancialJuice: BoJ summary: one member said central bank must accelerate rate increases if inflation exceeds target",
+    "link": "https://www.financialjuice.com/News/9786501/BoJ-summary-one-member-said-central-bank-must-accelerate-rate-increases-if-inflation-exceeds-target.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:52:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BoJ) 회의 요약: 한 위원은 인플레이션이 목표치를 초과할 경우 중앙은행이 금리 인상을 가속화해야 한다고 밝혔다"
+  },
+  {
+    "guid": "9786500",
+    "title": "FinancialJuice: BoJ summary: one member said BoJ must act nimbly, show market determination to prevent inflation overshoot and consider impact on FX market",
+    "link": "https://www.financialjuice.com/News/9786500/BoJ-summary-one-member-said-BoJ-must-act-nimbly-show-market-determination-to-prevent-inflation-overshoot-and-consider-impact-on-FX-market.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:52:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BoJ) 회의 요약: 한 위원은 일본은행이 인플레이션이 목표치를 초과하는 것을 방지하기 위해 민첩하게 대응하고 시장에 단호한 의지를 보여야 하며, 외환 시장에 미칠 영향도 고려해야 한다고 밝혔다."
+  },
+  {
+    "guid": "9786499",
+    "title": "FinancialJuice: BOJ summary: one member says policy phase shifted, focus must be on anchoring underlying inflation near 2%",
+    "link": "https://www.financialjuice.com/News/9786499/BOJ-summary-one-member-says-policy-phase-shifted-focus-must-be-on-anchoring-underlying-inflation-near-2.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:51:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 회의 요약: 한 위원은 정책 단계가 전환되었다며, 기저 인플레이션을 2% 부근에 안정시키는 데 초점을 맞춰야 한다고 밝혔다"
+  },
+  {
+    "guid": "9786498",
+    "title": "FinancialJuice: BOJ Sept summary of opinions: one member said appropriate to keep raising rates in line with economy, price, financial developments",
+    "link": "https://www.financialjuice.com/News/9786498/BOJ-Sept-summary-of-opinions-one-member-said-appropriate-to-keep-raising-rates-in-line-with-economy-price-financial-developments.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:51:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행(BOJ) 9월 의견 요약: 한 위원은 경제, 물가, 금융 동향에 발맞춰 금리 인상을 지속하는 것이 적절하다고 밝혔다"
+  },
+  {
+    "guid": "9786482",
+    "title": "FinancialJuice: Foreign Investment Japanese Stocks Actual -362.0B (Forecast -, Previous -1,522.8B)",
+    "link": "https://www.financialjuice.com/News/9786482/Foreign-Investment-Japanese-Stocks-Actual--3620B-Forecast---Previous--15228B.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 주식 외국인 투자 실적이 -3,620억 (예상 -, 이전 -1,522.8B)"
+  },
+  {
+    "guid": "9786481",
+    "title": "FinancialJuice: Japanese Foreign Bond Investment Actual -684.5B (Forecast -, Previous 1,082.9B)",
+    "link": "https://www.financialjuice.com/News/9786481/Japanese-Foreign-Bond-Investment-Actual--6845B-Forecast---Previous-10829B.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:41 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 일본의 해외 채권 투자 실적 -6,845억 (예상 -, 이전 1,082.9B)"
+  },
+  {
+    "guid": "9786497",
+    "title": "FinancialJuice: Japanese Foreign Stock Investment Actual 225.8B (Forecast -, Previous 169.2B)",
+    "link": "https://www.financialjuice.com/News/9786497/Japanese-Foreign-Stock-Investment-Actual-2258B-Forecast---Previous-1692B.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 해외 주식 투자 실적이 2,258억을 기록 (예상 -, 이전 1,692억)"
+  },
+  {
+    "guid": "9786496",
+    "title": "FinancialJuice: Foreign Investment Japanese Bonds Actual -1341.8B (Forecast -, Previous 2,236.2B)",
+    "link": "https://www.financialjuice.com/News/9786496/Foreign-Investment-Japanese-Bonds-Actual--13418B-Forecast---Previous-22362B.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 국채 외국인 투자 실적이 -1,341.8B를 기록했습니다 (예상 -, 전월 2,236.2B)."
+  },
+  {
+    "guid": "9786495",
+    "title": "FinancialJuice: BOJ Tankan: Japan small firms forecast FY2026/27 capex decline 4.7% (Poll -4.9%)",
+    "link": "https://www.financialjuice.com/News/9786495/BOJ-Tankan-Japan-small-firms-forecast-FY202627-capex-decline-47-Poll--49.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행 탄칸 조사: 일본 중소기업들, 2026/27 회계연도 설비투자 4.7% 감소 전망 (설문조사 결과 -4.9%)"
+  },
+  {
+    "guid": "9786494",
+    "title": "FinancialJuice: boj tankan: japan all firms project euro averaging 177.86 yen for fy2026/27",
+    "link": "https://www.financialjuice.com/News/9786494/boj-tankan-japan-all-firms-project-euro-averaging-17786-yen-for-fy202627.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행 탄칸: 일본 기업들, 2026/27 회계연도 유로화 평균 환율을 177.86엔으로 전망"
+  },
+  {
+    "guid": "9786493",
+    "title": "FinancialJuice: Boj Tankan: Sept big manufacturers' production capacity index falls to -2 from June 0",
+    "link": "https://www.financialjuice.com/News/9786493/Boj-Tankan-Sept-big-manufacturers-production-capacity-index-falls-to--2-from-June-0.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행 탄칸 조사: 9월 대형 제조업체 생산능력 지수가 6월의 0에서 -2로 하락"
+  },
+  {
+    "guid": "9786492",
+    "title": "FinancialJuice: BOJ Tankan: Sept all firms financial condition index steady at +11 vs June +11",
+    "link": "https://www.financialjuice.com/News/9786492/BOJ-Tankan-Sept-all-firms-financial-condition-index-steady-at-11-vs-June-11.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행 탄칸: 9월 모든 기업의 재무 상황 지수, 6월 +11과 동일한 +11을 기록"
+  },
+  {
+    "guid": "9786491",
+    "title": "FinancialJuice: Boj tankan: Japan companies forecast consumer prices to increase 2.6% annually in 3 years vs 2.6% in prior survey",
+    "link": "https://www.financialjuice.com/News/9786491/Boj-tankan-Japan-companies-forecast-consumer-prices-to-increase-26-annually-in-3-years-vs-26-in-prior-survey.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행 탄칸: 일본 기업들, 3년 후 소비자 물가 상승률을 연 2.6%로 전망…이전 조사에서는 2.6%로 예상"
+  },
+  {
+    "guid": "9786490",
+    "title": "FinancialJuice: boj tankan: japan all firms expect dollar to average 154.23 yen in fy2026/27",
+    "link": "https://www.financialjuice.com/News/9786490/boj-tankan-japan-all-firms-expect-dollar-to-average-15423-yen-in-fy202627.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행 탄칸: 일본 기업들, 2026/27 회계연도 달러/엔 환율 평균 154.23엔 전망"
+  },
+  {
+    "guid": "9786489",
+    "title": "FinancialJuice: Boj tankan: Japan big firms expect FY2026/27 capex up 11.3% (Poll: 12.3%)",
+    "link": "https://www.financialjuice.com/News/9786489/Boj-tankan-Japan-big-firms-expect-FY202627-capex-up-113-Poll-123.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행 탄칸 조사: 일본 대기업들, 2026/27 회계연도 설비투자 11.3% 증가 전망 (설문조사: 12.3%)"
+  },
+  {
+    "guid": "9786488",
+    "title": "FinancialJuice: boj sept tankan corporate price outlook: japan firms foresee consumer prices up 2.6% in a year vs 2.7% prior",
+    "link": "https://www.financialjuice.com/News/9786488/boj-sept-tankan-corporate-price-outlook-japan-firms-foresee-consumer-prices-up-26-in-a-year-vs-27-prior.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 9월 일본은행(BOJ) 기업 물가 전망 조사: 일본 기업들, 1년 후 소비자 물가 상승률을 이전 전망치 2.7%에서 2.6%로 하향 조정"
+  },
+  {
+    "guid": "9786487",
+    "title": "FinancialJuice: oj tankan: japan big manufacturers forecast dollar averaging 153.79 yen for fy2026/27",
+    "link": "https://www.financialjuice.com/News/9786487/oj-tankan-japan-big-manufacturers-forecast-dollar-averaging-15379-yen-for-fy202627.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 오지 탄칸: 일본 대형 제조업체들, 2026/27 회계연도 달러/엔 환율 평균 153.79엔 전망"
+  },
+  {
+    "guid": "9786486",
+    "title": "FinancialJuice: boj tankan: japan major manufacturers expect fy2026/27 recurring profits to rise 13.6%",
+    "link": "https://www.financialjuice.com/News/9786486/boj-tankan-japan-major-manufacturers-expect-fy202627-recurring-profits-to-rise-136.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행 탄칸: 일본 주요 제조업체들, 2026/27 회계연도 경상이익 13.6% 증가 전망"
+  },
+  {
+    "guid": "9786485",
+    "title": "FinancialJuice: BoJ Tankan: September all-firms employment index at -38",
+    "link": "https://www.financialjuice.com/News/9786485/BoJ-Tankan-September-all-firms-employment-index-at--38.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본은행 탄칸: 9월 전체 기업 고용 지수 -38"
+  },
+  {
+    "guid": "9786483",
+    "title": "FinancialJuice: Japanese Tankan Big Mfg Index Actual 24 (Forecast 25, Previous 22)",
+    "link": "https://www.financialjuice.com/News/9786483/Japanese-Tankan-Big-Mfg-Index-Actual-24-Forecast-25-Previous-22.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 탄칸(Tankan) 대형 제조업 지수 실제치 24 (예상치 25, 전월치 22)"
+  },
+  {
+    "guid": "9786480",
+    "title": "FinancialJuice: Japanese Tankan Big Non-Mfg Index Actual 35 (Forecast 36, Previous 37)",
+    "link": "https://www.financialjuice.com/News/9786480/Japanese-Tankan-Big-Non-Mfg-Index-Actual-35-Forecast-36-Previous-37.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:50:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 탄칸 비제조업 지수, 실제 35 (예상 36, 전월 37)"
+  },
+  {
+    "guid": "9786464",
+    "title": "FinancialJuice: Colombia's autonomous fiscal rule committee forecasts GDP growth of 2.5% in 2026 and 1.8% in 2027 - report",
+    "link": "https://www.financialjuice.com/News/9786464/Colombias-autonomous-fiscal-rule-committee-forecasts-GDP-growth-of-25-in-2026-and-18-in-2027---report.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:42:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 콜롬비아의 자율 재정 규칙 위원회, 2026년 GDP 성장률 2.5%, 2027년 1.8% 전망 - 보도에 따르면"
+  },
+  {
+    "guid": "9786463",
+    "title": "FinancialJuice: Fed's Kashkari: can't second-guess how market investment occurs",
+    "link": "https://www.financialjuice.com/News/9786463/Feds-Kashkari-cant-second-guess-how-market-investment-occurs.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:42:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “시장 투자가 어떻게 이루어지는지 사후적으로 판단할 수는 없다”"
+  },
+  {
+    "guid": "9786462",
+    "title": "FinancialJuice: Colombia's autonomous fiscal rule committee sees 7.8% GDP deficit for 2026, 9.5% for 2027: report",
+    "link": "https://www.financialjuice.com/News/9786462/Colombias-autonomous-fiscal-rule-committee-sees-78-GDP-deficit-for-2026-95-for-2027-report.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:42:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 콜롬비아의 자율 재정 규칙 위원회, 2026년 GDP 대비 재정 적자 7.8%, 2027년 9.5% 전망: 보도에 따르면"
+  },
+  {
+    "guid": "9786461",
+    "title": "FinancialJuice: S.Korea finance minister: will closely watch financial markets, take pre-emptive steps if necessary",
+    "link": "https://www.financialjuice.com/News/9786461/SKorea-finance-minister-will-closely-watch-financial-markets-take-pre-emptive-steps-if-necessary.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:36:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 한국 재무부 장관, “금융시장을 면밀히 주시하며, 필요시 선제적 조치를 취할 것”"
+  },
+  {
+    "guid": "9786449",
+    "title": "FinancialJuice: Meta names Dhruv Vohra managing director of global business group in Southeast Asia",
+    "link": "https://www.financialjuice.com/News/9786449/Meta-names-Dhruv-Vohra-managing-director-of-global-business-group-in-Southeast-Asia.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:16:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 메타, 드루브 보흐라를 동남아시아 글로벌 비즈니스 그룹 대표이사로 임명"
+  },
+  {
+    "guid": "9786445",
+    "title": "FinancialJuice: Skyworks extends expiration date of exchange offers for Gorvo’s senior notes due 2029 and 2031",
+    "link": "https://www.financialjuice.com/News/9786445/Skyworks-extends-expiration-date-of-exchange-offers-for-Gorvos-senior-notes-due-2029-and-2031.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:11:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스카이웍스, 2029년 및 2031년 만기 고르보(Gorvo) 선순위 사채에 대한 교환 제안 만기일 연장"
+  },
+  {
+    "guid": "9786437",
+    "title": "FinancialJuice: Australian Manufacturing PMI Final Actual 49.6 (Forecast -, Previous 49.3)",
+    "link": "https://www.financialjuice.com/News/9786437/Australian-Manufacturing-PMI-Final-Actual-496-Forecast---Previous-493.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 23:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 호주 제조업 PMI 최종치 49.6 (예상치 -, 이전치 49.3)"
+  },
+  {
+    "guid": "9786433",
+    "title": "FinancialJuice: Fed's Kashkari: keen to see outcomes from central bank task forces",
+    "link": "https://www.financialjuice.com/News/9786433/Feds-Kashkari-keen-to-see-outcomes-from-central-bank-task-forces.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:58:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, 중앙은행 태스크포스의 성과 기대"
+  },
+  {
+    "guid": "9786429",
+    "title": "FinancialJuice: Size of Fed balance sheet is a complex issue:",
+    "link": "https://www.financialjuice.com/News/9786429/Size-of-Fed-balance-sheet-is-a-complex-issue.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:53:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 대차대조표 규모는 복잡한 문제입니다:"
+  },
+  {
+    "guid": "9786428",
+    "title": "FinancialJuice: Fed's Kashkari: skepticism over a.i. investment as systemic risk",
+    "link": "https://www.financialjuice.com/News/9786428/Feds-Kashkari-skepticism-over-ai-investment-as-systemic-risk.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:53:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, AI 투자가 시스템적 위험이 될 수 있다는 데 회의적"
+  },
+  {
+    "guid": "9786427",
+    "title": "FinancialJuice: Labor market looks strong, not showing signs of weakening",
+    "link": "https://www.financialjuice.com/News/9786427/Labor-market-looks-strong-not-showing-signs-of-weakening.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:53:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 노동시장이 견조한 모습을 보이고 있으며, 약화될 조짐은 보이지 않는다"
+  },
+  {
+    "guid": "9786426",
+    "title": "FinancialJuice: Fed's Kashkari: labor market appears strong and shows no signs of weakening",
+    "link": "https://www.financialjuice.com/News/9786426/Feds-Kashkari-labor-market-appears-strong-and-shows-no-signs-of-weakening.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:49:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, “노동 시장은 견조해 보이며 약화될 조짐은 보이지 않는다”"
+  },
+  {
+    "guid": "9786424",
+    "title": "FinancialJuice: Fed's Kashkari: modest fed rate hike range unlikely to curb hyperscaler investment much",
+    "link": "https://www.financialjuice.com/News/9786424/Feds-Kashkari-modest-fed-rate-hike-range-unlikely-to-curb-hyperscaler-investment-much.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:47:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “소폭의 금리 인상폭으로는 하이퍼스케일러의 투자를 크게 억제하기 어려울 것”"
+  },
+  {
+    "guid": "9786412",
+    "title": "FinancialJuice: Fed's Kashkari: can't second-guess market investment decisions",
+    "link": "https://www.financialjuice.com/News/9786412/Feds-Kashkari-cant-second-guess-market-investment-decisions.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:45:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “시장의 투자 결정을 섣불리 비판할 수 없다”"
+  },
+  {
+    "guid": "9786410",
+    "title": "FinancialJuice: Fed's Kashkari: unaware of any reconsideration of Fed swap lines",
+    "link": "https://www.financialjuice.com/News/9786410/Feds-Kashkari-unaware-of-any-reconsideration-of-Fed-swap-lines.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:42:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리, 연준 스왑 라인 재검토에 대해 아는 바 없다"
+  },
+  {
+    "guid": "9786408",
+    "title": "FinancialJuice: Fed's Kashkari: swap lines are part of monetary policy implementation",
+    "link": "https://www.financialjuice.com/News/9786408/Feds-Kashkari-swap-lines-are-part-of-monetary-policy-implementation.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:41:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “스왑 라인은 통화 정책 실행의 일환”"
+  },
+  {
+    "guid": "9786406",
+    "title": "FinancialJuice: Fed's Kashkari: increase in bond yields is a worldwide trend",
+    "link": "https://www.financialjuice.com/News/9786406/Feds-Kashkari-increase-in-bond-yields-is-a-worldwide-trend.aspx?xy=rss",
+    "pubDate": "Wed, 30 Sep 2026 22:38:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 카슈카리 “채권 수익률 상승은 전 세계적인 추세”"
+  },
+  {
     "guid": "9786401",
     "title": "FinancialJuice: Fed's Kashkari: entirely fair to reconsider balance sheet approach",
     "link": "https://www.financialjuice.com/News/9786401/Feds-Kashkari-entirely-fair-to-reconsider-balance-sheet-approach.aspx?xy=rss",
