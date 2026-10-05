@@ -1,5 +1,621 @@
 [
   {
+    "guid": "9791774",
+    "title": "FinancialJuice: German labor union demands 6% pay raise from private banks",
+    "link": "https://www.financialjuice.com/News/9791774/German-labor-union-demands-6-pay-raise-from-private-banks.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 11:22:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 노동조합, 민간 은행에 6% 임금 인상을 요구"
+  },
+  {
+    "guid": "9791766",
+    "title": "FinancialJuice: UK's PM Spokesman Wells: Lutnick attending UK roundtable in Downing Street Monday.",
+    "link": "https://www.financialjuice.com/News/9791766/UKs-PM-Spokesman-Wells-Lutnick-attending-UK-roundtable-in-Downing-Street-Monday.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 11:15:13 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 총리실 대변인 웰스: 루트닉, 월요일 다우닝가에서 열리는 영국 원탁회의에 참석한다."
+  },
+  {
+    "guid": "9791765",
+    "title": "FinancialJuice: US Commerce Secretary Lutnick to meet UK government business advisor and CEOs",
+    "link": "https://www.financialjuice.com/News/9791765/US-Commerce-Secretary-Lutnick-to-meet-UK-government-business-advisor-and-CEOs.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 11:14:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 루트닉 미국 상무장관, 영국 정부 비즈니스 고문 및 CEO들과 회동 예정"
+  },
+  {
+    "guid": "9791763",
+    "title": "FinancialJuice: US ambassador to China: Trump is as strong on Taiwan as ever seen",
+    "link": "https://www.financialjuice.com/News/9791763/US-ambassador-to-China-Trump-is-as-strong-on-Taiwan-as-ever-seen.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 11:02:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 주중 미국 대사 “트럼프 대통령은 대만 문제에 있어 그 어느 때보다 단호한 입장을 보이고 있다”"
+  },
+  {
+    "guid": "9791740",
+    "title": "FinancialJuice: Altman expects calls for guardrails will continue -Politico",
+    "link": "https://www.financialjuice.com/News/9791740/Altman-expects-calls-for-guardrails-will-continue--Politico.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 10:59:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 알트먼, 규제 장치의 필요성에 대한 요구가 계속될 것으로 전망 - Politico"
+  },
+  {
+    "guid": "9791695",
+    "title": "FinancialJuice: UKMTO: Tanker transiting through the strait was hailed by IRGC and instructed to turn back, or it would be targeted",
+    "link": "https://www.financialjuice.com/News/9791695/UKMTO-Tanker-transiting-through-the-strait-was-hailed-by-IRGC-and-instructed-to-turn-back-or-it-would-be-targeted.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 10:27:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: UKMTO: 해협을 통과하던 유조선이 이란 혁명수비대(IRGC)로부터 연락을 받고 되돌아가라는 지시를 받았으며, 그렇지 않을 경우 공격 대상이 될 것이라고 경고받았다."
+  },
+  {
+    "guid": "9791693",
+    "title": "FinancialJuice: UKMTO: Received report of incident 11nm north of Oman's Khasab",
+    "link": "https://www.financialjuice.com/News/9791693/UKMTO-Received-report-of-incident-11nm-north-of-Omans-Khasab.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 10:27:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: UKMTO: 오만 카사브 북쪽 11해리 지점에서 발생한 사건에 대한 보고 접수"
+  },
+  {
+    "guid": "9791692",
+    "title": "FinancialJuice: EU Commission spokesperson: We are heading towards a very difficult winter in terms of energy prices",
+    "link": "https://www.financialjuice.com/News/9791692/EU-Commission-spokesperson-We-are-heading-towards-a-very-difficult-winter-in-terms-of-energy-prices.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 10:26:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU 집행위원회 대변인: 에너지 가격 측면에서 매우 힘든 겨울이 다가오고 있다"
+  },
+  {
+    "guid": "9791691",
+    "title": "FinancialJuice: EU Commission spokesperson: decision to release stocks will impact oil prices for member states positively",
+    "link": "https://www.financialjuice.com/News/9791691/EU-Commission-spokesperson-decision-to-release-stocks-will-impact-oil-prices-for-member-states-positively.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 10:26:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU 집행위원회 대변인: 비축유 방출 결정이 회원국들의 유가에 긍정적인 영향을 미칠 것"
+  },
+  {
+    "guid": "9791669",
+    "title": "FinancialJuice: Yemen's armed forces: Began 'strategic offensive’ in Sanaa",
+    "link": "https://www.financialjuice.com/News/9791669/Yemens-armed-forces-Began-strategic-offensive-in-Sanaa.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 10:03:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 예멘 군, 사나에서 ‘전략적 공세’ 개시"
+  },
+  {
+    "guid": "9791639",
+    "title": "FinancialJuice: Yemeni government forces launch attacks on Houthis from three fronts in the north, west, and south of Yemen - Military sources",
+    "link": "https://www.financialjuice.com/News/9791639/Yemeni-government-forces-launch-attacks-on-Houthis-from-three-fronts-in-the-north-west-and-south-of-Yemen---Military-sources.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 09:57:27 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 예멘 정부군이 예멘 북부, 서부, 남부 세 전선에서 후티 반군을 상대로 공격을 개시했다 - 군 소식통"
+  },
+  {
+    "guid": "9791638",
+    "title": "FinancialJuice: Afghan taliban foreign minister: Believe existing problems between Afghanistan and Pakistan can be resolved through dialogue and diplomacy",
+    "link": "https://www.financialjuice.com/News/9791638/Afghan-taliban-foreign-minister-Believe-existing-problems-between-Afghanistan-and-Pakistan-can-be-resolved-through-dialogue-and-diplomacy.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 09:46:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아프가니스탄 탈레반 외무장관, “아프가니스탄과 파키스탄 간의 현안들은 대화와 외교를 통해 해결될 수 있다고 믿는다”"
+  },
+  {
+    "guid": "9791637",
+    "title": "FinancialJuice: Afghan taliban foreign minister: Afghanistan considers self-defense against any aggression to be its legitimate and undeniable right",
+    "link": "https://www.financialjuice.com/News/9791637/Afghan-taliban-foreign-minister-Afghanistan-considers-self-defense-against-any-aggression-to-be-its-legitimate-and-undeniable-right.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 09:46:34 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아프가니스탄 탈레반 외무장관: 아프가니스탄은 어떠한 침략에 대해서도 자위권을 행사하는 것을 정당하고 부인할 수 없는 권리로 간주한다"
+  },
+  {
+    "guid": "9791626",
+    "title": "FinancialJuice: Qatar LNG is still an attractive investment - ConocoPhillips",
+    "link": "https://www.financialjuice.com/News/9791626/Qatar-LNG-is-still-an-attractive-investment---ConocoPhillips.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 09:32:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 카타르 LNG는 여전히 매력적인 투자 대상 - 코노코필립스"
+  },
+  {
+    "guid": "9791612",
+    "title": "FinancialJuice: Conoco sees US oil output above 14M b/d in 2027 if prices hold",
+    "link": "https://www.financialjuice.com/News/9791612/Conoco-sees-US-oil-output-above-14M-bd-in-2027-if-prices-hold.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 09:30:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 코노코, 유가가 현재 수준을 유지한다면 2027년 미국 원유 생산량이 하루 1,400만 배럴을 넘어설 것으로 전망"
+  },
+  {
+    "guid": "9791611",
+    "title": "FinancialJuice: Kremlin on Zelenskiy saying that Ukraine will hit Russian oil refineries: Ukraine will pay the price",
+    "link": "https://www.financialjuice.com/News/9791611/Kremlin-on-Zelenskiy-saying-that-Ukraine-will-hit-Russian-oil-refineries-Ukraine-will-pay-the-price.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 09:30:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 젤렌스키 대통령이 우크라이나가 러시아 정유 시설을 공격하겠다고 밝힌 데 대한 크렘린의 반응: 우크라이나는 대가를 치르게 될 것이다"
+  },
+  {
+    "guid": "9791596",
+    "title": "FinancialJuice: Saudi-led coalition: Attacked 324 'high-value targets' as part of the operation in Yemen",
+    "link": "https://www.financialjuice.com/News/9791596/Saudi-led-coalition-Attacked-324-high-value-targets-as-part-of-the-operation-in-Yemen.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 09:08:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 주도 연합군: 예멘 작전의 일환으로 ‘고가치 표적’ 324곳을 공격했다"
+  },
+  {
+    "guid": "9791595",
+    "title": "FinancialJuice: Saudi-led coalition: 100 fighter jets took part in an operation in Yemen - Statement",
+    "link": "https://www.financialjuice.com/News/9791595/Saudi-led-coalition-100-fighter-jets-took-part-in-an-operation-in-Yemen---Statement.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 09:08:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 주도 연합군: 예멘 작전에 전투기 100대가 투입됐다 - 성명"
+  },
+  {
+    "guid": "9791594",
+    "title": "FinancialJuice: Aramco CEO: Less than 10% of the world's oil inventory is actually available",
+    "link": "https://www.financialjuice.com/News/9791594/Aramco-CEO-Less-than-10-of-the-worlds-oil-inventory-is-actually-available.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 09:08:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO “전 세계 원유 재고 중 실제로 활용 가능한 양은 10% 미만”"
+  },
+  {
+    "guid": "9791566",
+    "title": "FinancialJuice: Eurozone PPI MoM Actual 1.9% (Forecast 1.9%, Previous 1.6%)",
+    "link": "https://www.financialjuice.com/News/9791566/Eurozone-PPI-MoM-Actual-19-Forecast-19-Previous-16.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 09:00:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유로존 생산자물가지수(PPI) 전월 대비 실제치 1.9% (예상치 1.9%, 전월치 1.6%)"
+  },
+  {
+    "guid": "9791565",
+    "title": "FinancialJuice: Eurozone PPI YoY Actual 8.2% (Forecast 7.9%, Previous 5.8%)",
+    "link": "https://www.financialjuice.com/News/9791565/Eurozone-PPI-YoY-Actual-82-Forecast-79-Previous-58.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 09:00:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 유로존 생산자물가지수(PPI) 전년 동기 대비 실제치 8.2% (예상치 7.9%, 전월치 5.8%)"
+  },
+  {
+    "guid": "9791564",
+    "title": "FinancialJuice: MUFG: The EUR - FJElite",
+    "link": "https://www.financialjuice.com/News/9791564/MUFG-The-EUR---FJElite.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:57:42 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: MUFG: 유로 - FJElite"
+  },
+  {
+    "guid": "9791563",
+    "title": "FinancialJuice: Saudi east-west oil pipeline is flowing as normal - People say",
+    "link": "https://www.financialjuice.com/News/9791563/Saudi-east-west-oil-pipeline-is-flowing-as-normal---People-say.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:49:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 사우디 동서 석유 파이프라인, 정상적으로 가동 중 - 관계자들에 따르면"
+  },
+  {
+    "guid": "9791562",
+    "title": "FinancialJuice: Goldman Sachs: France - FJElite",
+    "link": "https://www.financialjuice.com/News/9791562/Goldman-Sachs-France---FJElite.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:48:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 골드만삭스: 프랑스 - FJElite"
+  },
+  {
+    "guid": "9791541",
+    "title": "FinancialJuice: Aramco CEO: Oil demand picking up, inventories need refilling",
+    "link": "https://www.financialjuice.com/News/9791541/Aramco-CEO-Oil-demand-picking-up-inventories-need-refilling.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:40:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO “석유 수요 회복세, 재고 보충 필요”"
+  },
+  {
+    "guid": "9791519",
+    "title": "FinancialJuice: UK Services PMI Final Actual 52.1 (Forecast 51.7, Previous 51.7)",
+    "link": "https://www.financialjuice.com/News/9791519/UK-Services-PMI-Final-Actual-521-Forecast-517-Previous-517.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:30:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 서비스업 PMI 최종치 52.1 (예상치 51.7, 전월치 51.7)"
+  },
+  {
+    "guid": "9791520",
+    "title": "FinancialJuice: UK Composite PMI Final Actual 52 (Forecast 51.7, Previous 51.7)",
+    "link": "https://www.financialjuice.com/News/9791520/UK-Composite-PMI-Final-Actual-52-Forecast-517-Previous-517.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 종합 PMI 최종 실적 52 (예상치 51.7, 전월치 51.7)"
+  },
+  {
+    "guid": "9791518",
+    "title": "FinancialJuice: Eurozone Sentix Investor Confidence Index Actual 2.7 (Forecast 4.5, Previous 5.1)",
+    "link": "https://www.financialjuice.com/News/9791518/Eurozone-Sentix-Investor-Confidence-Index-Actual-27-Forecast-45-Previous-51.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 센티스(Sentix) 투자자 신뢰 지수, 실제치 2.7 (예상치 4.5, 전월치 5.1)"
+  },
+  {
+    "guid": "9791517",
+    "title": "FinancialJuice: Aramco CEO: max oil-output capacity of 12M b/d is available in days",
+    "link": "https://www.financialjuice.com/News/9791517/Aramco-CEO-max-oil-output-capacity-of-12M-bd-is-available-in-days.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:29:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO, “일일 최대 원유 생산량 1,200만 배럴은 며칠 내로 달성 가능”"
+  },
+  {
+    "guid": "9791516",
+    "title": "FinancialJuice: Aramco CEO: Upstream facilities are currently \"intact\"",
+    "link": "https://www.financialjuice.com/News/9791516/Aramco-CEO-Upstream-facilities-are-currently-intact.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:28:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO, “현재 상류 부문 시설은 ‘무사하다’”"
+  },
+  {
+    "guid": "9791515",
+    "title": "FinancialJuice: Europe Sentiment: Oil Drops As Yemen Fights for Control of Yemen - FJElite\n",
+    "link": "https://www.financialjuice.com/News/9791515/Europe-Sentiment-Oil-Drops-As-Yemen-Fights-for-Control-of-Yemen---FJElite.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:18:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유럽 시장 심리: 예멘 내전 격화로 유가 하락 - FJElite\n"
+  },
+  {
+    "guid": "9791514",
+    "title": "FinancialJuice: Aramco CEO: Global community must help free flow of goods",
+    "link": "https://www.financialjuice.com/News/9791514/Aramco-CEO-Global-community-must-help-free-flow-of-goods.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:17:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO “국제사회는 물자의 자유로운 이동을 지원해야 한다”"
+  },
+  {
+    "guid": "9791485",
+    "title": "FinancialJuice: Aramco studies alternate oil export routes and more global storage",
+    "link": "https://www.financialjuice.com/News/9791485/Aramco-studies-alternate-oil-export-routes-and-more-global-storage.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:14:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코, 대체 원유 수출 경로 및 글로벌 저장 시설 확충 방안 검토 중"
+  },
+  {
+    "guid": "9791484",
+    "title": "FinancialJuice: Aramco CEO sees central role for mideast oil & gas for decades",
+    "link": "https://www.financialjuice.com/News/9791484/Aramco-CEO-sees-central-role-for-mideast-oil--gas-for-decades.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:14:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO, 향후 수십 년간 중동 석유·가스가 핵심적인 역할을 할 것으로 전망"
+  },
+  {
+    "guid": "9791483",
+    "title": "FinancialJuice: Germany's Foreign Intelligence Chief: There could be low-level military activities by Russia against the Baltics, but we don't expect a large-scale attack on NATO territory",
+    "link": "https://www.financialjuice.com/News/9791483/Germanys-Foreign-Intelligence-Chief-There-could-be-low-level-military-activities-by-Russia-against-the-Baltics-but-we-dont-expect-a-large-scale-attack-on-NATO-territory.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:13:43 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 독일 대외정보국장: 러시아가 발트 3국을 상대로 소규모 군사 활동을 벌일 가능성은 있으나, 나토 영토에 대한 대규모 공격은 예상하지 않는다"
+  },
+  {
+    "guid": "9791482",
+    "title": "FinancialJuice: Aramco CEO: Global oil supply cushions 'scarily thin’",
+    "link": "https://www.financialjuice.com/News/9791482/Aramco-CEO-Global-oil-supply-cushions-scarily-thin.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:12:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO, “세계 석유 공급 여력이 ‘무서울 정도로 부족’하다”"
+  },
+  {
+    "guid": "9791481",
+    "title": "FinancialJuice: Aramco CEO: Oil market pressure to worsen until Hormuz opens",
+    "link": "https://www.financialjuice.com/News/9791481/Aramco-CEO-Oil-market-pressure-to-worsen-until-Hormuz-opens.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:11:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO “호르무즈 해협이 개방될 때까지 석유 시장 압박은 더욱 심해질 것”"
+  },
+  {
+    "guid": "9791480",
+    "title": "FinancialJuice: Aramco CEO: Refilling global stockpiles may take 2 years after Hormuz opens",
+    "link": "https://www.financialjuice.com/News/9791480/Aramco-CEO-Refilling-global-stockpiles-may-take-2-years-after-Hormuz-opens.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:10:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO “호르무즈 해협 개방 후 전 세계 비축량 회복에 2년 걸릴 수 있다”"
+  },
+  {
+    "guid": "9791479",
+    "title": "FinancialJuice: Aramco CEO: Global oil releases only temporary help for markets",
+    "link": "https://www.financialjuice.com/News/9791479/Aramco-CEO-Global-oil-releases-only-temporary-help-for-markets.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:10:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO “전 세계적 원유 공급 확대는 시장에 일시적인 도움에 불과하다”"
+  },
+  {
+    "guid": "9791452",
+    "title": "FinancialJuice: Eurozone Composite Final PMI Actual 53.1 (Forecast 53.1, Previous 53.1)",
+    "link": "https://www.financialjuice.com/News/9791452/Eurozone-Composite-Final-PMI-Actual-531-Forecast-531-Previous-531.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 종합 PMI 최종치 53.1 (예상치 53.1, 전월치 53.1)"
+  },
+  {
+    "guid": "9791451",
+    "title": "FinancialJuice: Eurozone Services PMI Final Actual 53 (Forecast 53, Previous 53.0)",
+    "link": "https://www.financialjuice.com/News/9791451/Eurozone-Services-PMI-Final-Actual-53-Forecast-53-Previous-530.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 유로존 서비스업 PMI 최종치 53 (예상치 53, 전월치 53.0)"
+  },
+  {
+    "guid": "9791450",
+    "title": "FinancialJuice: German Services PMI Final Actual 52.9 (Forecast 52.9, Previous 52.9)",
+    "link": "https://www.financialjuice.com/News/9791450/German-Services-PMI-Final-Actual-529-Forecast-529-Previous-529.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 07:55:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 서비스업 PMI 최종치 52.9 (예상치 52.9, 전월치 52.9)"
+  },
+  {
+    "guid": "9791449",
+    "title": "FinancialJuice: German Composite PMI Final Actual 53.8 (Forecast 53.8, Previous 53.8)",
+    "link": "https://www.financialjuice.com/News/9791449/German-Composite-PMI-Final-Actual-538-Forecast-538-Previous-538.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 07:55:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 종합 PMI 최종 실적 53.8 (예상 53.8, 전월 53.8)"
+  },
+  {
+    "guid": "9791448",
+    "title": "FinancialJuice: French Composite PMI Actual 51.1 (Forecast 51.2, Previous 51.2)",
+    "link": "https://www.financialjuice.com/News/9791448/French-Composite-PMI-Actual-511-Forecast-512-Previous-512.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 07:50:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 종합 PMI 실제치 51.1 (예상치 51.2, 전월치 51.2)"
+  },
+  {
+    "guid": "9791447",
+    "title": "FinancialJuice: French Services PMI Actual 51.2 (Forecast 51.4, Previous 51.4)",
+    "link": "https://www.financialjuice.com/News/9791447/French-Services-PMI-Actual-512-Forecast-514-Previous-514.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 07:50:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 서비스업 PMI 실제치 51.2 (예상치 51.4, 전월치 51.4)"
+  },
+  {
+    "guid": "9791432",
+    "title": "FinancialJuice: Italian Services PMI Actual 51.7 (Forecast 54.5, Previous 55.2)",
+    "link": "https://www.financialjuice.com/News/9791432/Italian-Services-PMI-Actual-517-Forecast-545-Previous-552.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 07:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이탈리아 서비스업 PMI 실제치 51.7 (예상치 54.5, 전월치 55.2)"
+  },
+  {
+    "guid": "9791431",
+    "title": "FinancialJuice: Italian Composite PMI Actual 51 (Forecast 53.2, Previous 53.6)",
+    "link": "https://www.financialjuice.com/News/9791431/Italian-Composite-PMI-Actual-51-Forecast-532-Previous-536.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 07:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이탈리아 종합 PMI 실제치 51 (예상치 53.2, 전월치 53.6)"
+  },
+  {
+    "guid": "9791402",
+    "title": "FinancialJuice: Spain’s PM Sanchez: election set for November 29, 2026",
+    "link": "https://www.financialjuice.com/News/9791402/Spains-PM-Sanchez-election-set-for-November-29-2026.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 07:09:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 산체스 스페인 총리, 2026년 11월 29일 총선 실시 예정"
+  },
+  {
+    "guid": "9791401",
+    "title": "FinancialJuice: Spain's PM Sanchez: I am calling an early election",
+    "link": "https://www.financialjuice.com/News/9791401/Spains-PM-Sanchez-I-am-calling-an-early-election.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 07:08:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 산체스 스페인 총리 “조기 총선을 실시하겠다”"
+  },
+  {
+    "guid": "9791399",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: JPY, USD, CAD, CHF, GBP, AUD, NZD, EUR - Weakest",
+    "link": "https://www.financialjuice.com/News/9791399/Currency-Strength-Chart-Strongest-JPY-USD-CAD-CHF-GBP-AUD-NZD-EUR---Weakest.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 07:01:43 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: JPY, USD, CAD, CHF, GBP, AUD, NZD, EUR - 가장 약한 통화"
+  },
+  {
+    "guid": "9791376",
+    "title": "FinancialJuice: Turkish CPI MoM Actual 1.84% (Forecast 2.28%, Previous 1.84%)",
+    "link": "https://www.financialjuice.com/News/9791376/Turkish-CPI-MoM-Actual-184-Forecast-228-Previous-184.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 07:00:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 터키 소비자물가지수(CPI) 전월 대비 실제치 1.84% (예상치 2.28%, 전월치 1.84%)"
+  },
+  {
+    "guid": "9791368",
+    "title": "FinancialJuice: Turkish CPI YoY Actual 29.73% (Forecast 30.26%, Previous 31.51%)",
+    "link": "https://www.financialjuice.com/News/9791368/Turkish-CPI-YoY-Actual-2973-Forecast-3026-Previous-3151.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 07:00:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 터키 소비자물가지수(CPI) 전년 동기 대비 실제 29.73% (예상 30.26%, 이전 31.51%)"
+  },
+  {
+    "guid": "9791367",
+    "title": "FinancialJuice: Yemeni Government forces launch attack Houthi positions in Dhubab district overlooking Bab El-Mandeb - Two Military Sources.",
+    "link": "https://www.financialjuice.com/News/9791367/Yemeni-Government-forces-launch-attack-Houthi-positions-in-Dhubab-district-overlooking-Bab-El-Mandeb---Two-Military-Sources.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 06:55:28 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 예멘 정부군이 바브 엘 만데브 해협이 내려다보이는 두바브 지역의 후티 세력 거점을 공격했다 - 두 군 소식통."
+  },
+  {
+    "guid": "9791296",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9791296/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:36:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9791295",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9791295/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:36:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9791294",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9791294/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:35:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9791293",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9791293/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:35:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9791292",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9791292/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:35:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9791291",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9791291/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:34:48 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9791290",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9791290/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:34:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9791289",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9791289/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:34:10 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9791288",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9791288/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:33:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9791287",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9791287/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:33:15 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9791286",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9791286/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:32:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9791285",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9791285/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:32:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9791284",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9791284/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:31:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9791283",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9791283/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:31:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9791280",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9791280/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:31:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9791277",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9791277/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:30:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9791263",
+    "title": "FinancialJuice: Japan's PM Takaichi: We will draw up a 5-year investment plan by year-end",
+    "link": "https://www.financialjuice.com/News/9791263/Japans-PM-Takaichi-We-will-draw-up-a-5-year-investment-plan-by-year-end.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:12:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 타카이치 총리 “연말까지 5개년 투자 계획을 수립할 것”"
+  },
+  {
+    "guid": "9791262",
+    "title": "FinancialJuice: Japan PM Takaichi: If economy, markets make unexpected movements, we will analyse their impact, respond nimbly as needed.",
+    "link": "https://www.financialjuice.com/News/9791262/Japan-PM-Takaichi-If-economy-markets-make-unexpected-movements-we-will-analyse-their-impact-respond-nimbly-as-needed.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:12:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 타카이치 일본 총리: 경제와 시장이 예상치 못한 움직임을 보일 경우, 그 영향을 분석하고 필요에 따라 신속하게 대응할 것이다."
+  },
+  {
+    "guid": "9791261",
+    "title": "FinancialJuice: Japan's PM Takaichi: We will seek to enhance market trust in our policies by communicating closely with the public, domestic and overseas market players",
+    "link": "https://www.financialjuice.com/News/9791261/Japans-PM-Takaichi-We-will-seek-to-enhance-market-trust-in-our-policies-by-communicating-closely-with-the-public-domestic-and-overseas-market-players.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:11:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 타카이치 일본 총리: 국민 및 국내외 시장 참여자들과 긴밀히 소통함으로써 우리 정책에 대한 시장의 신뢰를 높여나가겠다"
+  },
+  {
+    "guid": "9791260",
+    "title": "FinancialJuice: Japan's PM Takaichi: We will control the annual debt issuance amount appropriately while scrutinising the economy, prices, tax revenues, interest rates, debt-servicing costs, and market developments",
+    "link": "https://www.financialjuice.com/News/9791260/Japans-PM-Takaichi-We-will-control-the-annual-debt-issuance-amount-appropriately-while-scrutinising-the-economy-prices-tax-revenues-interest-rates-debt-servicing-costs-and-market-developments.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:11:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 타카이치 일본 총리: 경제, 물가, 세수, 금리, 채무 상환 비용 및 시장 동향을 면밀히 주시하면서 연간 채권 발행 규모를 적절히 관리해 나갈 것이다"
+  },
+  {
+    "guid": "9791259",
+    "title": "FinancialJuice: Japanese Consumer Confidence Actual 35.4 (Forecast 35.3, Previous 35.5)",
+    "link": "https://www.financialjuice.com/News/9791259/Japanese-Consumer-Confidence-Actual-354-Forecast-353-Previous-355.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:09:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 소비자 신뢰지수 실제치 35.4 (예상치 35.3, 전월치 35.5)"
+  },
+  {
+    "guid": "9791258",
+    "title": "FinancialJuice: India finance minister: fertiliser costs have surged, unsustainable for any nation to continue purchasing at this rate",
+    "link": "https://www.financialjuice.com/News/9791258/India-finance-minister-fertiliser-costs-have-surged-unsustainable-for-any-nation-to-continue-purchasing-at-this-rate.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 05:04:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 인도 재무장관: 비료 가격이 급등했으며, 어떤 국가도 이 같은 속도로 계속 구매하는 것은 지속 불가능하다"
+  },
+  {
+    "guid": "9791245",
+    "title": "FinancialJuice: Russian air strikes hit port infrastructure in Ukraine's Odesa region, authorities say",
+    "link": "https://www.financialjuice.com/News/9791245/Russian-air-strikes-hit-port-infrastructure-in-Ukraines-Odesa-region-authorities-say.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 04:56:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 당국에 따르면 러시아의 공습으로 우크라이나 오데사 지역의 항만 시설이 타격을 입었다"
+  },
+  {
+    "guid": "9791239",
+    "title": "FinancialJuice: German Bund futures rise 0.1%; French OAT futures fall 0.22%",
+    "link": "https://www.financialjuice.com/News/9791239/German-Bund-futures-rise-01-French-OAT-futures-fall-022.aspx?xy=rss",
+    "pubDate": "Mon, 05 Oct 2026 04:49:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 국채 선물 0.1% 상승; 프랑스 OAT 선물 0.22% 하락"
+  },
+  {
     "guid": "9791230",
     "title": "FinancialJuice: India finance minister: tariffs are being used as weapons despite framework",
     "link": "https://www.financialjuice.com/News/9791230/India-finance-minister-tariffs-are-being-used-as-weapons-despite-framework.aspx?xy=rss",
