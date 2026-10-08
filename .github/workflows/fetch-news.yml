@@ -41,7 +41,18 @@ jobs:
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add data/news.json
             git commit -m "news: update $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git push
+            # 트리거 빈도가 올라가면서(5분 launchd + 1시간 백업 schedule) 두 실행이
+            # 거의 동시에 fetch→commit까지 마친 뒤 push만 경합하는 경우가 실제로
+            # 발생함(2026-10-08 확인) — concurrency 그룹이 있어도 이 경합을 못 막는
+            # 경우가 있었으므로, push 거부 시 rebase 후 재시도한다.
+            for attempt in 1 2 3; do
+              if git push; then
+                break
+              fi
+              echo "push 실패($attempt/3) — 원격 최신으로 rebase 후 재시도"
+              git fetch origin main
+              git rebase origin/main
+            done
           else
             echo "No new items, skipping commit"
           fi
