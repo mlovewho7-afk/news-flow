@@ -1,8 +1,12 @@
 name: Fetch News
 
 on:
+  # 평소엔 로컬 Mac의 launchd가 5분마다 workflow_dispatch로 직접 트리거한다(지연 없음).
+  # 이 schedule은 Mac이 꺼져있거나 잠들어 있을 때를 위한 백업일 뿐이다 — GitHub의
+  # 내장 schedule 트리거는 짧은 간격일수록 수 시간씩 지연되는 게 실측으로 확인돼
+  # (1분 설정에도 실제 3~7시간 간격), 정기 간격을 더 당겨도 해결되지 않는다.
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 * * * *"
   workflow_dispatch: {}
 
 concurrency:
