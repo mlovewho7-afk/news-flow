@@ -1,5 +1,85 @@
 [
   {
+    "guid": "9798450",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9798450/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 09 Oct 2026 06:28:59 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9798449",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9798449/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 09 Oct 2026 06:28:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9798448",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9798448/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 09 Oct 2026 06:27:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9798447",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9798447/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 09 Oct 2026 06:27:16 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시장의 내재 변동성"
+  },
+  {
+    "guid": "9798446",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9798446/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 09 Oct 2026 06:26:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9798445",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9798445/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 09 Oct 2026 06:26:12 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9798444",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9798444/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 09 Oct 2026 06:25:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9798443",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9798443/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 09 Oct 2026 06:25:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9798442",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9798442/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 09 Oct 2026 06:24:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9798441",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9798441/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 09 Oct 2026 06:24:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
     "guid": "9798425",
     "title": "FinancialJuice: Apple asks for parts output cuts for iPhone 18 Pro and Max - Nikkei $AAPL",
     "link": "https://www.financialjuice.com/News/9798425/Apple-asks-for-parts-output-cuts-for-iPhone-18-Pro-and-Max---Nikkei-AAPL.aspx",
