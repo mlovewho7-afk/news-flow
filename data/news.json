@@ -1,5 +1,85 @@
 [
   {
+    "guid": "9801599",
+    "title": "FinancialJuice: Deutsche Bank's View on CPI - FJElite",
+    "link": "https://www.financialjuice.com/News/9801599/Deutsche-Banks-View-on-CPI---FJElite.aspx?xy=rss",
+    "pubDate": "Mon, 12 Oct 2026 12:58:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 도이체방크의 CPI 전망 - FJElite"
+  },
+  {
+    "guid": "9801598",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9801598/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 12 Oct 2026 12:57:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9801597",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9801597/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 12 Oct 2026 12:57:20 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9801596",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9801596/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 12 Oct 2026 12:57:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9801595",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9801595/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 12 Oct 2026 12:56:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9801594",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9801594/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 12 Oct 2026 12:56:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9801593",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9801593/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 12 Oct 2026 12:55:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9801592",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9801592/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 12 Oct 2026 12:55:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9801591",
+    "title": "FinancialJuice: US Sentiment: Markets Wait CPI, Middle East & Russia-Ukraine Conflicts Weigh on Sentiment - FJElite",
+    "link": "https://www.financialjuice.com/News/9801591/US-Sentiment-Markets-Wait-CPI-Middle-East--Russia-Ukraine-Conflicts-Weigh-on-Sentiment---FJElite.aspx?xy=rss",
+    "pubDate": "Mon, 12 Oct 2026 12:55:10 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 시장, CPI 발표를 기다리는 가운데 중동 및 러시아-우크라이나 분쟁이 시장 심리에 부담으로 작용 - FJElite"
+  },
+  {
+    "guid": "9801590",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9801590/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 12 Oct 2026 12:55:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
     "guid": "9801573",
     "title": "FinancialJuice: SNB Interest Rate Probabilities",
     "link": "https://www.financialjuice.com/News/9801573/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
