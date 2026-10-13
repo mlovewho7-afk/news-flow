@@ -1,5 +1,93 @@
 [
   {
+    "guid": "9803836",
+    "title": "FinancialJuice: RBNZ to start repurchase of April 2027 Government Bonds.",
+    "link": "https://www.financialjuice.com/News/9803836/RBNZ-to-start-repurchase-of-April-2027-Government-Bonds.aspx",
+    "pubDate": "Tue, 13 Oct 2026 20:02:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ), 2027년 4월 만기 국채 매입 개시."
+  },
+  {
+    "guid": "9803832",
+    "title": "FinancialJuice: Fed's Collins: Data-center build out is pressuring inflation readings.",
+    "link": "https://www.financialjuice.com/News/9803832/Feds-Collins-Data-center-build-out-is-pressuring-inflation-readings.aspx",
+    "pubDate": "Tue, 13 Oct 2026 20:01:36 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스, “데이터센터 확충이 물가 상승 압력을 가중시키고 있다.”"
+  },
+  {
+    "guid": "9803830",
+    "title": "FinancialJuice: Fed's Collins: A stable job market should support consumer spending.",
+    "link": "https://www.financialjuice.com/News/9803830/Feds-Collins-A-stable-job-market-should-support-consumer-spending.aspx",
+    "pubDate": "Tue, 13 Oct 2026 20:01:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스: 안정적인 고용 시장이 소비자 지출을 뒷받침할 것으로 보인다."
+  },
+  {
+    "guid": "9803820",
+    "title": "FinancialJuice: Fed's Collins: I expect more growth and job market stability.",
+    "link": "https://www.financialjuice.com/News/9803820/Feds-Collins-I-expect-more-growth-and-job-market-stability.aspx",
+    "pubDate": "Tue, 13 Oct 2026 20:01:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스: 향후 더 큰 성장과 고용 시장의 안정성이 이어질 것으로 전망한다."
+  },
+  {
+    "guid": "9803817",
+    "title": "FinancialJuice: Fed's Collins: The US economy has shown resilience in the face of shocks.",
+    "link": "https://www.financialjuice.com/News/9803817/Feds-Collins-The-US-economy-has-shown-resilience-in-the-face-of-shocks.aspx",
+    "pubDate": "Tue, 13 Oct 2026 20:01:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스: 미국 경제는 여러 충격 속에서도 회복력을 보여왔다."
+  },
+  {
+    "guid": "9803816",
+    "title": "FinancialJuice: Fed's Collins: I supported the Fed raising rates at the September meeting.",
+    "link": "https://www.financialjuice.com/News/9803816/Feds-Collins-I-supported-the-Fed-raising-rates-at-the-September-meeting.aspx",
+    "pubDate": "Tue, 13 Oct 2026 20:00:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스 위원: 저는 9월 회의에서 연준의 금리 인상을 지지했습니다."
+  },
+  {
+    "guid": "9803815",
+    "title": "FinancialJuice: Fed's Collins: Job market is broadly balanced",
+    "link": "https://www.financialjuice.com/News/9803815/Feds-Collins-Job-market-is-broadly-balanced.aspx",
+    "pubDate": "Tue, 13 Oct 2026 20:00:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스 “고용 시장은 전반적으로 균형을 이루고 있다”"
+  },
+  {
+    "guid": "9803814",
+    "title": "FinancialJuice: Fed's Collins: expect inflation to stay above 2% due to high energy prices",
+    "link": "https://www.financialjuice.com/News/9803814/Feds-Collins-expect-inflation-to-stay-above-2-due-to-high-energy-prices.aspx",
+    "pubDate": "Tue, 13 Oct 2026 20:00:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스, “높은 에너지 가격으로 인해 인플레이션이 2% 이상 유지될 것으로 전망”"
+  },
+  {
+    "guid": "9803813",
+    "title": "FinancialJuice: Fed's Collins: Future path of monetary policy in new year will depend on data.",
+    "link": "https://www.financialjuice.com/News/9803813/Feds-Collins-Future-path-of-monetary-policy-in-new-year-will-depend-on-data.aspx",
+    "pubDate": "Tue, 13 Oct 2026 20:00:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스, “새해 통화정책의 향후 방향은 경제 지표에 따라 결정될 것”이라고 밝혔다."
+  },
+  {
+    "guid": "9803812",
+    "title": "FinancialJuice: Fed's Collins: Elevated risk of high inflation is the Fed's main focus right now.",
+    "link": "https://www.financialjuice.com/News/9803812/Feds-Collins-Elevated-risk-of-high-inflation-is-the-Feds-main-focus-right-now.aspx",
+    "pubDate": "Tue, 13 Oct 2026 20:00:29 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스: 현재 연준이 가장 주목하고 있는 것은 높은 인플레이션 발생 위험이 커지고 있다는 점이다."
+  },
+  {
+    "guid": "9803809",
+    "title": "FinancialJuice: An anonymous report of a bomb on a Delta plane that landed in Israel caused the passengers to disembark in panic - Israel's N12 News",
+    "link": "https://www.financialjuice.com/News/9803809/An-anonymous-report-of-a-bomb-on-a-Delta-plane-that-landed-in-Israel-caused-the-passengers-to-disembark-in-panic---Israels-N12-News.aspx",
+    "pubDate": "Tue, 13 Oct 2026 19:58:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이스라엘에 착륙한 델타 항공기에 폭탄이 실려 있다는 익명의 제보로 인해 승객들이 공포에 휩싸여 기내에서 대피했다 - 이스라엘 N12 뉴스"
+  },
+  {
     "guid": "9803808",
     "title": "FinancialJuice: US CPI Prep: Attention on Core Numbers for Evidence of Broader Inflation Pressures - FJElite",
     "link": "https://www.financialjuice.com/News/9803808/US-CPI-Prep-Attention-on-Core-Numbers-for-Evidence-of-Broader-Inflation-Pressures---FJElite.aspx",
