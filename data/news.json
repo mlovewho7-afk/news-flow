@@ -1,5 +1,37 @@
 [
   {
+    "guid": "9802715",
+    "title": "FinancialJuice: German CPI Final MoM Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
+    "link": "https://www.financialjuice.com/News/9802715/German-CPI-Final-MoM-Actual-06-Forecast-06-Previous-06.aspx",
+    "pubDate": "Tue, 13 Oct 2026 06:00:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 독일 소비자물가지수(CPI) 최종치, 전월 대비 0.6% (예상 0.6%, 전월 0.6%)"
+  },
+  {
+    "guid": "9802714",
+    "title": "FinancialJuice: German HICP Final MoM Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
+    "link": "https://www.financialjuice.com/News/9802714/German-HICP-Final-MoM-Actual-06-Forecast-06-Previous-06.aspx",
+    "pubDate": "Tue, 13 Oct 2026 06:00:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 HICP 최종 월간 변동률 실제 0.6% (예상 0.6%, 전월 0.6%)"
+  },
+  {
+    "guid": "9802713",
+    "title": "FinancialJuice: German CPI Final YoY Actual 3.3% (Forecast 3.3%, Previous 3.3%)",
+    "link": "https://www.financialjuice.com/News/9802713/German-CPI-Final-YoY-Actual-33-Forecast-33-Previous-33.aspx",
+    "pubDate": "Tue, 13 Oct 2026 06:00:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 독일 소비자물가지수(CPI) 최종치, 전년 동기 대비 3.3% (예상 3.3%, 이전 3.3%)"
+  },
+  {
+    "guid": "9802712",
+    "title": "FinancialJuice: German HICP Final YoY Actual 3.3% (Forecast 3.3%, Previous 3.3%)",
+    "link": "https://www.financialjuice.com/News/9802712/German-HICP-Final-YoY-Actual-33-Forecast-33-Previous-33.aspx",
+    "pubDate": "Tue, 13 Oct 2026 06:00:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 HICP 최종 전년 동기 대비 실제치 3.3% (예상 3.3%, 이전 3.3%)"
+  },
+  {
     "guid": "9802699",
     "title": "FinancialJuice: SNB Interest Rate Probabilities",
     "link": "https://www.financialjuice.com/News/9802699/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
