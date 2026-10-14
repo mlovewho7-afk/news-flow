@@ -1,5 +1,69 @@
 [
   {
+    "guid": "9804712",
+    "title": "FinancialJuice: Ind and Google Cloud offer up to 200 European researchers access to advanced models, $3m compute credits",
+    "link": "https://www.financialjuice.com/News/9804712/Ind-and-Google-Cloud-offer-up-to-200-European-researchers-access-to-advanced-models-3m-compute-credits.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 08:04:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 인디언과 구글 클라우드, 유럽 연구자 최대 200명에게 첨단 모델 이용 권한 및 300만 달러 상당의 컴퓨팅 크레딧 제공"
+  },
+  {
+    "guid": "9804711",
+    "title": "FinancialJuice: China bought 8-10 panamax U.S. soybean cargoes this week for December shipment: traders",
+    "link": "https://www.financialjuice.com/News/9804711/China-bought-8-10-panamax-US-soybean-cargoes-this-week-for-December-shipment-traders.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 08:03:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 트레이더들에 따르면, 중국이 이번 주 12월 선적 예정인 파나막스급 미국산 대두 화물 8~10건을 매입했다."
+  },
+  {
+    "guid": "9804710",
+    "title": "FinancialJuice: DOJ probes UK payments company Euro Exchange over laundering concerns",
+    "link": "https://www.financialjuice.com/News/9804710/DOJ-probes-UK-payments-company-Euro-Exchange-over-laundering-concerns.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 08:02:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 법무부, 자금세탁 의혹으로 영국 결제업체 유로 익스체인지 조사 중"
+  },
+  {
+    "guid": "9804709",
+    "title": "FinancialJuice: IEA: Russian oil production up 65,000 bpd in september from August to 8.43 million bpd, down 870,000 bpd from a year ago.",
+    "link": "https://www.financialjuice.com/News/9804709/IEA-Russian-oil-production-up-65000-bpd-in-september-from-August-to-843-million-bpd-down-870000-bpd-from-a-year-ago.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 08:02:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IEA: 9월 러시아 원유 생산량이 8월 대비 하루 6만 5천 배럴 증가해 하루 843만 배럴을 기록했으나, 1년 전보다 하루 87만 배럴 감소했다."
+  },
+  {
+    "guid": "9804706",
+    "title": "FinancialJuice: IEA: Recent easing of Russian diesel exports curbs unlikely to materially alter global gasoil market balance given Russian refining capacity constraints.",
+    "link": "https://www.financialjuice.com/News/9804706/IEA-Recent-easing-of-Russian-diesel-exports-curbs-unlikely-to-materially-alter-global-gasoil-market-balance-given-Russian-refining-capacity-constraints.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 08:01:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IEA: 러시아의 정유 능력 제약으로 인해, 최근 러시아 디젤 수출 제한 조치가 세계 경유 시장 균형에 실질적인 변화를 가져오지는 않을 것으로 보인다."
+  },
+  {
+    "guid": "9804705",
+    "title": "FinancialJuice: IEA sees world oil demand falling by 2.6 million bpd in 2026 on Iran war disruption and soaring prices (prev. forecast 2.5 million bpd drop).",
+    "link": "https://www.financialjuice.com/News/9804705/IEA-sees-world-oil-demand-falling-by-26-million-bpd-in-2026-on-Iran-war-disruption-and-soaring-prices-prev-forecast-25-million-bpd-drop.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 08:00:45 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 국제에너지기구(IEA)는 이란 전쟁으로 인한 공급 차질과 급등하는 유가로 인해 2026년 세계 석유 수요가 하루 260만 배럴 감소할 것으로 전망했다(이전 전망치: 하루 250만 배럴 감소)."
+  },
+  {
+    "guid": "9804704",
+    "title": "FinancialJuice: IEA sees world oil supply to fall 5.8 million bpd in 2026 (prev. forecast 5.7 million bpd drop).",
+    "link": "https://www.financialjuice.com/News/9804704/IEA-sees-world-oil-supply-to-fall-58-million-bpd-in-2026-prev-forecast-57-million-bpd-drop.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 08:00:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: IEA, 2026년 세계 원유 공급량이 하루 580만 배럴 감소할 것으로 전망 (이전 전망치: 하루 570만 배럴 감소)."
+  },
+  {
+    "guid": "9804703",
+    "title": "FinancialJuice: For 2027, IEA sees world oil supply 3.94 million bpd above total demand (previous forecast 3.73 million bpd above).",
+    "link": "https://www.financialjuice.com/News/9804703/For-2027-IEA-sees-world-oil-supply-394-million-bpd-above-total-demand-previous-forecast-373-million-bpd-above.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 08:00:28 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 국제에너지기구(IEA)는 2027년 전 세계 석유 공급량이 총 수요보다 하루 394만 배럴 더 많을 것으로 전망했다(이전 전망치는 하루 373만 배럴 초과)."
+  },
+  {
     "guid": "9804702",
     "title": "FinancialJuice: ASML CFO: Terafab is in our expectations for 2027 and beyond.",
     "link": "https://www.financialjuice.com/News/9804702/ASML-CFO-Terafab-is-in-our-expectations-for-2027-and-beyond.aspx",
