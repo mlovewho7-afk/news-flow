@@ -1,5 +1,85 @@
 [
   {
+    "guid": "9804595",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9804595/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:46:33 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9804594",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9804594/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:46:13 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9804580",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9804580/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:45:55 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9804578",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9804578/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:45:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9804575",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9804575/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:45:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9804574",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9804574/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:44:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9804573",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9804573/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:44:32 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9804572",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9804572/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:44:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9804571",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9804571/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:43:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9804570",
+    "title": "FinancialJuice: Russia strikes oil facility in western Ukraine's Lutsk - City official",
+    "link": "https://www.financialjuice.com/News/9804570/Russia-strikes-oil-facility-in-western-Ukraines-Lutsk---City-official.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:43:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아, 우크라이나 서부 루츠크의 석유 시설 공습 - 시 관계자"
+  },
+  {
     "guid": "9804569",
     "title": "FinancialJuice: FX Implied Volatility",
     "link": "https://www.financialjuice.com/News/9804569/FX-Implied-Volatility.aspx?xy=rss",
