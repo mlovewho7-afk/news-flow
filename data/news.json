@@ -1,5 +1,61 @@
 [
   {
+    "guid": "9804569",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9804569/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:43:04 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9804568",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9804568/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:42:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9804567",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9804567/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:42:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9804566",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9804566/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:41:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9804565",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9804565/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:41:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9804564",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9804564/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:41:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9804563",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9804563/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 14 Oct 2026 05:40:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
     "guid": "9804545",
     "title": "FinancialJuice: RBC upgrades US healthcare sector to overweight from market weight, downgrades US technology sector to market weight from overweight\n\n",
     "link": "https://www.financialjuice.com/News/9804545/RBC-upgrades-US-healthcare-sector-to-overweight-from-market-weight-downgrades-US-technology-sector-to-market-weight-from-overweight.aspx?xy=rss",
