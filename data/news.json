@@ -1,5 +1,109 @@
 [
   {
+    "guid": "9806506",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9806506/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:13:30 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9806505",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9806505/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:13:10 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9806504",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9806504/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:12:49 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9806503",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9806503/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:12:20 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9806502",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9806502/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:12:01 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9806501",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9806501/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:11:44 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9806500",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9806500/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:11:26 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9806499",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9806499/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:10:40 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9806498",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9806498/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:10:19 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9806497",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9806497/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:09:59 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9806496",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9806496/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:09:37 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9806495",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9806495/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:08:52 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9806494",
+    "title": "FinancialJuice: South Korea Regulator orders proactive response to ensure market stability and investor protection",
+    "link": "https://www.financialjuice.com/News/9806494/South-Korea-Regulator-orders-proactive-response-to-ensure-market-stability-and-investor-protection.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 06:08:44 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
     "guid": "9806493",
     "title": "FinancialJuice: 90-Day Correlation Matrix",
     "link": "https://www.financialjuice.com/News/9806493/90-Day-Correlation-Matrix.aspx?xy=rss",
