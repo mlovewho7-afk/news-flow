@@ -1,5 +1,101 @@
 [
   {
+    "guid": "9807027",
+    "title": "FinancialJuice: Canadian Manufacturing Sales MoM Actual 1.5% (Forecast 1.1%, Previous -0.4%, Revised -0.3%)",
+    "link": "https://www.financialjuice.com/News/9807027/Canadian-Manufacturing-Sales-MoM-Actual-15-Forecast-11-Previous--04-Revised--03.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 12:31:10 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9807032",
+    "title": "FinancialJuice: US Core PPI YoY Actual 5% (Forecast 4.4%, Previous 4.6%)",
+    "link": "https://www.financialjuice.com/News/9807032/US-Core-PPI-YoY-Actual-5-Forecast-44-Previous-46.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 12:30:05 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9807031",
+    "title": "FinancialJuice: US Philly Fed Business Index Actual 20.9 (Forecast 28, Previous 37.8)",
+    "link": "https://www.financialjuice.com/News/9807031/US-Philly-Fed-Business-Index-Actual-209-Forecast-28-Previous-378.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 12:30:05 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9807030",
+    "title": "FinancialJuice: US Core PPI MoM Actual 0.7% (Forecast 0.3%, Previous 0.2%)",
+    "link": "https://www.financialjuice.com/News/9807030/US-Core-PPI-MoM-Actual-07-Forecast-03-Previous-02.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 12:30:05 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9807029",
+    "title": "FinancialJuice: US PPI MoM Actual 1.3% (Forecast 0.6%, Previous 0.4%, Revised 0.5%)",
+    "link": "https://www.financialjuice.com/News/9807029/US-PPI-MoM-Actual-13-Forecast-06-Previous-04-Revised-05.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 12:30:04 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9807028",
+    "title": "FinancialJuice: US PPI YoY Actual 6.3% (Forecast 5.4%, Previous 5.4%, Revised 5.6%)",
+    "link": "https://www.financialjuice.com/News/9807028/US-PPI-YoY-Actual-63-Forecast-54-Previous-54-Revised-56.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 12:30:04 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9807026",
+    "title": "FinancialJuice: Canadian Wholesale Sales MoM Actual -1.6% (Forecast -1.5%, Previous 0.3%, Revised 0.4%)",
+    "link": "https://www.financialjuice.com/News/9807026/Canadian-Wholesale-Sales-MoM-Actual--16-Forecast--15-Previous-03-Revised-04.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 12:30:03 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9807025",
+    "title": "FinancialJuice: US Continued Jobless Claims Actual 1.71M (Forecast 1.709M, Previous 1.716M, Revised 1.714M)",
+    "link": "https://www.financialjuice.com/News/9807025/US-Continued-Jobless-Claims-Actual-171M-Forecast-1709M-Previous-1716M-Revised-1714M.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 12:30:02 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9807024",
+    "title": "FinancialJuice: US Initial Jobless Claims Actual 199k (Forecast 200k, Previous 197k, Revised 198k)",
+    "link": "https://www.financialjuice.com/News/9807024/US-Initial-Jobless-Claims-Actual-199k-Forecast-200k-Previous-197k-Revised-198k.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 12:30:02 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9807023",
+    "title": "FinancialJuice: US Core Retail Sales MoM Actual 0.9% (Forecast 0.5%, Previous 1.4%, Revised 1.4%)",
+    "link": "https://www.financialjuice.com/News/9807023/US-Core-Retail-Sales-MoM-Actual-09-Forecast-05-Previous-14-Revised-14.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 12:30:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9807022",
+    "title": "FinancialJuice: US Retail Sales MoM Actual 0.8% (Forecast 0.3%, Previous 1.2%)",
+    "link": "https://www.financialjuice.com/News/9807022/US-Retail-Sales-MoM-Actual-08-Forecast-03-Previous-12.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 12:30:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9807021",
+    "title": "FinancialJuice: NY Fed Manufacturing Actual 25.5 (Forecast 12, Previous 7.60)",
+    "link": "https://www.financialjuice.com/News/9807021/NY-Fed-Manufacturing-Actual-255-Forecast-12-Previous-760.aspx?xy=rss",
+    "pubDate": "Thu, 15 Oct 2026 12:30:00 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
     "guid": "9807020",
     "title": "FinancialJuice: US tells IEA nations it’s unhappy with emergency oil release, and has suggested supplementing oil release with extra 100mln bbl.",
     "link": "https://www.financialjuice.com/News/9807020/US-tells-IEA-nations-its-unhappy-with-emergency-oil-release-and-has-suggested-supplementing-oil-release-with-extra-100mln-bbl.aspx?xy=rss",
