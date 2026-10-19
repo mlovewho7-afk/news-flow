@@ -1,5 +1,109 @@
 [
   {
+    "guid": "9810900",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9810900/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:21:13 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9810899",
+    "title": "FinancialJuice: Nomura expects China's Q4 GDP growth at 4.8%, sees 4.7% for 2026",
+    "link": "https://www.financialjuice.com/News/9810899/Nomura-expects-Chinas-Q4-GDP-growth-at-48-sees-47-for-2026.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:21:02 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9810898",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9810898/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:20:42 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9810897",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9810897/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:20:22 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9810896",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9810896/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:20:03 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9810895",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9810895/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:19:39 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9810894",
+    "title": "FinancialJuice: Nomura upgrades forecasts for China's GDP growth in Q4 and 2026",
+    "link": "https://www.financialjuice.com/News/9810894/Nomura-upgrades-forecasts-for-Chinas-GDP-growth-in-Q4-and-2026.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:19:32 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9810893",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9810893/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:19:03 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9810892",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9810892/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:18:44 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9810891",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9810891/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:18:23 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9810890",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9810890/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:17:47 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9810889",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9810889/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:17:29 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9810888",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9810888/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 19 Oct 2026 06:17:09 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
     "guid": "9810887",
     "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
     "link": "https://www.financialjuice.com/News/9810887/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
