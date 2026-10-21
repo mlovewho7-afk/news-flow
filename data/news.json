@@ -1,5 +1,101 @@
 [
   {
+    "guid": "9814417",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9814417/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 21 Oct 2026 05:34:41 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9814416",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9814416/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 21 Oct 2026 05:34:20 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9814415",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9814415/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 21 Oct 2026 05:34:01 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9814414",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9814414/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 21 Oct 2026 05:33:27 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9814413",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9814413/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 21 Oct 2026 05:33:12 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9814412",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9814412/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 21 Oct 2026 05:32:55 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9814411",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9814411/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 21 Oct 2026 05:32:34 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9814410",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9814410/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 21 Oct 2026 05:31:46 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9814409",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9814409/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 21 Oct 2026 05:31:29 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9814407",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9814407/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 21 Oct 2026 05:31:07 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9814396",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9814396/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 21 Oct 2026 05:30:48 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9814395",
+    "title": "FinancialJuice: US Envoy Witkoff arrives in St. Petersburg - TASS",
+    "link": "https://www.financialjuice.com/News/9814395/US-Envoy-Witkoff-arrives-in-St-Petersburg---TASS.aspx?xy=rss",
+    "pubDate": "Wed, 21 Oct 2026 05:29:59 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
     "guid": "9814357",
     "title": "FinancialJuice: Japan government considering electricity, gas subsidies in winter to ease impact on households from rising heating costs: Kyodo",
     "link": "https://www.financialjuice.com/News/9814357/Japan-government-considering-electricity-gas-subsidies-in-winter-to-ease-impact-on-households-from-rising-heating-costs-Kyodo.aspx?xy=rss",
