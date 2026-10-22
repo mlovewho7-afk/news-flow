@@ -1,5 +1,101 @@
 [
   {
+    "guid": "9816379",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9816379/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 22 Oct 2026 05:54:12 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9816378",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9816378/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 22 Oct 2026 05:53:56 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9816377",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9816377/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 22 Oct 2026 05:53:33 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9816376",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9816376/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 22 Oct 2026 05:53:15 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9816375",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9816375/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 22 Oct 2026 05:52:43 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9816374",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9816374/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 22 Oct 2026 05:52:25 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9816373",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9816373/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 22 Oct 2026 05:52:05 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9816372",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9816372/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 22 Oct 2026 05:51:46 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9816371",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9816371/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 22 Oct 2026 05:51:12 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9816370",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9816370/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 22 Oct 2026 05:50:54 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9816369",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9816369/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 22 Oct 2026 05:50:39 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9816368",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9816368/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 22 Oct 2026 05:50:17 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
     "guid": "9816367",
     "title": "FinancialJuice: 120-Day Correlation Matrix",
     "link": "https://www.financialjuice.com/News/9816367/120-Day-Correlation-Matrix.aspx?xy=rss",
