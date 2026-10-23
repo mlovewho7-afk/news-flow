@@ -88,6 +88,102 @@
     "title_ko": "FinancialJuice: 메르츠 독일 총리, 10월 28일부터 29일까지 일본 방문 예정"
   },
   {
+    "guid": "9818737",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9818737/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:16:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9818732",
+    "title": "FinancialJuice: \t\nRBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9818732/%09RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:16:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice:   \nRBNZ 금리 결정 확률"
+  },
+  {
+    "guid": "9818718",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9818718/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:15:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9818717",
+    "title": "FinancialJuice: \t\nBoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9818717/%09BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:15:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice:   \n일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9818716",
+    "title": "FinancialJuice: \t\nBoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9818716/%09BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:15:28 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice:   \n캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9818712",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9818712/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:15:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9818711",
+    "title": "FinancialJuice: \t\nECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9818711/%09ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:15:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice:   \nECB 금리 결정 확률"
+  },
+  {
+    "guid": "9818710",
+    "title": "FinancialJuice: \t\nFed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9818710/%09Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:14:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice:   \n연준 금리 결정 확률"
+  },
+  {
+    "guid": "9818709",
+    "title": "FinancialJuice: \t\nCommodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9818709/%09Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:14:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice:   \n원자재 내재 변동성"
+  },
+  {
+    "guid": "9818708",
+    "title": "FinancialJuice: \t\nFX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9818708/%09FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:13:57 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice:   \n외환 시장 내재 변동성"
+  },
+  {
+    "guid": "9818707",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9818707/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:13:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9818706",
+    "title": "FinancialJuice: \t\nTop S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9818706/%09Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 23 Oct 2026 09:13:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice:   \nS&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
     "guid": "9818546",
     "title": "FinancialJuice: China to reduce AI's negative impact on employment - Xinhua",
     "link": "https://www.financialjuice.com/News/9818546/China-to-reduce-AIs-negative-impact-on-employment---Xinhua.aspx?xy=rss",
