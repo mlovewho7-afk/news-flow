@@ -1,5 +1,101 @@
 [
   {
+    "guid": "9820936",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9820936/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 26 Oct 2026 08:04:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9820935",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9820935/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 26 Oct 2026 08:04:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9820934",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9820934/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 26 Oct 2026 08:04:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9820933",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9820933/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 26 Oct 2026 08:03:54 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9820932",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9820932/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 26 Oct 2026 08:03:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9820931",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9820931/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 26 Oct 2026 08:03:01 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9820930",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9820930/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 26 Oct 2026 08:02:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9820929",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9820929/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 26 Oct 2026 08:02:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9820928",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9820928/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 26 Oct 2026 08:01:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9820925",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9820925/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 26 Oct 2026 08:01:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9820924",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9820924/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 26 Oct 2026 08:01:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9820911",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9820911/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 26 Oct 2026 08:00:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
     "guid": "9820888",
     "title": "FinancialJuice: Iran President to go to Russia Monday for gas summit - Tasnim.",
     "link": "https://www.financialjuice.com/News/9820888/Iran-President-to-go-to-Russia-Monday-for-gas-summit---Tasnim.aspx?xy=rss",
