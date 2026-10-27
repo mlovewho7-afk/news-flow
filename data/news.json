@@ -1,5 +1,45 @@
 [
   {
+    "guid": "9823767",
+    "title": "FinancialJuice: US API Cushing Stock Change Actual -0.453M (Forecast -, Previous 0.936M)",
+    "link": "https://www.financialjuice.com/News/9823767/US-API-Cushing-Stock-Change-Actual--0453M-Forecast---Previous-0936M.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 20:47:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 쿠싱 재고 변동량, 실제 -0.453M (예상 -, 이전 0.936M)"
+  },
+  {
+    "guid": "9823766",
+    "title": "FinancialJuice: US API Distillate Stock Change Actual 0.38M (Forecast -, Previous -2.6M)",
+    "link": "https://www.financialjuice.com/News/9823766/US-API-Distillate-Stock-Change-Actual-038M-Forecast---Previous--26M.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 20:46:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 증류유 재고 변동량, 실제 0.38M (예상 -, 전월 -2.6M)"
+  },
+  {
+    "guid": "9823765",
+    "title": "FinancialJuice: US API Gasoline Stock Change Actual 2.39M (Forecast -, Previous -2.577M)",
+    "link": "https://www.financialjuice.com/News/9823765/US-API-Gasoline-Stock-Change-Actual-239M-Forecast---Previous--2577M.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 20:46:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 휘발유 재고 변동량, 실제 2.39M (예상 -, 전월 -2.577M)"
+  },
+  {
+    "guid": "9823764",
+    "title": "FinancialJuice: US API Crude Stock Change Actual -2.031M (Forecast 0.8M, Previous -4.93M)",
+    "link": "https://www.financialjuice.com/News/9823764/US-API-Crude-Stock-Change-Actual--2031M-Forecast-08M-Previous--493M.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 20:46:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 원유 재고 변동량 실제 -2.031M (예상 0.8M, 전월 -4.93M)"
+  },
+  {
+    "guid": "9823752",
+    "title": "FinancialJuice: UK's Chancellor Healey prepares to slash household gas bills by £50 - The Telegraph",
+    "link": "https://www.financialjuice.com/News/9823752/UKs-Chancellor-Healey-prepares-to-slash-household-gas-bills-by-50---The-Telegraph.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 20:45:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 헤일리 재무장관, 가정용 가스 요금을 50파운드 인하할 예정 - 더 텔레그래프"
+  },
+  {
     "guid": "9823710",
     "title": "FinancialJuice: Israeli Journalist Neira Kraus on X, citing Israeli election projections: Netanyahu is not projected to be Israel’s next prime minister. However, it remains unclear which coalition could be formed",
     "link": "https://www.financialjuice.com/News/9823710/Israeli-Journalist-Neira-Kraus-on-X-citing-Israeli-election-projections-Netanyahu-is-not-projected-to-be-Israels-next-prime-minister-However-it-remains-unclear-which-coalition-could-be-formed.aspx?xy=rss",
