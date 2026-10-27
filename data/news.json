@@ -1,5 +1,93 @@
 [
   {
+    "guid": "9822522",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9822522/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:42:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9822521",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9822521/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:42:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9822520",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9822520/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:41:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9822519",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9822519/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:41:19 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9822518",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9822518/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:41:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9822517",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9822517/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:40:37 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9822516",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9822516/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:39:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9822515",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9822515/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:39:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9822514",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9822514/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:39:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9822513",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9822513/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:39:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
+    "guid": "9822512",
+    "title": "FinancialJuice: EU securities regulator: Market infrastructure is resilient. Looking at leveraged funds and margin calls",
+    "link": "https://www.financialjuice.com/News/9822512/EU-securities-regulator-Market-infrastructure-is-resilient-Looking-at-leveraged-funds-and-margin-calls.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:38:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EU 증권 규제 당국 “시장 인프라는 탄력적이다. 레버리지 펀드와 마진 콜 현황 분석”"
+  },
+  {
     "guid": "9822489",
     "title": "FinancialJuice: Russian defense ministry: Russian forces strike cargo ship in Black Sea",
     "link": "https://www.financialjuice.com/News/9822489/Russian-defense-ministry-Russian-forces-strike-cargo-ship-in-Black-Sea.aspx?xy=rss",
