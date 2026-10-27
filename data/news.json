@@ -1,5 +1,61 @@
 [
   {
+    "guid": "9823076",
+    "title": "FinancialJuice: US House Price Index YoY Actual 2.4% (Forecast -, Previous 2.6%)",
+    "link": "https://www.financialjuice.com/News/9823076/US-House-Price-Index-YoY-Actual-24-Forecast---Previous-26.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 13:01:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 주택 가격 지수 전년 동기 대비 실제 2.4% (예상 -, 이전 2.6%)"
+  },
+  {
+    "guid": "9823075",
+    "title": "FinancialJuice: US House Price Index MoM Actual 0.3% (Forecast 0.2%, Previous 0.3%)",
+    "link": "https://www.financialjuice.com/News/9823075/US-House-Price-Index-MoM-Actual-03-Forecast-02-Previous-03.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 13:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 주택가격지수 전월 대비 실제치 0.3% (예상치 0.2%, 전월치 0.3%)"
+  },
+  {
+    "guid": "9823074",
+    "title": "FinancialJuice: US CaseShiller 20 YoY Actual 2.65% (Forecast 2.61%, Previous 2.5%)",
+    "link": "https://www.financialjuice.com/News/9823074/US-CaseShiller-20-YoY-Actual-265-Forecast-261-Previous-25.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 13:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 케이스-쉴러 지수, 전년 동기 대비 2.65% (예상치 2.61%, 전월치 2.5%)"
+  },
+  {
+    "guid": "9823073",
+    "title": "FinancialJuice: Effective fed funds rate: 3.88% October 26th vs 3.88% October 23rd",
+    "link": "https://www.financialjuice.com/News/9823073/Effective-fed-funds-rate-388-October-26th-vs-388-October-23rd.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 12:59:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 실효 연방기금 금리: 10월 26일 3.88% (10월 23일 3.88% 대비)"
+  },
+  {
+    "guid": "9823072",
+    "title": "FinancialJuice: Qualcomm: Bluechip to develop American-built computing hardware.",
+    "link": "https://www.financialjuice.com/News/9823072/Qualcomm-Bluechip-to-develop-American-built-computing-hardware.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 12:59:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 퀄컴: 블루칩, 미국산 컴퓨팅 하드웨어 개발 예정."
+  },
+  {
+    "guid": "9823071",
+    "title": "FinancialJuice: US Sentiment: An End to Iran War Soon? - FJElite",
+    "link": "https://www.financialjuice.com/News/9823071/US-Sentiment-An-End-to-Iran-War-Soon---FJElite.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 12:59:06 GMT",
+    "category": "Breaking",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 이란 전쟁이 곧 끝날까? - FJElite"
+  },
+  {
+    "guid": "9823070",
+    "title": "FinancialJuice: US Redbook YoY Actual 9.3% (Forecast -, Previous 9.0%)",
+    "link": "https://www.financialjuice.com/News/9823070/US-Redbook-YoY-Actual-93-Forecast---Previous-90.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 12:56:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 레드북 지수 전년 동기 대비 실제 9.3% (예상 -, 이전 9.0%)"
+  },
+  {
     "guid": "9823015",
     "title": "FinancialJuice: US Core Durable Goods Actual 0.5% (Forecast 0.6%, Previous 0.2%)",
     "link": "https://www.financialjuice.com/News/9823015/US-Core-Durable-Goods-Actual-05-Forecast-06-Previous-02.aspx?xy=rss",
