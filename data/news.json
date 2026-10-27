@@ -1,5 +1,53 @@
 [
   {
+    "guid": "9822528",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9822528/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:44:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9822527",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9822527/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:44:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9822526",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9822526/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:44:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9822525",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9822525/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:43:48 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9822524",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9822524/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:43:21 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9822523",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9822523/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 27 Oct 2026 06:43:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
     "guid": "9822522",
     "title": "FinancialJuice: ECB Interest Rate Probabilities",
     "link": "https://www.financialjuice.com/News/9822522/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
