@@ -1,5 +1,61 @@
 [
   {
+    "guid": "9824595",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9824595/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 28 Oct 2026 07:52:14 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9824594",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9824594/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 28 Oct 2026 07:51:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9824593",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9824593/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 28 Oct 2026 07:51:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9824592",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9824592/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 28 Oct 2026 07:50:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9824591",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9824591/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 28 Oct 2026 07:49:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9824590",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9824590/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 28 Oct 2026 07:49:38 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9824589",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9824589/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 28 Oct 2026 07:49:17 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
     "guid": "9824560",
     "title": "FinancialJuice: South Korea fines Google, Apple 63.7B won on forced in-app payments.",
     "link": "https://www.financialjuice.com/News/9824560/South-Korea-fines-Google-Apple-637B-won-on-forced-in-app-payments.aspx?xy=rss",
