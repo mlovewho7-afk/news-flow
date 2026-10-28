@@ -1,5 +1,37 @@
 [
   {
+    "guid": "9826042",
+    "title": "FinancialJuice: Fitch Ratings: US fiscal pressures set to persist regardless of midterm outcome.",
+    "link": "https://www.financialjuice.com/News/9826042/Fitch-Ratings-US-fiscal-pressures-set-to-persist-regardless-of-midterm-outcome.aspx?xy=rss",
+    "pubDate": "Wed, 28 Oct 2026 20:57:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 피치 레이팅스: 중간선거 결과와 무관하게 미국의 재정 압박은 지속될 전망이다."
+  },
+  {
+    "guid": "9826041",
+    "title": "FinancialJuice: Google works with Anthropic on TPUs directly and with Broadcom. $GOOGL $AVGO",
+    "link": "https://www.financialjuice.com/News/9826041/Google-works-with-Anthropic-on-TPUs-directly-and-with-Broadcom-GOOGL-AVGO.aspx?xy=rss",
+    "pubDate": "Wed, 28 Oct 2026 20:56:49 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 구글은 TPU와 관련해 앤트로픽(Anthropic)과 직접 협력하고 있으며, 브로드컴(Broadcom)과도 협력하고 있다. $GOOGL $AVGO"
+  },
+  {
+    "guid": "9826040",
+    "title": "FinancialJuice: Apple scaling pre-training of foundation models on Google TPUs. $GOOGL $AAPL",
+    "link": "https://www.financialjuice.com/News/9826040/Apple-scaling-pre-training-of-foundation-models-on-Google-TPUs-GOOGL-AAPL.aspx?xy=rss",
+    "pubDate": "Wed, 28 Oct 2026 20:56:03 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 애플, 구글 TPU를 활용해 파운데이션 모델의 사전 훈련 규모 확대 중. $GOOGL $AAPL"
+  },
+  {
+    "guid": "9826039",
+    "title": "FinancialJuice: Kurian: Google worked with META to build torch TPU. $GOOGL $META",
+    "link": "https://www.financialjuice.com/News/9826039/Kurian-Google-worked-with-META-to-build-torch-TPU-GOOGL-META.aspx?xy=rss",
+    "pubDate": "Wed, 28 Oct 2026 20:55:09 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 쿠리안: 구글이 META와 협력해 토치 TPU를 개발했다. $GOOGL $META"
+  },
+  {
     "guid": "9826038",
     "title": "FinancialJuice: Google YouTube subscriptions are growing faster than ads. $GOOGL",
     "link": "https://www.financialjuice.com/News/9826038/Google-YouTube-subscriptions-are-growing-faster-than-ads-GOOGL.aspx?xy=rss",
