@@ -1,5 +1,53 @@
 [
   {
+    "guid": "9827265",
+    "title": "FinancialJuice: JPMorgan's NLP Report on FOMC - FJElite",
+    "link": "https://www.financialjuice.com/News/9827265/JPMorgans-NLP-Report-on-FOMC---FJElite.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 12:35:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: JPMorgan의 FOMC 관련 NLP 보고서 - FJElite"
+  },
+  {
+    "guid": "9827236",
+    "title": "FinancialJuice: US PCE Prices Advance Actual 2.1% (Forecast -, Previous 5.0%)",
+    "link": "https://www.financialjuice.com/News/9827236/US-PCE-Prices-Advance-Actual-21-Forecast---Previous-50.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 12:31:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 PCE 물가, 실질 2.1% 상승 (예상 -, 전월 5.0%)"
+  },
+  {
+    "guid": "9827235",
+    "title": "FinancialJuice: US GDP Deflator SA Advance Actual 2.2% (Forecast -, Previous 6.1%)",
+    "link": "https://www.financialjuice.com/News/9827235/US-GDP-Deflator-SA-Advance-Actual-22-Forecast---Previous-61.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 12:31:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 GDP 디플레이터(계절조정, 잠정치) 2.2% (예상치 -, 전월치 6.1%)"
+  },
+  {
+    "guid": "9827234",
+    "title": "FinancialJuice: US Core PCE Price Index YoY Actual 3.1% (Forecast 3.1%, Previous 3.0%)",
+    "link": "https://www.financialjuice.com/News/9827234/US-Core-PCE-Price-Index-YoY-Actual-31-Forecast-31-Previous-30.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 12:31:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 핵심 PCE 물가 지수 전년 동기 대비 실제치 3.1% (예상치 3.1%, 전월치 3.0%)"
+  },
+  {
+    "guid": "9827233",
+    "title": "FinancialJuice: US PCE Price Index YoY Actual 3.6% (Forecast 3.6%, Previous 3.4%)",
+    "link": "https://www.financialjuice.com/News/9827233/US-PCE-Price-Index-YoY-Actual-36-Forecast-36-Previous-34.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 12:31:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 PCE 물가 지수 전년 동기 대비 실제치 3.6% (예상치 3.6%, 전월치 3.4%)"
+  },
+  {
+    "guid": "9827230",
+    "title": "FinancialJuice: US GDP QoQ Advance Actual 3.4% (Forecast 3.2%, Previous 2.2%)",
+    "link": "https://www.financialjuice.com/News/9827230/US-GDP-QoQ-Advance-Actual-34-Forecast-32-Previous-22.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 12:31:44 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 GDP 전분기 대비 잠정치 3.4% (예상치 3.2%, 전분기 2.2%)"
+  },
+  {
     "guid": "9827238",
     "title": "FinancialJuice: US Real Personal Consumption MoM Actual 0% (Forecast 0.1%, Previous 0.6%)",
     "link": "https://www.financialjuice.com/News/9827238/US-Real-Personal-Consumption-MoM-Actual-0-Forecast-01-Previous-06.aspx?xy=rss",
