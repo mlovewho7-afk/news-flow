@@ -1,5 +1,77 @@
 [
   {
+    "guid": "9826760",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9826760/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:27:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9826759",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9826759/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:27:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9826758",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9826758/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:26:56 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9826757",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9826757/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:26:37 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9826756",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9826756/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:26:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9826755",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9826755/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:26:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9826754",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9826754/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:25:41 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9826753",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9826753/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:25:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9826752",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9826752/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:24:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
     "guid": "9826751",
     "title": "FinancialJuice: FX Implied Volatility",
     "link": "https://www.financialjuice.com/News/9826751/FX-Implied-Volatility.aspx?xy=rss",
