@@ -1,5 +1,77 @@
 [
   {
+    "guid": "9828294",
+    "title": "FinancialJuice: Tokyo area October overall CPI rises 2.8% year on year: govt",
+    "link": "https://www.financialjuice.com/News/9828294/Tokyo-area-October-overall-CPI-rises-28-year-on-year-govt.aspx",
+    "pubDate": "Thu, 29 Oct 2026 23:30:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 도쿄권 10월 종합 소비자물가지수(CPI), 전년 동기 대비 2.8% 상승: 정부"
+  },
+  {
+    "guid": "9828293",
+    "title": "FinancialJuice: Tokyo area October CPI excluding fresh food and energy prices rises 2.6% year on year: govt",
+    "link": "https://www.financialjuice.com/News/9828293/Tokyo-area-October-CPI-excluding-fresh-food-and-energy-prices-rises-26-year-on-year-govt.aspx",
+    "pubDate": "Thu, 29 Oct 2026 23:30:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 도쿄권 10월 신선식품 및 에너지 가격을 제외한 소비자물가지수(CPI), 전년 동기 대비 2.6% 상승: 정부"
+  },
+  {
+    "guid": "9828292",
+    "title": "FinancialJuice: Tokyo area October core CPI rises 2.6% year/year, govt: poll +2.6%",
+    "link": "https://www.financialjuice.com/News/9828292/Tokyo-area-October-core-CPI-rises-26-yearyear-govt-poll-26.aspx",
+    "pubDate": "Thu, 29 Oct 2026 23:30:07 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 도쿄권 10월 핵심 소비자물가지수(CPI) 전년 동기 대비 2.6% 상승… 정부 발표: 조사 결과 +2.6%"
+  },
+  {
+    "guid": "9828291",
+    "title": "FinancialJuice: Japan Sept seasonally adjusted unemployment rate 2.4%: government (Poll: 2.5%)",
+    "link": "https://www.financialjuice.com/News/9828291/Japan-Sept-seasonally-adjusted-unemployment-rate-24-government-Poll-25.aspx",
+    "pubDate": "Thu, 29 Oct 2026 23:30:07 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본 9월 계절 조정 실업률 2.4%…정부 발표 (여론조사: 2.5%)"
+  },
+  {
+    "guid": "9828290",
+    "title": "FinancialJuice: Japan Sept jobs-applicants ratio climbs to 1.19 from 1.18 in August - govt (Poll: 1.18)",
+    "link": "https://www.financialjuice.com/News/9828290/Japan-Sept-jobs-applicants-ratio-climbs-to-119-from-118-in-August---govt-Poll-118.aspx",
+    "pubDate": "Thu, 29 Oct 2026 23:30:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 9월 구직자 대비 구인 비율, 8월 1.18에서 1.19로 상승 - 정부 발표 (설문조사: 1.18)"
+  },
+  {
+    "guid": "9828289",
+    "title": "FinancialJuice: Japanese Unemployment Rate Actual 2.4% (Forecast 2.5%, Previous 2.5%)",
+    "link": "https://www.financialjuice.com/News/9828289/Japanese-Unemployment-Rate-Actual-24-Forecast-25-Previous-25.aspx",
+    "pubDate": "Thu, 29 Oct 2026 23:30:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본 실업률, 실제 2.4% (예상 2.5%, 전월 2.5%)"
+  },
+  {
+    "guid": "9828288",
+    "title": "FinancialJuice: Tokyo Core CPI YoY Actual 2.6% (Forecast 2.6%, Previous 2.7%)",
+    "link": "https://www.financialjuice.com/News/9828288/Tokyo-Core-CPI-YoY-Actual-26-Forecast-26-Previous-27.aspx",
+    "pubDate": "Thu, 29 Oct 2026 23:30:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 도쿄 핵심 소비자물가지수(CPI) 전년 동기 대비 실제 2.6% (예상 2.6%, 이전 2.7%)"
+  },
+  {
+    "guid": "9828287",
+    "title": "FinancialJuice: Tokyo CPI Overall Actual 2.8% (Forecast 2.7%, Previous 2.7%)",
+    "link": "https://www.financialjuice.com/News/9828287/Tokyo-CPI-Overall-Actual-28-Forecast-27-Previous-27.aspx",
+    "pubDate": "Thu, 29 Oct 2026 23:30:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 도쿄 소비자물가지수(CPI) 전체 실제치 2.8% (예상치 2.7%, 전월치 2.7%)"
+  },
+  {
+    "guid": "9828286",
+    "title": "FinancialJuice: Japanese Jobs/Applicants Ratio Actual 1.19 (Forecast 1.18, Previous 1.18)",
+    "link": "https://www.financialjuice.com/News/9828286/Japanese-JobsApplicants-Ratio-Actual-119-Forecast-118-Previous-118.aspx",
+    "pubDate": "Thu, 29 Oct 2026 23:30:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 일본 구인·구직자 비율, 실제 1.19 (예상 1.18, 이전 1.18)"
+  },
+  {
     "guid": "9828237",
     "title": "FinancialJuice: S. Korea Sept industrial output surge 9.0% m/m, outpacing poll of 3.4%: stats office",
     "link": "https://www.financialjuice.com/News/9828237/S-Korea-Sept-industrial-output-surge-90-mm-outpacing-poll-of-34-stats-office.aspx",
