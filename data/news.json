@@ -1,5 +1,61 @@
 [
   {
+    "guid": "9826751",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9826751/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:24:22 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9826750",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9826750/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:24:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9826749",
+    "title": "FinancialJuice: S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9826749/SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:23:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 종목별 내재 변동성"
+  },
+  {
+    "guid": "9826748",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9826748/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:22:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9826747",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9826747/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:22:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9826746",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9826746/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:22:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9826745",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9826745/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 29 Oct 2026 07:22:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
     "guid": "9826728",
     "title": "FinancialJuice: Currency Strength Chart: Strongest: CAD, JPY, USD, CHF, AUD, EUR, GBP, NZD - Weakest",
     "link": "https://www.financialjuice.com/News/9826728/Currency-Strength-Chart-Strongest-CAD-JPY-USD-CHF-AUD-EUR-GBP-NZD---Weakest.aspx?xy=rss",
