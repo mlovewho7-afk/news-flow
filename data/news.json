@@ -1,5 +1,45 @@
 [
   {
+    "guid": "9829524",
+    "title": "FinancialJuice: German CPI MoM Prelim  Actual -0.2% (Forecast 0.1%, Previous 0.60%)",
+    "link": "https://www.financialjuice.com/News/9829524/German-CPI-MoM-Prelim--Actual--02-Forecast-01-Previous-060.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 13:00:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 독일 소비자물가지수(CPI) 전월 대비 잠정치  실적 -0.2% (예상 0.1%, 전월 0.60%)"
+  },
+  {
+    "guid": "9829523",
+    "title": "FinancialJuice: German CPI YoY Prelim  Actual 2.8% (Forecast 3%, Previous 3.30%)",
+    "link": "https://www.financialjuice.com/News/9829523/German-CPI-YoY-Prelim--Actual-28-Forecast-3-Previous-330.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 13:00:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 독일 소비자물가지수(CPI) 전년 동기 대비 잠정치  실적 2.8% (예상 3%, 전월 3.30%)"
+  },
+  {
+    "guid": "9829522",
+    "title": "FinancialJuice: German HICP MoM Prelim  Actual -0.1% (Forecast 0.1%, Previous 0.60%)",
+    "link": "https://www.financialjuice.com/News/9829522/German-HICP-MoM-Prelim--Actual--01-Forecast-01-Previous-060.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 13:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 HICP 전월 대비 잠정치  실적 -0.1% (예상 0.1%, 전월 0.60%)"
+  },
+  {
+    "guid": "9829521",
+    "title": "FinancialJuice: German HICP YoY Prelim  Actual 2.8% (Forecast 3.1%, Previous 3.30%)",
+    "link": "https://www.financialjuice.com/News/9829521/German-HICP-YoY-Prelim--Actual-28-Forecast-31-Previous-330.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 13:00:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 HICP 전년 동기 대비 잠정치  실적 2.8% (예상 3.1%, 이전 3.30%)"
+  },
+  {
+    "guid": "9829520",
+    "title": "FinancialJuice: MUFG on BoJ - FJElite",
+    "link": "https://www.financialjuice.com/News/9829520/MUFG-on-BoJ---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 12:59:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MUFG의 일본은행(BoJ) 관련 분석 - FJElite"
+  },
+  {
     "guid": "9829519",
     "title": "FinancialJuice: BoJ Interest Rate Probabilities (Updated)",
     "link": "https://www.financialjuice.com/News/9829519/BoJ-Interest-Rate-Probabilities-Updated.aspx",
