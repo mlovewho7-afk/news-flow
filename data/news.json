@@ -1,5 +1,85 @@
 [
   {
+    "guid": "9829088",
+    "title": "FinancialJuice: Spanish Current Account Balance Actual 5.05B (Forecast -, Previous 5.91B)",
+    "link": "https://www.financialjuice.com/News/9829088/Spanish-Current-Account-Balance-Actual-505B-Forecast---Previous-591B.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 09:02:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페인 경상수지 실제 50억 5천만 (예상 -, 이전 59억 1천만)"
+  },
+  {
+    "guid": "9829085",
+    "title": "FinancialJuice: Italian GDP Prelim YoY Actual 0.8% (Forecast -, Previous 1.0%)",
+    "link": "https://www.financialjuice.com/News/9829085/Italian-GDP-Prelim-YoY-Actual-08-Forecast---Previous-10.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 09:02:36 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 이탈리아 GDP 잠정치(전년 동기 대비) 실제 0.8% (예상 -, 이전 1.0%)"
+  },
+  {
+    "guid": "9829079",
+    "title": "FinancialJuice: German GDP YoY SA Flash  Actual 1.2% (Forecast 1.1%, Previous 1.0%)",
+    "link": "https://www.financialjuice.com/News/9829079/German-GDP-YoY-SA-Flash--Actual-12-Forecast-11-Previous-10.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 09:01:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 독일 GDP 전년 동기 대비 계절 조정 잠정치  실적 1.2% (예상 1.1%, 전월 1.0%)"
+  },
+  {
+    "guid": "9829080",
+    "title": "FinancialJuice: German GDP QoQ Flash  Actual 0.2% (Forecast 0.1%, Previous 0.3%)",
+    "link": "https://www.financialjuice.com/News/9829080/German-GDP-QoQ-Flash--Actual-02-Forecast-01-Previous-03.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 09:01:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 독일 GDP 전분기 대비 속보치  실적 0.2% (예상 0.1%, 이전 0.3%)"
+  },
+  {
+    "guid": "9829077",
+    "title": "FinancialJuice: Bavaria CPI MoM Actual 0.0% (Forecast -, Previous 0.6%)",
+    "link": "https://www.financialjuice.com/News/9829077/Bavaria-CPI-MoM-Actual-00-Forecast---Previous-06.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 09:01:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 바이에른주 소비자물가지수(CPI) 전월 대비 실제치 0.0% (예상치 -, 이전치 0.6%)"
+  },
+  {
+    "guid": "9829076",
+    "title": "FinancialJuice: Bavaria CPI YoY Actual 2.8% (Forecast -, Previous 3.2%)",
+    "link": "https://www.financialjuice.com/News/9829076/Bavaria-CPI-YoY-Actual-28-Forecast---Previous-32.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 09:01:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 바이에른주 소비자물가지수(CPI) 전년 동기 대비 실제치 2.8% (예상치 -, 이전치 3.2%)"
+  },
+  {
+    "guid": "9829084",
+    "title": "FinancialJuice: Italian GDP Prelim QoQ Actual 0% (Forecast 0.1%, Previous 0.2%)",
+    "link": "https://www.financialjuice.com/News/9829084/Italian-GDP-Prelim-QoQ-Actual-0-Forecast-01-Previous-02.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 09:00:51 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 이탈리아 GDP 잠정치(전분기 대비) 실제 0% (예상 0.1%, 이전 0.2%)"
+  },
+  {
+    "guid": "9829078",
+    "title": "FinancialJuice: German GDP YoY NSA Flash  Actual 1.3% (Forecast 1.2%, Previous 1.0%)",
+    "link": "https://www.financialjuice.com/News/9829078/German-GDP-YoY-NSA-Flash--Actual-13-Forecast-12-Previous-10.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 09:00:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 독일 GDP 전년 동기 대비(비계절 조정) 속보치  실적 1.3% (예상 1.2%, 이전 1.0%)"
+  },
+  {
+    "guid": "9829075",
+    "title": "FinancialJuice: German Unemployment Total SA Actual 3.016M (Forecast -, Previous 3.012M)",
+    "link": "https://www.financialjuice.com/News/9829075/German-Unemployment-Total-SA-Actual-3016M-Forecast---Previous-3012M.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 08:56:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 실업자 수(총계, 계절 조정) 실제 301만 6천 명 (예상 -, 이전 301만 2천 명)"
+  },
+  {
+    "guid": "9829074",
+    "title": "FinancialJuice: German Unemployment Total NSA Actual 2.955M (Forecast -, Previous 2.994M)",
+    "link": "https://www.financialjuice.com/News/9829074/German-Unemployment-Total-NSA-Actual-2955M-Forecast---Previous-2994M.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 08:56:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 독일 실업자 수(계) NSA 실제 295만 5천 명 (예상 -, 이전 299만 4천 명)"
+  },
+  {
     "guid": "9829073",
     "title": "FinancialJuice: German Unemployment Rate Actual 6.4% (Forecast 6.4%, Previous 6.4%)",
     "link": "https://www.financialjuice.com/News/9829073/German-Unemployment-Rate-Actual-64-Forecast-64-Previous-64.aspx?xy=rss",
