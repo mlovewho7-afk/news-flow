@@ -1,5 +1,109 @@
 [
   {
+    "guid": "9828916",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9828916/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:16:09 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9828914",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9828914/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:15:50 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9828913",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9828913/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:15:33 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9828911",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9828911/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:15:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9828910",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9828910/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:14:58 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9828909",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9828909/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:14:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9828908",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9828908/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:14:18 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9828907",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9828907/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:14:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9828906",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9828906/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:13:33 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9828905",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9828905/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:13:11 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9828904",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9828904/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:12:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9828903",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9828903/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:12:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9828902",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9828902/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 07:11:48 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
     "guid": "9828901",
     "title": "FinancialJuice: 90-Day Correlation Matrix",
     "link": "https://www.financialjuice.com/News/9828901/90-Day-Correlation-Matrix.aspx?xy=rss",
