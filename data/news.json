@@ -1,5 +1,45 @@
 [
   {
+    "guid": "9828979",
+    "title": "FinancialJuice: Spanish CPI YoY Flash Actual 4.9% (Forecast 4.9%, Previous 4.9%)",
+    "link": "https://www.financialjuice.com/News/9828979/Spanish-CPI-YoY-Flash-Actual-49-Forecast-49-Previous-49.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 08:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스페인 소비자물가지수(CPI) 전년 동기 대비 속보치 4.9% (예상 4.9%, 전월 4.9%)"
+  },
+  {
+    "guid": "9828978",
+    "title": "FinancialJuice: Swiss KOF Indicator Actual 107.6 (Forecast 108.1, Previous 109.1)",
+    "link": "https://www.financialjuice.com/News/9828978/Swiss-KOF-Indicator-Actual-1076-Forecast-1081-Previous-1091.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스위스 KOF 지수 실제치 107.6 (예상치 108.1, 전월치 109.1)"
+  },
+  {
+    "guid": "9828977",
+    "title": "FinancialJuice: Spanish CPI MoM Flash Actual 0.6% (Forecast 0.7%, Previous 0.30%)",
+    "link": "https://www.financialjuice.com/News/9828977/Spanish-CPI-MoM-Flash-Actual-06-Forecast-07-Previous-030.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 08:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스페인 소비자물가지수(CPI) 전월 대비 속보치 0.6% (예상치 0.7%, 전월치 0.30%)"
+  },
+  {
+    "guid": "9828976",
+    "title": "FinancialJuice: Spanish HICP YoY Flash  Actual 4.9% (Forecast 4.9%, Previous 5.0%)",
+    "link": "https://www.financialjuice.com/News/9828976/Spanish-HICP-YoY-Flash--Actual-49-Forecast-49-Previous-50.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페인 HICP 전년 동기 대비 속보치  실적 4.9% (예상 4.9%, 전월 5.0%)"
+  },
+  {
+    "guid": "9828975",
+    "title": "FinancialJuice: Spanish HICP MoM Flash  Actual 0.5% (Forecast 0.5%, Previous 0.6%)",
+    "link": "https://www.financialjuice.com/News/9828975/Spanish-HICP-MoM-Flash--Actual-05-Forecast-05-Previous-06.aspx?xy=rss",
+    "pubDate": "Fri, 30 Oct 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페인 HICP 전월 대비 속보치  실적 0.5% (예상 0.5%, 이전 0.6%)"
+  },
+  {
     "guid": "9828974",
     "title": "FinancialJuice: ECB's Dolenc: Inflation could remain above 2% in coming years.",
     "link": "https://www.financialjuice.com/News/9828974/ECBs-Dolenc-Inflation-could-remain-above-2-in-coming-years.aspx?xy=rss",
