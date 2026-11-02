@@ -1,5 +1,53 @@
 [
   {
+    "guid": "9832967",
+    "title": "FinancialJuice: US 6-Month Bill Auction",
+    "link": "https://www.financialjuice.com/News/9832967/US-6-Month-Bill-Auction.aspx?xy=rss",
+    "pubDate": "Mon, 02 Nov 2026 16:33:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 6개월 만기 국채 입찰"
+  },
+  {
+    "guid": "9832966",
+    "title": "FinancialJuice: US 3-Month Bill Auction",
+    "link": "https://www.financialjuice.com/News/9832966/US-3-Month-Bill-Auction.aspx?xy=rss",
+    "pubDate": "Mon, 02 Nov 2026 16:32:57 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 3개월 만기 국채 입찰"
+  },
+  {
+    "guid": "9832964",
+    "title": "FinancialJuice: US 6-Month Bill High Yield Actual 4.15% (Forecast -, Previous 4.210%)",
+    "link": "https://www.financialjuice.com/News/9832964/US-6-Month-Bill-High-Yield-Actual-415-Forecast---Previous-4210.aspx?xy=rss",
+    "pubDate": "Mon, 02 Nov 2026 16:32:05 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 6개월물 국채 수익률, 실제 4.15% (예상 -, 이전 4.210%)"
+  },
+  {
+    "guid": "9832963",
+    "title": "FinancialJuice: US 6-Month Bill Bid-to-Cover Actual 2.89 (Forecast -, Previous 2.630)",
+    "link": "https://www.financialjuice.com/News/9832963/US-6-Month-Bill-Bid-to-Cover-Actual-289-Forecast---Previous-2630.aspx?xy=rss",
+    "pubDate": "Mon, 02 Nov 2026 16:32:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 6개월물 국채 입찰 경쟁률 실제 2.89 (예상 -, 이전 2.630)"
+  },
+  {
+    "guid": "9832961",
+    "title": "FinancialJuice: US 3-Month Bill Bid-to-Cover Actual 2.88 (Forecast -, Previous 3.070)",
+    "link": "https://www.financialjuice.com/News/9832961/US-3-Month-Bill-Bid-to-Cover-Actual-288-Forecast---Previous-3070.aspx?xy=rss",
+    "pubDate": "Mon, 02 Nov 2026 16:31:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 3개월물 단기국채 입찰 경쟁률 실제 2.88 (예상 -, 이전 3.070)"
+  },
+  {
+    "guid": "9832960",
+    "title": "FinancialJuice: US 3-Month Bill High Yield Actual 4.04% (Forecast -, Previous 4.050%)",
+    "link": "https://www.financialjuice.com/News/9832960/US-3-Month-Bill-High-Yield-Actual-404-Forecast---Previous-4050.aspx?xy=rss",
+    "pubDate": "Mon, 02 Nov 2026 16:31:55 GMT",
+    "category": "Bonds",
+    "title_ko": "FinancialJuice: 미국 3개월물 국채 수익률, 실제 4.04% (예상 -, 이전 4.050%)"
+  },
+  {
     "guid": "9832929",
     "title": "FinancialJuice: Fed bids for 3-month bills total $5.9 bln\n",
     "link": "https://www.financialjuice.com/News/9832929/Fed-bids-for-3-month-bills-total-59-bln.aspx?xy=rss",
