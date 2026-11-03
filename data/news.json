@@ -1,5 +1,93 @@
 [
   {
+    "guid": "9834196",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9834196/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 06:38:24 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9834195",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9834195/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 06:38:08 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9834194",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9834194/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 06:37:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9834193",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9834193/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 06:37:19 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9834192",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9834192/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 06:37:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9834191",
+    "title": "FinancialJuice: Top S&P 500 Stock names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9834191/Top-SP-500-Stock-names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 06:36:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목 중 내재 변동성이 가장 높은 종목"
+  },
+  {
+    "guid": "9834190",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9834190/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 06:35:58 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9834189",
+    "title": "FinancialJuice: Aramco CEO: Firm exploring additional export routes and overseas capacity, including potential expansion of East-West pipeline.",
+    "link": "https://www.financialjuice.com/News/9834189/Aramco-CEO-Firm-exploring-additional-export-routes-and-overseas-capacity-including-potential-expansion-of-East-West-pipeline.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 06:35:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 아람코 CEO: 동서 파이프라인 확장 가능성을 포함해 추가 수출 경로 및 해외 생산 능력 확충 방안을 모색 중."
+  },
+  {
+    "guid": "9834188",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9834188/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 06:35:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9834187",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9834187/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 06:34:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9834186",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9834186/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 06:34:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
     "guid": "9834135",
     "title": "FinancialJuice: India gold demand to rise in December quarter on festive, wedding purchases: World Gold Council",
     "link": "https://www.financialjuice.com/News/9834135/India-gold-demand-to-rise-in-December-quarter-on-festive-wedding-purchases-World-Gold-Council.aspx?xy=rss",
