@@ -1,5 +1,37 @@
 [
   {
+    "guid": "9835500",
+    "title": "FinancialJuice: US API Cushing Stock Change Actual 0.511M (Forecast -, Previous -0.453M)",
+    "link": "https://www.financialjuice.com/News/9835500/US-API-Cushing-Stock-Change-Actual-0511M-Forecast---Previous--0453M.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 21:55:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 쿠싱 재고 변동량, 실제 0.511M (예상 -, 전월 -0.453M)"
+  },
+  {
+    "guid": "9835499",
+    "title": "FinancialJuice: US API Distillate Stock Change Actual -1.192M (Forecast -, Previous 0.38M)",
+    "link": "https://www.financialjuice.com/News/9835499/US-API-Distillate-Stock-Change-Actual--1192M-Forecast---Previous-038M.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 21:55:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 증류유 재고 변동 실적 -1.192M (예상 -, 이전 0.38M)"
+  },
+  {
+    "guid": "9835498",
+    "title": "FinancialJuice: US API Gasoline Stock Change Actual 1.427M (Forecast -, Previous 2.39M)",
+    "link": "https://www.financialjuice.com/News/9835498/US-API-Gasoline-Stock-Change-Actual-1427M-Forecast---Previous-239M.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 21:54:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 휘발유 재고 변동량, 실제 142만7천 (예상 -, 이전 239만)"
+  },
+  {
+    "guid": "9835497",
+    "title": "FinancialJuice: US API Crude Stock Change Actual -5.267M (Forecast 2.1M, Previous -2.031M)",
+    "link": "https://www.financialjuice.com/News/9835497/US-API-Crude-Stock-Change-Actual--5267M-Forecast-21M-Previous--2031M.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 21:54:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 원유 재고 변동량 실제 -5.267M (예상 2.1M, 전월 -2.031M)"
+  },
+  {
     "guid": "9835482",
     "title": "FinancialJuice: New Zealand Participation Rate Actual 70.4% (Forecast 70.7%, Previous 70.7%)",
     "link": "https://www.financialjuice.com/News/9835482/New-Zealand-Participation-Rate-Actual-704-Forecast-707-Previous-707.aspx?xy=rss",
