@@ -1,5 +1,29 @@
 [
   {
+    "guid": "9834260",
+    "title": "FinancialJuice: Swiss CPI YoY Actual 1.5% (Forecast 1.2%, Previous 1.0%)",
+    "link": "https://www.financialjuice.com/News/9834260/Swiss-CPI-YoY-Actual-15-Forecast-12-Previous-10.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 07:30:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 소비자물가지수(CPI) 전년 동기 대비 실제 1.5% (예상 1.2%, 이전 1.0%)"
+  },
+  {
+    "guid": "9834259",
+    "title": "FinancialJuice: Swiss Core CPI YoY Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
+    "link": "https://www.financialjuice.com/News/9834259/Swiss-Core-CPI-YoY-Actual-05-Forecast-05-Previous-05.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 07:30:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 핵심 소비자물가지수(CPI) 전년 동기 대비 실제치 0.5% (예상치 0.5%, 전월치 0.5%)"
+  },
+  {
+    "guid": "9834258",
+    "title": "FinancialJuice: Swiss CPI MoM Actual 0.2% (Forecast 0%, Previous 0.0%)",
+    "link": "https://www.financialjuice.com/News/9834258/Swiss-CPI-MoM-Actual-02-Forecast-0-Previous-00.aspx?xy=rss",
+    "pubDate": "Tue, 03 Nov 2026 07:30:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 소비자물가지수(CPI) 전월 대비 실제치 0.2% (예상치 0%, 전월치 0.0%)"
+  },
+  {
     "guid": "9834257",
     "title": "FinancialJuice: ECB's Radev: ECB shouldn't await second-round effects before acting.",
     "link": "https://www.financialjuice.com/News/9834257/ECBs-Radev-ECB-shouldnt-await-second-round-effects-before-acting.aspx?xy=rss",
