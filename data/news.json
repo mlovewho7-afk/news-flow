@@ -1,5 +1,37 @@
 [
   {
+    "guid": "9837021",
+    "title": "FinancialJuice: US ISM Services PMI Actual 54.5 (Forecast 54.8, Previous 54.9)",
+    "link": "https://www.financialjuice.com/News/9837021/US-ISM-Services-PMI-Actual-545-Forecast-548-Previous-549.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 15:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ISM 서비스업 PMI 실제치 54.5 (예상치 54.8, 전월치 54.9)"
+  },
+  {
+    "guid": "9837020",
+    "title": "FinancialJuice: US ISM Services Employment Actual 51.4 (Forecast 50, Previous 50.1)",
+    "link": "https://www.financialjuice.com/News/9837020/US-ISM-Services-Employment-Actual-514-Forecast-50-Previous-501.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 15:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ISM 서비스업 고용 지수 실제치 51.4 (예상치 50, 전월치 50.1)"
+  },
+  {
+    "guid": "9837019",
+    "title": "FinancialJuice: US ISM Services New Orders Actual 55.9 (Forecast 58.5, Previous 59.8)",
+    "link": "https://www.financialjuice.com/News/9837019/US-ISM-Services-New-Orders-Actual-559-Forecast-585-Previous-598.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 15:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ISM 서비스업 신규 수주 지수 실제치 55.9 (예상치 58.5, 전월치 59.8)"
+  },
+  {
+    "guid": "9837018",
+    "title": "FinancialJuice: US ISM Services Prices Paid Actual 73 (Forecast 74.6, Previous 74.0)",
+    "link": "https://www.financialjuice.com/News/9837018/US-ISM-Services-Prices-Paid-Actual-73-Forecast-746-Previous-740.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 15:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 ISM 서비스업 구매가격 지수 실제치 73 (예상치 74.6, 전월치 74.0)"
+  },
+  {
     "guid": "9836995",
     "title": "FinancialJuice: US S&P Services PMI Final Actual 56.1 (Forecast 57.9, Previous 57.9)",
     "link": "https://www.financialjuice.com/News/9836995/US-SP-Services-PMI-Final-Actual-561-Forecast-579-Previous-579.aspx?xy=rss",
