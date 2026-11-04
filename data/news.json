@@ -1,5 +1,101 @@
 [
   {
+    "guid": "9836307",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9836307/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:51:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9836306",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9836306/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:50:48 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9836305",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9836305/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:50:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9836304",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9836304/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:50:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9836303",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9836303/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:49:57 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9836302",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9836302/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:49:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9836301",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9836301/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:49:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9836300",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9836300/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:49:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9836299",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9836299/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:48:31 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9836298",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9836298/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:48:11 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9836297",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9836297/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:47:56 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9836296",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9836296/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 04 Nov 2026 06:47:40 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
     "guid": "9836295",
     "title": "FinancialJuice: 120-Day Correlation Matrix",
     "link": "https://www.financialjuice.com/News/9836295/120-Day-Correlation-Matrix.aspx?xy=rss",
