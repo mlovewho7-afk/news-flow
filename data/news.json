@@ -1,5 +1,61 @@
 [
   {
+    "guid": "9838850",
+    "title": "FinancialJuice: US Unit Labor Costs Prelim Actual -0.7% (Forecast 0.4%, Previous 1.2%)",
+    "link": "https://www.financialjuice.com/News/9838850/US-Unit-Labor-Costs-Prelim-Actual--07-Forecast-04-Previous-12.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 13:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 단위 노동비용 잠정치 -0.7% (예상치 0.4%, 전월치 1.2%)"
+  },
+  {
+    "guid": "9838849",
+    "title": "FinancialJuice: US Productivity Prelim Actual 3.6% (Forecast 2.7%, Previous 1.4%, Revised 2.1%)",
+    "link": "https://www.financialjuice.com/News/9838849/US-Productivity-Prelim-Actual-36-Forecast-27-Previous-14-Revised-21.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 13:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 생산성 잠정치 3.6% (예상치 2.7%, 전월치 1.4%, 수정치 2.1%)"
+  },
+  {
+    "guid": "9838848",
+    "title": "FinancialJuice: US Initial Jobless Claims Actual 189k (Forecast 196k, Previous 194k, Revised 195K)",
+    "link": "https://www.financialjuice.com/News/9838848/US-Initial-Jobless-Claims-Actual-189k-Forecast-196k-Previous-194k-Revised-195K.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 13:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 신규 실업수당 청구 건수, 실제 189k (예상 196k, 전월 194k, 수정치 195K)"
+  },
+  {
+    "guid": "9838847",
+    "title": "FinancialJuice: US Continued Jobless Claims Actual 1.718M (Forecast 1.71M, Previous 1.701M, Revised 1.695M)",
+    "link": "https://www.financialjuice.com/News/9838847/US-Continued-Jobless-Claims-Actual-1718M-Forecast-171M-Previous-1701M-Revised-1695M.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 13:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지속 실업수당 청구 건수, 실제 171만8천 건 (예상 171만 건, 이전 170만1천 건, 수정치 169만5천 건)"
+  },
+  {
+    "guid": "9838846",
+    "title": "FinancialJuice: SNB's Chairman Schlegel: We have the right tools to fight against inflation in the future.",
+    "link": "https://www.financialjuice.com/News/9838846/SNBs-Chairman-Schlegel-We-have-the-right-tools-to-fight-against-inflation-in-the-future.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 13:28:27 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB)의 슐레겔 총재: “우리는 향후 인플레이션에 대처할 적절한 수단을 갖추고 있다.”"
+  },
+  {
+    "guid": "9838845",
+    "title": "FinancialJuice: SNB's Chairman Schlegel: At present we don't see a broadening of price pressures in Switzerland",
+    "link": "https://www.financialjuice.com/News/9838845/SNBs-Chairman-Schlegel-At-present-we-dont-see-a-broadening-of-price-pressures-in-Switzerland.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 13:28:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB)의 슐레겔 총재: 현재 스위스에서 물가 상승 압력이 확대되는 조짐은 보이지 않는다"
+  },
+  {
+    "guid": "9838844",
+    "title": "FinancialJuice: SNB's Chairman Schlegel: Swiss inflation at the moment mainly limited to fuel and energy.",
+    "link": "https://www.financialjuice.com/News/9838844/SNBs-Chairman-Schlegel-Swiss-inflation-at-the-moment-mainly-limited-to-fuel-and-energy.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 13:27:23 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB)의 슐레겔 총재: 현재 스위스의 인플레이션은 주로 연료와 에너지 분야에 국한되어 있다."
+  },
+  {
     "guid": "9838843",
     "title": "FinancialJuice: BoE Gov. Bailey when asked about persistent above-target UK inflation: We have been in a world of very big supply shocks.",
     "link": "https://www.financialjuice.com/News/9838843/BoE-Gov-Bailey-when-asked-about-persistent-above-target-UK-inflation-We-have-been-in-a-world-of-very-big-supply-shocks.aspx?xy=rss",
