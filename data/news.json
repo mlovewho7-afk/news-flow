@@ -1,5 +1,45 @@
 [
   {
+    "guid": "9838991",
+    "title": "FinancialJuice: MOO Imbalance",
+    "link": "https://www.financialjuice.com/News/9838991/MOO-Imbalance.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 14:30:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: MOO 불균형"
+  },
+  {
+    "guid": "9838985",
+    "title": "FinancialJuice: Fed's Barkin: Data centers, because of a lack of employees, do not have natural constituencies in the communities where they are located.",
+    "link": "https://www.financialjuice.com/News/9838985/Feds-Barkin-Data-centers-because-of-a-lack-of-employees-do-not-have-natural-constituencies-in-the-communities-where-they-are-located.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 14:27:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 바킨: 데이터 센터는 인력 부족으로 인해, 해당 시설이 위치한 지역 사회 내에서 자연스러운 지지 기반을 형성하지 못하고 있다."
+  },
+  {
+    "guid": "9838984",
+    "title": "FinancialJuice: S&PGR rates Apple's sr unsecured notes \"a+\".",
+    "link": "https://www.financialjuice.com/News/9838984/SPGR-rates-Apples-sr-unsecured-notes-a.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 14:27:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&PGR이 애플의 선순위 무담보 사채에 “A+” 등급을 부여했다."
+  },
+  {
+    "guid": "9838983",
+    "title": "FinancialJuice: Fitch: Major share of planned data center capacity may face regulatory hurdles under new gubernatorial regimes, particularly in Texas, Georgia, Ohio.",
+    "link": "https://www.financialjuice.com/News/9838983/Fitch-Major-share-of-planned-data-center-capacity-may-face-regulatory-hurdles-under-new-gubernatorial-regimes-particularly-in-Texas-Georgia-Ohio.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 14:27:10 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 피치(Fitch): 계획된 데이터센터 용량의 상당 부분이 새로운 주지사 체제 하에서, 특히 텍사스, 조지아, 오하이오주에서 규제상의 장애물에 직면할 가능성이 있다."
+  },
+  {
+    "guid": "9838982",
+    "title": "FinancialJuice: Russia's Putin and Iran's top security official Mohsen Rezai meet in Kremlin - IFX",
+    "link": "https://www.financialjuice.com/News/9838982/Russias-Putin-and-Irans-top-security-official-Mohsen-Rezai-meet-in-Kremlin---IFX.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 14:27:05 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아의 푸틴 대통령과 이란의 최고 안보 책임자 모센 레자이가 크렘린에서 회동 - IFX"
+  },
+  {
     "guid": "9838981",
     "title": "FinancialJuice: Fed's Barkin: AI buildout has definitely had an inflationary impact in the near term.",
     "link": "https://www.financialjuice.com/News/9838981/Feds-Barkin-AI-buildout-has-definitely-had-an-inflationary-impact-in-the-near-term.aspx?xy=rss",
