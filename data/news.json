@@ -1,5 +1,69 @@
 [
   {
+    "guid": "9838169",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9838169/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 06:42:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9838168",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9838168/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 06:41:43 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9838167",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9838167/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 06:41:19 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9838166",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9838166/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 06:40:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9838165",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9838165/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 06:40:23 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9838164",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9838164/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 06:40:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9838163",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9838163/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 06:39:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9838162",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9838162/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Thu, 05 Nov 2026 06:39:29 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
     "guid": "9838126",
     "title": "FinancialJuice: China's November diesel exports to decline from previous peaks amid low domestic inventories, trade and industry sources say",
     "link": "https://www.financialjuice.com/News/9838126/Chinas-November-diesel-exports-to-decline-from-previous-peaks-amid-low-domestic-inventories-trade-and-industry-sources-say.aspx?xy=rss",
