@@ -1,5 +1,53 @@
 [
   {
+    "guid": "9840969",
+    "title": "FinancialJuice: Canadian Ivey PMI Actual 58.3 (Forecast -, Previous 58.2)",
+    "link": "https://www.financialjuice.com/News/9840969/Canadian-Ivey-PMI-Actual-583-Forecast---Previous-582.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 15:00:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 아이비 PMI 실제치 58.3 (예상치 -, 전월치 58.2)"
+  },
+  {
+    "guid": "9840968",
+    "title": "FinancialJuice: University Michigan 5 Yr Inflation Prelim Actual 3.4% (Forecast 3.5%, Previous 3.5%)",
+    "link": "https://www.financialjuice.com/News/9840968/University-Michigan-5-Yr-Inflation-Prelim-Actual-34-Forecast-35-Previous-35.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 15:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미시간대 5년물 인플레이션 잠정치 3.4% (예상치 3.5%, 이전치 3.5%)"
+  },
+  {
+    "guid": "9840967",
+    "title": "FinancialJuice: University Michigan Sentiment Prelim Actual 51 (Forecast 48, Previous 48.0)",
+    "link": "https://www.financialjuice.com/News/9840967/University-Michigan-Sentiment-Prelim-Actual-51-Forecast-48-Previous-480.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 15:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미시간대 소비자 심리지수 잠정치 51 (예상치 48, 전월치 48.0)"
+  },
+  {
+    "guid": "9840966",
+    "title": "FinancialJuice: University Michigan Expectations Prelim Actual 50.9 (Forecast 49, Previous 48.8)",
+    "link": "https://www.financialjuice.com/News/9840966/University-Michigan-Expectations-Prelim-Actual-509-Forecast-49-Previous-488.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 15:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미시간대 기대치·예비치·실적 50.9 (예측치 49, 전월치 48.8)"
+  },
+  {
+    "guid": "9840965",
+    "title": "FinancialJuice: University Michigan 1 Yr Inflation Prelim Actual 4.3% (Forecast 4.6%, Previous 4.7%)",
+    "link": "https://www.financialjuice.com/News/9840965/University-Michigan-1-Yr-Inflation-Prelim-Actual-43-Forecast-46-Previous-47.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 15:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미시간대 1년 물가상승률 잠정치 4.3% (예상치 4.6%, 전월치 4.7%)"
+  },
+  {
+    "guid": "9840964",
+    "title": "FinancialJuice: University Michigan Condition Prelim Actual 51 (Forecast 47, Previous 46.7)",
+    "link": "https://www.financialjuice.com/News/9840964/University-Michigan-Condition-Prelim-Actual-51-Forecast-47-Previous-467.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 15:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미시간 대학교 주 예비 실제 수치 51 (예측치 47, 이전 수치 46.7)"
+  },
+  {
     "guid": "9840963",
     "title": "FinancialJuice: Fed's Musalem: Good Fed comms leads to smoother policy transmission",
     "link": "https://www.financialjuice.com/News/9840963/Feds-Musalem-Good-Fed-comms-leads-to-smoother-policy-transmission.aspx?xy=rss",
