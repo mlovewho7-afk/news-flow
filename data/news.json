@@ -1,5 +1,101 @@
 [
   {
+    "guid": "9840167",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9840167/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:35:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9840166",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9840166/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:35:26 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9840165",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9840165/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:35:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9840164",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9840164/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:34:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9840163",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9840163/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:34:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9840162",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9840162/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:33:49 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9840161",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9840161/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:33:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9840160",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9840160/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:33:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9840159",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9840159/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:32:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9840158",
+    "title": "FinancialJuice: Elon Musk: Tesla to wind down Cybertruck production in Texas in mid-2027 $TSLA",
+    "link": "https://www.financialjuice.com/News/9840158/Elon-Musk-Tesla-to-wind-down-Cybertruck-production-in-Texas-in-mid-2027-TSLA.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:32:10 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 일론 머스크, 테슬라, 2027년 중반 텍사스에서 사이버트럭 생산 단계적 축소 예정 $TSLA"
+  },
+  {
+    "guid": "9840157",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9840157/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:31:26 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9840155",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9840155/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:31:09 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
     "guid": "9840143",
     "title": "FinancialJuice: 30-Day Correlation Matrix",
     "link": "https://www.financialjuice.com/News/9840143/30-Day-Correlation-Matrix.aspx?xy=rss",
