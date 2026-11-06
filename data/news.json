@@ -1,5 +1,37 @@
 [
   {
+    "guid": "9840171",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9840171/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:37:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9840170",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9840170/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:36:58 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9840169",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9840169/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:36:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9840168",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9840168/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 06:36:15 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
     "guid": "9840167",
     "title": "FinancialJuice: BoC Interest Rate Probabilities",
     "link": "https://www.financialjuice.com/News/9840167/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
