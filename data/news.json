@@ -1,5 +1,109 @@
 [
   {
+    "guid": "9840751",
+    "title": "FinancialJuice: US Manufacturing Payrolls Actual 19k (Forecast 7k, Previous 9k)",
+    "link": "https://www.financialjuice.com/News/9840751/US-Manufacturing-Payrolls-Actual-19k-Forecast-7k-Previous-9k.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:30:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 제조업 고용 증가분, 실제 1만9천 명 (예상 7천 명, 전월 9천 명)"
+  },
+  {
+    "guid": "9840750",
+    "title": "FinancialJuice: US Labor Force Participation  Actual 61.9% (Forecast 61.8%, Previous 61.8%)",
+    "link": "https://www.financialjuice.com/News/9840750/US-Labor-Force-Participation--Actual-619-Forecast-618-Previous-618.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:30:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 노동력 참여율  실적 61.9% (예상 61.8%, 전월 61.8%)"
+  },
+  {
+    "guid": "9840749",
+    "title": "FinancialJuice: US Private Payrolls Actual 159k (Forecast 65k, Previous 46k)",
+    "link": "https://www.financialjuice.com/News/9840749/US-Private-Payrolls-Actual-159k-Forecast-65k-Previous-46k.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:30:06 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 민간 부문 고용 증가 수, 실제 15만9천 명 (예상 6만5천 명, 전월 4만6천 명)"
+  },
+  {
+    "guid": "9840748",
+    "title": "FinancialJuice: US Average Earnings YoY Actual 3.1% (Forecast 2.9%, Previous 3.0%)",
+    "link": "https://www.financialjuice.com/News/9840748/US-Average-Earnings-YoY-Actual-31-Forecast-29-Previous-30.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:30:05 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 미국 평균 임금 전년 동기 대비 실제 3.1% (예상 2.9%, 이전 3.0%)"
+  },
+  {
+    "guid": "9840747",
+    "title": "FinancialJuice: US Average Earnings MoM Actual 0.4% (Forecast 0.3%, Previous 0.1%)",
+    "link": "https://www.financialjuice.com/News/9840747/US-Average-Earnings-MoM-Actual-04-Forecast-03-Previous-01.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:30:05 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 미국 평균 임금 전월 대비 실제 0.4% (예상 0.3%, 전월 0.1%)"
+  },
+  {
+    "guid": "9840746",
+    "title": "FinancialJuice: US Unemployment Rate Actual 4.1% (Forecast 4.2%, Previous 4.2%)",
+    "link": "https://www.financialjuice.com/News/9840746/US-Unemployment-Rate-Actual-41-Forecast-42-Previous-42.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:30:03 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 실업률 실제 4.1% (예상 4.2%, 전월 4.2%)"
+  },
+  {
+    "guid": "9840745",
+    "title": "FinancialJuice: US Nonfarm Payrolls Actual 165k (Forecast 70k, Previous 29k)",
+    "link": "https://www.financialjuice.com/News/9840745/US-Nonfarm-Payrolls-Actual-165k-Forecast-70k-Previous-29k.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 비농업 부문 고용 증가 수 실제 16만5천 명 (예상 7만 명, 전월 2만9천 명)"
+  },
+  {
+    "guid": "9840744",
+    "title": "FinancialJuice: US Average Workweek Hrs Actual 34.4 (Forecast 34.4, Previous 34.4)",
+    "link": "https://www.financialjuice.com/News/9840744/US-Average-Workweek-Hrs-Actual-344-Forecast-344-Previous-344.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 주당 평균 근로시간, 실제 34.4시간 (예상 34.4시간, 이전 34.4시간)"
+  },
+  {
+    "guid": "9840743",
+    "title": "FinancialJuice: Canadian Participation Rate Actual 64.8% (Forecast 64.8%, Previous 64.8%)",
+    "link": "https://www.financialjuice.com/News/9840743/Canadian-Participation-Rate-Actual-648-Forecast-648-Previous-648.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:30:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 참여율, 실제 64.8% (예상 64.8%, 이전 64.8%)"
+  },
+  {
+    "guid": "9840742",
+    "title": "FinancialJuice: Canadian Employment Change Actual -4.7k (Forecast 15k, Previous -68.3k)",
+    "link": "https://www.financialjuice.com/News/9840742/Canadian-Employment-Change-Actual--47k-Forecast-15k-Previous--683k.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:30:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 고용 변화 실제 -4.7k (예상 15k, 이전 -68.3k)"
+  },
+  {
+    "guid": "9840741",
+    "title": "FinancialJuice: Canadian Unemployment Rate Actual 6.7% (Forecast 6.5%, Previous 6.5%)",
+    "link": "https://www.financialjuice.com/News/9840741/Canadian-Unemployment-Rate-Actual-67-Forecast-65-Previous-65.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:30:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 실업률 실제 6.7% (예상 6.5%, 이전 6.5%)"
+  },
+  {
+    "guid": "9840740",
+    "title": "FinancialJuice: Canadian Average Hourly Earnings YoY Actual 2% (Forecast 2.05%, Previous 2.30%)",
+    "link": "https://www.financialjuice.com/News/9840740/Canadian-Average-Hourly-Earnings-YoY-Actual-2-Forecast-205-Previous-230.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:30:01 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 캐나다 시간당 평균 임금 전년 동기 대비 실제 2% (예상 2.05%, 이전 2.30%)"
+  },
+  {
+    "guid": "9840739",
+    "title": "FinancialJuice: Deutsche Bank: AI Selloff Triggers Broad Risk-Off Move Across Global Markets - FJElite",
+    "link": "https://www.financialjuice.com/News/9840739/Deutsche-Bank-AI-Selloff-Triggers-Broad-Risk-Off-Move-Across-Global-Markets---FJElite.aspx?xy=rss",
+    "pubDate": "Fri, 06 Nov 2026 13:28:02 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 도이체방크: AI 관련 매도세, 전 세계 시장에서 광범위한 위험 회피 움직임 촉발 - FJElite"
+  },
+  {
     "guid": "9840738",
     "title": "FinancialJuice: Crédit Agricole: Midterm Outcome Adds to USD Downside Risks - FJElite",
     "link": "https://www.financialjuice.com/News/9840738/Cr%c3%a9dit-Agricole-Midterm-Outcome-Adds-to-USD-Downside-Risks---FJElite.aspx?xy=rss",
