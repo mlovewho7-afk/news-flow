@@ -1,5 +1,37 @@
 [
   {
+    "guid": "9846042",
+    "title": "FinancialJuice: US API Gasoline Stock Change Actual 2.7M (Forecast -, Previous 1.427M)",
+    "link": "https://www.financialjuice.com/News/9846042/US-API-Gasoline-Stock-Change-Actual-27M-Forecast---Previous-1427M.aspx?xy=rss",
+    "pubDate": "Tue, 10 Nov 2026 21:49:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 휘발유 재고 변동량, 실제 2.7M (예상 -, 전월 1.427M)"
+  },
+  {
+    "guid": "9846041",
+    "title": "FinancialJuice: US API Distillate Stock Change Actual -8M (Forecast -, Previous -1.192M)",
+    "link": "https://www.financialjuice.com/News/9846041/US-API-Distillate-Stock-Change-Actual--8M-Forecast---Previous--1192M.aspx?xy=rss",
+    "pubDate": "Tue, 10 Nov 2026 21:48:59 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 증류유 재고 변동량, 실제 -8M (예상 -, 이전 -1.192M)"
+  },
+  {
+    "guid": "9846040",
+    "title": "FinancialJuice: US API Cushing Stock Change Actual 5.1M (Forecast -, Previous 0.511M)",
+    "link": "https://www.financialjuice.com/News/9846040/US-API-Cushing-Stock-Change-Actual-51M-Forecast---Previous-0511M.aspx?xy=rss",
+    "pubDate": "Tue, 10 Nov 2026 21:48:49 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 쿠싱 재고 변동량, 실제 5.1M (예상 -, 전월 0.511M)"
+  },
+  {
+    "guid": "9846039",
+    "title": "FinancialJuice: US API Crude Stock Change Actual -9.8M (Forecast -1M, Previous -5.267M)",
+    "link": "https://www.financialjuice.com/News/9846039/US-API-Crude-Stock-Change-Actual--98M-Forecast--1M-Previous--5267M.aspx?xy=rss",
+    "pubDate": "Tue, 10 Nov 2026 21:48:41 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 API 원유 재고 변동량 실제 -9.8M (예상 -1M, 전월 -5.267M)"
+  },
+  {
     "guid": "9846003",
     "title": "FinancialJuice: Fed's Bowman: Need to think about what pace and what timeline to address it",
     "link": "https://www.financialjuice.com/News/9846003/Feds-Bowman-Need-to-think-about-what-pace-and-what-timeline-to-address-it.aspx?xy=rss",
