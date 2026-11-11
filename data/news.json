@@ -1,5 +1,101 @@
 [
   {
+    "guid": "9846642",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9846642/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 11 Nov 2026 06:29:39 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9846641",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9846641/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 11 Nov 2026 06:29:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9846640",
+    "title": "FinancialJuice: ECB interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9846640/ECB-interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 11 Nov 2026 06:29:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9846639",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9846639/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Wed, 11 Nov 2026 06:28:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9846638",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9846638/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 11 Nov 2026 06:28:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9846637",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9846637/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 11 Nov 2026 06:27:55 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9846636",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9846636/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 11 Nov 2026 06:27:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9846635",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9846635/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Wed, 11 Nov 2026 06:27:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9846634",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9846634/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 11 Nov 2026 06:26:39 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9846633",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9846633/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 11 Nov 2026 06:26:16 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9846632",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9846632/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 11 Nov 2026 06:25:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9846631",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9846631/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Wed, 11 Nov 2026 06:25:36 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
     "guid": "9846616",
     "title": "FinancialJuice: China Jan-Oct vehicle sales fall 5.1% y/y vs +12.4% a year ago: industry group",
     "link": "https://www.financialjuice.com/News/9846616/China-Jan-Oct-vehicle-sales-fall-51-yy-vs-124-a-year-ago-industry-group.aspx?xy=rss",
