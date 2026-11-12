@@ -1,5 +1,77 @@
 [
   {
+    "guid": "9849363",
+    "title": "FinancialJuice: Suspected Yen Intervention",
+    "link": "https://www.financialjuice.com/News/9849363/Suspected-Yen-Intervention.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 16:43:52 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 엔화 개입 의혹"
+  },
+  {
+    "guid": "9849362",
+    "title": "FinancialJuice: Fed's Goolsbee: Fed is failing on the inflation side of the mandate",
+    "link": "https://www.financialjuice.com/News/9849362/Feds-Goolsbee-Fed-is-failing-on-the-inflation-side-of-the-mandate.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 16:43:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 굴스비 “연준은 임무 중 인플레이션 관리 측면에서 실패하고 있다”"
+  },
+  {
+    "guid": "9849361",
+    "title": "FinancialJuice: Fed's Goolsbee: Do not want to prejudge what happens with monetary policy",
+    "link": "https://www.financialjuice.com/News/9849361/Feds-Goolsbee-Do-not-want-to-prejudge-what-happens-with-monetary-policy.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 16:43:16 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 굴스비 “통화 정책의 향방에 대해 미리 단정 짓고 싶지 않다”"
+  },
+  {
+    "guid": "9849360",
+    "title": "FinancialJuice: ECB's Vujcic: France needs credible fiscal adjustment.",
+    "link": "https://www.financialjuice.com/News/9849360/ECBs-Vujcic-France-needs-credible-fiscal-adjustment.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 16:43:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: ECB의 부이치치, “프랑스는 신뢰할 수 있는 재정 조정이 필요하다.”"
+  },
+  {
+    "guid": "9849359",
+    "title": "FinancialJuice: Kremlin: Russia ready to start security talks immediately - IFX",
+    "link": "https://www.financialjuice.com/News/9849359/Kremlin-Russia-ready-to-start-security-talks-immediately---IFX.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 16:41:42 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 크렘린 “러시아, 안보 회담 즉시 시작할 준비 돼 있다” - IFX"
+  },
+  {
+    "guid": "9849358",
+    "title": "FinancialJuice: Fed's Goolsbee: Plenty of room for the Fed to discuss policy options",
+    "link": "https://www.financialjuice.com/News/9849358/Feds-Goolsbee-Plenty-of-room-for-the-Fed-to-discuss-policy-options.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 16:41:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 굴스비 “연준이 정책 옵션을 논의할 여지가 충분하다”"
+  },
+  {
+    "guid": "9849357",
+    "title": "FinancialJuice: Goldman Sachs 2027 outlook: Goldman Sachs expects the Stoxx Europe 600 target to reach 700 in the next 12 months $GS",
+    "link": "https://www.financialjuice.com/News/9849357/Goldman-Sachs-2027-outlook-Goldman-Sachs-expects-the-Stoxx-Europe-600-target-to-reach-700-in-the-next-12-months-GS.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 16:41:13 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 골드만삭스 2027년 전망: 골드만삭스는 향후 12개월 내 Stoxx Europe 600 지수가 700까지 상승할 것으로 전망합니다. $GS"
+  },
+  {
+    "guid": "9849356",
+    "title": "FinancialJuice: Russia's Ushakov: Putin-Trump meeting planned in China - IFX",
+    "link": "https://www.financialjuice.com/News/9849356/Russias-Ushakov-Putin-Trump-meeting-planned-in-China---IFX.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 16:40:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 러시아 우샤코프, “푸틴-트럼프 회담 중국에서 열릴 예정” - IFX"
+  },
+  {
+    "guid": "9849355",
+    "title": "FinancialJuice: Goldman Sachs 2027 outlook: Expects S&P 500 index target to reach 8700 in the next 12 months.",
+    "link": "https://www.financialjuice.com/News/9849355/Goldman-Sachs-2027-outlook-Expects-SP-500-index-target-to-reach-8700-in-the-next-12-months.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 16:39:47 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 골드만삭스의 2027년 전망: 향후 12개월 내 S&P 500 지수가 8700까지 상승할 것으로 전망."
+  },
+  {
     "guid": "9849354",
     "title": "FinancialJuice: White House expected in coming days to extend Jones Act waiver on shipping oil and commodities on foreign-flagged ships between US ports -- sources",
     "link": "https://www.financialjuice.com/News/9849354/White-House-expected-in-coming-days-to-extend-Jones-Act-waiver-on-shipping-oil-and-commodities-on-foreign-flagged-ships-between-US-ports----sources.aspx?xy=rss",
