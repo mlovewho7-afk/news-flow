@@ -1,5 +1,61 @@
 [
   {
+    "guid": "9848441",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9848441/FX-Implied-Volatility.aspx",
+    "pubDate": "Thu, 12 Nov 2026 06:33:12 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9848440",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9848440/US-Index-Futures-Implied-Volatility.aspx",
+    "pubDate": "Thu, 12 Nov 2026 06:32:55 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9848439",
+    "title": "FinancialJuice: Top S&P 500 stock names implied volatility",
+    "link": "https://www.financialjuice.com/News/9848439/Top-SP-500-stock-names-implied-volatility.aspx",
+    "pubDate": "Thu, 12 Nov 2026 06:32:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9848437",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9848437/120-Day-Correlation-Matrix.aspx",
+    "pubDate": "Thu, 12 Nov 2026 06:31:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9848423",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9848423/90-Day-Correlation-Matrix.aspx",
+    "pubDate": "Thu, 12 Nov 2026 06:31:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9848422",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9848422/60-Day-Correlation-Matrix.aspx",
+    "pubDate": "Thu, 12 Nov 2026 06:31:11 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9848421",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9848421/30-Day-Correlation-Matrix.aspx",
+    "pubDate": "Thu, 12 Nov 2026 06:30:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
     "guid": "9848407",
     "title": "FinancialJuice: BoJ board member Asada: former BoJ chief Kuroda’s stimulus approach was suitable at the time",
     "link": "https://www.financialjuice.com/News/9848407/BoJ-board-member-Asada-former-BoJ-chief-Kurodas-stimulus-approach-was-suitable-at-the-time.aspx?xy=rss",
