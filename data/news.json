@@ -1,5 +1,37 @@
 [
   {
+    "guid": "9849877",
+    "title": "FinancialJuice: Microsoft on outage: we have simplified process to restore remaining affected servers to service",
+    "link": "https://www.financialjuice.com/News/9849877/Microsoft-on-outage-we-have-simplified-process-to-restore-remaining-affected-servers-to-service.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 23:05:30 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마이크로소프트, 서비스 중단 사태에 대해 “남은 영향을 받은 서버들을 정상화하기 위한 절차를 간소화했다”고 밝혔다"
+  },
+  {
+    "guid": "9849876",
+    "title": "FinancialJuice: Microsoft: as capacity returns, users might see a slow recovery as clients reconnect",
+    "link": "https://www.financialjuice.com/News/9849876/Microsoft-as-capacity-returns-users-might-see-a-slow-recovery-as-clients-reconnect.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 23:05:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마이크로소프트: 용량이 회복됨에 따라, 클라이언트가 다시 연결되면서 사용자들은 서서히 정상화되는 모습을 볼 수 있을 것으로 보인다"
+  },
+  {
+    "guid": "9849875",
+    "title": "FinancialJuice: Microsoft on outage: also diverting traffic to alternative routes where possible and noting partial recovery",
+    "link": "https://www.financialjuice.com/News/9849875/Microsoft-on-outage-also-diverting-traffic-to-alternative-routes-where-possible-and-noting-partial-recovery.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 23:05:14 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마이크로소프트, 서비스 중단에 대해: 가능한 경우 트래픽을 대체 경로로 우회시키고 있으며, 부분적인 복구가 이루어졌다고 밝혔다"
+  },
+  {
+    "guid": "9849874",
+    "title": "FinancialJuice: Microsoft on outage: returning part of impacted servers to service, stability maintained so far",
+    "link": "https://www.financialjuice.com/News/9849874/Microsoft-on-outage-returning-part-of-impacted-servers-to-service-stability-maintained-so-far.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 23:05:04 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마이크로소프트, 서비스 중단 사태에 대해 “영향을 받은 서버 일부를 복구 중이며, 현재까지 안정성은 유지되고 있다”고 밝혔다"
+  },
+  {
     "guid": "9849842",
     "title": "FinancialJuice: nscale limited as of Sept. 30 expects total capital spending of about $19 billion to $21 billion to finish development of contracted data center sites",
     "link": "https://www.financialjuice.com/News/9849842/nscale-limited-as-of-Sept-30-expects-total-capital-spending-of-about-19-billion-to-21-billion-to-finish-development-of-contracted-data-center-sites.aspx?xy=rss",
