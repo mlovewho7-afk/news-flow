@@ -1,5 +1,69 @@
 [
   {
+    "guid": "9849421",
+    "title": "FinancialJuice: Democrats: We'll probe Nvidia chip export approvals - CNBC $NVDA",
+    "link": "https://www.financialjuice.com/News/9849421/Democrats-Well-probe-Nvidia-chip-export-approvals---CNBC-NVDA.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 17:02:49 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 민주당 “엔비디아 칩 수출 승인 건 조사할 것” - CNBC $NVDA"
+  },
+  {
+    "guid": "9849415",
+    "title": "FinancialJuice: Democrats seek Commerce Dept. communications with Huang - CNBC. $NVDA",
+    "link": "https://www.financialjuice.com/News/9849415/Democrats-seek-Commerce-Dept-communications-with-Huang---CNBC-NVDA.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 17:02:17 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 민주당, 황 씨와 상무부 간의 연락 내역 요구 - CNBC. $NVDA"
+  },
+  {
+    "guid": "9849396",
+    "title": "FinancialJuice: EIA Crude Cushing Inventories  Actual 0.106M (Forecast -, Previous 0.280M)",
+    "link": "https://www.financialjuice.com/News/9849396/EIA-Crude-Cushing-Inventories--Actual-0106M-Forecast---Previous-0280M.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 17:02:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EIA 쿠싱 원유 재고  실적 0.106M (예상 -, 전월 0.280M)"
+  },
+  {
+    "guid": "9849399",
+    "title": "FinancialJuice: US 30-yr fixed rate mortgage averages 7.11% in Nov 12 week vs 7.18% prior week - Freddie Mac",
+    "link": "https://www.financialjuice.com/News/9849399/US-30-yr-fixed-rate-mortgage-averages-711-in-Nov-12-week-vs-718-prior-week---Freddie-Mac.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 17:01:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 11월 12일 주 미국 30년 만기 고정금리 모기지 평균 금리, 전주 7.18% 대비 7.11% 기록 - 프레디 맥"
+  },
+  {
+    "guid": "9849397",
+    "title": "FinancialJuice: Democratic lawmakers to probe US approval of chip exports - CNBC",
+    "link": "https://www.financialjuice.com/News/9849397/Democratic-lawmakers-to-probe-US-approval-of-chip-exports---CNBC.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 17:00:15 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 민주당 의원들, 미국의 반도체 수출 승인 조사 나설 예정 - CNBC"
+  },
+  {
+    "guid": "9849395",
+    "title": "FinancialJuice: EIA Crude Oil Inventories Actual 4.657M (Forecast -1.483M, Previous -0.865M)",
+    "link": "https://www.financialjuice.com/News/9849395/EIA-Crude-Oil-Inventories-Actual-4657M-Forecast--1483M-Previous--0865M.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 17:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EIA 원유 재고 실적이 465만 배럴을 기록했습니다 (예상치 -148만 3천 배럴, 전월치 -86만 5천 배럴)."
+  },
+  {
+    "guid": "9849394",
+    "title": "FinancialJuice: EIA Gasoline Inventories Actual 1.799M (Forecast -0.35M, Previous -0.222M)",
+    "link": "https://www.financialjuice.com/News/9849394/EIA-Gasoline-Inventories-Actual-1799M-Forecast--035M-Previous--0222M.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 17:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EIA 휘발유 재고 실적이 179만 9천으로 집계됨 (예상치 -35만, 전월치 -22만 2천)"
+  },
+  {
+    "guid": "9849393",
+    "title": "FinancialJuice: EIA Distillate Inventories Actual 4.071M (Forecast -2M, Previous -3.565M)",
+    "link": "https://www.financialjuice.com/News/9849393/EIA-Distillate-Inventories-Actual-4071M-Forecast--2M-Previous--3565M.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 17:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: EIA 증류유 재고 실적이 4.071M을 기록했습니다 (예상 -2M, 전월 -3.565M)."
+  },
+  {
     "guid": "9849392",
     "title": "FinancialJuice: The Fed updates the 2027 FOMC calendar, drops the October rate meeting\n",
     "link": "https://www.financialjuice.com/News/9849392/The-Fed-updates-the-2027-FOMC-calendar-drops-the-October-rate-meeting.aspx?xy=rss",
