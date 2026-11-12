@@ -1,5 +1,101 @@
 [
   {
+    "guid": "9849029",
+    "title": "FinancialJuice: US Sentiment: Nvidia Scandal Not All Bad For Tech Rivals - FJElite",
+    "link": "https://www.financialjuice.com/News/9849029/US-Sentiment-Nvidia-Scandal-Not-All-Bad-For-Tech-Rivals---FJElite.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 13:45:43 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 시장 심리: 엔비디아 스캔들, 기술 업계 경쟁사들에겐 전적으로 나쁜 일만은 아니다 - FJElite"
+  },
+  {
+    "guid": "9849025",
+    "title": "FinancialJuice: USTR Greer on tech export controls: If problems exist, we'll probe",
+    "link": "https://www.financialjuice.com/News/9849025/USTR-Greer-on-tech-export-controls-If-problems-exist-well-probe.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 13:45:21 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 기술 수출 통제에 대한 그리어 미국 무역대표부(USTR) 대표의 발언: 문제가 있다면 조사할 것"
+  },
+  {
+    "guid": "9849024",
+    "title": "FinancialJuice: Fed's Hammack: Need to move to a restrictive policy stance",
+    "link": "https://www.financialjuice.com/News/9849024/Feds-Hammack-Need-to-move-to-a-restrictive-policy-stance.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 13:44:40 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥, “긴축적 정책 기조로 전환해야 한다”"
+  },
+  {
+    "guid": "9849023",
+    "title": "FinancialJuice: Fed's Hammack: Worries economy could form inflationary mindset.",
+    "link": "https://www.financialjuice.com/News/9849023/Feds-Hammack-Worries-economy-could-form-inflationary-mindset.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 13:44:37 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥, “경제가 인플레이션 심리를 형성할까 우려된다.”"
+  },
+  {
+    "guid": "9849022",
+    "title": "FinancialJuice: Fed's Hammack: Real price pressures coming from AI build-out",
+    "link": "https://www.financialjuice.com/News/9849022/Feds-Hammack-Real-price-pressures-coming-from-AI-build-out.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 13:44:30 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “AI 인프라 확충이 실질적인 물가 상승 압력으로 이어질 것”"
+  },
+  {
+    "guid": "9849021",
+    "title": "FinancialJuice: USTR Greer: We'll take action on that if needed.",
+    "link": "https://www.financialjuice.com/News/9849021/USTR-Greer-Well-take-action-on-that-if-needed.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 13:44:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: “필요하다면 이에 대해 조치를 취할 것입니다.”"
+  },
+  {
+    "guid": "9849020",
+    "title": "FinancialJuice: USTR Greer: There'll be a focus on tech exports in light of events",
+    "link": "https://www.financialjuice.com/News/9849020/USTR-Greer-Therell-be-a-focus-on-tech-exports-in-light-of-events.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 13:44:20 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 그리어 미국 무역대표부(USTR) 대표: 최근 사태를 감안할 때 기술 수출에 중점을 둘 것"
+  },
+  {
+    "guid": "9849019",
+    "title": "FinancialJuice: Fed's Hammack: We need to move to restrictive monetary policy to lower inflation.",
+    "link": "https://www.financialjuice.com/News/9849019/Feds-Hammack-We-need-to-move-to-restrictive-monetary-policy-to-lower-inflation.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 13:44:12 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 인플레이션을 낮추기 위해 긴축적인 통화 정책으로 전환해야 한다."
+  },
+  {
+    "guid": "9849018",
+    "title": "FinancialJuice: Fed's Hammack: There are real demand pressures contributing to high inflation",
+    "link": "https://www.financialjuice.com/News/9849018/Feds-Hammack-There-are-real-demand-pressures-contributing-to-high-inflation.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 13:44:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “높은 인플레이션을 부추기는 실질적인 수요 압력이 존재한다”"
+  },
+  {
+    "guid": "9849017",
+    "title": "FinancialJuice: Fed's Hammack: Inflation is moving in the wrong direction.",
+    "link": "https://www.financialjuice.com/News/9849017/Feds-Hammack-Inflation-is-moving-in-the-wrong-direction.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 13:43:34 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥 “인플레이션이 잘못된 방향으로 가고 있다.”"
+  },
+  {
+    "guid": "9849016",
+    "title": "FinancialJuice: Fed's Hammack: Fed has been missing on inflation mandate for years.",
+    "link": "https://www.financialjuice.com/News/9849016/Feds-Hammack-Fed-has-been-missing-on-inflation-mandate-for-years.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 13:43:14 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥, “연준은 수년 동안 인플레이션 목표 달성에 실패해 왔다.”"
+  },
+  {
+    "guid": "9849015",
+    "title": "FinancialJuice: Fed's Hammack: Fed is doing very well on job side of mandate.",
+    "link": "https://www.financialjuice.com/News/9849015/Feds-Hammack-Fed-is-doing-very-well-on-job-side-of-mandate.aspx?xy=rss",
+    "pubDate": "Thu, 12 Nov 2026 13:42:52 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 해맥: 연준은 임무 중 고용 측면에서 매우 좋은 성과를 내고 있다."
+  },
+  {
     "guid": "9849014",
     "title": "FinancialJuice: USTR Greer on tariffs: Going to keep options open as necessary.",
     "link": "https://www.financialjuice.com/News/9849014/USTR-Greer-on-tariffs-Going-to-keep-options-open-as-necessary.aspx?xy=rss",
