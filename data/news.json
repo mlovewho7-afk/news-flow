@@ -1,5 +1,45 @@
 [
   {
+    "guid": "9850485",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: EUR, JPY, USD, CAD, CHF, GBP, NZD, AUD - Weakest",
+    "link": "https://www.financialjuice.com/News/9850485/Currency-Strength-Chart-Strongest-EUR-JPY-USD-CAD-CHF-GBP-NZD-AUD---Weakest.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 08:01:23 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: EUR, JPY, USD, CAD, CHF, GBP, NZD, AUD - 가장 약한 통화"
+  },
+  {
+    "guid": "9850481",
+    "title": "FinancialJuice: Spanish HICP Final MoM Actual 0.5% (Forecast 0.5%, Previous 0.5%)",
+    "link": "https://www.financialjuice.com/News/9850481/Spanish-HICP-Final-MoM-Actual-05-Forecast-05-Previous-05.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 08:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페인 HICP 최종 월간 변동률 실제 0.5% (예상 0.5%, 전월 0.5%)"
+  },
+  {
+    "guid": "9850480",
+    "title": "FinancialJuice: Spanish CPI MoM Final Actual 0.6% (Forecast 0.6%, Previous 0.6%)",
+    "link": "https://www.financialjuice.com/News/9850480/Spanish-CPI-MoM-Final-Actual-06-Forecast-06-Previous-06.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 08:00:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스페인 소비자물가지수(CPI) 전월 대비 최종 실적 0.6% (예상 0.6%, 전월 0.6%)"
+  },
+  {
+    "guid": "9850479",
+    "title": "FinancialJuice: Spanish HICP Final YoY Actual 4.9% (Forecast 4.9%, Previous 4.9%)",
+    "link": "https://www.financialjuice.com/News/9850479/Spanish-HICP-Final-YoY-Actual-49-Forecast-49-Previous-49.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 08:00:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페인 HICP 최종 전년 동기 대비 실제치 4.9% (예상 4.9%, 이전 4.9%)"
+  },
+  {
+    "guid": "9850478",
+    "title": "FinancialJuice: Spanish CPI YoY Final Actual 4.9% (Forecast 4.9%, Previous 4.9%)",
+    "link": "https://www.financialjuice.com/News/9850478/Spanish-CPI-YoY-Final-Actual-49-Forecast-49-Previous-49.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 08:00:01 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스페인 소비자물가지수(CPI) 전년 동기 대비 최종 실적 4.9% (예상 4.9%, 이전 4.9%)"
+  },
+  {
     "guid": "9850469",
     "title": "FinancialJuice: French HICP YoY Final Actual 3.7% (Forecast 3.8%, Previous 3.8%)",
     "link": "https://www.financialjuice.com/News/9850469/French-HICP-YoY-Final-Actual-37-Forecast-38-Previous-38.aspx?xy=rss",
