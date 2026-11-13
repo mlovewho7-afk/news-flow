@@ -1,5 +1,37 @@
 [
   {
+    "guid": "9850469",
+    "title": "FinancialJuice: French HICP YoY Final Actual 3.7% (Forecast 3.8%, Previous 3.8%)",
+    "link": "https://www.financialjuice.com/News/9850469/French-HICP-YoY-Final-Actual-37-Forecast-38-Previous-38.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 07:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 HICP 전년 동기 대비 최종 실적 3.7% (예상 3.8%, 이전 3.8%)"
+  },
+  {
+    "guid": "9850468",
+    "title": "FinancialJuice: French CPI YoY NSA Actual 3.4% (Forecast 3.4%, Previous 3.4%)",
+    "link": "https://www.financialjuice.com/News/9850468/French-CPI-YoY-NSA-Actual-34-Forecast-34-Previous-34.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 07:45:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 프랑스 소비자물가지수(CPI) 전년 동기 대비(계절 조정 전) 실제치 3.4% (예상치 3.4%, 전월치 3.4%)"
+  },
+  {
+    "guid": "9850467",
+    "title": "FinancialJuice: French CPI MoM NSA Actual 0.4% (Forecast 0.4%, Previous 0.4%)",
+    "link": "https://www.financialjuice.com/News/9850467/French-CPI-MoM-NSA-Actual-04-Forecast-04-Previous-04.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 07:45:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 프랑스 소비자물가지수(CPI) 전월 대비(비계절조정) 실제치 0.4% (예상 0.4%, 전월 0.4%)"
+  },
+  {
+    "guid": "9850466",
+    "title": "FinancialJuice: French HICP MoM Final Actual 0.4% (Forecast 0.4%, Previous 0.4%)",
+    "link": "https://www.financialjuice.com/News/9850466/French-HICP-MoM-Final-Actual-04-Forecast-04-Previous-04.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 07:45:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 프랑스 HICP 전월 대비 최종 실적 0.4% (예상 0.4%, 이전 0.4%)"
+  },
+  {
     "guid": "9850454",
     "title": "FinancialJuice: Swiss PPI MoM Actual 0.9% (Forecast -, Previous 0.3%)",
     "link": "https://www.financialjuice.com/News/9850454/Swiss-PPI-MoM-Actual-09-Forecast---Previous-03.aspx?xy=rss",
