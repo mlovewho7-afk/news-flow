@@ -1,5 +1,85 @@
 [
   {
+    "guid": "9851149",
+    "title": "FinancialJuice: Microsoft: We’re seeing encouraging recovery progress $MSFT",
+    "link": "https://www.financialjuice.com/News/9851149/Microsoft-Were-seeing-encouraging-recovery-progress-MSFT.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 15:42:02 GMT",
+    "category": "Corporate",
+    "title_ko": "FinancialJuice: 마이크로소프트: 고무적인 회복세가 나타나고 있다 $MSFT"
+  },
+  {
+    "guid": "9851148",
+    "title": "FinancialJuice: Fed's Collins: Careful adjustment of policy is appropriate",
+    "link": "https://www.financialjuice.com/News/9851148/Feds-Collins-Careful-adjustment-of-policy-is-appropriate.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 15:40:11 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스 “신중한 정책 조정이 적절하다”"
+  },
+  {
+    "guid": "9851147",
+    "title": "FinancialJuice: Fed's Collins: I'm not seeing inflation expectations becoming unmoored.",
+    "link": "https://www.financialjuice.com/News/9851147/Feds-Collins-Im-not-seeing-inflation-expectations-becoming-unmoored.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 15:39:53 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스: 인플레이션 기대치가 통제 불능 상태로 치닫는 조짐은 보이지 않는다."
+  },
+  {
+    "guid": "9851146",
+    "title": "FinancialJuice: Fed's Collins: Will have to decide meeting-by-meeting",
+    "link": "https://www.financialjuice.com/News/9851146/Feds-Collins-Will-have-to-decide-meeting-by-meeting.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 15:38:58 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스 “회의마다 결정해야 할 것”"
+  },
+  {
+    "guid": "9851145",
+    "title": "FinancialJuice: Fed's Collins: It's possible Fed may have to raise more than expected.",
+    "link": "https://www.financialjuice.com/News/9851145/Feds-Collins-Its-possible-Fed-may-have-to-raise-more-than-expected.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 15:38:48 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스: 연준이 예상보다 더 많이 금리를 인상해야 할 가능성도 있다."
+  },
+  {
+    "guid": "9851144",
+    "title": "FinancialJuice: Fed's Collins: The direction of policy clear, but pace and destination unclear",
+    "link": "https://www.financialjuice.com/News/9851144/Feds-Collins-The-direction-of-policy-clear-but-pace-and-destination-unclear.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 15:38:38 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스 “정책 방향은 명확하지만, 속도와 최종 목표는 불분명”"
+  },
+  {
+    "guid": "9851143",
+    "title": "FinancialJuice: Fed's Collins: I don't want to say how high or fast rates should move.",
+    "link": "https://www.financialjuice.com/News/9851143/Feds-Collins-I-dont-want-to-say-how-high-or-fast-rates-should-move.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 15:38:35 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스: 금리가 얼마나 높이, 혹은 얼마나 빠르게 인상되어야 하는지에 대해서는 말하고 싶지 않습니다."
+  },
+  {
+    "guid": "9851142",
+    "title": "FinancialJuice: Fed's Collins: I would think some additional policy tightening is warranted soon",
+    "link": "https://www.financialjuice.com/News/9851142/Feds-Collins-I-would-think-some-additional-policy-tightening-is-warranted-soon.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 15:38:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스 “조만간 추가적인 통화 긴축 조치가 필요하다고 본다”"
+  },
+  {
+    "guid": "9851141",
+    "title": "FinancialJuice: Fed's Collins: The right direction for monetary policy is clear",
+    "link": "https://www.financialjuice.com/News/9851141/Feds-Collins-The-right-direction-for-monetary-policy-is-clear.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 15:37:28 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 콜린스 “통화 정책의 올바른 방향은 분명하다”"
+  },
+  {
+    "guid": "9851140",
+    "title": "FinancialJuice: Anthropic IPO is said to exclude China and Hong Kong based investors.",
+    "link": "https://www.financialjuice.com/News/9851140/Anthropic-IPO-is-said-to-exclude-China-and-Hong-Kong-based-investors.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 15:37:25 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 앤트로픽의 기업공개(IPO)에서 중국 및 홍콩에 기반을 둔 투자자들은 제외될 것으로 전해졌다."
+  },
+  {
     "guid": "9851139",
     "title": "FinancialJuice: Fed's Collins: Recent inflation data less promising than I had hoped",
     "link": "https://www.financialjuice.com/News/9851139/Feds-Collins-Recent-inflation-data-less-promising-than-I-had-hoped.aspx?xy=rss",
