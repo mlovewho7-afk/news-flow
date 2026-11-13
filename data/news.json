@@ -1,5 +1,37 @@
 [
   {
+    "guid": "9849937",
+    "title": "FinancialJuice: Fed's Williams: attempting to reduce overall price levels may cause poor economic conditions",
+    "link": "https://www.financialjuice.com/News/9849937/Feds-Williams-attempting-to-reduce-overall-price-levels-may-cause-poor-economic-conditions.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 00:10:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스 “전반적인 물가 수준을 낮추려는 시도는 경제 상황을 악화시킬 수 있다”"
+  },
+  {
+    "guid": "9849936",
+    "title": "FinancialJuice: Fed's Williams: monetary policy aims at inflation, not price levels",
+    "link": "https://www.financialjuice.com/News/9849936/Feds-Williams-monetary-policy-aims-at-inflation-not-price-levels.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 00:09:20 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준의 윌리엄스, “통화정책은 물가 수준이 아닌 인플레이션을 목표로 한다”"
+  },
+  {
+    "guid": "9849935",
+    "title": "FinancialJuice: Microsoft on outage: servers restored to service may become unresponsive again when receiving traffic",
+    "link": "https://www.financialjuice.com/News/9849935/Microsoft-on-outage-servers-restored-to-service-may-become-unresponsive-again-when-receiving-traffic.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 00:08:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마이크로소프트, 서비스 중단 사태에 대해: 복구된 서버가 트래픽을 수신할 때 다시 응답하지 않을 수 있음"
+  },
+  {
+    "guid": "9849934",
+    "title": "FinancialJuice: Microsoft on outage: temporarily restricting certain traffic types to affected infrastructure in some areas",
+    "link": "https://www.financialjuice.com/News/9849934/Microsoft-on-outage-temporarily-restricting-certain-traffic-types-to-affected-infrastructure-in-some-areas.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 00:08:45 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 마이크로소프트, 서비스 중단 사태에 대해: 일부 지역의 영향을 받은 인프라에 대한 특정 트래픽 유형을 일시적으로 제한 중"
+  },
+  {
     "guid": "9849933",
     "title": "FinancialJuice: Service may become unresponsive again after receiving traffic",
     "link": "https://www.financialjuice.com/News/9849933/Service-may-become-unresponsive-again-after-receiving-traffic.aspx?xy=rss",
