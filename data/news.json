@@ -1,5 +1,45 @@
 [
   {
+    "guid": "9850937",
+    "title": "FinancialJuice: US Core PPI MoM Actual 0.3% (Forecast 0.3%, Previous 0.7%, Revised 0.8%)",
+    "link": "https://www.financialjuice.com/News/9850937/US-Core-PPI-MoM-Actual-03-Forecast-03-Previous-07-Revised-08.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 13:30:06 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 핵심 생산자물가지수(PPI) 전월 대비 실제치 0.3% (예상치 0.3%, 전월치 0.7%, 수정치 0.8%)"
+  },
+  {
+    "guid": "9850935",
+    "title": "FinancialJuice: US PPI YoY Actual 6.5% (Forecast 6.6%, Previous 6.3%)",
+    "link": "https://www.financialjuice.com/News/9850935/US-PPI-YoY-Actual-65-Forecast-66-Previous-63.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 13:30:05 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 생산자물가지수(PPI) 전년 동기 대비 실제치 6.5% (예상치 6.6%, 전월치 6.3%)"
+  },
+  {
+    "guid": "9850934",
+    "title": "FinancialJuice: US PPI MoM Actual 0.3% (Forecast 0.4%, Previous 1.3%, Revised 1.4%)",
+    "link": "https://www.financialjuice.com/News/9850934/US-PPI-MoM-Actual-03-Forecast-04-Previous-13-Revised-14.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 13:30:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 미국 생산자물가지수(PPI) 전월 대비 실제치 0.3% (예상치 0.4%, 전월치 1.3%, 수정치 1.4%)"
+  },
+  {
+    "guid": "9850933",
+    "title": "FinancialJuice: Canadian Wholesale Sales MoM Actual 0.7% (Forecast 0.5%, Previous -1.6%)",
+    "link": "https://www.financialjuice.com/News/9850933/Canadian-Wholesale-Sales-MoM-Actual-07-Forecast-05-Previous--16.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 13:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 도매 판매 전월 대비 실제 0.7% (예상 0.5%, 전월 -1.6%)"
+  },
+  {
+    "guid": "9850932",
+    "title": "FinancialJuice: Canadian Manufacturing Sales MoM Actual 0% (Forecast 0.1%, Previous 1.5%)",
+    "link": "https://www.financialjuice.com/News/9850932/Canadian-Manufacturing-Sales-MoM-Actual-0-Forecast-01-Previous-15.aspx?xy=rss",
+    "pubDate": "Fri, 13 Nov 2026 13:30:03 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 캐나다 제조업 매출 전월 대비 실제치 0% (예상치 0.1%, 전월치 1.5%)"
+  },
+  {
     "guid": "9850930",
     "title": "FinancialJuice: US Treasury Secretary Bessent: I am optimistic US can get trade deals with Canada, Mexico.",
     "link": "https://www.financialjuice.com/News/9850930/US-Treasury-Secretary-Bessent-I-am-optimistic-US-can-get-trade-deals-with-Canada-Mexico.aspx?xy=rss",
