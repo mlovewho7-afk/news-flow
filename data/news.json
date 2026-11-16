@@ -1,5 +1,117 @@
 [
   {
+    "guid": "9853716",
+    "title": "FinancialJuice: \t\nSNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9853716/%09SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:44:30 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9853715",
+    "title": "FinancialJuice: RBA & RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9853715/RBA--RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:43:51 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9853714",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9853714/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:43:28 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9853713",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9853713/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:43:15 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9853712",
+    "title": "FinancialJuice: \t\nBoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9853712/%09BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:42:57 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9853711",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9853711/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:42:41 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9853710",
+    "title": "FinancialJuice: \t\nFed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9853710/%09Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:42:17 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9853709",
+    "title": "FinancialJuice: \t\nCommodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9853709/%09Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:41:50 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9853708",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9853708/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:41:39 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9853707",
+    "title": "FinancialJuice: \t\nUS Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9853707/%09US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:41:23 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9853706",
+    "title": "FinancialJuice: \t\nTop S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9853706/%09Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:41:11 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9853705",
+    "title": "FinancialJuice: \t\n120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9853705/%09120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:40:34 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9853704",
+    "title": "FinancialJuice: \t\n90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9853704/%0990-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:40:21 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9853703",
+    "title": "FinancialJuice: \t\n60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9853703/%0960-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Mon, 16 Nov 2026 11:40:04 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
     "guid": "9853702",
     "title": "FinancialJuice: 30-Day Correlation Matrix",
     "link": "https://www.financialjuice.com/News/9853702/30-Day-Correlation-Matrix.aspx?xy=rss",
