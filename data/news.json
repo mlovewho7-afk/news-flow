@@ -1,5 +1,93 @@
 [
   {
+    "guid": "9855212",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9855212/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 06:39:58 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9855211",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9855211/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 06:39:42 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9855210",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9855210/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 06:39:22 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9855209",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9855209/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 06:39:06 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9855208",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9855208/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 06:38:31 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9855207",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9855207/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 06:38:14 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9855206",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9855206/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 06:37:58 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9855205",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9855205/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 06:37:34 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9855204",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9855204/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 06:36:54 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9855203",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9855203/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 06:36:33 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9855202",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9855202/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 06:36:12 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
     "guid": "9855201",
     "title": "FinancialJuice: 30-Day Correlation Matrix",
     "link": "https://www.financialjuice.com/News/9855201/30-Day-Correlation-Matrix.aspx?xy=rss",
