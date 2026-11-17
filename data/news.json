@@ -1,5 +1,53 @@
 [
   {
+    "guid": "9855240",
+    "title": "FinancialJuice: UK Average Earnings (Ex-Bonus) Actual 3.5% (Forecast 3.6%, Previous 3.7%)",
+    "link": "https://www.financialjuice.com/News/9855240/UK-Average-Earnings-Ex-Bonus-Actual-35-Forecast-36-Previous-37.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 07:00:03 GMT",
+    "category": "Corporate",
+    "title_ko": null
+  },
+  {
+    "guid": "9855239",
+    "title": "FinancialJuice: UK Unemployment Rate Actual 4.6% (Forecast 4.7%, Previous 4.7%)",
+    "link": "https://www.financialjuice.com/News/9855239/UK-Unemployment-Rate-Actual-46-Forecast-47-Previous-47.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 07:00:03 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9855238",
+    "title": "FinancialJuice: UK Employment Change 3M/3M Actual 155k (Forecast 139k, Previous 102k)",
+    "link": "https://www.financialjuice.com/News/9855238/UK-Employment-Change-3M3M-Actual-155k-Forecast-139k-Previous-102k.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 07:00:02 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9855237",
+    "title": "FinancialJuice: UK Average Weekly Earnings YoY Actual 3.6% (Forecast 3.5%, Previous 3.7%)",
+    "link": "https://www.financialjuice.com/News/9855237/UK-Average-Weekly-Earnings-YoY-Actual-36-Forecast-35-Previous-37.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 07:00:02 GMT",
+    "category": "Corporate",
+    "title_ko": null
+  },
+  {
+    "guid": "9855236",
+    "title": "FinancialJuice: UK Employment Change SA Actual -34k (Forecast 10k, Previous 13k)",
+    "link": "https://www.financialjuice.com/News/9855236/UK-Employment-Change-SA-Actual--34k-Forecast-10k-Previous-13k.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 07:00:01 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9855235",
+    "title": "FinancialJuice: UK Unemployment Change Actual 33.2k (Forecast -, Previous 30.3k)",
+    "link": "https://www.financialjuice.com/News/9855235/UK-Unemployment-Change-Actual-332k-Forecast---Previous-303k.aspx?xy=rss",
+    "pubDate": "Tue, 17 Nov 2026 07:00:00 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
     "guid": "9855217",
     "title": "FinancialJuice: SNB Interest Rate Probabilities",
     "link": "https://www.financialjuice.com/News/9855217/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
