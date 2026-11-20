@@ -1,5 +1,101 @@
 [
   {
+    "guid": "9861327",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9861327/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 20 Nov 2026 07:07:09 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9861326",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9861326/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 20 Nov 2026 07:06:47 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9861325",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9861325/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Fri, 20 Nov 2026 07:06:28 GMT",
+    "category": "Macro",
+    "title_ko": null
+  },
+  {
+    "guid": "9861324",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9861324/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 20 Nov 2026 07:05:50 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9861323",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9861323/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 20 Nov 2026 07:05:32 GMT",
+    "category": "FX",
+    "title_ko": null
+  },
+  {
+    "guid": "9861322",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9861322/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 20 Nov 2026 07:05:16 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9861321",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9861321/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Fri, 20 Nov 2026 07:04:56 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9861320",
+    "title": "FinancialJuice: ONS - UK supermarkets reported stronger October sales after government advice to buy long-life items",
+    "link": "https://www.financialjuice.com/News/9861320/ONS---UK-supermarkets-reported-stronger-October-sales-after-government-advice-to-buy-long-life-items.aspx?xy=rss",
+    "pubDate": "Fri, 20 Nov 2026 07:04:23 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9861319",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9861319/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 20 Nov 2026 07:04:09 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9861318",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9861318/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 20 Nov 2026 07:03:49 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9861317",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9861317/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 20 Nov 2026 07:03:31 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
+    "guid": "9861316",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9861316/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Fri, 20 Nov 2026 07:03:11 GMT",
+    "category": "Other",
+    "title_ko": null
+  },
+  {
     "guid": "9861302",
     "title": "FinancialJuice: Swedish Unemployment Rate SA Actual 8.2% (Forecast 8.55%, Previous 8.6%)",
     "link": "https://www.financialjuice.com/News/9861302/Swedish-Unemployment-Rate-SA-Actual-82-Forecast-855-Previous-86.aspx?xy=rss",
