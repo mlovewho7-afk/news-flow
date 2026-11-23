@@ -1,5 +1,109 @@
 [
   {
+    "guid": "9863952",
+    "title": "FinancialJuice: SNB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9863952/SNB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:26:02 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스위스 국립은행(SNB) 금리 결정 확률"
+  },
+  {
+    "guid": "9863951",
+    "title": "FinancialJuice: UK First Secretary of State Haigh: UK-EU deal will reduce supermarket trading costs",
+    "link": "https://www.financialjuice.com/News/9863951/UK-First-Secretary-of-State-Haigh-UK-EU-deal-will-reduce-supermarket-trading-costs.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:25:50 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 제1국무장관 헤이그, “영국-EU 협정으로 슈퍼마켓 거래 비용 절감될 것”"
+  },
+  {
+    "guid": "9863950",
+    "title": "FinancialJuice: RBNZ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9863950/RBNZ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:25:46 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 뉴질랜드 중앙은행(RBNZ) 금리 결정 확률"
+  },
+  {
+    "guid": "9863949",
+    "title": "FinancialJuice: RBA Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9863949/RBA-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:25:17 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 호주중앙은행(RBA) 금리 결정 확률"
+  },
+  {
+    "guid": "9863948",
+    "title": "FinancialJuice: BoJ Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9863948/BoJ-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:24:58 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 일본은행 금리 결정 확률"
+  },
+  {
+    "guid": "9863947",
+    "title": "FinancialJuice: UK First Secretary of State Haigh: Want to intervene where markets are failing",
+    "link": "https://www.financialjuice.com/News/9863947/UK-First-Secretary-of-State-Haigh-Want-to-intervene-where-markets-are-failing.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:24:54 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 영국 제1국무장관 헤이그 “시장이 제 기능을 하지 못하는 분야에는 개입할 것”"
+  },
+  {
+    "guid": "9863946",
+    "title": "FinancialJuice: BoC Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9863946/BoC-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:24:19 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 캐나다 중앙은행(BoC) 금리 결정 확률"
+  },
+  {
+    "guid": "9863945",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9863945/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:24:04 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9863944",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9863944/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:23:43 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9863943",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9863943/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:23:25 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9863942",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9863942/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:22:35 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9863941",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9863941/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:22:17 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9863940",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9863940/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Mon, 23 Nov 2026 07:22:01 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
     "guid": "9863939",
     "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
     "link": "https://www.financialjuice.com/News/9863939/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
