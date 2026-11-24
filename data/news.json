@@ -1,5 +1,101 @@
 [
   {
+    "guid": "9865596",
+    "title": "FinancialJuice: BoE Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9865596/BoE-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:19:42 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 영국 중앙은행(BoE) 금리 결정 확률"
+  },
+  {
+    "guid": "9865595",
+    "title": "FinancialJuice: ECB Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9865595/ECB-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:19:22 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: ECB 금리 결정 확률"
+  },
+  {
+    "guid": "9865594",
+    "title": "FinancialJuice: Fed Interest Rate Probabilities",
+    "link": "https://www.financialjuice.com/News/9865594/Fed-Interest-Rate-Probabilities.aspx?xy=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:18:58 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 연준 금리 결정 확률"
+  },
+  {
+    "guid": "9865593",
+    "title": "FinancialJuice: Commodities Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9865593/Commodities-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:18:24 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 원자재 내재 변동성"
+  },
+  {
+    "guid": "9865592",
+    "title": "FinancialJuice: FX Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9865592/FX-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:18:07 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 외환 시중 내재 변동성"
+  },
+  {
+    "guid": "9865591",
+    "title": "FinancialJuice: US Index Futures Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9865591/US-Index-Futures-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:17:51 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 미국 지수 선물의 내재 변동성"
+  },
+  {
+    "guid": "9865590",
+    "title": "FinancialJuice: Top S&P 500 Stock Names Implied Volatility",
+    "link": "https://www.financialjuice.com/News/9865590/Top-SP-500-Stock-Names-Implied-Volatility.aspx?xy=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:17:32 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: S&P 500 지수 구성 종목별 내재 변동성"
+  },
+  {
+    "guid": "9865579",
+    "title": "FinancialJuice: 120-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9865579/120-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:16:44 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 120일 상관관계 행렬"
+  },
+  {
+    "guid": "9865578",
+    "title": "FinancialJuice: 90-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9865578/90-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:16:27 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 90일 상관관계 행렬"
+  },
+  {
+    "guid": "9865577",
+    "title": "FinancialJuice: 60-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9865577/60-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:16:08 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 60일 상관관계 행렬"
+  },
+  {
+    "guid": "9865576",
+    "title": "FinancialJuice: Iran's Parliament Speaker Ghalibaf: Position unchanged on negotiations - Fars",
+    "link": "https://www.financialjuice.com/News/9865576/Irans-Parliament-Speaker-Ghalibaf-Position-unchanged-on-negotiations---Fars.aspx?xy=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:15:53 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 이란 의회 의장 갈리바프, 협상 입장에 변함 없다 - 파르스 통신"
+  },
+  {
+    "guid": "9865575",
+    "title": "FinancialJuice: 30-Day Correlation Matrix",
+    "link": "https://www.financialjuice.com/News/9865575/30-Day-Correlation-Matrix.aspx?xy=rss",
+    "pubDate": "Tue, 24 Nov 2026 06:15:46 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 30일 상관관계 행렬"
+  },
+  {
     "guid": "9865572",
     "title": "FinancialJuice: Japanese Chain Store Sales YoY Actual 1% (Forecast -, Previous 1%)",
     "link": "https://www.financialjuice.com/News/9865572/Japanese-Chain-Store-Sales-YoY-Actual-1-Forecast---Previous-1.aspx?xy=rss",
