@@ -1,5 +1,53 @@
 [
   {
+    "guid": "9870260",
+    "title": "FinancialJuice: Currency Strength Chart: Strongest: AUD, NZD, GBP, CAD, EUR, USD, CHF, GBP - Weakest",
+    "link": "https://www.financialjuice.com/News/9870260/Currency-Strength-Chart-Strongest-AUD-NZD-GBP-CAD-EUR-USD-CHF-GBP---Weakest.aspx?xy=rss",
+    "pubDate": "Fri, 27 Nov 2026 08:01:08 GMT",
+    "category": "FX",
+    "title_ko": "FinancialJuice: 통화 강세 차트: 가장 강한 통화: AUD, NZD, GBP, CAD, EUR, USD, CHF, GBP - 가장 약한 통화"
+  },
+  {
+    "guid": "9870258",
+    "title": "FinancialJuice: Spanish Retail Sales SA YoY Actual -1% (Forecast -, Previous -1.4%)",
+    "link": "https://www.financialjuice.com/News/9870258/Spanish-Retail-Sales-SA-YoY-Actual--1-Forecast---Previous--14.aspx?xy=rss",
+    "pubDate": "Fri, 27 Nov 2026 08:00:07 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페인 소매판매(계절조정, 전년 동기 대비) 실제 -1% (예상 -, 이전 -1.4%)"
+  },
+  {
+    "guid": "9870257",
+    "title": "FinancialJuice: Spanish HICP YoY Flash  Actual 4.1% (Forecast 4.7%, Previous 4.9%)",
+    "link": "https://www.financialjuice.com/News/9870257/Spanish-HICP-YoY-Flash--Actual-41-Forecast-47-Previous-49.aspx?xy=rss",
+    "pubDate": "Fri, 27 Nov 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페인 HICP 전년 동기 대비 속보치  실적 4.1% (예상 4.7%, 이전 4.9%)"
+  },
+  {
+    "guid": "9870256",
+    "title": "FinancialJuice: Spanish CPI YoY Flash Actual 4.1% (Forecast 4.7%, Previous 4.9%)",
+    "link": "https://www.financialjuice.com/News/9870256/Spanish-CPI-YoY-Flash-Actual-41-Forecast-47-Previous-49.aspx?xy=rss",
+    "pubDate": "Fri, 27 Nov 2026 08:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스페인 소비자물가지수(CPI) 전년 동기 대비 속보치 4.1% (예상치 4.7%, 전월치 4.9%)"
+  },
+  {
+    "guid": "9870255",
+    "title": "FinancialJuice: Spanish HICP MoM Flash  Actual -0.7% (Forecast -0.2%, Previous 0.5%)",
+    "link": "https://www.financialjuice.com/News/9870255/Spanish-HICP-MoM-Flash--Actual--07-Forecast--02-Previous-05.aspx?xy=rss",
+    "pubDate": "Fri, 27 Nov 2026 08:00:00 GMT",
+    "category": "Other",
+    "title_ko": "FinancialJuice: 스페인 HICP 전월 대비 속보치  실적 -0.7% (예상 -0.2%, 전월 0.5%)"
+  },
+  {
+    "guid": "9870254",
+    "title": "FinancialJuice: Spanish CPI MoM Flash Actual -0.6% (Forecast 0%, Previous 0.60%)",
+    "link": "https://www.financialjuice.com/News/9870254/Spanish-CPI-MoM-Flash-Actual--06-Forecast-0-Previous-060.aspx?xy=rss",
+    "pubDate": "Fri, 27 Nov 2026 08:00:00 GMT",
+    "category": "Macro",
+    "title_ko": "FinancialJuice: 스페인 소비자물가지수(CPI) 전월 대비 속보치 -0.6% (예상치 0%, 전월치 0.60%)"
+  },
+  {
     "guid": "9870253",
     "title": "FinancialJuice: French HICP MoM Prelim  Actual -0.7% (Forecast -0.4%, Previous 0.4%)",
     "link": "https://www.financialjuice.com/News/9870253/French-HICP-MoM-Prelim--Actual--07-Forecast--04-Previous-04.aspx?xy=rss",
